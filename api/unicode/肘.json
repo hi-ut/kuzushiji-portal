@@ -1,0 +1,59 @@
+[
+    {
+        "character": "肘",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+8098_200004148_00010_2_X0536_Y0808",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E8%82%98/manifest&pos=18&xywh=536,808,81,83",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8098_200004148_00010_2_X0536_Y0808/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 10,
+            "label": "『椿説弓張月』（200004148）10v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+8098/U+8098_200004148_00010_2_X0536_Y0808.jpg/full/full/0/default.jpg",
+        "unicode": "8098"
+    },
+    {
+        "character": "肘",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+8098_200014685_00029_1_X1286_Y2545",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E8%82%98/manifest&pos=55&xywh=1286,2545,92,91",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8098_200014685_00029_1_X1286_Y2545/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 29,
+            "label": "『南総里見八犬伝』（200014685）29r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+8098/U+8098_200014685_00029_1_X1286_Y2545.jpg/full/full/0/default.jpg",
+        "unicode": "8098"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sts0397",
+        "identifer": "78-397",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/78sts/sts0397.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年頃",
+            "value": "四分律卷第二十(正倉院唐經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/78sts/sts0397.tiff/full/full/0/default.jpg",
+        "title": "肘",
+        "unicode": "E88298"
+    }
+]

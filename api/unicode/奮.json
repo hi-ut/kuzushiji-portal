@@ -1,0 +1,184 @@
+[
+    {
+        "character": "奮",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+596E_200004148_00075_1_X0025_Y1802",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%A5%AE/manifest&pos=147&xywh=25,1802,55,112",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+596E_200004148_00075_1_X0025_Y1802/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 75,
+            "label": "『椿説弓張月』（200004148）75r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+596E/U+596E_200004148_00075_1_X0025_Y1802.jpg/full/full/0/default.jpg",
+        "unicode": "596E"
+    },
+    {
+        "character": "奮",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+596E_200004148_00089_2_X1408_Y2363",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%A5%AE/manifest&pos=172&xywh=1408,2363,85,129",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+596E_200004148_00089_2_X1408_Y2363/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 89,
+            "label": "『椿説弓張月』（200004148）89v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+596E/U+596E_200004148_00089_2_X1408_Y2363.jpg/full/full/0/default.jpg",
+        "unicode": "596E"
+    },
+    {
+        "character": "奮",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+596E_200014685_00018_1_X0401_Y2411",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E5%A5%AE/manifest&pos=33&xywh=401,2411,88,142",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+596E_200014685_00018_1_X0401_Y2411/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 18,
+            "label": "『南総里見八犬伝』（200014685）18r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+596E/U+596E_200014685_00018_1_X0401_Y2411.jpg/full/full/0/default.jpg",
+        "unicode": "596E"
+    },
+    {
+        "character": "奮",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+596E_200014740_00002_2_X0952_Y2636",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%A5%AE/manifest&pos=2&xywh=952,2636,127,216",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+596E_200014740_00002_2_X0952_Y2636/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 2,
+            "label": "『雨月物語』（200014740）2v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+596E/U+596E_200014740_00002_2_X0952_Y2636.jpg/full/full/0/default.jpg",
+        "unicode": "596E"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyd1503b",
+        "identifer": "14-1503b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/14kyd/kyd1503b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "初唐",
+            "value": "漢書楊雄傳(上野本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/14kyd/kyd1503b.tiff/full/full/0/default.jpg",
+        "title": "奮",
+        "unicode": "E5A5AE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0060",
+        "identifer": "19-60",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0060.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0060.tiff/full/full/0/default.jpg",
+        "title": "奮",
+        "unicode": "E5A5AE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0087",
+        "identifer": "30-87",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0087.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0087.tiff/full/full/0/default.jpg",
+        "title": "奮",
+        "unicode": "E5A5AE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0079",
+        "identifer": "31-79",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0079.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0079.tiff/full/full/0/default.jpg",
+        "title": "奮",
+        "unicode": "E5A5AE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ksk0236",
+        "identifer": "48-236",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/48ksk/ksk0236.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "13C",
+            "value": "華嚴經卷六(高麗再彫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/48ksk/ksk0236.tiff/full/full/0/default.jpg",
+        "title": "奮",
+        "unicode": "E5A5AE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0108",
+        "identifer": "56-108",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0108.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0108.tiff/full/full/0/default.jpg",
+        "title": "奮",
+        "unicode": "E5A5AE"
+    }
+]

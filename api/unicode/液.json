@@ -1,0 +1,99 @@
+[
+    {
+        "character": "液",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6DB2_100249537_00004_1_X1470_Y2363",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249537/%E6%B6%B2/manifest&pos=6&xywh=1470,2363,174,186",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6DB2_100249537_00004_1_X1470_Y2363/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249537",
+            "frame": 4,
+            "label": "『料理珍味集』（100249537）4r",
+            "side": "r",
+            "title": "料理珍味集"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249537/characters/U+6DB2/U+6DB2_100249537_00004_1_X1470_Y2363.jpg/full/full/0/default.jpg",
+        "unicode": "6DB2"
+    },
+    {
+        "character": "液",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6DB2_200003803_00017_1_X0901_Y1484",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003803/%E6%B6%B2/manifest&pos=31&xywh=901,1484,109,118",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6DB2_200003803_00017_1_X0901_Y1484/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003803",
+            "frame": 17,
+            "label": "『源氏物語』（200003803）17r",
+            "side": "r",
+            "title": "源氏物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003803/characters/U+6DB2/U+6DB2_200003803_00017_1_X0901_Y1484.jpg/full/full/0/default.jpg",
+        "unicode": "6DB2"
+    },
+    {
+        "character": "液",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6DB2_200010454_00021_1_X0457_Y1374",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200010454/%E6%B6%B2/manifest&pos=39&xywh=457,1374,121,111",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6DB2_200010454_00021_1_X0457_Y1374/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200010454",
+            "frame": 21,
+            "label": "『源氏物語』（200010454）21r",
+            "side": "r",
+            "title": "源氏物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200010454/characters/U+6DB2/U+6DB2_200010454_00021_1_X0457_Y1374.jpg/full/full/0/default.jpg",
+        "unicode": "6DB2"
+    },
+    {
+        "character": "液",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6DB2_200015779_00106_2_X1119_Y1501",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E6%B6%B2/manifest&pos=190&xywh=1119,1501,112,125",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6DB2_200015779_00106_2_X1119_Y1501/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 106,
+            "label": "『浮世風呂』（200015779）106v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+6DB2/U+6DB2_200015779_00106_2_X1119_Y1501.jpg/full/full/0/default.jpg",
+        "unicode": "6DB2"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0307",
+        "identifer": "30-307",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0307.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0307.tiff/full/full/0/default.jpg",
+        "title": "液",
+        "unicode": "E6B6B2"
+    }
+]

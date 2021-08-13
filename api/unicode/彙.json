@@ -1,0 +1,79 @@
+[
+    {
+        "character": "彙",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5F59_200015779_00162_2_X2725_Y1395",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%BD%99/manifest&pos=298&xywh=2725,1395,62,105",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5F59_200015779_00162_2_X2725_Y1395/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 162,
+            "label": "『浮世風呂』（200015779）162v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+5F59/U+5F59_200015779_00162_2_X2725_Y1395.jpg/full/full/0/default.jpg",
+        "unicode": "5F59"
+    },
+    {
+        "character": "彙",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5F59_200021660_00004_2_X1980_Y0751",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E5%BD%99/manifest&pos=6&xywh=1980,751,157,208",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5F59_200021660_00004_2_X1980_Y0751/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 4,
+            "label": "『養蚕秘録』（200021660）4v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+5F59/U+5F59_200021660_00004_2_X1980_Y0751.jpg/full/full/0/default.jpg",
+        "unicode": "5F59"
+    },
+    {
+        "character": "彙",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5F59_200021853_00040_1_X0918_Y1789",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021853/%E5%BD%99/manifest&pos=77&xywh=918,1789,224,231",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5F59_200021853_00040_1_X0918_Y1789/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021853",
+            "frame": 40,
+            "label": "『日用惣菜俎不時珍客即席庖丁』（200021853）40r",
+            "side": "r",
+            "title": "日用惣菜俎不時珍客即席庖丁"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021853/characters/U+5F59/U+5F59_200021853_00040_1_X0918_Y1789.jpg/full/full/0/default.jpg",
+        "unicode": "5F59"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzs0092",
+        "identifer": "60-92",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/60tzs/tzs0092.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C",
+            "value": "佛説大教王經卷一(東禪寺版日本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/60tzs/tzs0092.tiff/full/full/0/default.jpg",
+        "title": "彙",
+        "unicode": "E5BD99"
+    }
+]

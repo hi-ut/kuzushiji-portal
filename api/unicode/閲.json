@@ -1,0 +1,96 @@
+[
+    {
+        "character": "閲",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+95B2_100249476_00002_2_X0493_Y2044",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249476/%E9%96%B2/manifest&pos=3&xywh=493,2044,151,172",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+95B2_100249476_00002_2_X0493_Y2044/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249476",
+            "frame": 2,
+            "label": "『飯百珍伝』（100249476）2v",
+            "side": "v",
+            "title": "飯百珍伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249476/characters/U+95B2/U+95B2_100249476_00002_2_X0493_Y2044.jpg/full/full/0/default.jpg",
+        "unicode": "95B2"
+    },
+    {
+        "character": "閲",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+95B2_200004148_00010_1_X1377_Y1264",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E9%96%B2/manifest&pos=17&xywh=1377,1264,74,85",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+95B2_200004148_00010_1_X1377_Y1264/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 10,
+            "label": "『椿説弓張月』（200004148）10r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+95B2/U+95B2_200004148_00010_1_X1377_Y1264.jpg/full/full/0/default.jpg",
+        "unicode": "95B2"
+    },
+    {
+        "character": "閲",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+95B2_200008003_00004_2_X0779_Y2103",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008003/%E9%96%B2/manifest&pos=6&xywh=779,2103,168,197",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+95B2_200008003_00004_2_X0779_Y2103/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008003",
+            "frame": 4,
+            "label": "『歌学提要』（200008003）4v",
+            "side": "v",
+            "title": "歌学提要"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008003/characters/U+95B2/U+95B2_200008003_00004_2_X0779_Y2103.jpg/full/full/0/default.jpg",
+        "unicode": "95B2"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod1512",
+        "identifer": "30-1512",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod1512.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod1512.tiff/full/full/0/default.jpg",
+        "title": "閲",
+        "unicode": "E996B2"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0501",
+        "identifer": "56-501",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0501.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0501.tiff/full/full/0/default.jpg",
+        "title": "閲",
+        "unicode": "E996B2"
+    }
+]

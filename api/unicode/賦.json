@@ -1,0 +1,104 @@
+[
+    {
+        "character": "賦",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+8CE6_200021660_00006_2_X1793_Y2812",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E8%B3%A6/manifest&pos=10&xywh=1793,2812,116,109",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8CE6_200021660_00006_2_X1793_Y2812/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 6,
+            "label": "『養蚕秘録』（200021660）6v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+8CE6/U+8CE6_200021660_00006_2_X1793_Y2812.jpg/full/full/0/default.jpg",
+        "unicode": "8CE6"
+    },
+    {
+        "character": "賦",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+8CE6_200021660_00013_1_X2293_Y3072",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E8%B3%A6/manifest&pos=23&xywh=2293,3072,111,105",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8CE6_200021660_00013_1_X2293_Y3072/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 13,
+            "label": "『養蚕秘録』（200021660）13r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+8CE6/U+8CE6_200021660_00013_1_X2293_Y3072.jpg/full/full/0/default.jpg",
+        "unicode": "8CE6"
+    },
+    {
+        "character": "賦",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+8CE6_200021660_00093_2_X0551_Y1207",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E8%B3%A6/manifest&pos=180&xywh=551,1207,187,169",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8CE6_200021660_00093_2_X0551_Y1207/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 93,
+            "label": "『養蚕秘録』（200021660）93v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+8CE6/U+8CE6_200021660_00093_2_X0551_Y1207.jpg/full/full/0/default.jpg",
+        "unicode": "8CE6"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0384",
+        "identifer": "18-384",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0384.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0384.tiff/full/full/0/default.jpg",
+        "title": "賦",
+        "unicode": "E8B3A6"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34120939",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34120939",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0073/11/18/00000011/manifest/manifest-34-34120939.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0073-11-18@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "最勝講次第@ja",
+            "occupation": "公家@ja",
+            "page": "00000011",
+            "remarks": "",
+            "send": "",
+            "to": "",
+            "value": "後愚昧記康安元年関係文書（史料編纂所原本第十九巻）@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0073/11/18/00000011/00376871.bmp",
+        "title": "賦@ja",
+        "unicode": "15"
+    }
+]

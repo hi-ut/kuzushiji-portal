@@ -1,0 +1,93 @@
+[
+    {
+        "character": "戚",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+621A_200003803_00021_2_X0512_Y2076",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003803/%E6%88%9A/manifest&pos=40&xywh=512,2076,93,104",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+621A_200003803_00021_2_X0512_Y2076/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003803",
+            "frame": 21,
+            "label": "『源氏物語』（200003803）21v",
+            "side": "v",
+            "title": "源氏物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003803/characters/U+621A/U+621A_200003803_00021_2_X0512_Y2076.jpg/full/full/0/default.jpg",
+        "unicode": "621A"
+    },
+    {
+        "character": "戚",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+621A_200004148_00077_2_X1247_Y0882",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E6%88%9A/manifest&pos=152&xywh=1247,882,85,92",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+621A_200004148_00077_2_X1247_Y0882/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 77,
+            "label": "『椿説弓張月』（200004148）77v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+621A/U+621A_200004148_00077_2_X1247_Y0882.jpg/full/full/0/default.jpg",
+        "unicode": "621A"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0893",
+        "identifer": "18-893",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0893.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0893.tiff/full/full/0/default.jpg",
+        "title": "戚",
+        "unicode": "E6889A"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0112",
+        "identifer": "19-112",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0112.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0112.tiff/full/full/0/default.jpg",
+        "title": "戚",
+        "unicode": "E6889A"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0152",
+        "identifer": "31-152",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0152.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0152.tiff/full/full/0/default.jpg",
+        "title": "戚",
+        "unicode": "E6889A"
+    }
+]

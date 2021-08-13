@@ -1,0 +1,113 @@
+[
+    {
+        "character": "域",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+57DF_200008003_00011_1_X0600_Y3423",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008003/%E5%9F%9F/manifest&pos=19&xywh=600,3423,145,173",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+57DF_200008003_00011_1_X0600_Y3423/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008003",
+            "frame": 11,
+            "label": "『歌学提要』（200008003）11r",
+            "side": "r",
+            "title": "歌学提要"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008003/characters/U+57DF/U+57DF_200008003_00011_1_X0600_Y3423.jpg/full/full/0/default.jpg",
+        "unicode": "57DF"
+    },
+    {
+        "character": "域",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+57DF_200014740_00045_2_X0643_Y2362",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%9F%9F/manifest&pos=88&xywh=643,2362,115,133",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+57DF_200014740_00045_2_X0643_Y2362/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 45,
+            "label": "『雨月物語』（200014740）45v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+57DF/U+57DF_200014740_00045_2_X0643_Y2362.jpg/full/full/0/default.jpg",
+        "unicode": "57DF"
+    },
+    {
+        "character": "域",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+57DF_200021660_00093_2_X2026_Y1423",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E5%9F%9F/manifest&pos=180&xywh=2026,1423,187,187",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+57DF_200021660_00093_2_X2026_Y1423/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 93,
+            "label": "『養蚕秘録』（200021660）93v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+57DF/U+57DF_200021660_00093_2_X2026_Y1423.jpg/full/full/0/default.jpg",
+        "unicode": "57DF"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0072",
+        "identifer": "18-72",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0072.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0072.tiff/full/full/0/default.jpg",
+        "title": "域",
+        "unicode": "E59F9F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0868",
+        "identifer": "30-868",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0868.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0868.tiff/full/full/0/default.jpg",
+        "title": "域",
+        "unicode": "E59F9F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzs0463",
+        "identifer": "60-463",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/60tzs/tzs0463.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C",
+            "value": "佛説大教王經卷一(東禪寺版日本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/60tzs/tzs0463.tiff/full/full/0/default.jpg",
+        "title": "域",
+        "unicode": "E59F9F"
+    }
+]

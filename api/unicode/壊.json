@@ -1,0 +1,87 @@
+[
+    {
+        "character": "壊",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+58CA_200004148_00030_2_X1419_Y2520",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%A3%8A/manifest&pos=58&xywh=1419,2520,95,87",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+58CA_200004148_00030_2_X1419_Y2520/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 30,
+            "label": "『椿説弓張月』（200004148）30v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+58CA/U+58CA_200004148_00030_2_X1419_Y2520.jpg/full/full/0/default.jpg",
+        "unicode": "58CA"
+    },
+    {
+        "character": "壊",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+58CA_200004148_00077_1_X1167_Y0635",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%A3%8A/manifest&pos=151&xywh=1167,635,91,93",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+58CA_200004148_00077_1_X1167_Y0635/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 77,
+            "label": "『椿説弓張月』（200004148）77r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+58CA/U+58CA_200004148_00077_1_X1167_Y0635.jpg/full/full/0/default.jpg",
+        "unicode": "58CA"
+    },
+    {
+        "character": "壊",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+58CA_200018243_00023_2_X0157_Y0846",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200018243/%E5%A3%8A/manifest&pos=44&xywh=157,846,95,107",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+58CA_200018243_00023_2_X0157_Y0846/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200018243",
+            "frame": 23,
+            "label": "『玉くしげ』（200018243）23v",
+            "side": "v",
+            "title": "玉くしげ"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200018243/characters/U+58CA/U+58CA_200018243_00023_2_X0157_Y0846.jpg/full/full/0/default.jpg",
+        "unicode": "58CA"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34230381",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34230381",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/貴41/2/00000027/manifest/manifest-34-34230381.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "貴41-2-@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "耕雲紀行@ja",
+            "occupation": "公家@ja",
+            "page": "00000027",
+            "remarks": "",
+            "send": "花山院長親@ja",
+            "to": "",
+            "value": "耕雲紀行@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/貴41/2/00000027/34230381.bmp",
+        "title": "壊@ja",
+        "unicode": "16"
+    }
+]

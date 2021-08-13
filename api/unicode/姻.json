@@ -1,0 +1,73 @@
+[
+    {
+        "character": "姻",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+59FB_200004148_00045_2_X0993_Y2414",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%A7%BB/manifest&pos=88&xywh=993,2414,90,66",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+59FB_200004148_00045_2_X0993_Y2414/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 45,
+            "label": "『椿説弓張月』（200004148）45v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+59FB/U+59FB_200004148_00045_2_X0993_Y2414.jpg/full/full/0/default.jpg",
+        "unicode": "59FB"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0086",
+        "identifer": "34-86",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0086.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0086.tiff/full/full/0/default.jpg",
+        "title": "姻",
+        "unicode": "E5A7BB"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0082",
+        "identifer": "36-82",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0082.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0082.tiff/full/full/0/default.jpg",
+        "title": "姻",
+        "unicode": "E5A7BB"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240084",
+        "identifer": "3724-84",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240084.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240084.tiff/full/full/0/default.jpg",
+        "title": "姻",
+        "unicode": "E5A7BB"
+    }
+]

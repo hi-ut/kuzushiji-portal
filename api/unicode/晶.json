@@ -1,0 +1,42 @@
+[
+    {
+        "character": "晶",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6676_200003076_00104_2_X1539_Y0862",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E6%99%B6/manifest&pos=200&xywh=1539,862,93,118",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6676_200003076_00104_2_X1539_Y0862/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 104,
+            "label": "『好色一代男』（200003076）104v",
+            "side": "v",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+6676/U+6676_200003076_00104_2_X1539_Y0862.jpg/full/full/0/default.jpg",
+        "unicode": "6676"
+    },
+    {
+        "character": "晶",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6676_200021660_00057_2_X0537_Y1560",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E6%99%B6/manifest&pos=110&xywh=537,1560,100,116",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6676_200021660_00057_2_X0537_Y1560/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 57,
+            "label": "『養蚕秘録』（200021660）57v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+6676/U+6676_200021660_00057_2_X0537_Y1560.jpg/full/full/0/default.jpg",
+        "unicode": "6676"
+    }
+]

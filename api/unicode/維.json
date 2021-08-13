@@ -1,0 +1,442 @@
+[
+    {
+        "character": "維",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7DAD_200015779_00008_1_X0783_Y0576",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E7%B6%AD/manifest&pos=7&xywh=783,576,165,110",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7DAD_200015779_00008_1_X0783_Y0576/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 8,
+            "label": "『浮世風呂』（200015779）8r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+7DAD/U+7DAD_200015779_00008_1_X0783_Y0576.jpg/full/full/0/default.jpg",
+        "unicode": "7DAD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kgk0745",
+        "identifer": "7-745",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/07kgk/kgk0745.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "610年",
+            "value": "賢劫經卷二(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/07kgk/kgk0745.tiff/full/full/0/default.jpg",
+        "title": "維",
+        "unicode": "E7B6AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khi0522",
+        "identifer": "10-522",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/10khi/khi0522.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "671年",
+            "value": "妙法蓮華經卷五(今西本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/10khi/khi0522.tiff/full/full/0/default.jpg",
+        "title": "維",
+        "unicode": "E7B6AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khm0106",
+        "identifer": "11-106",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/11khm/khm0106.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷三(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/11khm/khm0106.tiff/full/full/0/default.jpg",
+        "title": "維",
+        "unicode": "E7B6AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "yhk0214",
+        "identifer": "16-214",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/16yhk/yhk0214.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "712年",
+            "value": "瑜伽法鏡經(S2423)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/16yhk/yhk0214.tiff/full/full/0/default.jpg",
+        "title": "維",
+        "unicode": "E7B6AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0302",
+        "identifer": "18-302",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0302.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0302.tiff/full/full/0/default.jpg",
+        "title": "維",
+        "unicode": "E7B6AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae1219",
+        "identifer": "19-1219",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae1219.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae1219.tiff/full/full/0/default.jpg",
+        "title": "維",
+        "unicode": "E7B6AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kkh0102",
+        "identifer": "27-102",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/27kkh/kkh0102.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "北宋期？",
+            "value": "金剛般若經(京都国立博物館本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/27kkh/kkh0102.tiff/full/full/0/default.jpg",
+        "title": "維",
+        "unicode": "E7B6AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jhk0161",
+        "identifer": "29-161",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/29jhk/jhk0161.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1126年",
+            "value": "神足變化經(開元寺版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/29jhk/jhk0161.tiff/full/full/0/default.jpg",
+        "title": "維",
+        "unicode": "E7B6AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "okd0417",
+        "identifer": "50-417",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/50okd/okd0417.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "686年",
+            "value": "金剛場陀羅尼經(小川本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/50okd/okd0417.tiff/full/full/0/default.jpg",
+        "title": "維",
+        "unicode": "E7B6AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0173",
+        "identifer": "72-173",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0173.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0173.tiff/full/full/0/default.jpg",
+        "title": "維",
+        "unicode": "E7B6AD"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34057405",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34057405",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0071/7/1/00000023/manifest/manifest-34-34057405.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0071-7-1@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "一乗院政所下文@ja",
+            "occupation": "僧侶,署名@ja",
+            "page": "00000023",
+            "remarks": "",
+            "send": "上座大法師K／寺主大法師K／都維那法師K／勾当法師K／知院事権専当法師K／権専当法師／権専当法師／権専当法師K／権専当法師K@ja",
+            "to": "嶋津庄日向方飫肥北郷@ja",
+            "value": "長谷場文書@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0071/7/1/00000023/00023213.bmp",
+        "title": "維@ja",
+        "unicode": "14"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34083691",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34083691",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0071/21/00000009/manifest/manifest-34-34083691.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0071-21-@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "北野宮寺政所下文@ja",
+            "occupation": "僧侶,署名@ja",
+            "page": "00000009",
+            "remarks": "",
+            "send": "北野宮寺政所下@ja",
+            "to": "法橋上人位有禅所@ja",
+            "value": "北野宮寺政所下文@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0071/21/00000009/00009100.bmp",
+        "title": "維@ja",
+        "unicode": "14"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34083697",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34083697",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0071/21/00000009/manifest/manifest-34-34083697.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0071-21-@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "北野宮寺政所下文@ja",
+            "occupation": "僧侶,署名@ja",
+            "page": "00000009",
+            "remarks": "",
+            "send": "北野宮寺政所下@ja",
+            "to": "法橋上人位有禅所@ja",
+            "value": "北野宮寺政所下文@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0071/21/00000009/00009106.bmp",
+        "title": "維@ja",
+        "unicode": "14"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34083703",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34083703",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0071/21/00000009/manifest/manifest-34-34083703.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0071-21-@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "北野宮寺政所下文@ja",
+            "occupation": "僧侶,署名@ja",
+            "page": "00000009",
+            "remarks": "",
+            "send": "北野宮寺政所下@ja",
+            "to": "法橋上人位有禅所@ja",
+            "value": "北野宮寺政所下文@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0071/21/00000009/00009112.bmp",
+        "title": "維@ja",
+        "unicode": "14"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34083709",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34083709",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0071/21/00000009/manifest/manifest-34-34083709.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0071-21-@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "北野宮寺政所下文@ja",
+            "occupation": "僧侶,署名@ja",
+            "page": "00000009",
+            "remarks": "",
+            "send": "北野宮寺政所下@ja",
+            "to": "法橋上人位有禅所@ja",
+            "value": "北野宮寺政所下文@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0071/21/00000009/00009118.bmp",
+        "title": "維@ja",
+        "unicode": "14"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34083716",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34083716",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0071/21/00000009/manifest/manifest-34-34083716.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0071-21-@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "北野宮寺政所下文@ja",
+            "occupation": "僧侶,署名@ja",
+            "page": "00000009",
+            "remarks": "",
+            "send": "北野宮寺政所下@ja",
+            "to": "法橋上人位有禅所@ja",
+            "value": "北野宮寺政所下文@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0071/21/00000009/00009125.bmp",
+        "title": "維@ja",
+        "unicode": "14"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34083723",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34083723",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0071/21/00000009/manifest/manifest-34-34083723.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0071-21-@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "北野宮寺政所下文@ja",
+            "occupation": "僧侶,署名@ja",
+            "page": "00000009",
+            "remarks": "",
+            "send": "北野宮寺政所下@ja",
+            "to": "法橋上人位有禅所@ja",
+            "value": "北野宮寺政所下文@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0071/21/00000009/00009132.bmp",
+        "title": "維@ja",
+        "unicode": "14"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34083728",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34083728",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0071/21/00000009/manifest/manifest-34-34083728.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0071-21-@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "北野宮寺政所下文@ja",
+            "occupation": "僧侶,署名@ja",
+            "page": "00000009",
+            "remarks": "",
+            "send": "北野宮寺政所下@ja",
+            "to": "法橋上人位有禅所@ja",
+            "value": "北野宮寺政所下文@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0071/21/00000009/00009137.bmp",
+        "title": "維@ja",
+        "unicode": "14"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34217908",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34217908",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0073/10/5/00000052/manifest/manifest-34-34217908.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0073-10-5@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "承安三年正月十三日条@ja",
+            "occupation": "公家@ja",
+            "page": "00000052",
+            "remarks": "",
+            "send": "三条実房@ja",
+            "to": "",
+            "value": "愚昧記@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0073/10/5/00000052/34217908.bmp",
+        "title": "維@ja",
+        "unicode": "14"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34217936",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34217936",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0073/10/5/00000052/manifest/manifest-34-34217936.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0073-10-5@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "承安三年正月十三日条@ja",
+            "occupation": "公家@ja",
+            "page": "00000052",
+            "remarks": "",
+            "send": "三条実房@ja",
+            "to": "",
+            "value": "愚昧記@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0073/10/5/00000052/34217936.bmp",
+        "title": "維@ja",
+        "unicode": "14"
+    }
+]

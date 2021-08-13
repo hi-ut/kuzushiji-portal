@@ -1,0 +1,535 @@
+[
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "5AWHHL16000101",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/5AWH/5AWHHL16/5AWHHL160001011/5AWHHL160001011-1/list/5AWHHL160001011-1-IR1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/5AWH/5AWHHL16/5AWHHL160001011/5AWHHL160001011-1/5AWHHL160001011-1.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/5AWHHL16000101",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/5AWHHL160001011-IR1.tiff/715,16,385,333/full/0/default.jpg",
+        "title": "妃",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AJBQK29000101",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AJB/6AJBQK29/6AJBQK290001011/6AJBQK290001011-3/list/6AJBQK290001011-3-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AJB/6AJBQK29/6AJBQK290001011/6AJBQK290001011-3/6AJBQK290001011-3.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AJBQK29000101",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AJBQK290001011-C1.tiff/80,560,320,320/full/0/default.jpg",
+        "title": "妃",
+        "unicode": "UTF-8"
+    },
+    {
+        "character": "妃",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5983_200003076_00073_1_X1602_Y1222",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E5%A6%83/manifest&pos=139&xywh=1602,1222,123,91",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5983_200003076_00073_1_X1602_Y1222/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 73,
+            "label": "『好色一代男』（200003076）73r",
+            "side": "r",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+5983/U+5983_200003076_00073_1_X1602_Y1222.jpg/full/full/0/default.jpg",
+        "unicode": "5983"
+    },
+    {
+        "character": "妃",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5983_200003803_00003_1_X1054_Y0568",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003803/%E5%A6%83/manifest&pos=3&xywh=1054,568,128,90",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5983_200003803_00003_1_X1054_Y0568/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003803",
+            "frame": 3,
+            "label": "『源氏物語』（200003803）3r",
+            "side": "r",
+            "title": "源氏物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003803/characters/U+5983/U+5983_200003803_00003_1_X1054_Y0568.jpg/full/full/0/default.jpg",
+        "unicode": "5983"
+    },
+    {
+        "character": "妃",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5983_200003803_00017_1_X1220_Y2412",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003803/%E5%A6%83/manifest&pos=31&xywh=1220,2412,120,97",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5983_200003803_00017_1_X1220_Y2412/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003803",
+            "frame": 17,
+            "label": "『源氏物語』（200003803）17r",
+            "side": "r",
+            "title": "源氏物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003803/characters/U+5983/U+5983_200003803_00017_1_X1220_Y2412.jpg/full/full/0/default.jpg",
+        "unicode": "5983"
+    },
+    {
+        "character": "妃",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5983_200010454_00003_2_X1456_Y2013",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200010454/%E5%A6%83/manifest&pos=4&xywh=1456,2013,156,86",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5983_200010454_00003_2_X1456_Y2013/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200010454",
+            "frame": 3,
+            "label": "『源氏物語』（200010454）3v",
+            "side": "v",
+            "title": "源氏物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200010454/characters/U+5983/U+5983_200010454_00003_2_X1456_Y2013.jpg/full/full/0/default.jpg",
+        "unicode": "5983"
+    },
+    {
+        "character": "妃",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5983_200010454_00021_1_X0715_Y1111",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200010454/%E5%A6%83/manifest&pos=39&xywh=715,1111,160,92",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5983_200010454_00021_1_X0715_Y1111/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200010454",
+            "frame": 21,
+            "label": "『源氏物語』（200010454）21r",
+            "side": "r",
+            "title": "源氏物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200010454/characters/U+5983/U+5983_200010454_00021_1_X0715_Y1111.jpg/full/full/0/default.jpg",
+        "unicode": "5983"
+    },
+    {
+        "character": "妃",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5983_200021660_00011_2_X1401_Y2612",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E5%A6%83/manifest&pos=20&xywh=1401,2612,116,75",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5983_200021660_00011_2_X1401_Y2612/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 11,
+            "label": "『養蚕秘録』（200021660）11v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+5983/U+5983_200021660_00011_2_X1401_Y2612.jpg/full/full/0/default.jpg",
+        "unicode": "5983"
+    },
+    {
+        "character": "妃",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5983_200021660_00012_1_X0985_Y2854",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E5%A6%83/manifest&pos=21&xywh=985,2854,117,76",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5983_200021660_00012_1_X0985_Y2854/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 12,
+            "label": "『養蚕秘録』（200021660）12r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+5983/U+5983_200021660_00012_1_X0985_Y2854.jpg/full/full/0/default.jpg",
+        "unicode": "5983"
+    },
+    {
+        "character": "妃",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5983_200021660_00012_1_X1862_Y1931",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E5%A6%83/manifest&pos=21&xywh=1862,1931,116,79",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5983_200021660_00012_1_X1862_Y1931/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 12,
+            "label": "『養蚕秘録』（200021660）12r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+5983/U+5983_200021660_00012_1_X1862_Y1931.jpg/full/full/0/default.jpg",
+        "unicode": "5983"
+    },
+    {
+        "character": "妃",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5983_200021660_00013_1_X0788_Y2728",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E5%A6%83/manifest&pos=23&xywh=788,2728,108,77",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5983_200021660_00013_1_X0788_Y2728/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 13,
+            "label": "『養蚕秘録』（200021660）13r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+5983/U+5983_200021660_00013_1_X0788_Y2728.jpg/full/full/0/default.jpg",
+        "unicode": "5983"
+    },
+    {
+        "character": "妃",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5983_200021660_00014_2_X1366_Y3049",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E5%A6%83/manifest&pos=26&xywh=1366,3049,117,84",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5983_200021660_00014_2_X1366_Y3049/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 14,
+            "label": "『養蚕秘録』（200021660）14v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+5983/U+5983_200021660_00014_2_X1366_Y3049.jpg/full/full/0/default.jpg",
+        "unicode": "5983"
+    },
+    {
+        "character": "妃",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5983_200021660_00019_2_X1333_Y1185",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E5%A6%83/manifest&pos=36&xywh=1333,1185,123,77",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5983_200021660_00019_2_X1333_Y1185/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 19,
+            "label": "『養蚕秘録』（200021660）19v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+5983/U+5983_200021660_00019_2_X1333_Y1185.jpg/full/full/0/default.jpg",
+        "unicode": "5983"
+    },
+    {
+        "character": "妃",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5983_200021660_00080_2_X2282_Y0999",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E5%A6%83/manifest&pos=154&xywh=2282,999,115,75",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5983_200021660_00080_2_X2282_Y0999/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 80,
+            "label": "『養蚕秘録』（200021660）80v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+5983/U+5983_200021660_00080_2_X2282_Y0999.jpg/full/full/0/default.jpg",
+        "unicode": "5983"
+    },
+    {
+        "character": "妃",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5983_200021660_00083_1_X0249_Y0745",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E5%A6%83/manifest&pos=159&xywh=249,745,95,67",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5983_200021660_00083_1_X0249_Y0745/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 83,
+            "label": "『養蚕秘録』（200021660）83r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+5983/U+5983_200021660_00083_1_X0249_Y0745.jpg/full/full/0/default.jpg",
+        "unicode": "5983"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "yhk0061",
+        "identifer": "16-61",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/16yhk/yhk0061.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "712年",
+            "value": "瑜伽法鏡經(S2423)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/16yhk/yhk0061.tiff/full/full/0/default.jpg",
+        "title": "妃",
+        "unicode": "E5A683"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink0592",
+        "identifer": "33-592",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink0592.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink0592.tiff/full/full/0/default.jpg",
+        "title": "妃",
+        "unicode": "E5A683"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0580",
+        "identifer": "34-580",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0580.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0580.tiff/full/full/0/default.jpg",
+        "title": "妃",
+        "unicode": "E5A683"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0589",
+        "identifer": "36-589",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0589.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0589.tiff/full/full/0/default.jpg",
+        "title": "妃",
+        "unicode": "E5A683"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240582",
+        "identifer": "3724-582",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240582.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240582.tiff/full/full/0/default.jpg",
+        "title": "妃",
+        "unicode": "E5A683"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ini0546",
+        "identifer": "38-546",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/38ini/ini0546.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1236年",
+            "value": "卷二(鴨脚本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/38ini/ini0546.tiff/full/full/0/default.jpg",
+        "title": "妃",
+        "unicode": "E5A683"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkk0472",
+        "identifer": "39-472",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/39nkk/nkk0472.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1286年",
+            "value": "卷二(兼方本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/39nkk/nkk0472.tiff/full/full/0/default.jpg",
+        "title": "妃",
+        "unicode": "E5A683"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcc0569",
+        "identifer": "41-569",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/41kcc/kcc0569.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1599年",
+            "value": "卷二(慶長勅版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/41kcc/kcc0569.tiff/full/full/0/default.jpg",
+        "title": "妃",
+        "unicode": "E5A683"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcj0564",
+        "identifer": "42-564",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/42kcj/kcj0564.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1610年",
+            "value": "卷二(慶長十五年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/42kcj/kcj0564.tiff/full/full/0/default.jpg",
+        "title": "妃",
+        "unicode": "E5A683"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kbk0554",
+        "identifer": "43-554",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/43kbk/kbk0554.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/43kbk/kbk0554.tiff/full/full/0/default.jpg",
+        "title": "妃",
+        "unicode": "E5A683"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ykk0064",
+        "identifer": "68-64",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/68ykk/ykk0064.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1412年",
+            "value": "藥師功徳經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/68ykk/ykk0064.tiff/full/full/0/default.jpg",
+        "title": "妃",
+        "unicode": "E5A683"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34239559",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34239559",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0073/10/8/00000011/manifest/manifest-34-34239559.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0073-10-8@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "寿永元年七月三十日条@ja",
+            "occupation": "公家@ja",
+            "page": "00000011",
+            "remarks": "",
+            "send": "三条実房@ja",
+            "to": "",
+            "value": "愚昧記寿永元年秋記@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0073/10/8/00000011/34239559.bmp",
+        "title": "妃@ja",
+        "unicode": "06"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34240638",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34240638",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/貴54/13/00000009/manifest/manifest-34-34240638.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "貴54-13-@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "",
+            "occupation": "公家@ja",
+            "page": "00000009",
+            "remarks": "",
+            "send": "三条実香@ja",
+            "to": "",
+            "value": "三条実香筆年中行事@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/貴54/13/00000009/34240638.bmp",
+        "title": "妃@ja",
+        "unicode": "06"
+    }
+]

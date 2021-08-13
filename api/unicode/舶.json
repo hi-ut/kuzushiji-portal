@@ -1,0 +1,130 @@
+[
+    {
+        "character": "舶",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+8236_200004148_00065_1_X0873_Y1176",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E8%88%B6/manifest&pos=127&xywh=873,1176,91,84",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8236_200004148_00065_1_X0873_Y1176/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 65,
+            "label": "『椿説弓張月』（200004148）65r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+8236/U+8236_200004148_00065_1_X0873_Y1176.jpg/full/full/0/default.jpg",
+        "unicode": "8236"
+    },
+    {
+        "character": "舶",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+8236_200004148_00065_2_X1114_Y1515",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E8%88%B6/manifest&pos=128&xywh=1114,1515,91,86",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8236_200004148_00065_2_X1114_Y1515/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 65,
+            "label": "『椿説弓張月』（200004148）65v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+8236/U+8236_200004148_00065_2_X1114_Y1515.jpg/full/full/0/default.jpg",
+        "unicode": "8236"
+    },
+    {
+        "character": "舶",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+8236_200021925_00023_2_X2082_Y1202",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021925/%E8%88%B6/manifest&pos=44&xywh=2082,1202,81,76",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8236_200021925_00023_2_X2082_Y1202/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021925",
+            "frame": 23,
+            "label": "『新編異国料理』（200021925）23v",
+            "side": "v",
+            "title": "新編異国料理"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021925/characters/U+8236/U+8236_200021925_00023_2_X2082_Y1202.jpg/full/full/0/default.jpg",
+        "unicode": "8236"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink1102b",
+        "identifer": "33-1102b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink1102b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink1102b.tiff/full/full/0/default.jpg",
+        "title": "舶",
+        "unicode": "E888B6"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0894",
+        "identifer": "34-894",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0894.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0894.tiff/full/full/0/default.jpg",
+        "title": "舶",
+        "unicode": "E888B6"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0920",
+        "identifer": "36-920",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0920.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0920.tiff/full/full/0/default.jpg",
+        "title": "舶",
+        "unicode": "E888B6"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240886",
+        "identifer": "3724-886",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240886.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240886.tiff/full/full/0/default.jpg",
+        "title": "舶",
+        "unicode": "E888B6"
+    }
+]

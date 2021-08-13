@@ -1,0 +1,110 @@
+[
+    {
+        "character": "矛",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+77DB_200004148_00037_1_X1457_Y0270",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E7%9F%9B/manifest&pos=71&xywh=1457,270,63,94",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+77DB_200004148_00037_1_X1457_Y0270/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 37,
+            "label": "『椿説弓張月』（200004148）37r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+77DB/U+77DB_200004148_00037_1_X1457_Y0270.jpg/full/full/0/default.jpg",
+        "unicode": "77DB"
+    },
+    {
+        "character": "矛",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+77DB_200014740_00091_2_X1509_Y0328",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E7%9F%9B/manifest&pos=178&xywh=1509,328,79,122",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+77DB_200014740_00091_2_X1509_Y0328/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 91,
+            "label": "『雨月物語』（200014740）91v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+77DB/U+77DB_200014740_00091_2_X1509_Y0328.jpg/full/full/0/default.jpg",
+        "unicode": "77DB"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkk0752",
+        "identifer": "39-752",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/39nkk/nkk0752.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1286年",
+            "value": "卷二(兼方本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/39nkk/nkk0752.tiff/full/full/0/default.jpg",
+        "title": "矛",
+        "unicode": "E79F9B"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcc0897",
+        "identifer": "41-897",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/41kcc/kcc0897.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1599年",
+            "value": "卷二(慶長勅版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/41kcc/kcc0897.tiff/full/full/0/default.jpg",
+        "title": "矛",
+        "unicode": "E79F9B"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcj0872",
+        "identifer": "42-872",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/42kcj/kcj0872.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1610年",
+            "value": "卷二(慶長十五年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/42kcj/kcj0872.tiff/full/full/0/default.jpg",
+        "title": "矛",
+        "unicode": "E79F9B"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kbk0860",
+        "identifer": "43-860",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/43kbk/kbk0860.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/43kbk/kbk0860.tiff/full/full/0/default.jpg",
+        "title": "矛",
+        "unicode": "E79F9B"
+    }
+]

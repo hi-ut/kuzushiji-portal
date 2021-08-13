@@ -1,0 +1,56 @@
+[
+    {
+        "character": "蔑",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+8511_200004148_00040_2_X0380_Y0972",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E8%94%91/manifest&pos=78&xywh=380,972,85,134",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8511_200004148_00040_2_X0380_Y0972/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 40,
+            "label": "『椿説弓張月』（200004148）40v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+8511/U+8511_200004148_00040_2_X0380_Y0972.jpg/full/full/0/default.jpg",
+        "unicode": "8511"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae1329",
+        "identifer": "19-1329",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae1329.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae1329.tiff/full/full/0/default.jpg",
+        "title": "蔑",
+        "unicode": "E89491"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0175",
+        "identifer": "71-175",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0175.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0175.tiff/full/full/0/default.jpg",
+        "title": "蔑",
+        "unicode": "E89491"
+    }
+]

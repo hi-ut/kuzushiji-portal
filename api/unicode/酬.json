@@ -1,0 +1,93 @@
+[
+    {
+        "character": "酬",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+916C_200004148_00052_1_X1467_Y2141",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E9%85%AC/manifest&pos=101&xywh=1467,2141,87,89",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+916C_200004148_00052_1_X1467_Y2141/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 52,
+            "label": "『椿説弓張月』（200004148）52r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+916C/U+916C_200004148_00052_1_X1467_Y2141.jpg/full/full/0/default.jpg",
+        "unicode": "916C"
+    },
+    {
+        "character": "酬",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+916C_200004148_00062_1_X0874_Y2330",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E9%85%AC/manifest&pos=121&xywh=874,2330,81,84",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+916C_200004148_00062_1_X0874_Y2330/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 62,
+            "label": "『椿説弓張月』（200004148）62r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+916C/U+916C_200004148_00062_1_X0874_Y2330.jpg/full/full/0/default.jpg",
+        "unicode": "916C"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0587",
+        "identifer": "30-587",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0587.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0587.tiff/full/full/0/default.jpg",
+        "title": "酬",
+        "unicode": "E985AC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0395",
+        "identifer": "31-395",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0395.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0395.tiff/full/full/0/default.jpg",
+        "title": "酬",
+        "unicode": "E985AC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd1287",
+        "identifer": "56-1287",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd1287.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd1287.tiff/full/full/0/default.jpg",
+        "title": "酬",
+        "unicode": "E985AC"
+    }
+]

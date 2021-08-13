@@ -1,0 +1,47 @@
+[
+    {
+        "character": "賛",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+8CDB_200014685_00030_1_X1301_Y1767",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E8%B3%9B/manifest&pos=57&xywh=1301,1767,83,111",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8CDB_200014685_00030_1_X1301_Y1767/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 30,
+            "label": "『南総里見八犬伝』（200014685）30r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+8CDB/U+8CDB_200014685_00030_1_X1301_Y1767.jpg/full/full/0/default.jpg",
+        "unicode": "8CDB"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34287806",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34287806",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0073/13/2/00000082/manifest/manifest-34-34287806.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0073-13-2@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "菅原在成書状@ja",
+            "occupation": "公家@ja",
+            "page": "00000082",
+            "remarks": "",
+            "send": "",
+            "to": "",
+            "value": "中院一品記　巻２　暦応二年春夏記　紙背文書@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0073/13/2/00000082/34287806.bmp",
+        "title": "賛@ja",
+        "unicode": "15"
+    }
+]

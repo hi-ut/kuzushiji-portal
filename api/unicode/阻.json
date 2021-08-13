@@ -1,0 +1,59 @@
+[
+    {
+        "character": "阻",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+963B_200004148_00004_1_X1321_Y0472",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E9%98%BB/manifest&pos=5&xywh=1321,472,115,99",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+963B_200004148_00004_1_X1321_Y0472/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 4,
+            "label": "『椿説弓張月』（200004148）4r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+963B/U+963B_200004148_00004_1_X1321_Y0472.jpg/full/full/0/default.jpg",
+        "unicode": "963B"
+    },
+    {
+        "character": "阻",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+963B_200014685_00005_1_X0761_Y1230",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E9%98%BB/manifest&pos=7&xywh=761,1230,100,82",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+963B_200014685_00005_1_X0761_Y1230/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 5,
+            "label": "『南総里見八犬伝』（200014685）5r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+963B/U+963B_200014685_00005_1_X0761_Y1230.jpg/full/full/0/default.jpg",
+        "unicode": "963B"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod1524",
+        "identifer": "30-1524",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod1524.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod1524.tiff/full/full/0/default.jpg",
+        "title": "阻",
+        "unicode": "E998BB"
+    }
+]

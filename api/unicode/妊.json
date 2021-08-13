@@ -1,0 +1,113 @@
+[
+    {
+        "character": "妊",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+598A_200003076_00056_2_X1728_Y2301",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E5%A6%8A/manifest&pos=106&xywh=1728,2301,132,83",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+598A_200003076_00056_2_X1728_Y2301/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 56,
+            "label": "『好色一代男』（200003076）56v",
+            "side": "v",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+598A/U+598A_200003076_00056_2_X1728_Y2301.jpg/full/full/0/default.jpg",
+        "unicode": "598A"
+    },
+    {
+        "character": "妊",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+598A_200021851_00004_2_X1173_Y1062",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021851/%E5%A6%8A/manifest&pos=6&xywh=1173,1062,143,116",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+598A_200021851_00004_2_X1173_Y1062/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021851",
+            "frame": 4,
+            "label": "『かてもの』（200021851）4v",
+            "side": "v",
+            "title": "かてもの"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021851/characters/U+598A/U+598A_200021851_00004_2_X1173_Y1062.jpg/full/full/0/default.jpg",
+        "unicode": "598A"
+    },
+    {
+        "character": "妊",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+598A_200021851_00016_2_X0571_Y1131",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021851/%E5%A6%8A/manifest&pos=30&xywh=571,1131,132,111",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+598A_200021851_00016_2_X0571_Y1131/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021851",
+            "frame": 16,
+            "label": "『かてもの』（200021851）16v",
+            "side": "v",
+            "title": "かてもの"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021851/characters/U+598A/U+598A_200021851_00016_2_X0571_Y1131.jpg/full/full/0/default.jpg",
+        "unicode": "598A"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkk0065",
+        "identifer": "39-65",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/39nkk/nkk0065.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1286年",
+            "value": "卷二(兼方本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/39nkk/nkk0065.tiff/full/full/0/default.jpg",
+        "title": "妊",
+        "unicode": "E5A68A"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcc0084",
+        "identifer": "41-84",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/41kcc/kcc0084.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1599年",
+            "value": "卷二(慶長勅版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/41kcc/kcc0084.tiff/full/full/0/default.jpg",
+        "title": "妊",
+        "unicode": "E5A68A"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcj0084",
+        "identifer": "42-84",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/42kcj/kcj0084.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1610年",
+            "value": "卷二(慶長十五年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/42kcj/kcj0084.tiff/full/full/0/default.jpg",
+        "title": "妊",
+        "unicode": "E5A68A"
+    }
+]

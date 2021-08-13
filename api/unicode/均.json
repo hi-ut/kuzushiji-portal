@@ -1,0 +1,127 @@
+[
+    {
+        "character": "均",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5747_200006665_00005_1_X0204_Y4740",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200006665/%E5%9D%87/manifest&pos=7&xywh=204,4740,253,225",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5747_200006665_00005_1_X0204_Y4740/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200006665",
+            "frame": 5,
+            "label": "『吉利支丹物語』（200006665）5r",
+            "side": "r",
+            "title": "吉利支丹物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200006665/characters/U+5747/U+5747_200006665_00005_1_X0204_Y4740.jpg/full/full/0/default.jpg",
+        "unicode": "5747"
+    },
+    {
+        "character": "均",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5747_200021660_00093_2_X1738_Y0631",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E5%9D%87/manifest&pos=180&xywh=1738,631,161,143",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5747_200021660_00093_2_X1738_Y0631/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 93,
+            "label": "『養蚕秘録』（200021660）93v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+5747/U+5747_200021660_00093_2_X1738_Y0631.jpg/full/full/0/default.jpg",
+        "unicode": "5747"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0670",
+        "identifer": "19-670",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0670.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0670.tiff/full/full/0/default.jpg",
+        "title": "均",
+        "unicode": "E59D87"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0054",
+        "identifer": "26-54",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0054.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0054.tiff/full/full/0/default.jpg",
+        "title": "均",
+        "unicode": "E59D87"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0874",
+        "identifer": "30-874",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0874.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0874.tiff/full/full/0/default.jpg",
+        "title": "均",
+        "unicode": "E59D87"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0607",
+        "identifer": "31-607",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0607.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0607.tiff/full/full/0/default.jpg",
+        "title": "均",
+        "unicode": "E59D87"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sik0020",
+        "identifer": "44-20",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/44sik/sik0020.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "754～755年",
+            "value": "花嚴經卷八(新羅本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/44sik/sik0020.tiff/full/full/0/default.jpg",
+        "title": "均",
+        "unicode": "E59D87"
+    }
+]

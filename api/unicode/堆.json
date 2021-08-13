@@ -1,0 +1,47 @@
+[
+    {
+        "character": "堆",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5806_200004148_00054_1_X1317_Y2363",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%A0%86/manifest&pos=105&xywh=1317,2363,84,71",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5806_200004148_00054_1_X1317_Y2363/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 54,
+            "label": "『椿説弓張月』（200004148）54r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+5806/U+5806_200004148_00054_1_X1317_Y2363.jpg/full/full/0/default.jpg",
+        "unicode": "5806"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34277243",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34277243",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/T18/1/2/00000022/manifest/manifest-34-34277243.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "1-2-@ja",
+            "date": "",
+            "division": "",
+            "document": "足利義稙御内書@ja",
+            "occupation": "武家@ja",
+            "page": "00000022",
+            "remarks": "",
+            "send": "K(足利義稙)@ja",
+            "to": "島津修理大夫とのへ(勝久)@ja",
+            "value": "歴代亀鑑(五四通)@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/T18/1/2/00000022/34277243.bmp",
+        "title": "堆@ja",
+        "unicode": "11"
+    }
+]

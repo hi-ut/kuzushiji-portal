@@ -1,0 +1,73 @@
+[
+    {
+        "character": "稼",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7A3C_200021763_00033_1_X0339_Y1731",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021763/%E7%A8%BC/manifest&pos=64&xywh=339,1731,132,145",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7A3C_200021763_00033_1_X0339_Y1731/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021763",
+            "frame": 33,
+            "label": "『膳部料理抄』（200021763）33r",
+            "side": "r",
+            "title": "膳部料理抄"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021763/characters/U+7A3C/U+7A3C_200021763_00033_1_X0339_Y1731.jpg/full/full/0/default.jpg",
+        "unicode": "7A3C"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0230",
+        "identifer": "19-230",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0230.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0230.tiff/full/full/0/default.jpg",
+        "title": "稼",
+        "unicode": "E7A8BC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0274",
+        "identifer": "31-274",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0274.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0274.tiff/full/full/0/default.jpg",
+        "title": "稼",
+        "unicode": "E7A8BC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ykk0202",
+        "identifer": "68-202",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/68ykk/ykk0202.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1412年",
+            "value": "藥師功徳經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/68ykk/ykk0202.tiff/full/full/0/default.jpg",
+        "title": "稼",
+        "unicode": "E7A8BC"
+    }
+]

@@ -1,0 +1,277 @@
+[
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AFITC11005422",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITC11/6AFITC110054221/6AFITC110054221-3/list/6AFITC110054221-3-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITC11/6AFITC110054221/6AFITC110054221-3/6AFITC110054221-3.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFITC11005422",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFITC110054221-C1.tiff/160,964,403,403/full/0/default.jpg",
+        "title": "努",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AADOB15000104",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AAD/6AADOB15/6AADOB150001041/6AADOB150001041-20/list/6AADOB150001041-20-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AAD/6AADOB15/6AADOB150001041/6AADOB150001041-20/6AADOB150001041-20.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AADOB15000104",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AADOB150001041-C1.tiff/240,2480,240,320/full/0/default.jpg",
+        "title": "努",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AFITC11000165",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITC11/6AFITC110001651/6AFITC110001651-8/list/6AFITC110001651-8-IR1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITC11/6AFITC110001651/6AFITC110001651-8/6AFITC110001651-8.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFITC11000165",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFITC110001651-IR1.tiff/0,800,240,241/full/0/default.jpg",
+        "title": "努",
+        "unicode": "UTF-8"
+    },
+    {
+        "character": "努",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+52AA_200008003_00012_2_X1379_Y3498",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008003/%E5%8A%AA/manifest&pos=22&xywh=1379,3498,148,139",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+52AA_200008003_00012_2_X1379_Y3498/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008003",
+            "frame": 12,
+            "label": "『歌学提要』（200008003）12v",
+            "side": "v",
+            "title": "歌学提要"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008003/characters/U+52AA/U+52AA_200008003_00012_2_X1379_Y3498.jpg/full/full/0/default.jpg",
+        "unicode": "52AA"
+    },
+    {
+        "character": "努",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+52AA_200014740_00026_2_X0379_Y2010",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%8A%AA/manifest&pos=50&xywh=379,2010,95,117",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+52AA_200014740_00026_2_X0379_Y2010/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 26,
+            "label": "『雨月物語』（200014740）26v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+52AA/U+52AA_200014740_00026_2_X0379_Y2010.jpg/full/full/0/default.jpg",
+        "unicode": "52AA"
+    },
+    {
+        "character": "努",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+52AA_200014740_00038_1_X0637_Y0827",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%8A%AA/manifest&pos=73&xywh=637,827,98,121",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+52AA_200014740_00038_1_X0637_Y0827/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 38,
+            "label": "『雨月物語』（200014740）38r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+52AA/U+52AA_200014740_00038_1_X0637_Y0827.jpg/full/full/0/default.jpg",
+        "unicode": "52AA"
+    },
+    {
+        "character": "努",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+52AA_200014740_00060_1_X0090_Y1009",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%8A%AA/manifest&pos=115&xywh=90,1009,114,113",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+52AA_200014740_00060_1_X0090_Y1009/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 60,
+            "label": "『雨月物語』（200014740）60r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+52AA/U+52AA_200014740_00060_1_X0090_Y1009.jpg/full/full/0/default.jpg",
+        "unicode": "52AA"
+    },
+    {
+        "character": "努",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+52AA_200014740_00060_2_X0188_Y2574",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%8A%AA/manifest&pos=116&xywh=188,2574,116,114",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+52AA_200014740_00060_2_X0188_Y2574/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 60,
+            "label": "『雨月物語』（200014740）60v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+52AA/U+52AA_200014740_00060_2_X0188_Y2574.jpg/full/full/0/default.jpg",
+        "unicode": "52AA"
+    },
+    {
+        "character": "努",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+52AA_200014740_00067_2_X0536_Y1635",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%8A%AA/manifest&pos=130&xywh=536,1635,111,102",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+52AA_200014740_00067_2_X0536_Y1635/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 67,
+            "label": "『雨月物語』（200014740）67v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+52AA/U+52AA_200014740_00067_2_X0536_Y1635.jpg/full/full/0/default.jpg",
+        "unicode": "52AA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0497",
+        "identifer": "34-497",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0497.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0497.tiff/full/full/0/default.jpg",
+        "title": "努",
+        "unicode": "E58AAA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0510",
+        "identifer": "36-510",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0510.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0510.tiff/full/full/0/default.jpg",
+        "title": "努",
+        "unicode": "E58AAA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240506",
+        "identifer": "3724-506",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240506.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240506.tiff/full/full/0/default.jpg",
+        "title": "努",
+        "unicode": "E58AAA"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34001350",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34001350",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/800/R8082/36/1/245/manifest/manifest-34-34001350.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "R8082-36-1@ja",
+            "date": "",
+            "division": "その他@ja",
+            "document": "",
+            "occupation": "",
+            "page": "245",
+            "remarks": "",
+            "send": "",
+            "to": "",
+            "value": "草露貫珠@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/800/R8082/36/1/245/0003.bmp",
+        "title": "努@ja",
+        "unicode": "07"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34001351",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34001351",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/800/R8082/36/1/245/manifest/manifest-34-34001351.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "R8082-36-1@ja",
+            "date": "",
+            "division": "その他@ja",
+            "document": "",
+            "occupation": "",
+            "page": "245",
+            "remarks": "",
+            "send": "",
+            "to": "",
+            "value": "草露貫珠@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/800/R8082/36/1/245/0005.bmp",
+        "title": "努@ja",
+        "unicode": "07"
+    }
+]

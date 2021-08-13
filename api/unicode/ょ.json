@@ -1,0 +1,62 @@
+[
+    {
+        "character": "ょ",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+3087_100241706_00010_2_X0225_Y2273",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100241706/%E3%82%87/manifest&pos=19&xywh=225,2273,52,101",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+3087_100241706_00010_2_X0225_Y2273/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100241706",
+            "frame": 10,
+            "label": "『虚南留別志』（100241706）10v",
+            "side": "v",
+            "title": "虚南留別志"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100241706/characters/U+3087/U+3087_100241706_00010_2_X0225_Y2273.jpg/full/full/0/default.jpg",
+        "unicode": "3087"
+    },
+    {
+        "character": "ょ",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+3087_100241706_00017_1_X2035_Y2083",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100241706/%E3%82%87/manifest&pos=32&xywh=2035,2083,55,83",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+3087_100241706_00017_1_X2035_Y2083/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100241706",
+            "frame": 17,
+            "label": "『虚南留別志』（100241706）17r",
+            "side": "r",
+            "title": "虚南留別志"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100241706/characters/U+3087/U+3087_100241706_00017_1_X2035_Y2083.jpg/full/full/0/default.jpg",
+        "unicode": "3087"
+    },
+    {
+        "character": "ょ",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+3087_100241706_00026_2_X0205_Y2654",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100241706/%E3%82%87/manifest&pos=51&xywh=205,2654,69,95",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+3087_100241706_00026_2_X0205_Y2654/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100241706",
+            "frame": 26,
+            "label": "『虚南留別志』（100241706）26v",
+            "side": "v",
+            "title": "虚南留別志"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100241706/characters/U+3087/U+3087_100241706_00026_2_X0205_Y2654.jpg/full/full/0/default.jpg",
+        "unicode": "3087"
+    }
+]
