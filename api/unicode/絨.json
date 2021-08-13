@@ -1,0 +1,42 @@
+[
+    {
+        "character": "絨",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7D68_200003076_00141_2_X2006_Y2306",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E7%B5%A8/manifest&pos=274&xywh=2006,2306,105,110",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7D68_200003076_00141_2_X2006_Y2306/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 141,
+            "label": "『好色一代男』（200003076）141v",
+            "side": "v",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+7D68/U+7D68_200003076_00141_2_X2006_Y2306.jpg/full/full/0/default.jpg",
+        "unicode": "7D68"
+    },
+    {
+        "character": "絨",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7D68_200021925_00007_1_X0833_Y1338",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021925/%E7%B5%A8/manifest&pos=11&xywh=833,1338,124,111",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7D68_200021925_00007_1_X0833_Y1338/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021925",
+            "frame": 7,
+            "label": "『新編異国料理』（200021925）7r",
+            "side": "r",
+            "title": "新編異国料理"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021925/characters/U+7D68/U+7D68_200021925_00007_1_X0833_Y1338.jpg/full/full/0/default.jpg",
+        "unicode": "7D68"
+    }
+]

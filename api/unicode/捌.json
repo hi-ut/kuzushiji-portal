@@ -1,0 +1,78 @@
+[
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "MK140105001003",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/MK14/MK140105/MK1401050010031/MK1401050010031-10/list/MK1401050010031-10-IR1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/MK14/MK140105/MK1401050010031/MK1401050010031-10/MK1401050010031-10.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/MK140105001003",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/MK1401050010031-IR1.tiff/80,1520,322,241/full/0/default.jpg",
+        "title": "捌",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AAFSL42000009",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AAF/6AAFSL42/6AAFSL420000091/6AAFSL420000091-10/list/6AAFSL420000091-10-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AAF/6AAFSL42/6AAFSL420000091/6AAFSL420000091-10/6AAFSL420000091-10.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AAFSL42000009",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AAFSL420000091-C1.tiff/182,4479,390,549/full/0/default.jpg",
+        "title": "捌",
+        "unicode": "UTF-8"
+    },
+    {
+        "character": "捌",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+634C_200015843_00041_2_X1576_Y1923",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E6%8D%8C/manifest&pos=76&xywh=1576,1923,100,155",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+634C_200015843_00041_2_X1576_Y1923/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 41,
+            "label": "『日本永代蔵』（200015843）41v",
+            "side": "v",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+634C/U+634C_200015843_00041_2_X1576_Y1923.jpg/full/full/0/default.jpg",
+        "unicode": "634C"
+    },
+    {
+        "character": "捌",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+634C_200015843_00042_1_X1607_Y2925",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E6%8D%8C/manifest&pos=77&xywh=1607,2925,100,101",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+634C_200015843_00042_1_X1607_Y2925/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 42,
+            "label": "『日本永代蔵』（200015843）42r",
+            "side": "r",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+634C/U+634C_200015843_00042_1_X1607_Y2925.jpg/full/full/0/default.jpg",
+        "unicode": "634C"
+    }
+]

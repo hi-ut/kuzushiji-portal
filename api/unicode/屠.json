@@ -1,5 +1,170 @@
 [
     {
+        "character": "屠",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5C60_200014685_00017_2_X0800_Y2179",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E5%B1%A0/manifest&pos=32&xywh=800,2179,92,115",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5C60_200014685_00017_2_X0800_Y2179/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 17,
+            "label": "『南総里見八犬伝』（200014685）17v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+5C60/U+5C60_200014685_00017_2_X0800_Y2179.jpg/full/full/0/default.jpg",
+        "unicode": "5C60"
+    },
+    {
+        "character": "屠",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5C60_200014685_00023_2_X0631_Y1097",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E5%B1%A0/manifest&pos=44&xywh=631,1097,92,112",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5C60_200014685_00023_2_X0631_Y1097/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 23,
+            "label": "『南総里見八犬伝』（200014685）23v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+5C60/U+5C60_200014685_00023_2_X0631_Y1097.jpg/full/full/0/default.jpg",
+        "unicode": "5C60"
+    },
+    {
+        "character": "屠",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5C60_200021660_00006_2_X1793_Y2677",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E5%B1%A0/manifest&pos=10&xywh=1793,2677,103,119",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5C60_200021660_00006_2_X1793_Y2677/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 6,
+            "label": "『養蚕秘録』（200021660）6v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+5C60/U+5C60_200021660_00006_2_X1793_Y2677.jpg/full/full/0/default.jpg",
+        "unicode": "5C60"
+    },
+    {
+        "character": "屠",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5C60_200021853_00038_1_X0568_Y2345",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021853/%E5%B1%A0/manifest&pos=73&xywh=568,2345,80,99",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5C60_200021853_00038_1_X0568_Y2345/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021853",
+            "frame": 38,
+            "label": "『日用惣菜俎不時珍客即席庖丁』（200021853）38r",
+            "side": "r",
+            "title": "日用惣菜俎不時珍客即席庖丁"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021853/characters/U+5C60/U+5C60_200021853_00038_1_X0568_Y2345.jpg/full/full/0/default.jpg",
+        "unicode": "5C60"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "keg0051",
+        "identifer": "2-51",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/02keg/keg0051.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "514年",
+            "value": "華嚴經卷十六(S2067)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/02keg/keg0051.tiff/full/full/0/default.jpg",
+        "title": "屠",
+        "unicode": "E5B1A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "mam0556",
+        "identifer": "5-556",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/05mam/mam0556.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "586年",
+            "value": "摩訶摩耶經卷上(P2160)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/05mam/mam0556.tiff/full/full/0/default.jpg",
+        "title": "屠",
+        "unicode": "E5B1A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0060",
+        "identifer": "13-60",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0060.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0060.tiff/full/full/0/default.jpg",
+        "title": "屠",
+        "unicode": "E5B1A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0120",
+        "identifer": "30-120",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0120.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0120.tiff/full/full/0/default.jpg",
+        "title": "屠",
+        "unicode": "E5B1A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0105",
+        "identifer": "31-105",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0105.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0105.tiff/full/full/0/default.jpg",
+        "title": "屠",
+        "unicode": "E5B1A0"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34239806",

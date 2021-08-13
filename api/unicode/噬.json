@@ -1,0 +1,59 @@
+[
+    {
+        "character": "噬",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+566C_200004148_00071_2_X1728_Y2551",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%99%AC/manifest&pos=140&xywh=1728,2551,39,78",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+566C_200004148_00071_2_X1728_Y2551/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 71,
+            "label": "『椿説弓張月』（200004148）71v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+566C/U+566C_200004148_00071_2_X1728_Y2551.jpg/full/full/0/default.jpg",
+        "unicode": "566C"
+    },
+    {
+        "character": "噬",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+566C_200004148_00088_1_X0870_Y2104",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%99%AC/manifest&pos=169&xywh=870,2104,76,84",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+566C_200004148_00088_1_X0870_Y2104/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 88,
+            "label": "『椿説弓張月』（200004148）88r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+566C/U+566C_200004148_00088_1_X0870_Y2104.jpg/full/full/0/default.jpg",
+        "unicode": "566C"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0638",
+        "identifer": "19-638",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0638.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0638.tiff/full/full/0/default.jpg",
+        "title": "噬",
+        "unicode": "E599AC"
+    }
+]

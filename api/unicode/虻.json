@@ -1,0 +1,42 @@
+[
+    {
+        "character": "虻",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+867B_200003076_00109_2_X0451_Y2380",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E8%99%BB/manifest&pos=210&xywh=451,2380,133,108",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+867B_200003076_00109_2_X0451_Y2380/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 109,
+            "label": "『好色一代男』（200003076）109v",
+            "side": "v",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+867B/U+867B_200003076_00109_2_X0451_Y2380.jpg/full/full/0/default.jpg",
+        "unicode": "867B"
+    },
+    {
+        "character": "虻",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+867B_200006665_00049_1_X2041_Y3208",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200006665/%E8%99%BB/manifest&pos=91&xywh=2041,3208,266,224",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+867B_200006665_00049_1_X2041_Y3208/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200006665",
+            "frame": 49,
+            "label": "『吉利支丹物語』（200006665）49r",
+            "side": "r",
+            "title": "吉利支丹物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200006665/characters/U+867B/U+867B_200006665_00049_1_X2041_Y3208.jpg/full/full/0/default.jpg",
+        "unicode": "867B"
+    }
+]

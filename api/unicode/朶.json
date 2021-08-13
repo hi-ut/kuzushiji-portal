@@ -1,0 +1,42 @@
+[
+    {
+        "character": "朶",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6736_200004148_00030_1_X0038_Y0626",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E6%9C%B6/manifest&pos=57&xywh=38,626,30,91",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6736_200004148_00030_1_X0038_Y0626/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 30,
+            "label": "『椿説弓張月』（200004148）30r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+6736/U+6736_200004148_00030_1_X0038_Y0626.jpg/full/full/0/default.jpg",
+        "unicode": "6736"
+    },
+    {
+        "character": "朶",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6736_200021644_00006_2_X1123_Y0793",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021644/%E6%9C%B6/manifest&pos=11&xywh=1123,793,49,76",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6736_200021644_00006_2_X1123_Y0793/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021644",
+            "frame": 6,
+            "label": "『菓子話船橋』（200021644）6v",
+            "side": "v",
+            "title": "菓子話船橋"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021644/characters/U+6736/U+6736_200021644_00006_2_X1123_Y0793.jpg/full/full/0/default.jpg",
+        "unicode": "6736"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "character": "芭",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+82AD_200003967_00027_1_X0413_Y2318",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003967/%E8%8A%AD/manifest&pos=47&xywh=413,2318,112,104",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+82AD_200003967_00027_1_X0413_Y2318/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003967",
+            "frame": 27,
+            "label": "『おらが春』（200003967）27r",
+            "side": "r",
+            "title": "おらが春"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003967/characters/U+82AD/U+82AD_200003967_00027_1_X0413_Y2318.jpg/full/full/0/default.jpg",
+        "unicode": "82AD"
+    },
+    {
+        "character": "芭",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+82AD_200003967_00027_2_X1485_Y2373",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003967/%E8%8A%AD/manifest&pos=48&xywh=1485,2373,78,89",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+82AD_200003967_00027_2_X1485_Y2373/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003967",
+            "frame": 27,
+            "label": "『おらが春』（200003967）27v",
+            "side": "v",
+            "title": "おらが春"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003967/characters/U+82AD/U+82AD_200003967_00027_2_X1485_Y2373.jpg/full/full/0/default.jpg",
+        "unicode": "82AD"
+    },
+    {
+        "character": "芭",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+82AD_200003967_00031_1_X0311_Y2326",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003967/%E8%8A%AD/manifest&pos=55&xywh=311,2326,70,88",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+82AD_200003967_00031_1_X0311_Y2326/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003967",
+            "frame": 31,
+            "label": "『おらが春』（200003967）31r",
+            "side": "r",
+            "title": "おらが春"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003967/characters/U+82AD/U+82AD_200003967_00031_1_X0311_Y2326.jpg/full/full/0/default.jpg",
+        "unicode": "82AD"
+    }
+]

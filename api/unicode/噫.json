@@ -1,0 +1,127 @@
+[
+    {
+        "character": "噫",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+566B_200015779_00010_2_X0268_Y0800",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%99%AB/manifest&pos=12&xywh=268,800,143,130",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+566B_200015779_00010_2_X0268_Y0800/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 10,
+            "label": "『浮世風呂』（200015779）10v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+566B/U+566B_200015779_00010_2_X0268_Y0800.jpg/full/full/0/default.jpg",
+        "unicode": "566B"
+    },
+    {
+        "character": "噫",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+566B_200015779_00084_1_X1591_Y0564",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%99%AB/manifest&pos=145&xywh=1591,564,227,239",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+566B_200015779_00084_1_X1591_Y0564/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 84,
+            "label": "『浮世風呂』（200015779）84r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+566B/U+566B_200015779_00084_1_X1591_Y0564.jpg/full/full/0/default.jpg",
+        "unicode": "566B"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0043",
+        "identifer": "19-43",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0043.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0043.tiff/full/full/0/default.jpg",
+        "title": "噫",
+        "unicode": "E599AB"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink0074",
+        "identifer": "33-74",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink0074.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink0074.tiff/full/full/0/default.jpg",
+        "title": "噫",
+        "unicode": "E599AB"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0074",
+        "identifer": "34-74",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0074.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0074.tiff/full/full/0/default.jpg",
+        "title": "噫",
+        "unicode": "E599AB"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0072",
+        "identifer": "36-72",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0072.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0072.tiff/full/full/0/default.jpg",
+        "title": "噫",
+        "unicode": "E599AB"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240072",
+        "identifer": "3724-72",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240072.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240072.tiff/full/full/0/default.jpg",
+        "title": "噫",
+        "unicode": "E599AB"
+    }
+]

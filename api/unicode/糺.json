@@ -1,5 +1,45 @@
 [
     {
+        "character": "糺",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7CFA_100249476_00016_2_X0504_Y2459",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249476/%E7%B3%BA/manifest&pos=31&xywh=504,2459,104,105",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7CFA_100249476_00016_2_X0504_Y2459/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249476",
+            "frame": 16,
+            "label": "『飯百珍伝』（100249476）16v",
+            "side": "v",
+            "title": "飯百珍伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249476/characters/U+7CFA/U+7CFA_100249476_00016_2_X0504_Y2459.jpg/full/full/0/default.jpg",
+        "unicode": "7CFA"
+    },
+    {
+        "character": "糺",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7CFA_200014740_00090_1_X0742_Y0414",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E7%B3%BA/manifest&pos=175&xywh=742,414,110,122",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7CFA_200014740_00090_1_X0742_Y0414/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 90,
+            "label": "『雨月物語』（200014740）90r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+7CFA/U+7CFA_200014740_00090_1_X0742_Y0414.jpg/full/full/0/default.jpg",
+        "unicode": "7CFA"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34029558",

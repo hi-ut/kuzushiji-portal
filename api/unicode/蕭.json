@@ -1,5 +1,85 @@
 [
     {
+        "character": "蕭",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+856D_200004148_00026_2_X1732_Y1628",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E8%95%AD/manifest&pos=50&xywh=1732,1628,28,100",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+856D_200004148_00026_2_X1732_Y1628/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 26,
+            "label": "『椿説弓張月』（200004148）26v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+856D/U+856D_200004148_00026_2_X1732_Y1628.jpg/full/full/0/default.jpg",
+        "unicode": "856D"
+    },
+    {
+        "character": "蕭",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+856D_200004148_00088_2_X0218_Y2552",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E8%95%AD/manifest&pos=170&xywh=218,2552,74,91",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+856D_200004148_00088_2_X0218_Y2552/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 88,
+            "label": "『椿説弓張月』（200004148）88v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+856D/U+856D_200004148_00088_2_X0218_Y2552.jpg/full/full/0/default.jpg",
+        "unicode": "856D"
+    },
+    {
+        "character": "蕭",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+856D_200004148_00089_1_X1470_Y0268",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E8%95%AD/manifest&pos=171&xywh=1470,268,80,125",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+856D_200004148_00089_1_X1470_Y0268/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 89,
+            "label": "『椿説弓張月』（200004148）89r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+856D/U+856D_200004148_00089_1_X1470_Y0268.jpg/full/full/0/default.jpg",
+        "unicode": "856D"
+    },
+    {
+        "character": "蕭",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+856D_200019865_00075_1_X1465_Y1102",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200019865/%E8%95%AD/manifest&pos=131&xywh=1465,1102,94,168",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+856D_200019865_00075_1_X1465_Y1102/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200019865",
+            "frame": 75,
+            "label": "『女郎花物語』（200019865）75r",
+            "side": "r",
+            "title": "女郎花物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200019865/characters/U+856D/U+856D_200019865_00075_1_X1465_Y1102.jpg/full/full/0/default.jpg",
+        "unicode": "856D"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34153653",

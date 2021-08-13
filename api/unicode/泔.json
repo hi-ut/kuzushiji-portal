@@ -1,0 +1,42 @@
+[
+    {
+        "character": "泔",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6CD4_100249371_00033_2_X1038_Y2257",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249371/%E6%B3%94/manifest&pos=65&xywh=1038,2257,90,99",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6CD4_100249371_00033_2_X1038_Y2257/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249371",
+            "frame": 33,
+            "label": "『鼎左秘録』（100249371）33v",
+            "side": "v",
+            "title": "鼎左秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249371/characters/U+6CD4/U+6CD4_100249371_00033_2_X1038_Y2257.jpg/full/full/0/default.jpg",
+        "unicode": "6CD4"
+    },
+    {
+        "character": "泔",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6CD4_200021851_00011_1_X0102_Y1460",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021851/%E6%B3%94/manifest&pos=19&xywh=102,1460,146,135",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6CD4_200021851_00011_1_X0102_Y1460/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021851",
+            "frame": 11,
+            "label": "『かてもの』（200021851）11r",
+            "side": "r",
+            "title": "かてもの"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021851/characters/U+6CD4/U+6CD4_200021851_00011_1_X0102_Y1460.jpg/full/full/0/default.jpg",
+        "unicode": "6CD4"
+    }
+]

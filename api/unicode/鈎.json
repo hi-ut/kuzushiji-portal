@@ -1,5 +1,85 @@
 [
     {
+        "character": "鈎",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+920E_200005798_00010_1_X0304_Y0979",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005798/%E9%88%8E/manifest&pos=17&xywh=304,979,102,95",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+920E_200005798_00010_1_X0304_Y0979/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005798",
+            "frame": 10,
+            "label": "『世間胸算用／大晦日ハ一日千金』（200005798）10r",
+            "side": "r",
+            "title": "世間胸算用／大晦日ハ一日千金"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005798/characters/U+920E/U+920E_200005798_00010_1_X0304_Y0979.jpg/full/full/0/default.jpg",
+        "unicode": "920E"
+    },
+    {
+        "character": "鈎",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+920E_200005798_00010_2_X0785_Y2613",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005798/%E9%88%8E/manifest&pos=18&xywh=785,2613,84,93",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+920E_200005798_00010_2_X0785_Y2613/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005798",
+            "frame": 10,
+            "label": "『世間胸算用／大晦日ハ一日千金』（200005798）10v",
+            "side": "v",
+            "title": "世間胸算用／大晦日ハ一日千金"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005798/characters/U+920E/U+920E_200005798_00010_2_X0785_Y2613.jpg/full/full/0/default.jpg",
+        "unicode": "920E"
+    },
+    {
+        "character": "鈎",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+920E_200005798_00068_1_X0646_Y2746",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005798/%E9%88%8E/manifest&pos=125&xywh=646,2746,96,87",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+920E_200005798_00068_1_X0646_Y2746/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005798",
+            "frame": 68,
+            "label": "『世間胸算用／大晦日ハ一日千金』（200005798）68r",
+            "side": "r",
+            "title": "世間胸算用／大晦日ハ一日千金"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005798/characters/U+920E/U+920E_200005798_00068_1_X0646_Y2746.jpg/full/full/0/default.jpg",
+        "unicode": "920E"
+    },
+    {
+        "character": "鈎",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+920E_200021660_00083_2_X1576_Y1247",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E9%88%8E/manifest&pos=160&xywh=1576,1247,81,67",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+920E_200021660_00083_2_X1576_Y1247/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 83,
+            "label": "『養蚕秘録』（200021660）83v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+920E/U+920E_200021660_00083_2_X1576_Y1247.jpg/full/full/0/default.jpg",
+        "unicode": "920E"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34166741",

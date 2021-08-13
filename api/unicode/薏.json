@@ -1,0 +1,42 @@
+[
+    {
+        "character": "薏",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+858F_100249371_00021_1_X1180_Y0643",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249371/%E8%96%8F/manifest&pos=40&xywh=1180,643,93,150",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+858F_100249371_00021_1_X1180_Y0643/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249371",
+            "frame": 21,
+            "label": "『鼎左秘録』（100249371）21r",
+            "side": "r",
+            "title": "鼎左秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249371/characters/U+858F/U+858F_100249371_00021_1_X1180_Y0643.jpg/full/full/0/default.jpg",
+        "unicode": "858F"
+    },
+    {
+        "character": "薏",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+858F_200015843_00028_1_X0803_Y2750",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E8%96%8F/manifest&pos=49&xywh=803,2750,83,162",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+858F_200015843_00028_1_X0803_Y2750/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 28,
+            "label": "『日本永代蔵』（200015843）28r",
+            "side": "r",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+858F/U+858F_200015843_00028_1_X0803_Y2750.jpg/full/full/0/default.jpg",
+        "unicode": "858F"
+    }
+]

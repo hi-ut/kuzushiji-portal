@@ -1,5 +1,76 @@
 [
     {
+        "character": "巷",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5DF7_200014685_00023_2_X1695_Y0835",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E5%B7%B7/manifest&pos=44&xywh=1695,835,91,89",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5DF7_200014685_00023_2_X1695_Y0835/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 23,
+            "label": "『南総里見八犬伝』（200014685）23v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+5DF7/U+5DF7_200014685_00023_2_X1695_Y0835.jpg/full/full/0/default.jpg",
+        "unicode": "5DF7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0802",
+        "identifer": "18-802",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0802.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0802.tiff/full/full/0/default.jpg",
+        "title": "巷",
+        "unicode": "E5B7B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0782",
+        "identifer": "19-782",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0782.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0782.tiff/full/full/0/default.jpg",
+        "title": "巷",
+        "unicode": "E5B7B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jhk0054",
+        "identifer": "29-54",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/29jhk/jhk0054.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1126年",
+            "value": "神足變化經(開元寺版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/29jhk/jhk0054.tiff/full/full/0/default.jpg",
+        "title": "巷",
+        "unicode": "E5B7B7"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34003766",

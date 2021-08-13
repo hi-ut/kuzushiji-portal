@@ -1,0 +1,39 @@
+[
+    {
+        "character": "喟",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+559F_200021660_00091_2_X0805_Y2439",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E5%96%9F/manifest&pos=176&xywh=805,2439,141,143",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+559F_200021660_00091_2_X0805_Y2439/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 91,
+            "label": "『養蚕秘録』（200021660）91v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+559F/U+559F_200021660_00091_2_X0805_Y2439.jpg/full/full/0/default.jpg",
+        "unicode": "559F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0659",
+        "identifer": "18-659",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0659.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0659.tiff/full/full/0/default.jpg",
+        "title": "喟",
+        "unicode": "E5969F"
+    }
+]

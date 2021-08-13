@@ -1,5 +1,96 @@
 [
     {
+        "character": "叛",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+53DB_200004148_00073_1_X1527_Y0232",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%8F%9B/manifest&pos=143&xywh=1527,232,95,74",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+53DB_200004148_00073_1_X1527_Y0232/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 73,
+            "label": "『椿説弓張月』（200004148）73r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+53DB/U+53DB_200004148_00073_1_X1527_Y0232.jpg/full/full/0/default.jpg",
+        "unicode": "53DB"
+    },
+    {
+        "character": "叛",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+53DB_200014740_00005_2_X1040_Y2497",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%8F%9B/manifest&pos=8&xywh=1040,2497,104,109",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+53DB_200014740_00005_2_X1040_Y2497/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 5,
+            "label": "『雨月物語』（200014740）5v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+53DB/U+53DB_200014740_00005_2_X1040_Y2497.jpg/full/full/0/default.jpg",
+        "unicode": "53DB"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0810",
+        "identifer": "30-810",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0810.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0810.tiff/full/full/0/default.jpg",
+        "title": "叛",
+        "unicode": "E58F9B"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0048",
+        "identifer": "31-48",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0048.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0048.tiff/full/full/0/default.jpg",
+        "title": "叛",
+        "unicode": "E58F9B"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ykk0029",
+        "identifer": "68-29",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/68ykk/ykk0029.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1412年",
+            "value": "藥師功徳經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/68ykk/ykk0029.tiff/full/full/0/default.jpg",
+        "title": "叛",
+        "unicode": "E58F9B"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34272488",

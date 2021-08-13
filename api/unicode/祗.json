@@ -1,5 +1,45 @@
 [
     {
+        "character": "祗",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7957_200003076_00157_2_X0229_Y0479",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E7%A5%97/manifest&pos=306&xywh=229,479,99,112",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7957_200003076_00157_2_X0229_Y0479/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 157,
+            "label": "『好色一代男』（200003076）157v",
+            "side": "v",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+7957/U+7957_200003076_00157_2_X0229_Y0479.jpg/full/full/0/default.jpg",
+        "unicode": "7957"
+    },
+    {
+        "character": "祗",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7957_200014740_00010_1_X1532_Y1329",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E7%A5%97/manifest&pos=17&xywh=1532,1329,103,107",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7957_200014740_00010_1_X1532_Y1329/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 10,
+            "label": "『雨月物語』（200014740）10r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+7957/U+7957_200014740_00010_1_X1532_Y1329.jpg/full/full/0/default.jpg",
+        "unicode": "7957"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34010875",

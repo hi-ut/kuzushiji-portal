@@ -1,5 +1,85 @@
 [
     {
+        "character": "聚",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+805A_200004107_00032_1_X1169_Y1216",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004107/%E8%81%9A/manifest&pos=59&xywh=1169,1216,119,132",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+805A_200004107_00032_1_X1169_Y1216/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004107",
+            "frame": 32,
+            "label": "『二人比丘尼』（200004107）32r",
+            "side": "r",
+            "title": "二人比丘尼"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004107/characters/U+805A/U+805A_200004107_00032_1_X1169_Y1216.jpg/full/full/0/default.jpg",
+        "unicode": "805A"
+    },
+    {
+        "character": "聚",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+805A_200014685_00018_2_X0289_Y0948",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E8%81%9A/manifest&pos=34&xywh=289,948,83,108",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+805A_200014685_00018_2_X0289_Y0948/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 18,
+            "label": "『南総里見八犬伝』（200014685）18v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+805A/U+805A_200014685_00018_2_X0289_Y0948.jpg/full/full/0/default.jpg",
+        "unicode": "805A"
+    },
+    {
+        "character": "聚",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+805A_200014685_00024_2_X1868_Y1129",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E8%81%9A/manifest&pos=46&xywh=1868,1129,81,122",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+805A_200014685_00024_2_X1868_Y1129/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 24,
+            "label": "『南総里見八犬伝』（200014685）24v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+805A/U+805A_200014685_00024_2_X1868_Y1129.jpg/full/full/0/default.jpg",
+        "unicode": "805A"
+    },
+    {
+        "character": "聚",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+805A_200014685_00030_2_X1695_Y2416",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E8%81%9A/manifest&pos=58&xywh=1695,2416,95,124",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+805A_200014685_00030_2_X1695_Y2416/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 30,
+            "label": "『南総里見八犬伝』（200014685）30v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+805A/U+805A_200014685_00030_2_X1695_Y2416.jpg/full/full/0/default.jpg",
+        "unicode": "805A"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34215103",

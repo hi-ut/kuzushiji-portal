@@ -1,0 +1,98 @@
+[
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "5BASNH34000108",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/5BAS/5BASNH34/5BASNH340001081/5BASNH340001081-6/list/5BASNH340001081-6-IR1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/5BAS/5BASNH34/5BASNH340001081/5BASNH340001081-6/5BASNH340001081-6.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/5BASNH34000108",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/5BASNH340001081-IR1.tiff/27,1578,288,342/full/0/default.jpg",
+        "title": "楓",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "5BASNK36000117",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/5BAS/5BASNK36/5BASNK360001171/5BASNK360001171-6/list/5BASNK360001171-6-IR1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/5BAS/5BASNK36/5BASNK360001171/5BASNK360001171-6/5BASNK360001171-6.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/5BASNK36000117",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/5BASNK360001171-IR1.tiff/38,1318,352,298/full/0/default.jpg",
+        "title": "楓",
+        "unicode": "UTF-8"
+    },
+    {
+        "character": "楓",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6953_200003076_00078_2_X1506_Y0870",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E6%A5%93/manifest&pos=150&xywh=1506,870,142,136",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6953_200003076_00078_2_X1506_Y0870/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 78,
+            "label": "『好色一代男』（200003076）78v",
+            "side": "v",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+6953/U+6953_200003076_00078_2_X1506_Y0870.jpg/full/full/0/default.jpg",
+        "unicode": "6953"
+    },
+    {
+        "character": "楓",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6953_200015843_00007_1_X1747_Y1617",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E6%A5%93/manifest&pos=11&xywh=1747,1617,114,106",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6953_200015843_00007_1_X1747_Y1617/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 7,
+            "label": "『日本永代蔵』（200015843）7r",
+            "side": "r",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+6953/U+6953_200015843_00007_1_X1747_Y1617.jpg/full/full/0/default.jpg",
+        "unicode": "6953"
+    },
+    {
+        "character": "楓",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6953_200021853_00020_1_X0161_Y0561",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021853/%E6%A5%93/manifest&pos=37&xywh=161,561,96,88",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6953_200021853_00020_1_X0161_Y0561/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021853",
+            "frame": 20,
+            "label": "『日用惣菜俎不時珍客即席庖丁』（200021853）20r",
+            "side": "r",
+            "title": "日用惣菜俎不時珍客即席庖丁"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021853/characters/U+6953/U+6953_200021853_00020_1_X0161_Y0561.jpg/full/full/0/default.jpg",
+        "unicode": "6953"
+    }
+]

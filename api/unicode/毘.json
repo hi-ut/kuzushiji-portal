@@ -1,5 +1,199 @@
 [
     {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AAICJ63000948",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AAI/6AAICJ63/6AAICJ630009481/6AAICJ630009481-1/list/6AAICJ630009481-1-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AAI/6AAICJ63/6AAICJ630009481/6AAICJ630009481-1/6AAICJ630009481-1.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AAICJ63000948",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AAICJ630009481-C1.tiff/10,2,210,214/full/0/default.jpg",
+        "title": "毘",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AFITD11000105",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITD11/6AFITD110001051/6AFITD110001051-21/list/6AFITD110001051-21-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITD11/6AFITD110001051/6AFITD110001051-21/6AFITD110001051-21.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFITD11000105",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFITD110001051-C1.tiff/12,3138,306,252/full/0/default.jpg",
+        "title": "毘",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AADJA27000120",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AAD/6AADJA27/6AADJA270001201/6AADJA270001201-7/list/6AADJA270001201-7-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AAD/6AADJA27/6AADJA270001201/6AADJA270001201-7/6AADJA270001201-7.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AADJA27000120",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AADJA270001201-C1.tiff/0,1254,390,236/full/0/default.jpg",
+        "title": "毘",
+        "unicode": "UTF-8"
+    },
+    {
+        "character": "毘",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6BD8_200003076_00028_2_X1407_Y0652",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E6%AF%98/manifest&pos=50&xywh=1407,652,114,111",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6BD8_200003076_00028_2_X1407_Y0652/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 28,
+            "label": "『好色一代男』（200003076）28v",
+            "side": "v",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+6BD8/U+6BD8_200003076_00028_2_X1407_Y0652.jpg/full/full/0/default.jpg",
+        "unicode": "6BD8"
+    },
+    {
+        "character": "毘",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6BD8_200005598_00035_2_X0218_Y0922",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005598/%E6%AF%98/manifest&pos=68&xywh=218,922,115,131",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6BD8_200005598_00035_2_X0218_Y0922/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005598",
+            "frame": 35,
+            "label": "『傾城買四十八手』（200005598）35v",
+            "side": "v",
+            "title": "傾城買四十八手"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005598/characters/U+6BD8/U+6BD8_200005598_00035_2_X0218_Y0922.jpg/full/full/0/default.jpg",
+        "unicode": "6BD8"
+    },
+    {
+        "character": "毘",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+6BD8_200005598_00036_1_X1555_Y1084",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005598/%E6%AF%98/manifest&pos=69&xywh=1555,1084,80,100",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6BD8_200005598_00036_1_X1555_Y1084/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005598",
+            "frame": 36,
+            "label": "『傾城買四十八手』（200005598）36r",
+            "side": "r",
+            "title": "傾城買四十八手"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005598/characters/U+6BD8/U+6BD8_200005598_00036_1_X1555_Y1084.jpg/full/full/0/default.jpg",
+        "unicode": "6BD8"
+    },
+    {
+        "character": "毘",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6BD8_200015779_00016_2_X1139_Y2269",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E6%AF%98/manifest&pos=24&xywh=1139,2269,152,123",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6BD8_200015779_00016_2_X1139_Y2269/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 16,
+            "label": "『浮世風呂』（200015779）16v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+6BD8/U+6BD8_200015779_00016_2_X1139_Y2269.jpg/full/full/0/default.jpg",
+        "unicode": "6BD8"
+    },
+    {
+        "character": "毘",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+6BD8_200015779_00016_2_X1142_Y2957",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E6%AF%98/manifest&pos=24&xywh=1142,2957,145,132",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6BD8_200015779_00016_2_X1142_Y2957/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 16,
+            "label": "『浮世風呂』（200015779）16v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+6BD8/U+6BD8_200015779_00016_2_X1142_Y2957.jpg/full/full/0/default.jpg",
+        "unicode": "6BD8"
+    },
+    {
+        "character": "毘",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+6BD8_200015779_00152_1_X1187_Y0755",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E6%AF%98/manifest&pos=277&xywh=1187,755,109,123",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6BD8_200015779_00152_1_X1187_Y0755/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 152,
+            "label": "『浮世風呂』（200015779）152r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+6BD8/U+6BD8_200015779_00152_1_X1187_Y0755.jpg/full/full/0/default.jpg",
+        "unicode": "6BD8"
+    },
+    {
+        "character": "毘",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6BD8_200015843_00070_2_X1156_Y2301",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E6%AF%98/manifest&pos=126&xywh=1156,2301,103,152",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6BD8_200015843_00070_2_X1156_Y2301/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 70,
+            "label": "『日本永代蔵』（200015843）70v",
+            "side": "v",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+6BD8/U+6BD8_200015843_00070_2_X1156_Y2301.jpg/full/full/0/default.jpg",
+        "unicode": "6BD8"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34218519",

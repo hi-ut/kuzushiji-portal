@@ -1,0 +1,42 @@
+[
+    {
+        "character": "醭",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+91AD_100249371_00035_1_X0693_Y0709",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249371/%E9%86%AD/manifest&pos=68&xywh=693,709,90,117",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+91AD_100249371_00035_1_X0693_Y0709/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249371",
+            "frame": 35,
+            "label": "『鼎左秘録』（100249371）35r",
+            "side": "r",
+            "title": "鼎左秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249371/characters/U+91AD/U+91AD_100249371_00035_1_X0693_Y0709.jpg/full/full/0/default.jpg",
+        "unicode": "91AD"
+    },
+    {
+        "character": "醭",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+91AD_100249371_00035_1_X1376_Y1603",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249371/%E9%86%AD/manifest&pos=68&xywh=1376,1603,100,114",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+91AD_100249371_00035_1_X1376_Y1603/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249371",
+            "frame": 35,
+            "label": "『鼎左秘録』（100249371）35r",
+            "side": "r",
+            "title": "鼎左秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249371/characters/U+91AD/U+91AD_100249371_00035_1_X1376_Y1603.jpg/full/full/0/default.jpg",
+        "unicode": "91AD"
+    }
+]

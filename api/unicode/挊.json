@@ -1,0 +1,42 @@
+[
+    {
+        "character": "挊",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+630A_200015779_00104_1_X0539_Y0576",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E6%8C%8A/manifest&pos=185&xywh=539,576,128,141",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+630A_200015779_00104_1_X0539_Y0576/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 104,
+            "label": "『浮世風呂』（200015779）104r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+630A/U+630A_200015779_00104_1_X0539_Y0576.jpg/full/full/0/default.jpg",
+        "unicode": "630A"
+    },
+    {
+        "character": "挊",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+630A_200015779_00141_1_X1654_Y1603",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E6%8C%8A/manifest&pos=255&xywh=1654,1603,122,136",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+630A_200015779_00141_1_X1654_Y1603/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 141,
+            "label": "『浮世風呂』（200015779）141r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+630A/U+630A_200015779_00141_1_X1654_Y1603.jpg/full/full/0/default.jpg",
+        "unicode": "630A"
+    }
+]

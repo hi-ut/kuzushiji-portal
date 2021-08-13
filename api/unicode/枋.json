@@ -1,0 +1,42 @@
+[
+    {
+        "character": "枋",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+678B_200005798_00066_2_X1129_Y0734",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005798/%E6%9E%8B/manifest&pos=122&xywh=1129,734,96,94",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+678B_200005798_00066_2_X1129_Y0734/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005798",
+            "frame": 66,
+            "label": "『世間胸算用／大晦日ハ一日千金』（200005798）66v",
+            "side": "v",
+            "title": "世間胸算用／大晦日ハ一日千金"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005798/characters/U+678B/U+678B_200005798_00066_2_X1129_Y0734.jpg/full/full/0/default.jpg",
+        "unicode": "678B"
+    },
+    {
+        "character": "枋",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+678B_200015843_00073_1_X1450_Y2828",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E6%9E%8B/manifest&pos=131&xywh=1450,2828,104,121",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+678B_200015843_00073_1_X1450_Y2828/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 73,
+            "label": "『日本永代蔵』（200015843）73r",
+            "side": "r",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+678B/U+678B_200015843_00073_1_X1450_Y2828.jpg/full/full/0/default.jpg",
+        "unicode": "678B"
+    }
+]

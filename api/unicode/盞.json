@@ -1,5 +1,65 @@
 [
     {
+        "character": "盞",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+76DE_200008316_00050_1_X0337_Y3212",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008316/%E7%9B%9E/manifest&pos=85&xywh=337,3212,133,198",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+76DE_200008316_00050_1_X0337_Y3212/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008316",
+            "frame": 50,
+            "label": "『武家義理物語』（200008316）50r",
+            "side": "r",
+            "title": "武家義理物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008316/characters/U+76DE/U+76DE_200008316_00050_1_X0337_Y3212.jpg/full/full/0/default.jpg",
+        "unicode": "76DE"
+    },
+    {
+        "character": "盞",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+76DE_200014685_00019_1_X1459_Y1623",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E7%9B%9E/manifest&pos=35&xywh=1459,1623,84,106",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+76DE_200014685_00019_1_X1459_Y1623/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 19,
+            "label": "『南総里見八犬伝』（200014685）19r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+76DE/U+76DE_200014685_00019_1_X1459_Y1623.jpg/full/full/0/default.jpg",
+        "unicode": "76DE"
+    },
+    {
+        "character": "盞",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+76DE_200021869_00015_2_X0373_Y2258",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021869/%E7%9B%9E/manifest&pos=28&xywh=373,2258,297,333",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+76DE_200021869_00015_2_X0373_Y2258/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021869",
+            "frame": 15,
+            "label": "『料理方心得之事』（200021869）15v",
+            "side": "v",
+            "title": "料理方心得之事"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021869/characters/U+76DE/U+76DE_200021869_00015_2_X0373_Y2258.jpg/full/full/0/default.jpg",
+        "unicode": "76DE"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34150728",

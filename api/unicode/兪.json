@@ -1,0 +1,90 @@
+[
+    {
+        "character": "兪",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+516A_200021660_00092_1_X0811_Y1218",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E5%85%AA/manifest&pos=177&xywh=811,1218,145,145",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+516A_200021660_00092_1_X0811_Y1218/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 92,
+            "label": "『養蚕秘録』（200021660）92r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+516A/U+516A_200021660_00092_1_X0811_Y1218.jpg/full/full/0/default.jpg",
+        "unicode": "516A"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0021",
+        "identifer": "26-21",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0021.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0021.tiff/full/full/0/default.jpg",
+        "title": "兪",
+        "unicode": "E585AA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jhk0282",
+        "identifer": "29-282",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/29jhk/jhk0282.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1126年",
+            "value": "神足變化經(開元寺版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/29jhk/jhk0282.tiff/full/full/0/default.jpg",
+        "title": "兪",
+        "unicode": "E585AA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0030",
+        "identifer": "30-30",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0030.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0030.tiff/full/full/0/default.jpg",
+        "title": "兪",
+        "unicode": "E585AA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink0146",
+        "identifer": "33-146",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink0146.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink0146.tiff/full/full/0/default.jpg",
+        "title": "兪",
+        "unicode": "E585AA"
+    }
+]

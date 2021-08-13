@@ -1,0 +1,39 @@
+[
+    {
+        "character": "囿",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+56FF_200015843_00116_2_X1723_Y1056",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E5%9B%BF/manifest&pos=210&xywh=1723,1056,76,105",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+56FF_200015843_00116_2_X1723_Y1056/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 116,
+            "label": "『日本永代蔵』（200015843）116v",
+            "side": "v",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+56FF/U+56FF_200015843_00116_2_X1723_Y1056.jpg/full/full/0/default.jpg",
+        "unicode": "56FF"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0075",
+        "identifer": "30-75",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0075.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0075.tiff/full/full/0/default.jpg",
+        "title": "囿",
+        "unicode": "E59BBF"
+    }
+]

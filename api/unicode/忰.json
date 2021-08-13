@@ -1,5 +1,125 @@
 [
     {
+        "character": "忰",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5FF0_200015843_00002_2_X0261_Y2803",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E5%BF%B0/manifest&pos=2&xywh=261,2803,92,118",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5FF0_200015843_00002_2_X0261_Y2803/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 2,
+            "label": "『日本永代蔵』（200015843）2v",
+            "side": "v",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+5FF0/U+5FF0_200015843_00002_2_X0261_Y2803.jpg/full/full/0/default.jpg",
+        "unicode": "5FF0"
+    },
+    {
+        "character": "忰",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5FF0_200015843_00007_2_X1431_Y2127",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E5%BF%B0/manifest&pos=12&xywh=1431,2127,92,129",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5FF0_200015843_00007_2_X1431_Y2127/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 7,
+            "label": "『日本永代蔵』（200015843）7v",
+            "side": "v",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+5FF0/U+5FF0_200015843_00007_2_X1431_Y2127.jpg/full/full/0/default.jpg",
+        "unicode": "5FF0"
+    },
+    {
+        "character": "忰",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5FF0_200015843_00012_2_X0605_Y2835",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E5%BF%B0/manifest&pos=22&xywh=605,2835,90,111",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5FF0_200015843_00012_2_X0605_Y2835/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 12,
+            "label": "『日本永代蔵』（200015843）12v",
+            "side": "v",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+5FF0/U+5FF0_200015843_00012_2_X0605_Y2835.jpg/full/full/0/default.jpg",
+        "unicode": "5FF0"
+    },
+    {
+        "character": "忰",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5FF0_200015843_00013_1_X1190_Y0546",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E5%BF%B0/manifest&pos=23&xywh=1190,546,85,120",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5FF0_200015843_00013_1_X1190_Y0546/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 13,
+            "label": "『日本永代蔵』（200015843）13r",
+            "side": "r",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+5FF0/U+5FF0_200015843_00013_1_X1190_Y0546.jpg/full/full/0/default.jpg",
+        "unicode": "5FF0"
+    },
+    {
+        "character": "忰",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5FF0_200015843_00097_2_X0903_Y0505",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E5%BF%B0/manifest&pos=176&xywh=903,505,96,124",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5FF0_200015843_00097_2_X0903_Y0505/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 97,
+            "label": "『日本永代蔵』（200015843）97v",
+            "side": "v",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+5FF0/U+5FF0_200015843_00097_2_X0903_Y0505.jpg/full/full/0/default.jpg",
+        "unicode": "5FF0"
+    },
+    {
+        "character": "忰",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5FF0_200015843_00117_2_X0358_Y1718",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E5%BF%B0/manifest&pos=212&xywh=358,1718,85,122",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5FF0_200015843_00117_2_X0358_Y1718/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 117,
+            "label": "『日本永代蔵』（200015843）117v",
+            "side": "v",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+5FF0/U+5FF0_200015843_00117_2_X0358_Y1718.jpg/full/full/0/default.jpg",
+        "unicode": "5FF0"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34064607",

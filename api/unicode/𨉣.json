@@ -1,0 +1,62 @@
+[
+    {
+        "character": "𨉣",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+28263_200008316_00060_1_X0337_Y1199",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008316/%F0%A8%89%A3/manifest&pos=105&xywh=337,1199,139,165",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+28263_200008316_00060_1_X0337_Y1199/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008316",
+            "frame": 60,
+            "label": "『武家義理物語』（200008316）60r",
+            "side": "r",
+            "title": "武家義理物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008316/characters/U+28263/U+28263_200008316_00060_1_X0337_Y1199.jpg/full/full/0/default.jpg",
+        "unicode": "28263"
+    },
+    {
+        "character": "𨉣",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+28263_200008316_00060_2_X0237_Y1727",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008316/%F0%A8%89%A3/manifest&pos=106&xywh=237,1727,156,193",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+28263_200008316_00060_2_X0237_Y1727/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008316",
+            "frame": 60,
+            "label": "『武家義理物語』（200008316）60v",
+            "side": "v",
+            "title": "武家義理物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008316/characters/U+28263/U+28263_200008316_00060_2_X0237_Y1727.jpg/full/full/0/default.jpg",
+        "unicode": "28263"
+    },
+    {
+        "character": "𨉣",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+28263_200008316_00064_1_X1389_Y1062",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008316/%F0%A8%89%A3/manifest&pos=113&xywh=1389,1062,143,165",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+28263_200008316_00064_1_X1389_Y1062/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008316",
+            "frame": 64,
+            "label": "『武家義理物語』（200008316）64r",
+            "side": "r",
+            "title": "武家義理物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008316/characters/U+28263/U+28263_200008316_00064_1_X1389_Y1062.jpg/full/full/0/default.jpg",
+        "unicode": "28263"
+    }
+]

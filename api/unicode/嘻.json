@@ -1,0 +1,59 @@
+[
+    {
+        "character": "嘻",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+563B_200015779_00010_2_X0266_Y0934",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%98%BB/manifest&pos=12&xywh=266,934,126,126",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+563B_200015779_00010_2_X0266_Y0934/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 10,
+            "label": "『浮世風呂』（200015779）10v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+563B/U+563B_200015779_00010_2_X0266_Y0934.jpg/full/full/0/default.jpg",
+        "unicode": "563B"
+    },
+    {
+        "character": "嘻",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+563B_200015779_00084_1_X1593_Y0817",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%98%BB/manifest&pos=145&xywh=1593,817,224,215",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+563B_200015779_00084_1_X1593_Y0817/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 84,
+            "label": "『浮世風呂』（200015779）84r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+563B/U+563B_200015779_00084_1_X1593_Y0817.jpg/full/full/0/default.jpg",
+        "unicode": "563B"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0648",
+        "identifer": "19-648",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0648.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0648.tiff/full/full/0/default.jpg",
+        "title": "嘻",
+        "unicode": null
+    }
+]

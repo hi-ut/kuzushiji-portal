@@ -1,0 +1,42 @@
+[
+    {
+        "character": "訝",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+8A1D_200014685_00026_2_X1311_Y0768",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E8%A8%9D/manifest&pos=50&xywh=1311,768,89,85",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8A1D_200014685_00026_2_X1311_Y0768/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 26,
+            "label": "『南総里見八犬伝』（200014685）26v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+8A1D/U+8A1D_200014685_00026_2_X1311_Y0768.jpg/full/full/0/default.jpg",
+        "unicode": "8A1D"
+    },
+    {
+        "character": "訝",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+8A1D_200021660_00060_2_X1602_Y2984",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E8%A8%9D/manifest&pos=116&xywh=1602,2984,100,111",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8A1D_200021660_00060_2_X1602_Y2984/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 60,
+            "label": "『養蚕秘録』（200021660）60v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+8A1D/U+8A1D_200021660_00060_2_X1602_Y2984.jpg/full/full/0/default.jpg",
+        "unicode": "8A1D"
+    }
+]

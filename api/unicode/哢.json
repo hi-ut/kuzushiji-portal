@@ -1,5 +1,25 @@
 [
     {
+        "character": "哢",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+54E2_200014740_00002_2_X0702_Y1041",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%93%A2/manifest&pos=2&xywh=702,1041,140,179",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+54E2_200014740_00002_2_X0702_Y1041/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 2,
+            "label": "『雨月物語』（200014740）2v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+54E2/U+54E2_200014740_00002_2_X0702_Y1041.jpg/full/full/0/default.jpg",
+        "unicode": "54E2"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34153394",

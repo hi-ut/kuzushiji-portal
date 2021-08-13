@@ -1,0 +1,42 @@
+[
+    {
+        "character": "幇",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5E47_200005598_00046_1_X1500_Y1933",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005598/%E5%B9%87/manifest&pos=89&xywh=1500,1933,100,162",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5E47_200005598_00046_1_X1500_Y1933/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005598",
+            "frame": 46,
+            "label": "『傾城買四十八手』（200005598）46r",
+            "side": "r",
+            "title": "傾城買四十八手"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005598/characters/U+5E47/U+5E47_200005598_00046_1_X1500_Y1933.jpg/full/full/0/default.jpg",
+        "unicode": "5E47"
+    },
+    {
+        "character": "幇",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5E47_200015779_00147_1_X0781_Y0830",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%B9%87/manifest&pos=267&xywh=781,830,117,155",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5E47_200015779_00147_1_X0781_Y0830/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 147,
+            "label": "『浮世風呂』（200015779）147r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+5E47/U+5E47_200015779_00147_1_X0781_Y0830.jpg/full/full/0/default.jpg",
+        "unicode": "5E47"
+    }
+]

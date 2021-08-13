@@ -1,5 +1,25 @@
 [
     {
+        "character": "酩",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+9169_200021925_00013_1_X2055_Y0485",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021925/%E9%85%A9/manifest&pos=23&xywh=2055,485,91,96",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9169_200021925_00013_1_X2055_Y0485/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021925",
+            "frame": 13,
+            "label": "『新編異国料理』（200021925）13r",
+            "side": "r",
+            "title": "新編異国料理"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021925/characters/U+9169/U+9169_200021925_00013_1_X2055_Y0485.jpg/full/full/0/default.jpg",
+        "unicode": "9169"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34127985",

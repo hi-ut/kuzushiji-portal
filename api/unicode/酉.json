@@ -1,5 +1,85 @@
 [
     {
+        "character": "酉",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+9149_200004148_00033_1_X0711_Y0995",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E9%85%89/manifest&pos=63&xywh=711,995,60,88",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9149_200004148_00033_1_X0711_Y0995/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 33,
+            "label": "『椿説弓張月』（200004148）33r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+9149/U+9149_200004148_00033_1_X0711_Y0995.jpg/full/full/0/default.jpg",
+        "unicode": "9149"
+    },
+    {
+        "character": "酉",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+9149_200004148_00033_2_X1597_Y2553",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E9%85%89/manifest&pos=64&xywh=1597,2553,57,85",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9149_200004148_00033_2_X1597_Y2553/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 33,
+            "label": "『椿説弓張月』（200004148）33v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+9149/U+9149_200004148_00033_2_X1597_Y2553.jpg/full/full/0/default.jpg",
+        "unicode": "9149"
+    },
+    {
+        "character": "酉",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+9149_200015843_00079_2_X0352_Y0667",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E9%85%89/manifest&pos=144&xywh=352,667,65,116",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9149_200015843_00079_2_X0352_Y0667/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 79,
+            "label": "『日本永代蔵』（200015843）79v",
+            "side": "v",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+9149/U+9149_200015843_00079_2_X0352_Y0667.jpg/full/full/0/default.jpg",
+        "unicode": "9149"
+    },
+    {
+        "character": "酉",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+9149_200021925_00023_2_X0645_Y0638",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021925/%E9%85%89/manifest&pos=44&xywh=645,638,83,97",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9149_200021925_00023_2_X0645_Y0638/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021925",
+            "frame": 23,
+            "label": "『新編異国料理』（200021925）23v",
+            "side": "v",
+            "title": "新編異国料理"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021925/characters/U+9149/U+9149_200021925_00023_2_X0645_Y0638.jpg/full/full/0/default.jpg",
+        "unicode": "9149"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34050730",

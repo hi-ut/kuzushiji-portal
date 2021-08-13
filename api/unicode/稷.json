@@ -1,5 +1,65 @@
 [
     {
+        "character": "稷",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7A37_200014740_00020_1_X1017_Y2733",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E7%A8%B7/manifest&pos=37&xywh=1017,2733,115,100",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7A37_200014740_00020_1_X1017_Y2733/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 20,
+            "label": "『雨月物語』（200014740）20r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+7A37/U+7A37_200014740_00020_1_X1017_Y2733.jpg/full/full/0/default.jpg",
+        "unicode": "7A37"
+    },
+    {
+        "character": "稷",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7A37_200021851_00003_2_X0473_Y2271",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021851/%E7%A8%B7/manifest&pos=4&xywh=473,2271,177,131",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7A37_200021851_00003_2_X0473_Y2271/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021851",
+            "frame": 3,
+            "label": "『かてもの』（200021851）3v",
+            "side": "v",
+            "title": "かてもの"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021851/characters/U+7A37/U+7A37_200021851_00003_2_X0473_Y2271.jpg/full/full/0/default.jpg",
+        "unicode": "7A37"
+    },
+    {
+        "character": "稷",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+7A37_200021851_00019_2_X0318_Y1106",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021851/%E7%A8%B7/manifest&pos=36&xywh=318,1106,144,114",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7A37_200021851_00019_2_X0318_Y1106/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021851",
+            "frame": 19,
+            "label": "『かてもの』（200021851）19v",
+            "side": "v",
+            "title": "かてもの"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021851/characters/U+7A37/U+7A37_200021851_00019_2_X0318_Y1106.jpg/full/full/0/default.jpg",
+        "unicode": "7A37"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34251291",

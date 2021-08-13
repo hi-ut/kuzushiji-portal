@@ -1,5 +1,65 @@
 [
     {
+        "character": "萌",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+840C_200003076_00040_2_X1459_Y1122",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E8%90%8C/manifest&pos=74&xywh=1459,1122,106,142",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+840C_200003076_00040_2_X1459_Y1122/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 40,
+            "label": "『好色一代男』（200003076）40v",
+            "side": "v",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+840C/U+840C_200003076_00040_2_X1459_Y1122.jpg/full/full/0/default.jpg",
+        "unicode": "840C"
+    },
+    {
+        "character": "萌",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+840C_200003076_00138_2_X0461_Y1325",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E8%90%8C/manifest&pos=268&xywh=461,1325,103,133",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+840C_200003076_00138_2_X0461_Y1325/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 138,
+            "label": "『好色一代男』（200003076）138v",
+            "side": "v",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+840C/U+840C_200003076_00138_2_X0461_Y1325.jpg/full/full/0/default.jpg",
+        "unicode": "840C"
+    },
+    {
+        "character": "萌",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+840C_200003967_00011_2_X1003_Y1542",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003967/%E8%90%8C/manifest&pos=18&xywh=1003,1542,97,134",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+840C_200003967_00011_2_X1003_Y1542/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003967",
+            "frame": 11,
+            "label": "『おらが春』（200003967）11v",
+            "side": "v",
+            "title": "おらが春"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003967/characters/U+840C/U+840C_200003967_00011_2_X1003_Y1542.jpg/full/full/0/default.jpg",
+        "unicode": "840C"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34133411",

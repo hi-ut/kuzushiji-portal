@@ -1,0 +1,42 @@
+[
+    {
+        "character": "兌",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+514C_200021644_00035_2_X0195_Y0851",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021644/%E5%85%8C/manifest&pos=69&xywh=195,851,81,107",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+514C_200021644_00035_2_X0195_Y0851/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021644",
+            "frame": 35,
+            "label": "『菓子話船橋』（200021644）35v",
+            "side": "v",
+            "title": "菓子話船橋"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021644/characters/U+514C/U+514C_200021644_00035_2_X0195_Y0851.jpg/full/full/0/default.jpg",
+        "unicode": "514C"
+    },
+    {
+        "character": "兌",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+514C_200021925_00023_2_X0155_Y1658",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021925/%E5%85%8C/manifest&pos=44&xywh=155,1658,131,103",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+514C_200021925_00023_2_X0155_Y1658/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021925",
+            "frame": 23,
+            "label": "『新編異国料理』（200021925）23v",
+            "side": "v",
+            "title": "新編異国料理"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021925/characters/U+514C/U+514C_200021925_00023_2_X0155_Y1658.jpg/full/full/0/default.jpg",
+        "unicode": "514C"
+    }
+]

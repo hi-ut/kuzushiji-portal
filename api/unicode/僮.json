@@ -1,5 +1,42 @@
 [
     {
+        "character": "僮",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+50EE_200014685_00015_2_X0114_Y2346",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E5%83%AE/manifest&pos=28&xywh=114,2346,89,97",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+50EE_200014685_00015_2_X0114_Y2346/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 15,
+            "label": "『南総里見八犬伝』（200014685）15v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+50EE/U+50EE_200014685_00015_2_X0114_Y2346.jpg/full/full/0/default.jpg",
+        "unicode": "50EE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0019",
+        "identifer": "26-19",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0019.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0019.tiff/full/full/0/default.jpg",
+        "title": "僮",
+        "unicode": "E583AE"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34220253",

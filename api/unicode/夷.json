@@ -1,5 +1,830 @@
 [
     {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AABUS48000747",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AAB/6AABUS48/6AABUS480007471/6AABUS480007471-2/list/6AABUS480007471-2-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AAB/6AABUS48/6AABUS480007471/6AABUS480007471-2/6AABUS480007471-2.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AABUS48000747",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AABUS480007471-C1.tiff/77,163,311,246/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AABUS48001921",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AAB/6AABUS48/6AABUS480019211/6AABUS480019211-3/list/6AABUS480019211-3-IR1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AAB/6AABUS48/6AABUS480019211/6AABUS480019211-3/6AABUS480019211-3.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AABUS48001921",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AABUS480019211-IR1.tiff/32,368,372,363/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AACVS15000110",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AAC/6AACVS15/6AACVS150001101/6AACVS150001101-5/list/6AACVS150001101-5-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AAC/6AACVS15/6AACVS150001101/6AACVS150001101-5/6AACVS150001101-5.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AACVS15000110",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AACVS150001101-C1.tiff/0,401,241,241/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AFFJD28000126",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFF/6AFFJD28/6AFFJD280001261/6AFFJD280001261-36/list/6AFFJD280001261-36-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFF/6AFFJD28/6AFFJD280001261/6AFFJD280001261-36/6AFFJD280001261-36.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFFJD28000126",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFFJD280001261-C1.tiff/393,2207,191,191/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "UTF-8"
+    },
+    {
+        "character": "夷",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5937_200004148_00003_2_X0966_Y1937",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%A4%B7/manifest&pos=4&xywh=966,1937,120,131",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5937_200004148_00003_2_X0966_Y1937/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 3,
+            "label": "『椿説弓張月』（200004148）3v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+5937/U+5937_200004148_00003_2_X0966_Y1937.jpg/full/full/0/default.jpg",
+        "unicode": "5937"
+    },
+    {
+        "character": "夷",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5937_200008316_00019_2_X2180_Y2430",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008316/%E5%A4%B7/manifest&pos=36&xywh=2180,2430,122,236",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5937_200008316_00019_2_X2180_Y2430/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008316",
+            "frame": 19,
+            "label": "『武家義理物語』（200008316）19v",
+            "side": "v",
+            "title": "武家義理物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008316/characters/U+5937/U+5937_200008316_00019_2_X2180_Y2430.jpg/full/full/0/default.jpg",
+        "unicode": "5937"
+    },
+    {
+        "character": "夷",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5937_200014685_00022_1_X0056_Y0653",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E5%A4%B7/manifest&pos=41&xywh=56,653,86,104",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5937_200014685_00022_1_X0056_Y0653/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 22,
+            "label": "『南総里見八犬伝』（200014685）22r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+5937/U+5937_200014685_00022_1_X0056_Y0653.jpg/full/full/0/default.jpg",
+        "unicode": "5937"
+    },
+    {
+        "character": "夷",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5937_200014685_00022_1_X1634_Y1529",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E5%A4%B7/manifest&pos=41&xywh=1634,1529,69,109",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5937_200014685_00022_1_X1634_Y1529/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 22,
+            "label": "『南総里見八犬伝』（200014685）22r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+5937/U+5937_200014685_00022_1_X1634_Y1529.jpg/full/full/0/default.jpg",
+        "unicode": "5937"
+    },
+    {
+        "character": "夷",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5937_200014685_00031_2_X1505_Y1550",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E5%A4%B7/manifest&pos=60&xywh=1505,1550,78,107",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5937_200014685_00031_2_X1505_Y1550/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 31,
+            "label": "『南総里見八犬伝』（200014685）31v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+5937/U+5937_200014685_00031_2_X1505_Y1550.jpg/full/full/0/default.jpg",
+        "unicode": "5937"
+    },
+    {
+        "character": "夷",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5937_200014740_00080_1_X0271_Y0441",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%A4%B7/manifest&pos=155&xywh=271,441,79,134",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5937_200014740_00080_1_X0271_Y0441/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 80,
+            "label": "『雨月物語』（200014740）80r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+5937/U+5937_200014740_00080_1_X0271_Y0441.jpg/full/full/0/default.jpg",
+        "unicode": "5937"
+    },
+    {
+        "character": "夷",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5937_200014740_00088_1_X0304_Y1666",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%A4%B7/manifest&pos=171&xywh=304,1666,85,136",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5937_200014740_00088_1_X0304_Y1666/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 88,
+            "label": "『雨月物語』（200014740）88r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+5937/U+5937_200014740_00088_1_X0304_Y1666.jpg/full/full/0/default.jpg",
+        "unicode": "5937"
+    },
+    {
+        "character": "夷",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5937_200015779_00027_2_X0484_Y2383",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%A4%B7/manifest&pos=46&xywh=484,2383,107,145",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5937_200015779_00027_2_X0484_Y2383/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 27,
+            "label": "『浮世風呂』（200015779）27v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+5937/U+5937_200015779_00027_2_X0484_Y2383.jpg/full/full/0/default.jpg",
+        "unicode": "5937"
+    },
+    {
+        "character": "夷",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5937_200015779_00028_1_X0110_Y0913",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%A4%B7/manifest&pos=47&xywh=110,913,101,144",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5937_200015779_00028_1_X0110_Y0913/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 28,
+            "label": "『浮世風呂』（200015779）28r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+5937/U+5937_200015779_00028_1_X0110_Y0913.jpg/full/full/0/default.jpg",
+        "unicode": "5937"
+    },
+    {
+        "character": "夷",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5937_200015843_00112_1_X0596_Y2572",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E5%A4%B7/manifest&pos=205&xywh=596,2572,83,132",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5937_200015843_00112_1_X0596_Y2572/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 112,
+            "label": "『日本永代蔵』（200015843）112r",
+            "side": "r",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+5937/U+5937_200015843_00112_1_X0596_Y2572.jpg/full/full/0/default.jpg",
+        "unicode": "5937"
+    },
+    {
+        "character": "夷",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5937_200021925_00009_1_X1598_Y1061",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021925/%E5%A4%B7/manifest&pos=15&xywh=1598,1061,89,79",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5937_200021925_00009_1_X1598_Y1061/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021925",
+            "frame": 9,
+            "label": "『新編異国料理』（200021925）9r",
+            "side": "r",
+            "title": "新編異国料理"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021925/characters/U+5937/U+5937_200021925_00009_1_X1598_Y1061.jpg/full/full/0/default.jpg",
+        "unicode": "5937"
+    },
+    {
+        "character": "夷",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5937_200021925_00009_1_X1768_Y1067",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021925/%E5%A4%B7/manifest&pos=15&xywh=1768,1067,84,84",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5937_200021925_00009_1_X1768_Y1067/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021925",
+            "frame": 9,
+            "label": "『新編異国料理』（200021925）9r",
+            "side": "r",
+            "title": "新編異国料理"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021925/characters/U+5937/U+5937_200021925_00009_1_X1768_Y1067.jpg/full/full/0/default.jpg",
+        "unicode": "5937"
+    },
+    {
+        "character": "夷",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5937_200021925_00009_1_X1940_Y0376",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021925/%E5%A4%B7/manifest&pos=15&xywh=1940,376,91,123",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5937_200021925_00009_1_X1940_Y0376/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021925",
+            "frame": 9,
+            "label": "『新編異国料理』（200021925）9r",
+            "side": "r",
+            "title": "新編異国料理"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021925/characters/U+5937/U+5937_200021925_00009_1_X1940_Y0376.jpg/full/full/0/default.jpg",
+        "unicode": "5937"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "myz0295",
+        "identifer": "8-295",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/08myz/myz0295.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "617年",
+            "value": "妙法蓮華經卷五(P2334)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/08myz/myz0295.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "fhs0042",
+        "identifer": "12-42",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/12fhs/fhs0042.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷六(P2195)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/12fhs/fhs0042.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0393",
+        "identifer": "13-393",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0393.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0393.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyd1501a",
+        "identifer": "14-1501a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/14kyd/kyd1501a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "初唐",
+            "value": "漢書楊雄傳(上野本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/14kyd/kyd1501a.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyd1501b",
+        "identifer": "14-1501b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/14kyd/kyd1501b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "初唐",
+            "value": "漢書楊雄傳(上野本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/14kyd/kyd1501b.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0715",
+        "identifer": "18-715",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0715.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0715.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0691",
+        "identifer": "19-691",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0691.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0691.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kkh0029",
+        "identifer": "27-29",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/27kkh/kkh0029.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "北宋期？",
+            "value": "金剛般若經(京都国立博物館本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/27kkh/kkh0029.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nak0032",
+        "identifer": "28-32",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/28nak/nak0032.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1146年",
+            "value": "華嚴孔目(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/28nak/nak0032.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jhk0040",
+        "identifer": "29-40",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/29jhk/jhk0040.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1126年",
+            "value": "神足變化經(開元寺版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/29jhk/jhk0040.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0088",
+        "identifer": "30-88",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0088.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0088.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0620",
+        "identifer": "31-620",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0620.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0620.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink1111a",
+        "identifer": "33-1111a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink1111a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink1111a.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink1111b",
+        "identifer": "33-1111b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink1111b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink1111b.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink1111c",
+        "identifer": "33-1111c",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink1111c.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink1111c.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0576",
+        "identifer": "34-576",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0576.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0576.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0584",
+        "identifer": "36-584",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0584.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0584.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240079",
+        "identifer": "3724-79",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240079.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240079.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ini0067",
+        "identifer": "38-67",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/38ini/ini0067.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1236年",
+            "value": "卷二(鴨脚本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/38ini/ini0067.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkk2015",
+        "identifer": "39-2015",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/39nkk/nkk2015.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1286年",
+            "value": "卷二(兼方本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/39nkk/nkk2015.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcc0067",
+        "identifer": "41-67",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/41kcc/kcc0067.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1599年",
+            "value": "卷二(慶長勅版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/41kcc/kcc0067.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcj0069",
+        "identifer": "42-69",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/42kcj/kcj0069.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1610年",
+            "value": "卷二(慶長十五年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/42kcj/kcj0069.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kbk0069",
+        "identifer": "43-69",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/43kbk/kbk0069.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/43kbk/kbk0069.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kmi0304",
+        "identifer": "55-304",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/55kmi/kmi0304.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "738年",
+            "value": "弥勒上生經(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/55kmi/kmi0304.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ykk0055",
+        "identifer": "68-55",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/68ykk/ykk0055.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1412年",
+            "value": "藥師功徳經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/68ykk/ykk0055.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0413a",
+        "identifer": "72-413a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0413a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0413a.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0413b",
+        "identifer": "72-413b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0413b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0413b.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0839a",
+        "identifer": "74-839a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0839a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0839a.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0839b",
+        "identifer": "74-839b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0839b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0839b.tiff/full/full/0/default.jpg",
+        "title": "夷",
+        "unicode": "E5A4B7"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34002774",

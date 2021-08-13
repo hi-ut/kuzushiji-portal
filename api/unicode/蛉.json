@@ -1,0 +1,42 @@
+[
+    {
+        "character": "蛉",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+86C9_200003967_00018_1_X0238_Y1622",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003967/%E8%9B%89/manifest&pos=31&xywh=238,1622,83,91",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+86C9_200003967_00018_1_X0238_Y1622/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003967",
+            "frame": 18,
+            "label": "『おらが春』（200003967）18r",
+            "side": "r",
+            "title": "おらが春"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003967/characters/U+86C9/U+86C9_200003967_00018_1_X0238_Y1622.jpg/full/full/0/default.jpg",
+        "unicode": "86C9"
+    },
+    {
+        "character": "蛉",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+86C9_200003967_00034_1_X1529_Y1156",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003967/%E8%9B%89/manifest&pos=61&xywh=1529,1156,96,106",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+86C9_200003967_00034_1_X1529_Y1156/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003967",
+            "frame": 34,
+            "label": "『おらが春』（200003967）34r",
+            "side": "r",
+            "title": "おらが春"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003967/characters/U+86C9/U+86C9_200003967_00034_1_X1529_Y1156.jpg/full/full/0/default.jpg",
+        "unicode": "86C9"
+    }
+]

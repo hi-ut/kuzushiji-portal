@@ -1,5 +1,83 @@
 [
     {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AABUS48001057",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AAB/6AABUS48/6AABUS480010571/6AABUS480010571-2/list/6AABUS480010571-2-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AAB/6AABUS48/6AABUS480010571/6AABUS480010571-2/6AABUS480010571-2.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AABUS48001057",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AABUS480010571-C1.tiff/80,328,336,326/full/0/default.jpg",
+        "title": "炬",
+        "unicode": "UTF-8"
+    },
+    {
+        "character": "炬",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+70AC_200003967_00011_1_X1503_Y1852",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003967/%E7%82%AC/manifest&pos=17&xywh=1503,1852,85,81",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+70AC_200003967_00011_1_X1503_Y1852/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003967",
+            "frame": 11,
+            "label": "『おらが春』（200003967）11r",
+            "side": "r",
+            "title": "おらが春"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003967/characters/U+70AC/U+70AC_200003967_00011_1_X1503_Y1852.jpg/full/full/0/default.jpg",
+        "unicode": "70AC"
+    },
+    {
+        "character": "炬",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+70AC_200014685_00018_2_X0289_Y0775",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E7%82%AC/manifest&pos=34&xywh=289,775,84,75",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+70AC_200014685_00018_2_X0289_Y0775/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 18,
+            "label": "『南総里見八犬伝』（200014685）18v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+70AC/U+70AC_200014685_00018_2_X0289_Y0775.jpg/full/full/0/default.jpg",
+        "unicode": "70AC"
+    },
+    {
+        "character": "炬",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+70AC_200015843_00106_2_X1179_Y2751",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E7%82%AC/manifest&pos=194&xywh=1179,2751,92,90",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+70AC_200015843_00106_2_X1179_Y2751/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 106,
+            "label": "『日本永代蔵』（200015843）106v",
+            "side": "v",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+70AC/U+70AC_200015843_00106_2_X1179_Y2751.jpg/full/full/0/default.jpg",
+        "unicode": "70AC"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34161194",

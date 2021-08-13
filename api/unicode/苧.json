@@ -1,5 +1,85 @@
 [
     {
+        "character": "苧",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+82E7_100249537_00024_1_X0364_Y1637",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249537/%E8%8B%A7/manifest&pos=46&xywh=364,1637,92,217",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+82E7_100249537_00024_1_X0364_Y1637/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249537",
+            "frame": 24,
+            "label": "『料理珍味集』（100249537）24r",
+            "side": "r",
+            "title": "料理珍味集"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249537/characters/U+82E7/U+82E7_100249537_00024_1_X0364_Y1637.jpg/full/full/0/default.jpg",
+        "unicode": "82E7"
+    },
+    {
+        "character": "苧",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+82E7_200005798_00012_2_X1560_Y2265",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005798/%E8%8B%A7/manifest&pos=22&xywh=1560,2265,79,132",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+82E7_200005798_00012_2_X1560_Y2265/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005798",
+            "frame": 12,
+            "label": "『世間胸算用／大晦日ハ一日千金』（200005798）12v",
+            "side": "v",
+            "title": "世間胸算用／大晦日ハ一日千金"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005798/characters/U+82E7/U+82E7_200005798_00012_2_X1560_Y2265.jpg/full/full/0/default.jpg",
+        "unicode": "82E7"
+    },
+    {
+        "character": "苧",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+82E7_200015843_00042_2_X0923_Y2272",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E8%8B%A7/manifest&pos=78&xywh=923,2272,83,177",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+82E7_200015843_00042_2_X0923_Y2272/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 42,
+            "label": "『日本永代蔵』（200015843）42v",
+            "side": "v",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+82E7/U+82E7_200015843_00042_2_X0923_Y2272.jpg/full/full/0/default.jpg",
+        "unicode": "82E7"
+    },
+    {
+        "character": "苧",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+82E7_200021712_00011_1_X0934_Y2358",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021712/%E8%8B%A7/manifest&pos=19&xywh=934,2358,84,150",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+82E7_200021712_00011_1_X0934_Y2358/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021712",
+            "frame": 11,
+            "label": "『万宝料理秘密箱』（200021712）11r",
+            "side": "r",
+            "title": "万宝料理秘密箱"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021712/characters/U+82E7/U+82E7_200021712_00011_1_X0934_Y2358.jpg/full/full/0/default.jpg",
+        "unicode": "82E7"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34200697",

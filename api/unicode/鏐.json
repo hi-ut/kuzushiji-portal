@@ -1,0 +1,62 @@
+[
+    {
+        "character": "鏐",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+93D0_200015843_00060_1_X1022_Y2818",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E9%8F%90/manifest&pos=109&xywh=1022,2818,105,124",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+93D0_200015843_00060_1_X1022_Y2818/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 60,
+            "label": "『日本永代蔵』（200015843）60r",
+            "side": "r",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+93D0/U+93D0_200015843_00060_1_X1022_Y2818.jpg/full/full/0/default.jpg",
+        "unicode": "93D0"
+    },
+    {
+        "character": "鏐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+93D0_200015843_00106_2_X0457_Y2070",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E9%8F%90/manifest&pos=194&xywh=457,2070,105,127",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+93D0_200015843_00106_2_X0457_Y2070/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 106,
+            "label": "『日本永代蔵』（200015843）106v",
+            "side": "v",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+93D0/U+93D0_200015843_00106_2_X0457_Y2070.jpg/full/full/0/default.jpg",
+        "unicode": "93D0"
+    },
+    {
+        "character": "鏐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+93D0_200015843_00108_1_X1877_Y1600",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E9%8F%90/manifest&pos=197&xywh=1877,1600,108,124",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+93D0_200015843_00108_1_X1877_Y1600/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 108,
+            "label": "『日本永代蔵』（200015843）108r",
+            "side": "r",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+93D0/U+93D0_200015843_00108_1_X1877_Y1600.jpg/full/full/0/default.jpg",
+        "unicode": "93D0"
+    }
+]

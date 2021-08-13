@@ -1,5 +1,643 @@
 [
     {
+        "character": "慧",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6167_200018243_00005_2_X0361_Y1648",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200018243/%E6%85%A7/manifest&pos=8&xywh=361,1648,74,102",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6167_200018243_00005_2_X0361_Y1648/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200018243",
+            "frame": 5,
+            "label": "『玉くしげ』（200018243）5v",
+            "side": "v",
+            "title": "玉くしげ"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200018243/characters/U+6167/U+6167_200018243_00005_2_X0361_Y1648.jpg/full/full/0/default.jpg",
+        "unicode": "6167"
+    },
+    {
+        "character": "慧",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+6167_200018243_00019_2_X0164_Y0610",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200018243/%E6%85%A7/manifest&pos=36&xywh=164,610,80,105",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6167_200018243_00019_2_X0164_Y0610/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200018243",
+            "frame": 19,
+            "label": "『玉くしげ』（200018243）19v",
+            "side": "v",
+            "title": "玉くしげ"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200018243/characters/U+6167/U+6167_200018243_00019_2_X0164_Y0610.jpg/full/full/0/default.jpg",
+        "unicode": "6167"
+    },
+    {
+        "character": "慧",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+6167_200018243_00029_1_X0964_Y2795",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200018243/%E6%85%A7/manifest&pos=55&xywh=964,2795,90,127",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6167_200018243_00029_1_X0964_Y2795/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200018243",
+            "frame": 29,
+            "label": "『玉くしげ』（200018243）29r",
+            "side": "r",
+            "title": "玉くしげ"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200018243/characters/U+6167/U+6167_200018243_00029_1_X0964_Y2795.jpg/full/full/0/default.jpg",
+        "unicode": "6167"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "dng0533",
+        "identifer": "3-533",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/03dng/dng0533.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "506年",
+            "value": "大般涅槃經卷十一(S81)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/03dng/dng0533.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "mam0617",
+        "identifer": "5-617",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/05mam/mam0617.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "586年",
+            "value": "摩訶摩耶經卷上(P2160)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/05mam/mam0617.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kgk0536",
+        "identifer": "7-536",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/07kgk/kgk0536.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "610年",
+            "value": "賢劫經卷二(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/07kgk/kgk0536.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "myz0368",
+        "identifer": "8-368",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/08myz/myz0368.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "617年",
+            "value": "妙法蓮華經卷五(P2334)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/08myz/myz0368.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kda0160",
+        "identifer": "9-160",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/09kda/kda0160.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "高昌期",
+            "value": "大品經卷二十八(京都国立博物館本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/09kda/kda0160.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khi0389",
+        "identifer": "10-389",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/10khi/khi0389.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "671年",
+            "value": "妙法蓮華經卷五(今西本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/10khi/khi0389.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khm0320",
+        "identifer": "11-320",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/11khm/khm0320.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷三(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/11khm/khm0320.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "fhs0373",
+        "identifer": "12-373",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/12fhs/fhs0373.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷六(P2195)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/12fhs/fhs0373.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0456",
+        "identifer": "13-456",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0456.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0456.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "yhk0595",
+        "identifer": "16-595",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/16yhk/yhk0595.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "712年",
+            "value": "瑜伽法鏡經(S2423)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/16yhk/yhk0595.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0132",
+        "identifer": "18-132",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0132.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0132.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sys0382",
+        "identifer": "22-382",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/22sys/sys0382.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "857年",
+            "value": "瑜伽師地論卷三十(S5309)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/22sys/sys0382.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzj0421a",
+        "identifer": "25-421a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/25tzj/tzj0421a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1100年",
+            "value": "阿毘達磨大毘婆沙論卷百七(東禪寺版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/25tzj/tzj0421a.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzj0421b",
+        "identifer": "25-421b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/25tzj/tzj0421b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1100年",
+            "value": "阿毘達磨大毘婆沙論卷百七(東禪寺版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/25tzj/tzj0421b.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kkh0284",
+        "identifer": "27-284",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/27kkh/kkh0284.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "北宋期？",
+            "value": "金剛般若經(京都国立博物館本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/27kkh/kkh0284.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nak0479",
+        "identifer": "28-479",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/28nak/nak0479.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1146年",
+            "value": "華嚴孔目(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/28nak/nak0479.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jhk0414",
+        "identifer": "29-414",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/29jhk/jhk0414.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1126年",
+            "value": "神足變化經(開元寺版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/29jhk/jhk0414.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod1008",
+        "identifer": "30-1008",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod1008.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod1008.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "skk0278",
+        "identifer": "46-278",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/46skk/skk0278.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "華嚴經卷二十(晉本高麗古版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/46skk/skk0278.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyu0347",
+        "identifer": "47-347",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/47kyu/kyu0347.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "11C",
+            "value": "瑜伽師地論卷五(高麗初彫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/47kyu/kyu0347.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ksk0285",
+        "identifer": "48-285",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/48ksk/ksk0285.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "13C",
+            "value": "華嚴經卷六(高麗再彫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/48ksk/ksk0285.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wan0313",
+        "identifer": "49-313",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/49wan/wan0313.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "華嚴經卷三十八(趙氏藏本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/49wan/wan0313.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kmi0073",
+        "identifer": "55-73",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/55kmi/kmi0073.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "738年",
+            "value": "弥勒上生經(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/55kmi/kmi0073.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0850",
+        "identifer": "56-850",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0850.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0850.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "doh0338",
+        "identifer": "57-338",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/57doh/doh0338.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "815年",
+            "value": "金剛大教王經卷一(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/57doh/doh0338.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jyu0250",
+        "identifer": "58-250",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/58jyu/jyu0250.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1088年",
+            "value": "成唯識論卷十(寛治二年刊本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/58jyu/jyu0250.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzs0529",
+        "identifer": "60-529",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/60tzs/tzs0529.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C",
+            "value": "佛説大教王經卷一(東禪寺版日本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/60tzs/tzs0529.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyo0369",
+        "identifer": "66-369",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/66kyo/kyo0369.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1224年",
+            "value": "教行信証卷四(親鸞自筆)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/66kyo/kyo0369.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ykk0527",
+        "identifer": "68-527",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/68ykk/ykk0527.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1412年",
+            "value": "藥師功徳經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/68ykk/ykk0527.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "saa0106",
+        "identifer": "70-106",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/70saa/saa0106.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/70saa/saa0106.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0390",
+        "identifer": "71-390",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0390.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0390.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0500",
+        "identifer": "72-500",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0500.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0500.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wke0488",
+        "identifer": "73-488",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/73wke/wke0488.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/73wke/wke0488.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0492",
+        "identifer": "74-492",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0492.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0492.tiff/full/full/0/default.jpg",
+        "title": "慧",
+        "unicode": "E685A7"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34214432",

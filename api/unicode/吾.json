@@ -1,5 +1,2270 @@
 [
     {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AFFJE28000101",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFF/6AFFJE28/6AFFJE280001012/6AFFJE280001012-9/list/6AFFJE280001012-9-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFF/6AFFJE28/6AFFJE280001012/6AFFJE280001012-9/6AFFJE280001012-9.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFFJE28000101",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFFJE280001012-C1.tiff/959,3096,366,321/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AAIOO46000131",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AAI/6AAIOO46/6AAIOO460001312/6AAIOO460001312-8/list/6AAIOO460001312-8-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AAI/6AAIOO46/6AAIOO460001312/6AAIOO460001312-8/6AAIOO460001312-8.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AAIOO46000131",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AAIOO460001312-C1.tiff/200,4704,495,621/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6ALSJS46000049",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6ALS/6ALSJS46/6ALSJS460000492/6ALSJS460000492-8/list/6ALSJS460000492-8-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6ALS/6ALSJS46/6ALSJS460000492/6ALSJS460000492-8/6ALSJS460000492-8.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6ALSJS46000049",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6ALSJS460000492-C1.tiff/200,4704,495,621/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "UTF-8"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+543E_200003076_00040_1_X0801_Y1135",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E5%90%BE/manifest&pos=73&xywh=801,1135,104,112",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200003076_00040_1_X0801_Y1135/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 40,
+            "label": "『好色一代男』（200003076）40r",
+            "side": "r",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+543E/U+543E_200003076_00040_1_X0801_Y1135.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200003076_00153_1_X1430_Y1707",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E5%90%BE/manifest&pos=297&xywh=1430,1707,94,121",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200003076_00153_1_X1430_Y1707/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 153,
+            "label": "『好色一代男』（200003076）153r",
+            "side": "r",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+543E/U+543E_200003076_00153_1_X1430_Y1707.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200003076_00155_1_X0409_Y2395",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E5%90%BE/manifest&pos=301&xywh=409,2395,79,100",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200003076_00155_1_X0409_Y2395/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 155,
+            "label": "『好色一代男』（200003076）155r",
+            "side": "r",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+543E/U+543E_200003076_00155_1_X0409_Y2395.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200003076_00155_1_X1606_Y2760",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E5%90%BE/manifest&pos=301&xywh=1606,2760,96,94",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200003076_00155_1_X1606_Y2760/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 155,
+            "label": "『好色一代男』（200003076）155r",
+            "side": "r",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+543E/U+543E_200003076_00155_1_X1606_Y2760.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200003076_00156_1_X0244_Y1970",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E5%90%BE/manifest&pos=303&xywh=244,1970,93,110",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200003076_00156_1_X0244_Y1970/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 156,
+            "label": "『好色一代男』（200003076）156r",
+            "side": "r",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+543E/U+543E_200003076_00156_1_X0244_Y1970.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200003076_00175_2_X1269_Y2343",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E5%90%BE/manifest&pos=342&xywh=1269,2343,197,172",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200003076_00175_2_X1269_Y2343/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 175,
+            "label": "『好色一代男』（200003076）175v",
+            "side": "v",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+543E/U+543E_200003076_00175_2_X1269_Y2343.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+543E_200003967_00008_1_X0848_Y1192",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003967/%E5%90%BE/manifest&pos=11&xywh=848,1192,62,102",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200003967_00008_1_X0848_Y1192/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003967",
+            "frame": 8,
+            "label": "『おらが春』（200003967）8r",
+            "side": "r",
+            "title": "おらが春"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003967/characters/U+543E/U+543E_200003967_00008_1_X0848_Y1192.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+543E_200004148_00034_2_X0214_Y1673",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%90%BE/manifest&pos=66&xywh=214,1673,80,80",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200004148_00034_2_X0214_Y1673/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 34,
+            "label": "『椿説弓張月』（200004148）34v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+543E/U+543E_200004148_00034_2_X0214_Y1673.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200004148_00034_2_X0665_Y2318",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%90%BE/manifest&pos=66&xywh=665,2318,82,89",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200004148_00034_2_X0665_Y2318/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 34,
+            "label": "『椿説弓張月』（200004148）34v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+543E/U+543E_200004148_00034_2_X0665_Y2318.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200004148_00040_2_X0975_Y0857",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%90%BE/manifest&pos=78&xywh=975,857,87,90",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200004148_00040_2_X0975_Y0857/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 40,
+            "label": "『椿説弓張月』（200004148）40v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+543E/U+543E_200004148_00040_2_X0975_Y0857.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200004148_00047_2_X1714_Y0931",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%90%BE/manifest&pos=92&xywh=1714,931,42,89",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200004148_00047_2_X1714_Y0931/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 47,
+            "label": "『椿説弓張月』（200004148）47v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+543E/U+543E_200004148_00047_2_X1714_Y0931.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200004148_00062_2_X0527_Y1183",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%90%BE/manifest&pos=122&xywh=527,1183,82,85",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200004148_00062_2_X0527_Y1183/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 62,
+            "label": "『椿説弓張月』（200004148）62v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+543E/U+543E_200004148_00062_2_X0527_Y1183.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200004148_00062_2_X0683_Y2459",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%90%BE/manifest&pos=122&xywh=683,2459,80,70",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200004148_00062_2_X0683_Y2459/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 62,
+            "label": "『椿説弓張月』（200004148）62v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+543E/U+543E_200004148_00062_2_X0683_Y2459.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+543E_200005598_00027_1_X0293_Y1203",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005598/%E5%90%BE/manifest&pos=51&xywh=293,1203,89,123",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200005598_00027_1_X0293_Y1203/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005598",
+            "frame": 27,
+            "label": "『傾城買四十八手』（200005598）27r",
+            "side": "r",
+            "title": "傾城買四十八手"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005598/characters/U+543E/U+543E_200005598_00027_1_X0293_Y1203.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+543E_200008003_00004_2_X1358_Y1680",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008003/%E5%90%BE/manifest&pos=6&xywh=1358,1680,213,185",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200008003_00004_2_X1358_Y1680/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008003",
+            "frame": 4,
+            "label": "『歌学提要』（200008003）4v",
+            "side": "v",
+            "title": "歌学提要"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008003/characters/U+543E/U+543E_200008003_00004_2_X1358_Y1680.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200008003_00004_2_X2271_Y3144",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008003/%E5%90%BE/manifest&pos=6&xywh=2271,3144,211,189",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200008003_00004_2_X2271_Y3144/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008003",
+            "frame": 4,
+            "label": "『歌学提要』（200008003）4v",
+            "side": "v",
+            "title": "歌学提要"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008003/characters/U+543E/U+543E_200008003_00004_2_X2271_Y3144.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+543E_200014685_00003_1_X0818_Y2891",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E5%90%BE/manifest&pos=3&xywh=818,2891,124,105",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014685_00003_1_X0818_Y2891/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 3,
+            "label": "『南総里見八犬伝』（200014685）3r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+543E/U+543E_200014685_00003_1_X0818_Y2891.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014685_00004_2_X1694_Y2297",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E5%90%BE/manifest&pos=6&xywh=1694,2297,52,52",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014685_00004_2_X1694_Y2297/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 4,
+            "label": "『南総里見八犬伝』（200014685）4v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+543E/U+543E_200014685_00004_2_X1694_Y2297.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014685_00004_2_X1713_Y2115",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E5%90%BE/manifest&pos=6&xywh=1713,2115,74,87",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014685_00004_2_X1713_Y2115/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 4,
+            "label": "『南総里見八犬伝』（200014685）4v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+543E/U+543E_200014685_00004_2_X1713_Y2115.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014685_00009_1_X1696_Y1397",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E5%90%BE/manifest&pos=15&xywh=1696,1397,52,58",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014685_00009_1_X1696_Y1397/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 9,
+            "label": "『南総里見八犬伝』（200014685）9r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+543E/U+543E_200014685_00009_1_X1696_Y1397.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014685_00019_2_X1889_Y1949",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E5%90%BE/manifest&pos=36&xywh=1889,1949,76,97",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014685_00019_2_X1889_Y1949/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 19,
+            "label": "『南総里見八犬伝』（200014685）19v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+543E/U+543E_200014685_00019_2_X1889_Y1949.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014685_00020_1_X0082_Y2757",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E5%90%BE/manifest&pos=37&xywh=82,2757,87,88",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014685_00020_1_X0082_Y2757/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 20,
+            "label": "『南総里見八犬伝』（200014685）20r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+543E/U+543E_200014685_00020_1_X0082_Y2757.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+543E_200014740_00013_1_X0843_Y1904",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=23&xywh=843,1904,101,103",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00013_1_X0843_Y1904/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 13,
+            "label": "『雨月物語』（200014740）13r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00013_1_X0843_Y1904.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00013_2_X0328_Y0555",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=24&xywh=328,555,88,115",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00013_2_X0328_Y0555/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 13,
+            "label": "『雨月物語』（200014740）13v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00013_2_X0328_Y0555.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00013_2_X1227_Y2009",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=24&xywh=1227,2009,81,120",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00013_2_X1227_Y2009/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 13,
+            "label": "『雨月物語』（200014740）13v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00013_2_X1227_Y2009.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00014_1_X0871_Y1545",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=25&xywh=871,1545,95,110",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00014_1_X0871_Y1545/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 14,
+            "label": "『雨月物語』（200014740）14r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00014_1_X0871_Y1545.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00014_1_X1158_Y0301",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=25&xywh=1158,301,96,118",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00014_1_X1158_Y0301/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 14,
+            "label": "『雨月物語』（200014740）14r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00014_1_X1158_Y0301.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00014_2_X0369_Y0343",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=26&xywh=369,343,89,107",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00014_2_X0369_Y0343/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 14,
+            "label": "『雨月物語』（200014740）14v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00014_2_X0369_Y0343.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00014_2_X0801_Y1367",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=26&xywh=801,1367,107,94",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00014_2_X0801_Y1367/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 14,
+            "label": "『雨月物語』（200014740）14v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00014_2_X0801_Y1367.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00014_2_X1259_Y0468",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=26&xywh=1259,468,85,104",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00014_2_X1259_Y0468/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 14,
+            "label": "『雨月物語』（200014740）14v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00014_2_X1259_Y0468.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00014_2_X1411_Y0809",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=26&xywh=1411,809,90,119",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00014_2_X1411_Y0809/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 14,
+            "label": "『雨月物語』（200014740）14v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00014_2_X1411_Y0809.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00015_1_X1570_Y2548",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=27&xywh=1570,2548,96,123",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00015_1_X1570_Y2548/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 15,
+            "label": "『雨月物語』（200014740）15r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00015_1_X1570_Y2548.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00018_1_X0109_Y0898",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=33&xywh=109,898,102,103",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00018_1_X0109_Y0898/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 18,
+            "label": "『雨月物語』（200014740）18r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00018_1_X0109_Y0898.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00018_1_X0846_Y1368",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=33&xywh=846,1368,91,110",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00018_1_X0846_Y1368/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 18,
+            "label": "『雨月物語』（200014740）18r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00018_1_X0846_Y1368.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00018_1_X1580_Y1424",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=33&xywh=1580,1424,96,96",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00018_1_X1580_Y1424/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 18,
+            "label": "『雨月物語』（200014740）18r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00018_1_X1580_Y1424.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00018_2_X1820_Y1591",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=34&xywh=1820,1591,97,82",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00018_2_X1820_Y1591/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 18,
+            "label": "『雨月物語』（200014740）18v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00018_2_X1820_Y1591.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00019_1_X0146_Y0453",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=35&xywh=146,453,99,99",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00019_1_X0146_Y0453/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 19,
+            "label": "『雨月物語』（200014740）19r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00019_1_X0146_Y0453.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00019_2_X1401_Y1839",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=36&xywh=1401,1839,94,96",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00019_2_X1401_Y1839/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 19,
+            "label": "『雨月物語』（200014740）19v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00019_2_X1401_Y1839.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00020_1_X0433_Y1956",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=37&xywh=433,1956,92,98",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00020_1_X0433_Y1956/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 20,
+            "label": "『雨月物語』（200014740）20r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00020_1_X0433_Y1956.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00020_1_X0875_Y0841",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=37&xywh=875,841,97,94",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00020_1_X0875_Y0841/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 20,
+            "label": "『雨月物語』（200014740）20r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00020_1_X0875_Y0841.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00020_1_X1461_Y2479",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=37&xywh=1461,2479,99,85",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00020_1_X1461_Y2479/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 20,
+            "label": "『雨月物語』（200014740）20r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00020_1_X1461_Y2479.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00020_2_X0679_Y2359",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=38&xywh=679,2359,86,92",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00020_2_X0679_Y2359/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 20,
+            "label": "『雨月物語』（200014740）20v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00020_2_X0679_Y2359.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00029_1_X0537_Y1100",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=55&xywh=537,1100,90,105",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00029_1_X0537_Y1100/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 29,
+            "label": "『雨月物語』（200014740）29r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00029_1_X0537_Y1100.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00029_1_X1116_Y1155",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=55&xywh=1116,1155,99,96",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00029_1_X1116_Y1155/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 29,
+            "label": "『雨月物語』（200014740）29r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00029_1_X1116_Y1155.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00062_2_X0649_Y2744",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=120&xywh=649,2744,92,92",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00062_2_X0649_Y2744/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 62,
+            "label": "『雨月物語』（200014740）62v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00062_2_X0649_Y2744.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00066_2_X0362_Y0363",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=128&xywh=362,363,90,114",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00066_2_X0362_Y0363/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 66,
+            "label": "『雨月物語』（200014740）66v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00066_2_X0362_Y0363.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00066_2_X1103_Y2608",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=128&xywh=1103,2608,90,119",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00066_2_X1103_Y2608/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 66,
+            "label": "『雨月物語』（200014740）66v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00066_2_X1103_Y2608.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00069_2_X0951_Y0962",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=134&xywh=951,962,108,97",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00069_2_X0951_Y0962/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 69,
+            "label": "『雨月物語』（200014740）69v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00069_2_X0951_Y0962.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00071_1_X0424_Y1574",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=137&xywh=424,1574,111,99",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00071_1_X0424_Y1574/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 71,
+            "label": "『雨月物語』（200014740）71r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00071_1_X0424_Y1574.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00071_2_X1252_Y0511",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=138&xywh=1252,511,104,86",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00071_2_X1252_Y0511/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 71,
+            "label": "『雨月物語』（200014740）71v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00071_2_X1252_Y0511.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00074_1_X0276_Y0931",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=143&xywh=276,931,84,99",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00074_1_X0276_Y0931/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 74,
+            "label": "『雨月物語』（200014740）74r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00074_1_X0276_Y0931.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200014740_00074_1_X1144_Y2105",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%90%BE/manifest&pos=143&xywh=1144,2105,95,100",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200014740_00074_1_X1144_Y2105/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 74,
+            "label": "『雨月物語』（200014740）74r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+543E/U+543E_200014740_00074_1_X1144_Y2105.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+543E_200015779_00006_1_X1649_Y1551",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%90%BE/manifest&pos=3&xywh=1649,1551,125,87",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200015779_00006_1_X1649_Y1551/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 6,
+            "label": "『浮世風呂』（200015779）6r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+543E/U+543E_200015779_00006_1_X1649_Y1551.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200015779_00012_2_X0928_Y0741",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%90%BE/manifest&pos=16&xywh=928,741,123,119",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200015779_00012_2_X0928_Y0741/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 12,
+            "label": "『浮世風呂』（200015779）12v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+543E/U+543E_200015779_00012_2_X0928_Y0741.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200015779_00037_1_X0099_Y1068",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%90%BE/manifest&pos=65&xywh=99,1068,106,106",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200015779_00037_1_X0099_Y1068/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 37,
+            "label": "『浮世風呂』（200015779）37r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+543E/U+543E_200015779_00037_1_X0099_Y1068.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200015779_00088_2_X1843_Y0387",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%90%BE/manifest&pos=154&xywh=1843,387,134,147",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200015779_00088_2_X1843_Y0387/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 88,
+            "label": "『浮世風呂』（200015779）88v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+543E/U+543E_200015779_00088_2_X1843_Y0387.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+543E_200018243_00007_2_X1321_Y0843",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200018243/%E5%90%BE/manifest&pos=12&xywh=1321,843,86,89",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200018243_00007_2_X1321_Y0843/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200018243",
+            "frame": 7,
+            "label": "『玉くしげ』（200018243）7v",
+            "side": "v",
+            "title": "玉くしげ"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200018243/characters/U+543E/U+543E_200018243_00007_2_X1321_Y0843.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200018243_00015_1_X1750_Y1437",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200018243/%E5%90%BE/manifest&pos=27&xywh=1750,1437,86,96",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200018243_00015_1_X1750_Y1437/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200018243",
+            "frame": 15,
+            "label": "『玉くしげ』（200018243）15r",
+            "side": "r",
+            "title": "玉くしげ"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200018243/characters/U+543E/U+543E_200018243_00015_1_X1750_Y1437.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+543E_200019865_00095_1_X0403_Y2773",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200019865/%E5%90%BE/manifest&pos=165&xywh=403,2773,79,113",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200019865_00095_1_X0403_Y2773/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200019865",
+            "frame": 95,
+            "label": "『女郎花物語』（200019865）95r",
+            "side": "r",
+            "title": "女郎花物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200019865/characters/U+543E/U+543E_200019865_00095_1_X0403_Y2773.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200019865_00095_2_X1534_Y2575",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200019865/%E5%90%BE/manifest&pos=166&xywh=1534,2575,96,118",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200019865_00095_2_X1534_Y2575/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200019865",
+            "frame": 95,
+            "label": "『女郎花物語』（200019865）95v",
+            "side": "v",
+            "title": "女郎花物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200019865/characters/U+543E/U+543E_200019865_00095_2_X1534_Y2575.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+543E_200021071_00018_1_X1293_Y1872",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E5%90%BE/manifest&pos=31&xywh=1293,1872,97,113",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021071_00018_1_X1293_Y1872/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 18,
+            "label": "『伊曾保物語』（200021071）18r",
+            "side": "r",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+543E/U+543E_200021071_00018_1_X1293_Y1872.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021071_00019_2_X0543_Y0890",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E5%90%BE/manifest&pos=34&xywh=543,890,96,110",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021071_00019_2_X0543_Y0890/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 19,
+            "label": "『伊曾保物語』（200021071）19v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+543E/U+543E_200021071_00019_2_X0543_Y0890.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021071_00024_1_X1137_Y1017",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E5%90%BE/manifest&pos=43&xywh=1137,1017,93,108",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021071_00024_1_X1137_Y1017/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 24,
+            "label": "『伊曾保物語』（200021071）24r",
+            "side": "r",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+543E/U+543E_200021071_00024_1_X1137_Y1017.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021071_00038_1_X0112_Y2077",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E5%90%BE/manifest&pos=67&xywh=112,2077,88,100",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021071_00038_1_X0112_Y2077/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 38,
+            "label": "『伊曾保物語』（200021071）38r",
+            "side": "r",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+543E/U+543E_200021071_00038_1_X0112_Y2077.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021071_00045_2_X1600_Y1227",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E5%90%BE/manifest&pos=82&xywh=1600,1227,88,108",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021071_00045_2_X1600_Y1227/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 45,
+            "label": "『伊曾保物語』（200021071）45v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+543E/U+543E_200021071_00045_2_X1600_Y1227.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021071_00049_2_X0077_Y0643",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E5%90%BE/manifest&pos=90&xywh=77,643,94,109",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021071_00049_2_X0077_Y0643/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 49,
+            "label": "『伊曾保物語』（200021071）49v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+543E/U+543E_200021071_00049_2_X0077_Y0643.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021071_00054_2_X1284_Y1345",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E5%90%BE/manifest&pos=100&xywh=1284,1345,82,96",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021071_00054_2_X1284_Y1345/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 54,
+            "label": "『伊曾保物語』（200021071）54v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+543E/U+543E_200021071_00054_2_X1284_Y1345.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021071_00055_2_X1586_Y1262",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E5%90%BE/manifest&pos=102&xywh=1586,1262,96,106",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021071_00055_2_X1586_Y1262/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 55,
+            "label": "『伊曾保物語』（200021071）55v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+543E/U+543E_200021071_00055_2_X1586_Y1262.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021071_00056_2_X0983_Y2092",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E5%90%BE/manifest&pos=104&xywh=983,2092,86,96",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021071_00056_2_X0983_Y2092/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 56,
+            "label": "『伊曾保物語』（200021071）56v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+543E/U+543E_200021071_00056_2_X0983_Y2092.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021071_00058_1_X1294_Y1864",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E5%90%BE/manifest&pos=107&xywh=1294,1864,99,108",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021071_00058_1_X1294_Y1864/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 58,
+            "label": "『伊曾保物語』（200021071）58r",
+            "side": "r",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+543E/U+543E_200021071_00058_1_X1294_Y1864.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021071_00060_1_X1438_Y0650",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E5%90%BE/manifest&pos=111&xywh=1438,650,87,98",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021071_00060_1_X1438_Y0650/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 60,
+            "label": "『伊曾保物語』（200021071）60r",
+            "side": "r",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+543E/U+543E_200021071_00060_1_X1438_Y0650.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021071_00062_2_X0851_Y2229",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E5%90%BE/manifest&pos=116&xywh=851,2229,81,95",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021071_00062_2_X0851_Y2229/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 62,
+            "label": "『伊曾保物語』（200021071）62v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+543E/U+543E_200021071_00062_2_X0851_Y2229.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021071_00074_1_X1432_Y2572",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E5%90%BE/manifest&pos=135&xywh=1432,2572,82,93",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021071_00074_1_X1432_Y2572/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 74,
+            "label": "『伊曾保物語』（200021071）74r",
+            "side": "r",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+543E/U+543E_200021071_00074_1_X1432_Y2572.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021071_00078_1_X0217_Y2221",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E5%90%BE/manifest&pos=143&xywh=217,2221,93,101",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021071_00078_1_X0217_Y2221/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 78,
+            "label": "『伊曾保物語』（200021071）78r",
+            "side": "r",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+543E/U+543E_200021071_00078_1_X0217_Y2221.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021071_00078_2_X0076_Y2308",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E5%90%BE/manifest&pos=144&xywh=76,2308,84,95",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021071_00078_2_X0076_Y2308/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 78,
+            "label": "『伊曾保物語』（200021071）78v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+543E/U+543E_200021071_00078_2_X0076_Y2308.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021071_00080_1_X0394_Y2449",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E5%90%BE/manifest&pos=147&xywh=394,2449,91,104",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021071_00080_1_X0394_Y2449/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 80,
+            "label": "『伊曾保物語』（200021071）80r",
+            "side": "r",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+543E/U+543E_200021071_00080_1_X0394_Y2449.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021071_00081_1_X0548_Y0884",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E5%90%BE/manifest&pos=149&xywh=548,884,84,112",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021071_00081_1_X0548_Y0884/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 81,
+            "label": "『伊曾保物語』（200021071）81r",
+            "side": "r",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+543E/U+543E_200021071_00081_1_X0548_Y0884.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021071_00083_2_X1428_Y2828",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E5%90%BE/manifest&pos=154&xywh=1428,2828,92,105",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021071_00083_2_X1428_Y2828/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 83,
+            "label": "『伊曾保物語』（200021071）83v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+543E/U+543E_200021071_00083_2_X1428_Y2828.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021071_00086_1_X0972_Y2695",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E5%90%BE/manifest&pos=159&xywh=972,2695,81,95",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021071_00086_1_X0972_Y2695/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 86,
+            "label": "『伊曾保物語』（200021071）86r",
+            "side": "r",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+543E/U+543E_200021071_00086_1_X0972_Y2695.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021071_00088_2_X0248_Y1589",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E5%90%BE/manifest&pos=164&xywh=248,1589,91,109",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021071_00088_2_X0248_Y1589/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 88,
+            "label": "『伊曾保物語』（200021071）88v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+543E/U+543E_200021071_00088_2_X0248_Y1589.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021071_00089_1_X1298_Y1132",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E5%90%BE/manifest&pos=165&xywh=1298,1132,78,99",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021071_00089_1_X1298_Y1132/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 89,
+            "label": "『伊曾保物語』（200021071）89r",
+            "side": "r",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+543E/U+543E_200021071_00089_1_X1298_Y1132.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021071_00100_2_X0991_Y1393",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E5%90%BE/manifest&pos=188&xywh=991,1393,87,98",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021071_00100_2_X0991_Y1393/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 100,
+            "label": "『伊曾保物語』（200021071）100v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+543E/U+543E_200021071_00100_2_X0991_Y1393.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021071_00100_2_X1588_Y2083",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E5%90%BE/manifest&pos=188&xywh=1588,2083,99,111",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021071_00100_2_X1588_Y2083/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 100,
+            "label": "『伊曾保物語』（200021071）100v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+543E/U+543E_200021071_00100_2_X1588_Y2083.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021071_00102_2_X0975_Y2085",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E5%90%BE/manifest&pos=192&xywh=975,2085,97,111",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021071_00102_2_X0975_Y2085/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 102,
+            "label": "『伊曾保物語』（200021071）102v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+543E/U+543E_200021071_00102_2_X0975_Y2085.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021071_00102_2_X1737_Y1732",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E5%90%BE/manifest&pos=192&xywh=1737,1732,88,101",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021071_00102_2_X1737_Y1732/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 102,
+            "label": "『伊曾保物語』（200021071）102v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+543E/U+543E_200021071_00102_2_X1737_Y1732.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+543E_200021660_00003_2_X0595_Y2500",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E5%90%BE/manifest&pos=4&xywh=595,2500,177,159",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021660_00003_2_X0595_Y2500/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 3,
+            "label": "『養蚕秘録』（200021660）3v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+543E/U+543E_200021660_00003_2_X0595_Y2500.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021660_00087_2_X0964_Y0968",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E5%90%BE/manifest&pos=168&xywh=964,968,87,85",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021660_00087_2_X0964_Y0968/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 87,
+            "label": "『養蚕秘録』（200021660）87v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+543E/U+543E_200021660_00087_2_X0964_Y0968.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021660_00088_1_X0685_Y1821",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E5%90%BE/manifest&pos=169&xywh=685,1821,113,125",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021660_00088_1_X0685_Y1821/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 88,
+            "label": "『養蚕秘録』（200021660）88r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+543E/U+543E_200021660_00088_1_X0685_Y1821.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+543E_200021660_00093_1_X1588_Y2468",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E5%90%BE/manifest&pos=179&xywh=1588,2468,132,136",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021660_00093_1_X1588_Y2468/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 93,
+            "label": "『養蚕秘録』（200021660）93r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+543E/U+543E_200021660_00093_1_X1588_Y2468.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+543E_200021925_00004_1_X1501_Y0251",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021925/%E5%90%BE/manifest&pos=5&xywh=1501,251,156,139",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200021925_00004_1_X1501_Y0251/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021925",
+            "frame": 4,
+            "label": "『新編異国料理』（200021925）4r",
+            "side": "r",
+            "title": "新編異国料理"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021925/characters/U+543E/U+543E_200021925_00004_1_X1501_Y0251.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "character": "吾",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+543E_200025191_00043_1_X1095_Y0407",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200025191/%E5%90%BE/manifest&pos=75&xywh=1095,407,91,112",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+543E_200025191_00043_1_X1095_Y0407/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200025191",
+            "frame": 43,
+            "label": "『仁勢物語』（200025191）43r",
+            "side": "r",
+            "title": "仁勢物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200025191/characters/U+543E/U+543E_200025191_00043_1_X1095_Y0407.jpg/full/full/0/default.jpg",
+        "unicode": "543E"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kgk0403",
+        "identifer": "7-403",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/07kgk/kgk0403.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "610年",
+            "value": "賢劫經卷二(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/07kgk/kgk0403.tiff/full/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "E590BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "myz0017",
+        "identifer": "8-17",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/08myz/myz0017.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "617年",
+            "value": "妙法蓮華經卷五(P2334)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/08myz/myz0017.tiff/full/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "E590BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyd0940",
+        "identifer": "14-940",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/14kyd/kyd0940.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "初唐",
+            "value": "漢書楊雄傳(上野本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/14kyd/kyd0940.tiff/full/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "E590BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "yhk0453",
+        "identifer": "16-453",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/16yhk/yhk0453.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "712年",
+            "value": "瑜伽法鏡經(S2423)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/16yhk/yhk0453.tiff/full/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "E590BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kak0309",
+        "identifer": "17-309",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/17kak/kak0309.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經孝經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/17kak/kak0309.tiff/full/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "E590BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0652",
+        "identifer": "18-652",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0652.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0652.tiff/full/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "E590BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0650",
+        "identifer": "19-650",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0650.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0650.tiff/full/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "E590BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jhk0027",
+        "identifer": "29-27",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/29jhk/jhk0027.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1126年",
+            "value": "神足變化經(開元寺版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/29jhk/jhk0027.tiff/full/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "E590BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0062",
+        "identifer": "30-62",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0062.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0062.tiff/full/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "E590BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0591",
+        "identifer": "31-591",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0591.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0591.tiff/full/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "E590BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink0545",
+        "identifer": "33-545",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink0545.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink0545.tiff/full/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "E590BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0529",
+        "identifer": "34-529",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0529.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0529.tiff/full/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "E590BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0540",
+        "identifer": "36-540",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0540.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0540.tiff/full/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "E590BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240533",
+        "identifer": "3724-533",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240533.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240533.tiff/full/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "E590BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ini0488",
+        "identifer": "38-488",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/38ini/ini0488.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1236年",
+            "value": "卷二(鴨脚本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/38ini/ini0488.tiff/full/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "E590BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkk0432",
+        "identifer": "39-432",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/39nkk/nkk0432.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1286年",
+            "value": "卷二(兼方本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/39nkk/nkk0432.tiff/full/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "E590BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcc0522",
+        "identifer": "41-522",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/41kcc/kcc0522.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1599年",
+            "value": "卷二(慶長勅版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/41kcc/kcc0522.tiff/full/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "E590BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcj0522",
+        "identifer": "42-522",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/42kcj/kcj0522.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1610年",
+            "value": "卷二(慶長十五年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/42kcj/kcj0522.tiff/full/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "E590BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kbk0497",
+        "identifer": "43-497",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/43kbk/kbk0497.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/43kbk/kbk0497.tiff/full/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "E590BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "okd0017",
+        "identifer": "50-17",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/50okd/okd0017.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "686年",
+            "value": "金剛場陀羅尼經(小川本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/50okd/okd0017.tiff/full/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "E590BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0699",
+        "identifer": "56-699",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0699.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0699.tiff/full/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "E590BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0029",
+        "identifer": "71-29",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0029.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0029.tiff/full/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "E590BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0375",
+        "identifer": "74-375",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0375.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0375.tiff/full/full/0/default.jpg",
+        "title": "吾",
+        "unicode": "E590BE"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34001917",

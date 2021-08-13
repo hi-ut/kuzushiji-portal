@@ -1,5 +1,65 @@
 [
     {
+        "character": "萱",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+8431_200003967_00027_2_X0551_Y1570",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003967/%E8%90%B1/manifest&pos=48&xywh=551,1570,75,133",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8431_200003967_00027_2_X0551_Y1570/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003967",
+            "frame": 27,
+            "label": "『おらが春』（200003967）27v",
+            "side": "v",
+            "title": "おらが春"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003967/characters/U+8431/U+8431_200003967_00027_2_X0551_Y1570.jpg/full/full/0/default.jpg",
+        "unicode": "8431"
+    },
+    {
+        "character": "萱",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+8431_200014740_00025_2_X1716_Y2422",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E8%90%B1/manifest&pos=48&xywh=1716,2422,85,141",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8431_200014740_00025_2_X1716_Y2422/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 25,
+            "label": "『雨月物語』（200014740）25v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+8431/U+8431_200014740_00025_2_X1716_Y2422.jpg/full/full/0/default.jpg",
+        "unicode": "8431"
+    },
+    {
+        "character": "萱",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+8431_200021802_00017_1_X0477_Y0788",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021802/%E8%90%B1/manifest&pos=31&xywh=477,788,100,228",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8431_200021802_00017_1_X0477_Y0788/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021802",
+            "frame": 17,
+            "label": "『料理物語』（200021802）17r",
+            "side": "r",
+            "title": "料理物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021802/characters/U+8431/U+8431_200021802_00017_1_X0477_Y0788.jpg/full/full/0/default.jpg",
+        "unicode": "8431"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34184741",

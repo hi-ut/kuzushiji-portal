@@ -1,0 +1,100 @@
+[
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AADOB15000104",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AAD/6AADOB15/6AADOB150001041/6AADOB150001041-21/list/6AADOB150001041-21-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AAD/6AADOB15/6AADOB150001041/6AADOB150001041-21/6AADOB150001041-21.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AADOB15000104",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AADOB150001041-C1.tiff/240,2640,240,320/full/0/default.jpg",
+        "title": "稗",
+        "unicode": "UTF-8"
+    },
+    {
+        "character": "稗",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7A17_100249476_00012_1_X0859_Y1226",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249476/%E7%A8%97/manifest&pos=22&xywh=859,1226,105,143",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7A17_100249476_00012_1_X0859_Y1226/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249476",
+            "frame": 12,
+            "label": "『飯百珍伝』（100249476）12r",
+            "side": "r",
+            "title": "飯百珍伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249476/characters/U+7A17/U+7A17_100249476_00012_1_X0859_Y1226.jpg/full/full/0/default.jpg",
+        "unicode": "7A17"
+    },
+    {
+        "character": "稗",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+7A17_100249476_00018_2_X0336_Y0848",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249476/%E7%A8%97/manifest&pos=35&xywh=336,848,107,123",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7A17_100249476_00018_2_X0336_Y0848/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249476",
+            "frame": 18,
+            "label": "『飯百珍伝』（100249476）18v",
+            "side": "v",
+            "title": "飯百珍伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249476/characters/U+7A17/U+7A17_100249476_00018_2_X0336_Y0848.jpg/full/full/0/default.jpg",
+        "unicode": "7A17"
+    },
+    {
+        "character": "稗",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7A17_200015779_00088_1_X1186_Y2066",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E7%A8%97/manifest&pos=153&xywh=1186,2066,142,148",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7A17_200015779_00088_1_X1186_Y2066/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 88,
+            "label": "『浮世風呂』（200015779）88r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+7A17/U+7A17_200015779_00088_1_X1186_Y2066.jpg/full/full/0/default.jpg",
+        "unicode": "7A17"
+    },
+    {
+        "character": "稗",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7A17_200021660_00008_2_X2452_Y3384",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E7%A8%97/manifest&pos=14&xywh=2452,3384,123,105",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7A17_200021660_00008_2_X2452_Y3384/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 8,
+            "label": "『養蚕秘録』（200021660）8v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+7A17/U+7A17_200021660_00008_2_X2452_Y3384.jpg/full/full/0/default.jpg",
+        "unicode": "7A17"
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "character": "崔",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5D14_200021660_00039_1_X0879_Y0809",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E5%B4%94/manifest&pos=73&xywh=879,809,64,87",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5D14_200021660_00039_1_X0879_Y0809/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 39,
+            "label": "『養蚕秘録』（200021660）39r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+5D14/U+5D14_200021660_00039_1_X0879_Y0809.jpg/full/full/0/default.jpg",
+        "unicode": "5D14"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0791",
+        "identifer": "18-791",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0791.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0791.tiff/full/full/0/default.jpg",
+        "title": "崔",
+        "unicode": "E5B494"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0568",
+        "identifer": "26-568",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0568.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0568.tiff/full/full/0/default.jpg",
+        "title": "崔",
+        "unicode": "E5B494"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0623",
+        "identifer": "30-623",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0623.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0623.tiff/full/full/0/default.jpg",
+        "title": "崔",
+        "unicode": "E5B494"
+    }
+]

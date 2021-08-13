@@ -1,5 +1,643 @@
 [
     {
+        "character": "惟",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+60DF_200003967_00046_2_X1400_Y0946",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003967/%E6%83%9F/manifest&pos=86&xywh=1400,946,130,145",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+60DF_200003967_00046_2_X1400_Y0946/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003967",
+            "frame": 46,
+            "label": "『おらが春』（200003967）46v",
+            "side": "v",
+            "title": "おらが春"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003967/characters/U+60DF/U+60DF_200003967_00046_2_X1400_Y0946.jpg/full/full/0/default.jpg",
+        "unicode": "60DF"
+    },
+    {
+        "character": "惟",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+60DF_200003967_00047_1_X0689_Y1396",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003967/%E6%83%9F/manifest&pos=87&xywh=689,1396,144,140",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+60DF_200003967_00047_1_X0689_Y1396/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003967",
+            "frame": 47,
+            "label": "『おらが春』（200003967）47r",
+            "side": "r",
+            "title": "おらが春"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003967/characters/U+60DF/U+60DF_200003967_00047_1_X0689_Y1396.jpg/full/full/0/default.jpg",
+        "unicode": "60DF"
+    },
+    {
+        "character": "惟",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+60DF_200021660_00092_1_X1588_Y2451",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E6%83%9F/manifest&pos=177&xywh=1588,2451,141,131",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+60DF_200021660_00092_1_X1588_Y2451/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 92,
+            "label": "『養蚕秘録』（200021660）92r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+60DF/U+60DF_200021660_00092_1_X1588_Y2451.jpg/full/full/0/default.jpg",
+        "unicode": "60DF"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "mam0106",
+        "identifer": "5-106",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/05mam/mam0106.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "586年",
+            "value": "摩訶摩耶經卷上(P2160)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/05mam/mam0106.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kgk0099",
+        "identifer": "7-99",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/07kgk/kgk0099.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "610年",
+            "value": "賢劫經卷二(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/07kgk/kgk0099.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "myz0363",
+        "identifer": "8-363",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/08myz/myz0363.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "617年",
+            "value": "妙法蓮華經卷五(P2334)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/08myz/myz0363.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kda0158",
+        "identifer": "9-158",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/09kda/kda0158.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "高昌期",
+            "value": "大品經卷二十八(京都国立博物館本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/09kda/kda0158.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khi0375",
+        "identifer": "10-375",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/10khi/khi0375.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "671年",
+            "value": "妙法蓮華經卷五(今西本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/10khi/khi0375.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "fhs0065",
+        "identifer": "12-65",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/12fhs/fhs0065.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷六(P2195)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/12fhs/fhs0065.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0078",
+        "identifer": "13-78",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0078.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0078.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyd1050",
+        "identifer": "14-1050",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/14kyd/kyd1050.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "初唐",
+            "value": "漢書楊雄傳(上野本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/14kyd/kyd1050.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "yhk0585",
+        "identifer": "16-585",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/16yhk/yhk0585.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "712年",
+            "value": "瑜伽法鏡經(S2423)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/16yhk/yhk0585.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0126",
+        "identifer": "18-126",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0126.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0126.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0105",
+        "identifer": "19-105",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0105.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0105.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sys0376",
+        "identifer": "22-376",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/22sys/sys0376.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "857年",
+            "value": "瑜伽師地論卷三十(S5309)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/22sys/sys0376.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzj0208",
+        "identifer": "25-208",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/25tzj/tzj0208.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1100年",
+            "value": "阿毘達磨大毘婆沙論卷百七(東禪寺版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/25tzj/tzj0208.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nak0469",
+        "identifer": "28-469",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/28nak/nak0469.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1146年",
+            "value": "華嚴孔目(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/28nak/nak0469.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jhk0402",
+        "identifer": "29-402",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/29jhk/jhk0402.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1126年",
+            "value": "神足變化經(開元寺版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/29jhk/jhk0402.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0996",
+        "identifer": "30-996",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0996.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0996.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0741",
+        "identifer": "31-741",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0741.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0741.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ini0118",
+        "identifer": "38-118",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/38ini/ini0118.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1236年",
+            "value": "卷二(鴨脚本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/38ini/ini0118.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkk0569",
+        "identifer": "39-569",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/39nkk/nkk0569.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1286年",
+            "value": "卷二(兼方本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/39nkk/nkk0569.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcc0682",
+        "identifer": "41-682",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/41kcc/kcc0682.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1599年",
+            "value": "卷二(慶長勅版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/41kcc/kcc0682.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcj0641",
+        "identifer": "42-641",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/42kcj/kcj0641.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1610年",
+            "value": "卷二(慶長十五年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/42kcj/kcj0641.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kbk0640",
+        "identifer": "43-640",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/43kbk/kbk0640.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/43kbk/kbk0640.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "skk0294",
+        "identifer": "46-294",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/46skk/skk0294.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "華嚴經卷二十(晉本高麗古版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/46skk/skk0294.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ksk0052",
+        "identifer": "48-52",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/48ksk/ksk0052.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "13C",
+            "value": "華嚴經卷六(高麗再彫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/48ksk/ksk0052.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "okd0296",
+        "identifer": "50-296",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/50okd/okd0296.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "686年",
+            "value": "金剛場陀羅尼經(小川本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/50okd/okd0296.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kmi0348",
+        "identifer": "55-348",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/55kmi/kmi0348.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "738年",
+            "value": "弥勒上生經(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/55kmi/kmi0348.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0852",
+        "identifer": "56-852",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0852.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0852.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "doh0330",
+        "identifer": "57-330",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/57doh/doh0330.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "815年",
+            "value": "金剛大教王經卷一(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/57doh/doh0330.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzs0536",
+        "identifer": "60-536",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/60tzs/tzs0536.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C",
+            "value": "佛説大教王經卷一(東禪寺版日本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/60tzs/tzs0536.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyo0062",
+        "identifer": "66-62",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/66kyo/kyo0062.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1224年",
+            "value": "教行信証卷四(親鸞自筆)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/66kyo/kyo0062.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ykk0520",
+        "identifer": "68-520",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/68ykk/ykk0520.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1412年",
+            "value": "藥師功徳經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/68ykk/ykk0520.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0490",
+        "identifer": "72-490",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0490.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0490.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wke0481",
+        "identifer": "73-481",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/73wke/wke0481.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/73wke/wke0481.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0486",
+        "identifer": "74-486",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0486.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0486.tiff/full/full/0/default.jpg",
+        "title": "惟",
+        "unicode": "E6839F"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34004885",

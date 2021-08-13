@@ -18,6 +18,111 @@
         "unicode": "UTF-8"
     },
     {
+        "character": "儲",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5132_200021644_00007_2_X0335_Y0700",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021644/%E5%84%B2/manifest&pos=13&xywh=335,700,87,86",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5132_200021644_00007_2_X0335_Y0700/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021644",
+            "frame": 7,
+            "label": "『菓子話船橋』（200021644）7v",
+            "side": "v",
+            "title": "菓子話船橋"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021644/characters/U+5132/U+5132_200021644_00007_2_X0335_Y0700.jpg/full/full/0/default.jpg",
+        "unicode": "5132"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink0027",
+        "identifer": "33-27",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink0027.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink0027.tiff/full/full/0/default.jpg",
+        "title": "儲",
+        "unicode": "E584B2"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0024",
+        "identifer": "34-24",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0024.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0024.tiff/full/full/0/default.jpg",
+        "title": "儲",
+        "unicode": "E584B2"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0026",
+        "identifer": "36-26",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0026.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0026.tiff/full/full/0/default.jpg",
+        "title": "儲",
+        "unicode": "E584B2"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240026",
+        "identifer": "3724-26",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240026.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240026.tiff/full/full/0/default.jpg",
+        "title": "儲",
+        "unicode": "E584B2"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ykk0007",
+        "identifer": "68-7",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/68ykk/ykk0007.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1412年",
+            "value": "藥師功徳經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/68ykk/ykk0007.tiff/full/full/0/default.jpg",
+        "title": "儲",
+        "unicode": "E584B2"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34170133",

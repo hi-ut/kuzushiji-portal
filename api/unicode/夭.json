@@ -1,0 +1,56 @@
+[
+    {
+        "character": "夭",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+592D_200014685_00010_1_X1533_Y1729",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E5%A4%AD/manifest&pos=17&xywh=1533,1729,67,65",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+592D_200014685_00010_1_X1533_Y1729/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 10,
+            "label": "『南総里見八犬伝』（200014685）10r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+592D/U+592D_200014685_00010_1_X1533_Y1729.jpg/full/full/0/default.jpg",
+        "unicode": "592D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyd1500b",
+        "identifer": "14-1500b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/14kyd/kyd1500b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "初唐",
+            "value": "漢書楊雄傳(上野本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/14kyd/kyd1500b.tiff/full/full/0/default.jpg",
+        "title": "夭",
+        "unicode": "E5A4AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0714",
+        "identifer": "18-714",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0714.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0714.tiff/full/full/0/default.jpg",
+        "title": "夭",
+        "unicode": "E5A4AD"
+    }
+]

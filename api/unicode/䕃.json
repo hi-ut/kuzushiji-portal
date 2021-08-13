@@ -1,0 +1,42 @@
+[
+    {
+        "character": "䕃",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+4543_200015779_00122_2_X0473_Y0623",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E4%95%83/manifest&pos=222&xywh=473,623,107,150",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4543_200015779_00122_2_X0473_Y0623/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 122,
+            "label": "『浮世風呂』（200015779）122v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+4543/U+4543_200015779_00122_2_X0473_Y0623.jpg/full/full/0/default.jpg",
+        "unicode": "4543"
+    },
+    {
+        "character": "䕃",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+4543_200021712_00013_1_X1119_Y1018",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021712/%E4%95%83/manifest&pos=23&xywh=1119,1018,98,123",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4543_200021712_00013_1_X1119_Y1018/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021712",
+            "frame": 13,
+            "label": "『万宝料理秘密箱』（200021712）13r",
+            "side": "r",
+            "title": "万宝料理秘密箱"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021712/characters/U+4543/U+4543_200021712_00013_1_X1119_Y1018.jpg/full/full/0/default.jpg",
+        "unicode": "4543"
+    }
+]

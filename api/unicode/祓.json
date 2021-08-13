@@ -1,5 +1,45 @@
 [
     {
+        "character": "祓",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7953_200003967_00042_1_X0726_Y1646",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003967/%E7%A5%93/manifest&pos=77&xywh=726,1646,113,111",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7953_200003967_00042_1_X0726_Y1646/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003967",
+            "frame": 42,
+            "label": "『おらが春』（200003967）42r",
+            "side": "r",
+            "title": "おらが春"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003967/characters/U+7953/U+7953_200003967_00042_1_X0726_Y1646.jpg/full/full/0/default.jpg",
+        "unicode": "7953"
+    },
+    {
+        "character": "祓",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7953_200015779_00089_2_X1119_Y1283",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E7%A5%93/manifest&pos=156&xywh=1119,1283,164,109",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7953_200015779_00089_2_X1119_Y1283/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 89,
+            "label": "『浮世風呂』（200015779）89v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+7953/U+7953_200015779_00089_2_X1119_Y1283.jpg/full/full/0/default.jpg",
+        "unicode": "7953"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34148149",

@@ -1,5 +1,62 @@
 [
     {
+        "character": "懶",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+61F6_200014685_00018_2_X0282_Y1677",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E6%87%B6/manifest&pos=34&xywh=282,1677,92,89",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+61F6_200014685_00018_2_X0282_Y1677/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 18,
+            "label": "『南総里見八犬伝』（200014685）18v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+61F6/U+61F6_200014685_00018_2_X0282_Y1677.jpg/full/full/0/default.jpg",
+        "unicode": "61F6"
+    },
+    {
+        "character": "懶",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+61F6_200014685_00025_1_X1800_Y1481",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E6%87%B6/manifest&pos=47&xywh=1800,1481,92,91",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+61F6_200014685_00025_1_X1800_Y1481/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 25,
+            "label": "『南総里見八犬伝』（200014685）25r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+61F6/U+61F6_200014685_00025_1_X1800_Y1481.jpg/full/full/0/default.jpg",
+        "unicode": "61F6"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0166",
+        "identifer": "30-166",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0166.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0166.tiff/full/full/0/default.jpg",
+        "title": "懶",
+        "unicode": "E687B6"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34195809",

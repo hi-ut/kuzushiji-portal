@@ -1,0 +1,42 @@
+[
+    {
+        "character": "汐",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6C50_200003076_00053_1_X0088_Y0560",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E6%B1%90/manifest&pos=99&xywh=88,560,78,144",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6C50_200003076_00053_1_X0088_Y0560/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 53,
+            "label": "『好色一代男』（200003076）53r",
+            "side": "r",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+6C50/U+6C50_200003076_00053_1_X0088_Y0560.jpg/full/full/0/default.jpg",
+        "unicode": "6C50"
+    },
+    {
+        "character": "汐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+6C50_200003076_00151_1_X0908_Y2255",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E6%B1%90/manifest&pos=293&xywh=908,2255,75,121",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6C50_200003076_00151_1_X0908_Y2255/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 151,
+            "label": "『好色一代男』（200003076）151r",
+            "side": "r",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+6C50/U+6C50_200003076_00151_1_X0908_Y2255.jpg/full/full/0/default.jpg",
+        "unicode": "6C50"
+    }
+]

@@ -1,0 +1,379 @@
+[
+    {
+        "character": "偈",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5048_200014740_00038_2_X1390_Y1691",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%81%88/manifest&pos=74&xywh=1390,1691,107,126",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5048_200014740_00038_2_X1390_Y1691/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 38,
+            "label": "『雨月物語』（200014740）38v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+5048/U+5048_200014740_00038_2_X1390_Y1691.jpg/full/full/0/default.jpg",
+        "unicode": "5048"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "keg0252",
+        "identifer": "2-252",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/02keg/keg0252.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "514年",
+            "value": "華嚴經卷十六(S2067)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/02keg/keg0252.tiff/full/full/0/default.jpg",
+        "title": "偈",
+        "unicode": "E58188"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "dng0362",
+        "identifer": "3-362",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/03dng/dng0362.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "506年",
+            "value": "大般涅槃經卷十一(S81)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/03dng/dng0362.tiff/full/full/0/default.jpg",
+        "title": "偈",
+        "unicode": "E58188"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "mam0422",
+        "identifer": "5-422",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/05mam/mam0422.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "586年",
+            "value": "摩訶摩耶經卷上(P2160)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/05mam/mam0422.tiff/full/full/0/default.jpg",
+        "title": "偈",
+        "unicode": "E58188"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "drt0194",
+        "identifer": "6-194",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/06drt/drt0194.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "589年",
+            "value": "大樓炭經卷三(P2413)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/06drt/drt0194.tiff/full/full/0/default.jpg",
+        "title": "偈",
+        "unicode": "E58188"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kgk0014",
+        "identifer": "7-14",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/07kgk/kgk0014.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "610年",
+            "value": "賢劫經卷二(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/07kgk/kgk0014.tiff/full/full/0/default.jpg",
+        "title": "偈",
+        "unicode": "E58188"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "myz0220",
+        "identifer": "8-220",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/08myz/myz0220.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "617年",
+            "value": "妙法蓮華經卷五(P2334)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/08myz/myz0220.tiff/full/full/0/default.jpg",
+        "title": "偈",
+        "unicode": "E58188"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khi0236",
+        "identifer": "10-236",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/10khi/khi0236.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "671年",
+            "value": "妙法蓮華經卷五(今西本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/10khi/khi0236.tiff/full/full/0/default.jpg",
+        "title": "偈",
+        "unicode": "E58188"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khm0194",
+        "identifer": "11-194",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/11khm/khm0194.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷三(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/11khm/khm0194.tiff/full/full/0/default.jpg",
+        "title": "偈",
+        "unicode": "E58188"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "fhs0247",
+        "identifer": "12-247",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/12fhs/fhs0247.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷六(P2195)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/12fhs/fhs0247.tiff/full/full/0/default.jpg",
+        "title": "偈",
+        "unicode": "E58188"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0300",
+        "identifer": "13-300",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0300.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0300.tiff/full/full/0/default.jpg",
+        "title": "偈",
+        "unicode": "E58188"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyd0895",
+        "identifer": "14-895",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/14kyd/kyd0895.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "初唐",
+            "value": "漢書楊雄傳(上野本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/14kyd/kyd0895.tiff/full/full/0/default.jpg",
+        "title": "偈",
+        "unicode": "E58188"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kkh0476a",
+        "identifer": "27-476a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/27kkh/kkh0476a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "北宋期？",
+            "value": "金剛般若經(京都国立博物館本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/27kkh/kkh0476a.tiff/full/full/0/default.jpg",
+        "title": "偈",
+        "unicode": "E58188"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kkh0476b",
+        "identifer": "27-476b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/27kkh/kkh0476b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "北宋期？",
+            "value": "金剛般若經(京都国立博物館本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/27kkh/kkh0476b.tiff/full/full/0/default.jpg",
+        "title": "偈",
+        "unicode": "E58188"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nak0286",
+        "identifer": "28-286",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/28nak/nak0286.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1146年",
+            "value": "華嚴孔目(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/28nak/nak0286.tiff/full/full/0/default.jpg",
+        "title": "偈",
+        "unicode": "E58188"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jhk0013",
+        "identifer": "29-13",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/29jhk/jhk0013.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1126年",
+            "value": "神足變化經(開元寺版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/29jhk/jhk0013.tiff/full/full/0/default.jpg",
+        "title": "偈",
+        "unicode": "E58188"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0730",
+        "identifer": "30-730",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0730.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0730.tiff/full/full/0/default.jpg",
+        "title": "偈",
+        "unicode": "E58188"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "skk0011",
+        "identifer": "46-11",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/46skk/skk0011.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "華嚴經卷二十(晉本高麗古版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/46skk/skk0011.tiff/full/full/0/default.jpg",
+        "title": "偈",
+        "unicode": "E58188"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0024",
+        "identifer": "56-24",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0024.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0024.tiff/full/full/0/default.jpg",
+        "title": "偈",
+        "unicode": "E58188"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyo0235",
+        "identifer": "66-235",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/66kyo/kyo0235.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1224年",
+            "value": "教行信証卷四(親鸞自筆)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/66kyo/kyo0235.tiff/full/full/0/default.jpg",
+        "title": "偈",
+        "unicode": "E58188"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0834a",
+        "identifer": "74-834a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0834a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0834a.tiff/full/full/0/default.jpg",
+        "title": "偈",
+        "unicode": "E58188"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0834b",
+        "identifer": "74-834b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0834b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0834b.tiff/full/full/0/default.jpg",
+        "title": "偈",
+        "unicode": "E58188"
+    }
+]

@@ -1,5 +1,25 @@
 [
     {
+        "character": "砌",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+780C_200021086_00009_2_X1568_Y2770",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021086/%E7%A0%8C/manifest&pos=16&xywh=1568,2770,109,98",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+780C_200021086_00009_2_X1568_Y2770/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021086",
+            "frame": 9,
+            "label": "『伊曾保物語』（200021086）9v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021086/characters/U+780C/U+780C_200021086_00009_2_X1568_Y2770.jpg/full/full/0/default.jpg",
+        "unicode": "780C"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34010734",

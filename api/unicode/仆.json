@@ -1,0 +1,110 @@
+[
+    {
+        "character": "仆",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+4EC6_200014685_00027_1_X0390_Y2644",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E4%BB%86/manifest&pos=51&xywh=390,2644,109,87",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4EC6_200014685_00027_1_X0390_Y2644/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 27,
+            "label": "『南総里見八犬伝』（200014685）27r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+4EC6/U+4EC6_200014685_00027_1_X0390_Y2644.jpg/full/full/0/default.jpg",
+        "unicode": "4EC6"
+    },
+    {
+        "character": "仆",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4EC6_200014685_00029_1_X1445_Y1186",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E4%BB%86/manifest&pos=55&xywh=1445,1186,92,85",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4EC6_200014685_00029_1_X1445_Y1186/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 29,
+            "label": "『南総里見八犬伝』（200014685）29r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+4EC6/U+4EC6_200014685_00029_1_X1445_Y1186.jpg/full/full/0/default.jpg",
+        "unicode": "4EC6"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkk0003",
+        "identifer": "39-3",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/39nkk/nkk0003.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1286年",
+            "value": "卷二(兼方本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/39nkk/nkk0003.tiff/full/full/0/default.jpg",
+        "title": "仆",
+        "unicode": "E4BB86"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcc0009",
+        "identifer": "41-9",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/41kcc/kcc0009.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1599年",
+            "value": "卷二(慶長勅版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/41kcc/kcc0009.tiff/full/full/0/default.jpg",
+        "title": "仆",
+        "unicode": "E4BB86"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcj0005",
+        "identifer": "42-5",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/42kcj/kcj0005.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1610年",
+            "value": "卷二(慶長十五年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/42kcj/kcj0005.tiff/full/full/0/default.jpg",
+        "title": "仆",
+        "unicode": "E4BB86"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kbk0005",
+        "identifer": "43-5",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/43kbk/kbk0005.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/43kbk/kbk0005.tiff/full/full/0/default.jpg",
+        "title": "仆",
+        "unicode": "E4BB86"
+    }
+]

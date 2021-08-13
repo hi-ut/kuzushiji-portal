@@ -1,0 +1,42 @@
+[
+    {
+        "character": "蒟",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+849F_200021763_00023_1_X1154_Y0697",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021763/%E8%92%9F/manifest&pos=44&xywh=1154,697,129,232",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+849F_200021763_00023_1_X1154_Y0697/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021763",
+            "frame": 23,
+            "label": "『膳部料理抄』（200021763）23r",
+            "side": "r",
+            "title": "膳部料理抄"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021763/characters/U+849F/U+849F_200021763_00023_1_X1154_Y0697.jpg/full/full/0/default.jpg",
+        "unicode": "849F"
+    },
+    {
+        "character": "蒟",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+849F_200021802_00014_2_X2585_Y0776",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021802/%E8%92%9F/manifest&pos=26&xywh=2585,776,117,183",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+849F_200021802_00014_2_X2585_Y0776/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021802",
+            "frame": 14,
+            "label": "『料理物語』（200021802）14v",
+            "side": "v",
+            "title": "料理物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021802/characters/U+849F/U+849F_200021802_00014_2_X2585_Y0776.jpg/full/full/0/default.jpg",
+        "unicode": "849F"
+    }
+]
