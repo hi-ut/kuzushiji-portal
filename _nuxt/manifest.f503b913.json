@@ -1,0 +1,12 @@
+{
+  "name": "東京大学史料編纂所版史的文字横断検索ポータル",
+  "short_name": "くずし字",
+  "description": "東京大学史料編纂所版の史的文字横断検索ポータルのプロトタイプシステムです。",
+  "icons": [],
+  "start_url": "/kuzushiji-portal/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "ja",
+  "orientation": "portrait"
+}
