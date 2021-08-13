@@ -95,7 +95,7 @@
           <v-col cols="3" md="1" v-for="(item, key2) in value.list" :key="key2">
             <a
               :href="
-                'https://clioapi.hi.u-tokyo.ac.jp/mirador/?manifest=' +
+                'https://universalviewer.io/examples/uv/uv.html#?manifest=' +
                 item.manifest
               "
               target="_blank"
@@ -129,7 +129,7 @@ import ResultOption from '~/components/display/ResultOption.vue'
 })
 export default class about extends Vue {
   id: any = this.$route.params.id
-  title: string = '「' + this.id + '」くずし字データセット'
+  title: string = '文字種「' + this.id + '」'
 
   baseUrl: any = process.env.BASE_URL
 
