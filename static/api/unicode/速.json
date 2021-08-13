@@ -1,0 +1,1642 @@
+[
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AFFJD28000126",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFF/6AFFJD28/6AFFJD280001262/6AFFJD280001262-45/list/6AFFJD280001262-45-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFF/6AFFJD28/6AFFJD280001262/6AFFJD280001262-45/6AFFJD280001262-45.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFFJD28000126",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFFJD280001262-C1.tiff/160,1280,240,161/full/0/default.jpg",
+        "title": "速",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AFITC11000140",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITC11/6AFITC110001402/6AFITC110001402-3/list/6AFITC110001402-3-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITC11/6AFITC110001402/6AFITC110001402-3/6AFITC110001402-3.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFITC11000140",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFITC110001402-C1.tiff/77,623,545,624/full/0/default.jpg",
+        "title": "速",
+        "unicode": "UTF-8"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+901F_100249371_00006_2_X0884_Y1296",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249371/%E9%80%9F/manifest&pos=11&xywh=884,1296,95,120",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_100249371_00006_2_X0884_Y1296/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249371",
+            "frame": 6,
+            "label": "『鼎左秘録』（100249371）6v",
+            "side": "v",
+            "title": "鼎左秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249371/characters/U+901F/U+901F_100249371_00006_2_X0884_Y1296.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+901F_100249371_00015_2_X0895_Y2285",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249371/%E9%80%9F/manifest&pos=29&xywh=895,2285,88,112",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_100249371_00015_2_X0895_Y2285/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249371",
+            "frame": 15,
+            "label": "『鼎左秘録』（100249371）15v",
+            "side": "v",
+            "title": "鼎左秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249371/characters/U+901F/U+901F_100249371_00015_2_X0895_Y2285.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+901F_200004148_00050_1_X0014_Y1445",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E9%80%9F/manifest&pos=97&xywh=14,1445,44,88",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200004148_00050_1_X0014_Y1445/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 50,
+            "label": "『椿説弓張月』（200004148）50r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+901F/U+901F_200004148_00050_1_X0014_Y1445.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+901F_200004148_00065_1_X0421_Y2170",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E9%80%9F/manifest&pos=127&xywh=421,2170,98,100",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200004148_00065_1_X0421_Y2170/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 65,
+            "label": "『椿説弓張月』（200004148）65r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+901F/U+901F_200004148_00065_1_X0421_Y2170.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+901F_200004148_00068_1_X1152_Y1800",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E9%80%9F/manifest&pos=133&xywh=1152,1800,83,98",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200004148_00068_1_X1152_Y1800/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 68,
+            "label": "『椿説弓張月』（200004148）68r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+901F/U+901F_200004148_00068_1_X1152_Y1800.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+901F_200004148_00081_2_X0821_Y2428",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E9%80%9F/manifest&pos=156&xywh=821,2428,84,89",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200004148_00081_2_X0821_Y2428/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 81,
+            "label": "『椿説弓張月』（200004148）81v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+901F/U+901F_200004148_00081_2_X0821_Y2428.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+901F_200008316_00018_1_X2070_Y3191",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008316/%E9%80%9F/manifest&pos=33&xywh=2070,3191,105,174",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200008316_00018_1_X2070_Y3191/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008316",
+            "frame": 18,
+            "label": "『武家義理物語』（200008316）18r",
+            "side": "r",
+            "title": "武家義理物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008316/characters/U+901F/U+901F_200008316_00018_1_X2070_Y3191.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+901F_200008316_00099_2_X1515_Y1980",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008316/%E9%80%9F/manifest&pos=176&xywh=1515,1980,142,203",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200008316_00099_2_X1515_Y1980/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008316",
+            "frame": 99,
+            "label": "『武家義理物語』（200008316）99v",
+            "side": "v",
+            "title": "武家義理物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008316/characters/U+901F/U+901F_200008316_00099_2_X1515_Y1980.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+901F_200008316_00125_2_X1943_Y0869",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008316/%E9%80%9F/manifest&pos=222&xywh=1943,869,110,189",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200008316_00125_2_X1943_Y0869/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008316",
+            "frame": 125,
+            "label": "『武家義理物語』（200008316）125v",
+            "side": "v",
+            "title": "武家義理物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008316/characters/U+901F/U+901F_200008316_00125_2_X1943_Y0869.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+901F_200014685_00011_2_X0613_Y2799",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E9%80%9F/manifest&pos=20&xywh=613,2799,96,97",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200014685_00011_2_X0613_Y2799/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 11,
+            "label": "『南総里見八犬伝』（200014685）11v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+901F/U+901F_200014685_00011_2_X0613_Y2799.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+901F_200014740_00012_1_X0380_Y1674",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E9%80%9F/manifest&pos=21&xywh=380,1674,101,104",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200014740_00012_1_X0380_Y1674/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 12,
+            "label": "『雨月物語』（200014740）12r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+901F/U+901F_200014740_00012_1_X0380_Y1674.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+901F_200014740_00020_1_X0129_Y1904",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E9%80%9F/manifest&pos=37&xywh=129,1904,107,112",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200014740_00020_1_X0129_Y1904/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 20,
+            "label": "『雨月物語』（200014740）20r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+901F/U+901F_200014740_00020_1_X0129_Y1904.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+901F_200014740_00022_1_X0555_Y2511",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E9%80%9F/manifest&pos=41&xywh=555,2511,96,100",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200014740_00022_1_X0555_Y2511/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 22,
+            "label": "『雨月物語』（200014740）22r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+901F/U+901F_200014740_00022_1_X0555_Y2511.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+901F_200014740_00026_1_X1113_Y0949",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E9%80%9F/manifest&pos=49&xywh=1113,949,99,104",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200014740_00026_1_X1113_Y0949/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 26,
+            "label": "『雨月物語』（200014740）26r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+901F/U+901F_200014740_00026_1_X1113_Y0949.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+901F_200014740_00063_1_X0740_Y1379",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E9%80%9F/manifest&pos=121&xywh=740,1379,95,119",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200014740_00063_1_X0740_Y1379/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 63,
+            "label": "『雨月物語』（200014740）63r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+901F/U+901F_200014740_00063_1_X0740_Y1379.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+901F_200014740_00071_1_X0265_Y1166",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E9%80%9F/manifest&pos=137&xywh=265,1166,105,112",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200014740_00071_1_X0265_Y1166/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 71,
+            "label": "『雨月物語』（200014740）71r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+901F/U+901F_200014740_00071_1_X0265_Y1166.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+901F_200014740_00083_1_X1621_Y1158",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E9%80%9F/manifest&pos=161&xywh=1621,1158,102,119",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200014740_00083_1_X1621_Y1158/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 83,
+            "label": "『雨月物語』（200014740）83r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+901F/U+901F_200014740_00083_1_X1621_Y1158.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+901F_200015779_00113_2_X1549_Y0891",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E9%80%9F/manifest&pos=204&xywh=1549,891,116,146",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200015779_00113_2_X1549_Y0891/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 113,
+            "label": "『浮世風呂』（200015779）113v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+901F/U+901F_200015779_00113_2_X1549_Y0891.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+901F_200018243_00012_1_X1365_Y1683",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200018243/%E9%80%9F/manifest&pos=21&xywh=1365,1683,102,103",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200018243_00012_1_X1365_Y1683/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200018243",
+            "frame": 12,
+            "label": "『玉くしげ』（200018243）12r",
+            "side": "r",
+            "title": "玉くしげ"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200018243/characters/U+901F/U+901F_200018243_00012_1_X1365_Y1683.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+901F_200018243_00015_2_X0156_Y2460",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200018243/%E9%80%9F/manifest&pos=28&xywh=156,2460,106,114",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200018243_00015_2_X0156_Y2460/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200018243",
+            "frame": 15,
+            "label": "『玉くしげ』（200018243）15v",
+            "side": "v",
+            "title": "玉くしげ"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200018243/characters/U+901F/U+901F_200018243_00015_2_X0156_Y2460.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+901F_200018243_00015_2_X0741_Y0513",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200018243/%E9%80%9F/manifest&pos=28&xywh=741,513,83,97",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200018243_00015_2_X0741_Y0513/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200018243",
+            "frame": 15,
+            "label": "『玉くしげ』（200018243）15v",
+            "side": "v",
+            "title": "玉くしげ"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200018243/characters/U+901F/U+901F_200018243_00015_2_X0741_Y0513.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+901F_200018243_00016_1_X0763_Y2246",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200018243/%E9%80%9F/manifest&pos=29&xywh=763,2246,108,114",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200018243_00016_1_X0763_Y2246/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200018243",
+            "frame": 16,
+            "label": "『玉くしげ』（200018243）16r",
+            "side": "r",
+            "title": "玉くしげ"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200018243/characters/U+901F/U+901F_200018243_00016_1_X0763_Y2246.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+901F_200018243_00016_1_X1360_Y2783",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200018243/%E9%80%9F/manifest&pos=29&xywh=1360,2783,99,124",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200018243_00016_1_X1360_Y2783/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200018243",
+            "frame": 16,
+            "label": "『玉くしげ』（200018243）16r",
+            "side": "r",
+            "title": "玉くしげ"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200018243/characters/U+901F/U+901F_200018243_00016_1_X1360_Y2783.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+901F_200018243_00016_1_X1557_Y1617",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200018243/%E9%80%9F/manifest&pos=29&xywh=1557,1617,97,105",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200018243_00016_1_X1557_Y1617/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200018243",
+            "frame": 16,
+            "label": "『玉くしげ』（200018243）16r",
+            "side": "r",
+            "title": "玉くしげ"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200018243/characters/U+901F/U+901F_200018243_00016_1_X1557_Y1617.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+901F_200021086_00029_1_X0203_Y0551",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021086/%E9%80%9F/manifest&pos=55&xywh=203,551,91,138",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200021086_00029_1_X0203_Y0551/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021086",
+            "frame": 29,
+            "label": "『伊曾保物語』（200021086）29r",
+            "side": "r",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021086/characters/U+901F/U+901F_200021086_00029_1_X0203_Y0551.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+901F_200021660_00039_2_X1586_Y3794",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E9%80%9F/manifest&pos=74&xywh=1586,3794,103,91",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200021660_00039_2_X1586_Y3794/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 39,
+            "label": "『養蚕秘録』（200021660）39v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+901F/U+901F_200021660_00039_2_X1586_Y3794.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+901F_200021660_00057_2_X0969_Y2674",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E9%80%9F/manifest&pos=110&xywh=969,2674,103,112",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200021660_00057_2_X0969_Y2674/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 57,
+            "label": "『養蚕秘録』（200021660）57v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+901F/U+901F_200021660_00057_2_X0969_Y2674.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "character": "速",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+901F_200021660_00092_2_X0780_Y1312",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E9%80%9F/manifest&pos=178&xywh=780,1312,155,155",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+901F_200021660_00092_2_X0780_Y1312/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 92,
+            "label": "『養蚕秘録』（200021660）92v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+901F/U+901F_200021660_00092_2_X0780_Y1312.jpg/full/full/0/default.jpg",
+        "unicode": "901F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "myz0153",
+        "identifer": "8-153",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/08myz/myz0153.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "617年",
+            "value": "妙法蓮華經卷五(P2334)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/08myz/myz0153.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khi0592",
+        "identifer": "10-592",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/10khi/khi0592.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "671年",
+            "value": "妙法蓮華經卷五(今西本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/10khi/khi0592.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sok0099",
+        "identifer": "15-99",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/15sok/sok0099.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "則天期",
+            "value": "花嚴經卷八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/15sok/sok0099.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "yhk0899",
+        "identifer": "16-899",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/16yhk/yhk0899.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "712年",
+            "value": "瑜伽法鏡經(S2423)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/16yhk/yhk0899.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar1346",
+        "identifer": "18-1346",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar1346.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar1346.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae1474",
+        "identifer": "19-1474",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae1474.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae1474.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sys0648",
+        "identifer": "22-648",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/22sys/sys0648.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "857年",
+            "value": "瑜伽師地論卷三十(S5309)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/22sys/sys0648.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0902",
+        "identifer": "26-902",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0902.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0902.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nak0170",
+        "identifer": "28-170",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/28nak/nak0170.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1146年",
+            "value": "華嚴孔目(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/28nak/nak0170.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0572",
+        "identifer": "30-572",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0572.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0572.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink0975",
+        "identifer": "33-975",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink0975.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink0975.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0972",
+        "identifer": "34-972",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0972.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0972.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0990",
+        "identifer": "36-990",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0990.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0990.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240958",
+        "identifer": "3724-958",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240958.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240958.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ini0984",
+        "identifer": "38-984",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/38ini/ini0984.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1236年",
+            "value": "卷二(鴨脚本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/38ini/ini0984.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkk0914",
+        "identifer": "39-914",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/39nkk/nkk0914.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1286年",
+            "value": "卷二(兼方本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/39nkk/nkk0914.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcc1084",
+        "identifer": "41-1084",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/41kcc/kcc1084.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1599年",
+            "value": "卷二(慶長勅版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/41kcc/kcc1084.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcj1034",
+        "identifer": "42-1034",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/42kcj/kcj1034.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1610年",
+            "value": "卷二(慶長十五年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/42kcj/kcj1034.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kbk1036",
+        "identifer": "43-1036",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/43kbk/kbk1036.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/43kbk/kbk1036.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sik0103",
+        "identifer": "44-103",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/44sik/sik0103.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "754～755年",
+            "value": "花嚴經卷八(新羅本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/44sik/sik0103.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ksk0512",
+        "identifer": "48-512",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/48ksk/ksk0512.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "13C",
+            "value": "華嚴經卷六(高麗再彫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/48ksk/ksk0512.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wan0561",
+        "identifer": "49-561",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/49wan/wan0561.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "華嚴經卷三十八(趙氏藏本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/49wan/wan0561.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kmi0182",
+        "identifer": "55-182",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/55kmi/kmi0182.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "738年",
+            "value": "弥勒上生經(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/55kmi/kmi0182.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0481",
+        "identifer": "56-481",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0481.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0481.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "doh0499",
+        "identifer": "57-499",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/57doh/doh0499.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "815年",
+            "value": "金剛大教王經卷一(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/57doh/doh0499.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jyu0083",
+        "identifer": "58-83",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/58jyu/jyu0083.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1088年",
+            "value": "成唯識論卷十(寛治二年刊本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/58jyu/jyu0083.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kss0602",
+        "identifer": "64-602",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/64kss/kss0602.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1221年",
+            "value": "華嚴信種義(明惠自筆)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/64kss/kss0602.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ykk0768",
+        "identifer": "68-768",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/68ykk/ykk0768.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1412年",
+            "value": "藥師功徳經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/68ykk/ykk0768.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0193",
+        "identifer": "71-193",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0193.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0193.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0800",
+        "identifer": "72-800",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0800.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0800.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wke0761",
+        "identifer": "73-761",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/73wke/wke0761.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/73wke/wke0761.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0228",
+        "identifer": "74-228",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0228.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0228.tiff/full/full/0/default.jpg",
+        "title": "速",
+        "unicode": "E9809F"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34016679",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34016679",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/800/R8082/36/1/2382/manifest/manifest-34-34016679.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "R8082-36-1@ja",
+            "date": "",
+            "division": "その他@ja",
+            "document": "",
+            "occupation": "",
+            "page": "2382",
+            "remarks": "",
+            "send": "",
+            "to": "",
+            "value": "草露貫珠@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/800/R8082/36/1/2382/0010.bmp",
+        "title": "速@ja",
+        "unicode": "10"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34016681",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34016681",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/800/R8082/36/1/2383/manifest/manifest-34-34016681.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "R8082-36-1@ja",
+            "date": "",
+            "division": "その他@ja",
+            "document": "",
+            "occupation": "",
+            "page": "2383",
+            "remarks": "",
+            "send": "",
+            "to": "",
+            "value": "草露貫珠@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/800/R8082/36/1/2383/0002.bmp",
+        "title": "速@ja",
+        "unicode": "10"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34053619",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34053619",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0671/11/42/00000063/manifest/manifest-34-34053619.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0671-11-42@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "新田宮執印惟宗友雄訴状@ja",
+            "occupation": "武家@ja",
+            "page": "00000063",
+            "remarks": "",
+            "send": "",
+            "to": "",
+            "value": "延時文書@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0671/11/42/00000063/00063060.bmp",
+        "title": "速@ja",
+        "unicode": "10"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34063165",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34063165",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0071/7/2/00000012/manifest/manifest-34-34063165.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0071-7-2@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "長谷場鶴一丸代久幸重申状@ja",
+            "occupation": "武家@ja",
+            "page": "00000012",
+            "remarks": "",
+            "send": "",
+            "to": "",
+            "value": "長谷場文書@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0071/7/2/00000012/00012056.bmp",
+        "title": "速@ja",
+        "unicode": "10"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34063359",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34063359",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0071/7/2/00000012/manifest/manifest-34-34063359.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0071-7-2@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "長谷場鶴一丸代久幸重申状@ja",
+            "occupation": "武家@ja",
+            "page": "00000012",
+            "remarks": "",
+            "send": "",
+            "to": "",
+            "value": "長谷場文書@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0071/7/2/00000012/00012234.bmp",
+        "title": "速@ja",
+        "unicode": "10"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34147517",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34147517",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/_000ki_29/1/7/00000145/manifest/manifest-34-34147517.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "貴29-1-7@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "小早川隆景書状@ja",
+            "occupation": "武家@ja",
+            "page": "00000145",
+            "remarks": "",
+            "send": "隆景Ｋ@ja",
+            "to": "",
+            "value": "佐藤文書@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/_000ki_29/1/7/00000145/00403619.bmp",
+        "title": "速@ja",
+        "unicode": "10"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34150574",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34150574",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0073/11/2/00000007/manifest/manifest-34-34150574.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0073-11-2@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "貞治五年八月二十九日条@ja",
+            "occupation": "公家@ja",
+            "page": "00000007",
+            "remarks": "",
+            "send": "三条公忠@ja",
+            "to": "",
+            "value": "後愚昧記貞治五年八月記@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0073/11/2/00000007/00406675.bmp",
+        "title": "速@ja",
+        "unicode": "10"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34154425",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34154425",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0073/11/2/00000019/manifest/manifest-34-34154425.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0073-11-2@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "三条実継勘返三条公忠書状@ja",
+            "occupation": "公家@ja",
+            "page": "00000019",
+            "remarks": "",
+            "send": "Ｋ（三条公忠）／実継状@ja",
+            "to": "",
+            "value": "後愚昧記貞治五年記紙背文書@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0073/11/2/00000019/00410532.bmp",
+        "title": "速@ja",
+        "unicode": "10"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34165234",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34165234",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0073/10/2/00000023/manifest/manifest-34-34165234.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0073-10-2@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "仁安二年十二月十日条@ja",
+            "occupation": "公家@ja",
+            "page": "00000023",
+            "remarks": "",
+            "send": "三条実房@ja",
+            "to": "",
+            "value": "愚昧記@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0073/10/2/00000023/00421897.bmp",
+        "title": "速@ja",
+        "unicode": "10"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34212468",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34212468",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0073/10/3/00000148/manifest/manifest-34-34212468.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0073-10-3@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "三条実房書状土代@ja",
+            "occupation": "公家@ja",
+            "page": "00000148",
+            "remarks": "",
+            "send": "三条実房@ja",
+            "to": "",
+            "value": "愚昧記仁安元年二月記紙背@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0073/10/3/00000148/34212468.bmp",
+        "title": "速@ja",
+        "unicode": "10"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34216252",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34216252",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0073/10/5/00000048/manifest/manifest-34-34216252.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0073-10-5@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "承安三年正月一日条@ja",
+            "occupation": "公家@ja",
+            "page": "00000048",
+            "remarks": "",
+            "send": "三条実房@ja",
+            "to": "",
+            "value": "愚昧記@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0073/10/5/00000048/34216252.bmp",
+        "title": "速@ja",
+        "unicode": "10"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34223393",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34223393",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0031/1/00000004/manifest/manifest-34-34223393.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0031-1-@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "足利尊氏奉納稲荷社詠八首和歌跋文@ja",
+            "occupation": "武家@ja",
+            "page": "00000004",
+            "remarks": "",
+            "send": "",
+            "to": "",
+            "value": "足利尊氏奉納稲荷社詠八首和歌@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0031/1/00000004/34223393.bmp",
+        "title": "速@ja",
+        "unicode": "10"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34268498",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34268498",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0671/26/28/00000035/manifest/manifest-34-34268498.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0671-26-28@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "立花鑑虎書状@ja",
+            "occupation": "武家@ja",
+            "page": "00000035",
+            "remarks": "",
+            "send": "立左近　虎K（立花鑑虎）@ja",
+            "to": "矢嶋石見殿　まいる@ja",
+            "value": "富安護義氏旧蔵文書（矢島文書）@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0671/26/28/00000035/34268498.bmp",
+        "title": "速@ja",
+        "unicode": "10"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34273868",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34273868",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/T18/1/1/00000039/manifest/manifest-34-34273868.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "1-1-@ja",
+            "date": "",
+            "division": "",
+            "document": "関東御教書@ja",
+            "occupation": "武家@ja",
+            "page": "00000039",
+            "remarks": "",
+            "send": "陸奥守K(北条宣時)/相模守K(北条貞時)@ja",
+            "to": "下野三郎左衛門尉殿(忠宗)@ja",
+            "value": "歴代亀鑑(五三通)@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/T18/1/1/00000039/34273868.bmp",
+        "title": "速@ja",
+        "unicode": "10"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34274086",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34274086",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/T18/1/1/00000041/manifest/manifest-34-34274086.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "1-1-@ja",
+            "date": "",
+            "division": "",
+            "document": "関東御教書@ja",
+            "occupation": "武家@ja",
+            "page": "00000041",
+            "remarks": "",
+            "send": "陸奥守K(大仏宗宣)/相模守K(北条師時)@ja",
+            "to": "島津下野前司入道殿(忠宗)@ja",
+            "value": "歴代亀鑑(五三通)@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/T18/1/1/00000041/34274086.bmp",
+        "title": "速@ja",
+        "unicode": "10"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34274764",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34274764",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/T18/1/1/00000049/manifest/manifest-34-34274764.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "1-1-@ja",
+            "date": "",
+            "division": "",
+            "document": "足利高氏書状@ja",
+            "occupation": "武家@ja",
+            "page": "00000049",
+            "remarks": "",
+            "send": "高氏K@ja",
+            "to": "島津上総入道殿(貞久)@ja",
+            "value": "歴代亀鑑(五三通)@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/T18/1/1/00000049/34274764.bmp",
+        "title": "速@ja",
+        "unicode": "10"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34275901",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34275901",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/T18/1/2/00000005/manifest/manifest-34-34275901.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "1-2-@ja",
+            "date": "",
+            "division": "",
+            "document": "一色直氏施行状@ja",
+            "occupation": "武家@ja",
+            "page": "00000005",
+            "remarks": "",
+            "send": "宮内少輔K(一色直氏)@ja",
+            "to": "島津上総入道殿(貞久)@ja",
+            "value": "歴代亀鑑(五四通)@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/T18/1/2/00000005/34275901.bmp",
+        "title": "速@ja",
+        "unicode": "10"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34277561",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34277561",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/T18/1/2/00000028/manifest/manifest-34-34277561.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "1-2-@ja",
+            "date": "",
+            "division": "",
+            "document": "足利義教自筆御内書@ja",
+            "occupation": "武家@ja",
+            "page": "00000028",
+            "remarks": "",
+            "send": "K(足利義教)@ja",
+            "to": "島津陸奥守とのへ(忠国)@ja",
+            "value": "歴代亀鑑(五四通)@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/T18/1/2/00000028/34277561.bmp",
+        "title": "速@ja",
+        "unicode": "10"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34278161",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34278161",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/T18/1/2/00000040/manifest/manifest-34-34278161.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "1-2-@ja",
+            "date": "",
+            "division": "",
+            "document": "足利義政御内書@ja",
+            "occupation": "武家@ja",
+            "page": "00000040",
+            "remarks": "",
+            "send": "K(足利義政)@ja",
+            "to": "島津陸奥守とのへ(忠昌)@ja",
+            "value": "歴代亀鑑(五四通)@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/T18/1/2/00000040/34278161.bmp",
+        "title": "速@ja",
+        "unicode": "10"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34290336",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34290336",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0071/10/2/00000016/manifest/manifest-34-34290336.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0071-10-2@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "三好義興禁制@ja",
+            "occupation": "武家@ja",
+            "page": "00000016",
+            "remarks": "",
+            "send": "筑前守（三好義興）Ｋ@ja",
+            "to": "園城寺@ja",
+            "value": "園城寺文書@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0071/10/2/00000016/34290336.bmp",
+        "title": "速@ja",
+        "unicode": "10"
+    }
+]

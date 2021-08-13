@@ -6,20 +6,18 @@
           <h1 class="white--text mb-2 display-1 text-center">
             <b>{{ siteName }}</b>
           </h1>
-          <!--
           <v-btn
             large
             class="mt-5"
-            :to="localePath({ name: 'search' })"
+            :to="localePath({ name: 'unicode' })"
             color="primary"
             >{{ $t('try_out') }}</v-btn
           >
-          -->
         </v-layout>
       </v-parallax>
     </section>
 
-    <v-container class="mt-10">
+    <v-container class="pt-10 mt-10">
       <div class="mb-5 pb-5 text-center">
         <!-- <h1>{{ $t(siteName) }}</h1> -->
         <h3>
@@ -55,10 +53,10 @@
 
       <div class="mb-5 pb-5 text-center">
         <!-- <h1>{{ $t(siteName) }}</h1> -->
-        <!-- <p class="py-5" v-html="siteDesc"></p> -->
+        <p class="py-5" v-html="siteDesc"></p>
       </div>
 
-      <div v-if="menu.length > 0">
+      <div v-if="menu.length > 0 && false">
         <h3 class="mt-5 mb-10 text-center">{{ $t('menu') }}</h3>
 
         <v-row class="mb-10">
@@ -270,11 +268,11 @@ export default class about extends Vue {
 
     const items = []
 
-    let allSize = 0
-    let allTotal = 0
+    //let allSize = 0
+    //let allTotal = 0
 
-    for (const key in data) {
-      const item = data[key]
+    for (const key in data.map) {
+      const item = data.map[key]
 
       let total = 0
       for (const e in item) {
@@ -286,14 +284,14 @@ export default class about extends Vue {
         total: total,
       })
 
-      allSize += Object.keys(item).length
-      allTotal += total
+      //allSize += Object.keys(item).length
+      //allTotal += total
     }
 
     this.items = items
 
-    this.size = allSize
-    this.total = allTotal
+    this.size = data.size
+    this.total = data.total
   }
 
   head() {

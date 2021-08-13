@@ -1,0 +1,113 @@
+[
+    {
+        "character": "侮",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+4FAE_200014685_00031_2_X1859_Y0507",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E4%BE%AE/manifest&pos=60&xywh=1859,507,92,75",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4FAE_200014685_00031_2_X1859_Y0507/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 31,
+            "label": "『南総里見八犬伝』（200014685）31v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+4FAE/U+4FAE_200014685_00031_2_X1859_Y0507.jpg/full/full/0/default.jpg",
+        "unicode": "4FAE"
+    },
+    {
+        "character": "侮",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+4FAE_200014740_00008_1_X0252_Y1831",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E4%BE%AE/manifest&pos=13&xywh=252,1831,115,95",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4FAE_200014740_00008_1_X0252_Y1831/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 8,
+            "label": "『雨月物語』（200014740）8r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+4FAE/U+4FAE_200014740_00008_1_X0252_Y1831.jpg/full/full/0/default.jpg",
+        "unicode": "4FAE"
+    },
+    {
+        "character": "侮",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4FAE_200014740_00091_2_X0478_Y1225",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E4%BE%AE/manifest&pos=178&xywh=478,1225,104,108",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4FAE_200014740_00091_2_X0478_Y1225/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 91,
+            "label": "『雨月物語』（200014740）91v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+4FAE/U+4FAE_200014740_00091_2_X0478_Y1225.jpg/full/full/0/default.jpg",
+        "unicode": "4FAE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0562",
+        "identifer": "18-562",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0562.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0562.tiff/full/full/0/default.jpg",
+        "title": "侮",
+        "unicode": "E4BEAE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0005",
+        "identifer": "19-5",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0005.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0005.tiff/full/full/0/default.jpg",
+        "title": "侮",
+        "unicode": "E4BEAE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0607",
+        "identifer": "56-607",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0607.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0607.tiff/full/full/0/default.jpg",
+        "title": "侮",
+        "unicode": "E4BEAE"
+    }
+]

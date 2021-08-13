@@ -1,0 +1,980 @@
+[
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AAICJ63000014",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AAI/6AAICJ63/6AAICJ630000141/6AAICJ630000141-25/list/6AAICJ630000141-25-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AAI/6AAICJ63/6AAICJ630000141/6AAICJ630000141-25/6AAICJ630000141-25.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AAICJ63000014",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AAICJ630000141-C1.tiff/79,3880,208,288/full/0/default.jpg",
+        "title": "麗",
+        "unicode": "UTF-8"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+9E97_100249416_00006_2_X0987_Y1952",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249416/%E9%BA%97/manifest&pos=11&xywh=987,1952,104,147",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_100249416_00006_2_X0987_Y1952/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249416",
+            "frame": 6,
+            "label": "『餅菓子即席／手製集』（100249416）6v",
+            "side": "v",
+            "title": "餅菓子即席／手製集"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249416/characters/U+9E97/U+9E97_100249416_00006_2_X0987_Y1952.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+9E97_100249416_00011_2_X0675_Y1188",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249416/%E9%BA%97/manifest&pos=21&xywh=675,1188,92,139",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_100249416_00011_2_X0675_Y1188/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249416",
+            "frame": 11,
+            "label": "『餅菓子即席／手製集』（100249416）11v",
+            "side": "v",
+            "title": "餅菓子即席／手製集"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249416/characters/U+9E97/U+9E97_100249416_00011_2_X0675_Y1188.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+9E97_200003076_00056_2_X1246_Y2738",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E9%BA%97/manifest&pos=106&xywh=1246,2738,115,154",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_200003076_00056_2_X1246_Y2738/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 56,
+            "label": "『好色一代男』（200003076）56v",
+            "side": "v",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+9E97/U+9E97_200003076_00056_2_X1246_Y2738.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+9E97_200004148_00068_2_X1129_Y1066",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E9%BA%97/manifest&pos=134&xywh=1129,1066,94,103",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_200004148_00068_2_X1129_Y1066/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 68,
+            "label": "『椿説弓張月』（200004148）68v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+9E97/U+9E97_200004148_00068_2_X1129_Y1066.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+9E97_200014740_00044_2_X0369_Y2203",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E9%BA%97/manifest&pos=86&xywh=369,2203,104,135",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_200014740_00044_2_X0369_Y2203/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 44,
+            "label": "『雨月物語』（200014740）44v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+9E97/U+9E97_200014740_00044_2_X0369_Y2203.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+9E97_200014740_00045_2_X0196_Y0687",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E9%BA%97/manifest&pos=88&xywh=196,687,106,128",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_200014740_00045_2_X0196_Y0687/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 45,
+            "label": "『雨月物語』（200014740）45v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+9E97/U+9E97_200014740_00045_2_X0196_Y0687.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+9E97_200014740_00057_1_X0421_Y2509",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E9%BA%97/manifest&pos=109&xywh=421,2509,97,147",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_200014740_00057_1_X0421_Y2509/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 57,
+            "label": "『雨月物語』（200014740）57r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+9E97/U+9E97_200014740_00057_1_X0421_Y2509.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+9E97_200014740_00068_2_X0811_Y2518",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E9%BA%97/manifest&pos=132&xywh=811,2518,101,144",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_200014740_00068_2_X0811_Y2518/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 68,
+            "label": "『雨月物語』（200014740）68v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+9E97/U+9E97_200014740_00068_2_X0811_Y2518.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+9E97_200014740_00069_2_X0235_Y0979",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E9%BA%97/manifest&pos=134&xywh=235,979,96,133",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_200014740_00069_2_X0235_Y0979/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 69,
+            "label": "『雨月物語』（200014740）69v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+9E97/U+9E97_200014740_00069_2_X0235_Y0979.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+9E97_200014740_00070_1_X0582_Y1672",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E9%BA%97/manifest&pos=135&xywh=582,1672,99,132",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_200014740_00070_1_X0582_Y1672/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 70,
+            "label": "『雨月物語』（200014740）70r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+9E97/U+9E97_200014740_00070_1_X0582_Y1672.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+9E97_200014740_00077_2_X0789_Y1495",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E9%BA%97/manifest&pos=150&xywh=789,1495,110,127",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_200014740_00077_2_X0789_Y1495/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 77,
+            "label": "『雨月物語』（200014740）77v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+9E97/U+9E97_200014740_00077_2_X0789_Y1495.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+9E97_200014740_00093_1_X0292_Y1686",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E9%BA%97/manifest&pos=181&xywh=292,1686,98,115",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_200014740_00093_1_X0292_Y1686/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 93,
+            "label": "『雨月物語』（200014740）93r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+9E97/U+9E97_200014740_00093_1_X0292_Y1686.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+9E97_200015779_00044_2_X0235_Y1136",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E9%BA%97/manifest&pos=76&xywh=235,1136,104,164",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_200015779_00044_2_X0235_Y1136/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 44,
+            "label": "『浮世風呂』（200015779）44v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+9E97/U+9E97_200015779_00044_2_X0235_Y1136.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+9E97_200015779_00044_2_X0911_Y0864",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E9%BA%97/manifest&pos=76&xywh=911,864,116,141",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_200015779_00044_2_X0911_Y0864/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 44,
+            "label": "『浮世風呂』（200015779）44v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+9E97/U+9E97_200015779_00044_2_X0911_Y0864.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+9E97_200015779_00058_2_X0939_Y2547",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E9%BA%97/manifest&pos=104&xywh=939,2547,113,147",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_200015779_00058_2_X0939_Y2547/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 58,
+            "label": "『浮世風呂』（200015779）58v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+9E97/U+9E97_200015779_00058_2_X0939_Y2547.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+9E97_200015779_00158_2_X1584_Y0550",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E9%BA%97/manifest&pos=290&xywh=1584,550,113,155",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_200015779_00158_2_X1584_Y0550/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 158,
+            "label": "『浮世風呂』（200015779）158v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+9E97/U+9E97_200015779_00158_2_X1584_Y0550.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+9E97_200015843_00015_1_X1604_Y1042",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E9%BA%97/manifest&pos=27&xywh=1604,1042,88,124",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_200015843_00015_1_X1604_Y1042/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 15,
+            "label": "『日本永代蔵』（200015843）15r",
+            "side": "r",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+9E97/U+9E97_200015843_00015_1_X1604_Y1042.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+9E97_200015843_00018_1_X0903_Y1350",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E9%BA%97/manifest&pos=33&xywh=903,1350,87,124",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_200015843_00018_1_X0903_Y1350/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 18,
+            "label": "『日本永代蔵』（200015843）18r",
+            "side": "r",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+9E97/U+9E97_200015843_00018_1_X0903_Y1350.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+9E97_200015843_00032_1_X0810_Y2273",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E9%BA%97/manifest&pos=57&xywh=810,2273,102,158",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_200015843_00032_1_X0810_Y2273/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 32,
+            "label": "『日本永代蔵』（200015843）32r",
+            "side": "r",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+9E97/U+9E97_200015843_00032_1_X0810_Y2273.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+9E97_200015843_00034_2_X1764_Y1475",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E9%BA%97/manifest&pos=62&xywh=1764,1475,98,147",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_200015843_00034_2_X1764_Y1475/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 34,
+            "label": "『日本永代蔵』（200015843）34v",
+            "side": "v",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+9E97/U+9E97_200015843_00034_2_X1764_Y1475.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+9E97_200015843_00060_2_X1357_Y1001",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E9%BA%97/manifest&pos=110&xywh=1357,1001,81,140",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_200015843_00060_2_X1357_Y1001/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 60,
+            "label": "『日本永代蔵』（200015843）60v",
+            "side": "v",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+9E97/U+9E97_200015843_00060_2_X1357_Y1001.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+9E97_200015843_00086_1_X1588_Y2446",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E9%BA%97/manifest&pos=157&xywh=1588,2446,92,139",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_200015843_00086_1_X1588_Y2446/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 86,
+            "label": "『日本永代蔵』（200015843）86r",
+            "side": "r",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+9E97/U+9E97_200015843_00086_1_X1588_Y2446.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+9E97_200015843_00097_2_X1907_Y0638",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E9%BA%97/manifest&pos=176&xywh=1907,638,98,126",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_200015843_00097_2_X1907_Y0638/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 97,
+            "label": "『日本永代蔵』（200015843）97v",
+            "side": "v",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+9E97/U+9E97_200015843_00097_2_X1907_Y0638.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+9E97_200015843_00099_1_X1719_Y2194",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E9%BA%97/manifest&pos=179&xywh=1719,2194,102,153",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_200015843_00099_1_X1719_Y2194/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 99,
+            "label": "『日本永代蔵』（200015843）99r",
+            "side": "r",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+9E97/U+9E97_200015843_00099_1_X1719_Y2194.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+9E97_200021660_00078_1_X0759_Y0893",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E9%BA%97/manifest&pos=149&xywh=759,893,93,141",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_200021660_00078_1_X0759_Y0893/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 78,
+            "label": "『養蚕秘録』（200021660）78r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+9E97/U+9E97_200021660_00078_1_X0759_Y0893.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "character": "麗",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+9E97_200021660_00078_1_X2048_Y2814",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E9%BA%97/manifest&pos=149&xywh=2048,2814,95,127",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9E97_200021660_00078_1_X2048_Y2814/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 78,
+            "label": "『養蚕秘録』（200021660）78r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+9E97/U+9E97_200021660_00078_1_X2048_Y2814.jpg/full/full/0/default.jpg",
+        "unicode": "9E97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sok0455",
+        "identifer": "15-455",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/15sok/sok0455.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "則天期",
+            "value": "花嚴經卷八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/15sok/sok0455.tiff/full/full/0/default.jpg",
+        "title": "麗",
+        "unicode": "E9BA97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae1571",
+        "identifer": "19-1571",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae1571.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae1571.tiff/full/full/0/default.jpg",
+        "title": "麗",
+        "unicode": "E9BA97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0662",
+        "identifer": "30-662",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0662.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0662.tiff/full/full/0/default.jpg",
+        "title": "麗",
+        "unicode": "E9BA97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink1109a",
+        "identifer": "33-1109a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink1109a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink1109a.tiff/full/full/0/default.jpg",
+        "title": "麗",
+        "unicode": "E9BA97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink1109b",
+        "identifer": "33-1109b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink1109b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink1109b.tiff/full/full/0/default.jpg",
+        "title": "麗",
+        "unicode": "E9BA97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto1039",
+        "identifer": "34-1039",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto1039.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto1039.tiff/full/full/0/default.jpg",
+        "title": "麗",
+        "unicode": "E9BA97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm1106a",
+        "identifer": "36-1106a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm1106a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm1106a.tiff/full/full/0/default.jpg",
+        "title": "麗",
+        "unicode": "E9BA97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm1106b",
+        "identifer": "36-1106b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm1106b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm1106b.tiff/full/full/0/default.jpg",
+        "title": "麗",
+        "unicode": "E9BA97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k241095a",
+        "identifer": "3724-1095a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k241095a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k241095a.tiff/full/full/0/default.jpg",
+        "title": "麗",
+        "unicode": "E9BA97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k241095b",
+        "identifer": "3724-1095b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k241095b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k241095b.tiff/full/full/0/default.jpg",
+        "title": "麗",
+        "unicode": "E9BA97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k241095c",
+        "identifer": "3724-1095c",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k241095c.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k241095c.tiff/full/full/0/default.jpg",
+        "title": "麗",
+        "unicode": "E9BA97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ini1058",
+        "identifer": "38-1058",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/38ini/ini1058.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1236年",
+            "value": "卷二(鴨脚本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/38ini/ini1058.tiff/full/full/0/default.jpg",
+        "title": "麗",
+        "unicode": "E9BA97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkk0996",
+        "identifer": "39-996",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/39nkk/nkk0996.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1286年",
+            "value": "卷二(兼方本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/39nkk/nkk0996.tiff/full/full/0/default.jpg",
+        "title": "麗",
+        "unicode": "E9BA97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcc1177",
+        "identifer": "41-1177",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/41kcc/kcc1177.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1599年",
+            "value": "卷二(慶長勅版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/41kcc/kcc1177.tiff/full/full/0/default.jpg",
+        "title": "麗",
+        "unicode": "E9BA97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcj1135a",
+        "identifer": "42-1135a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/42kcj/kcj1135a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1610年",
+            "value": "卷二(慶長十五年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/42kcj/kcj1135a.tiff/full/full/0/default.jpg",
+        "title": "麗",
+        "unicode": "E9BA97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcj1135b",
+        "identifer": "42-1135b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/42kcj/kcj1135b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1610年",
+            "value": "卷二(慶長十五年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/42kcj/kcj1135b.tiff/full/full/0/default.jpg",
+        "title": "麗",
+        "unicode": "E9BA97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kbk1115a",
+        "identifer": "43-1115a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/43kbk/kbk1115a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/43kbk/kbk1115a.tiff/full/full/0/default.jpg",
+        "title": "麗",
+        "unicode": "E9BA97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kbk1115b",
+        "identifer": "43-1115b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/43kbk/kbk1115b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/43kbk/kbk1115b.tiff/full/full/0/default.jpg",
+        "title": "麗",
+        "unicode": "E9BA97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sik0514",
+        "identifer": "44-514",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/44sik/sik0514.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "754～755年",
+            "value": "花嚴經卷八(新羅本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/44sik/sik0514.tiff/full/full/0/default.jpg",
+        "title": "麗",
+        "unicode": "E9BA97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wke0811",
+        "identifer": "73-811",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/73wke/wke0811.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/73wke/wke0811.tiff/full/full/0/default.jpg",
+        "title": "麗",
+        "unicode": "E9BA97"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34019372",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34019372",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/800/R8082/36/1/2806/manifest/manifest-34-34019372.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "R8082-36-1@ja",
+            "date": "",
+            "division": "その他@ja",
+            "document": "",
+            "occupation": "",
+            "page": "2806",
+            "remarks": "",
+            "send": "",
+            "to": "",
+            "value": "草露貫珠@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/800/R8082/36/1/2806/0016.bmp",
+        "title": "麗@ja",
+        "unicode": "19"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34019373",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34019373",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/800/R8082/36/1/2806/manifest/manifest-34-34019373.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "R8082-36-1@ja",
+            "date": "",
+            "division": "その他@ja",
+            "document": "",
+            "occupation": "",
+            "page": "2806",
+            "remarks": "",
+            "send": "",
+            "to": "",
+            "value": "草露貫珠@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/800/R8082/36/1/2806/0018.bmp",
+        "title": "麗@ja",
+        "unicode": "19"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34019374",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34019374",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/800/R8082/36/1/2807/manifest/manifest-34-34019374.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "R8082-36-1@ja",
+            "date": "",
+            "division": "その他@ja",
+            "document": "",
+            "occupation": "",
+            "page": "2807",
+            "remarks": "",
+            "send": "",
+            "to": "",
+            "value": "草露貫珠@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/800/R8082/36/1/2807/0002.bmp",
+        "title": "麗@ja",
+        "unicode": "19"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34158763",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34158763",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0073/10/2/00000004/manifest/manifest-34-34158763.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0073-10-2@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "仁安二年十一月二日条@ja",
+            "occupation": "公家@ja",
+            "page": "00000004",
+            "remarks": "",
+            "send": "三条実国@ja",
+            "to": "",
+            "value": "愚昧記@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0073/10/2/00000004/00415123.bmp",
+        "title": "麗@ja",
+        "unicode": "19"
+    }
+]

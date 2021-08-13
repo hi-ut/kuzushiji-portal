@@ -1,0 +1,199 @@
+[
+    {
+        "character": "哲",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+54F2_200003967_00022_2_X0996_Y1512",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003967/%E5%93%B2/manifest&pos=40&xywh=996,1512,88,100",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+54F2_200003967_00022_2_X0996_Y1512/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003967",
+            "frame": 22,
+            "label": "『おらが春』（200003967）22v",
+            "side": "v",
+            "title": "おらが春"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003967/characters/U+54F2/U+54F2_200003967_00022_2_X0996_Y1512.jpg/full/full/0/default.jpg",
+        "unicode": "54F2"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyd0096",
+        "identifer": "14-96",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/14kyd/kyd0096.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "初唐",
+            "value": "漢書楊雄傳(上野本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/14kyd/kyd0096.tiff/full/full/0/default.jpg",
+        "title": "哲",
+        "unicode": "E593B2"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0846",
+        "identifer": "30-846",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0846.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0846.tiff/full/full/0/default.jpg",
+        "title": "哲",
+        "unicode": "E593B2"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink0066",
+        "identifer": "33-66",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink0066.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink0066.tiff/full/full/0/default.jpg",
+        "title": "哲",
+        "unicode": "E593B2"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0066",
+        "identifer": "34-66",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0066.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0066.tiff/full/full/0/default.jpg",
+        "title": "哲",
+        "unicode": "E593B2"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0064",
+        "identifer": "36-64",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0064.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0064.tiff/full/full/0/default.jpg",
+        "title": "哲",
+        "unicode": "E593B2"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240064",
+        "identifer": "3724-64",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240064.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240064.tiff/full/full/0/default.jpg",
+        "title": "哲",
+        "unicode": "E593B2"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34002041",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34002041",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/800/R8082/36/1/345/manifest/manifest-34-34002041.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "R8082-36-1@ja",
+            "date": "",
+            "division": "その他@ja",
+            "document": "",
+            "occupation": "",
+            "page": "345",
+            "remarks": "",
+            "send": "",
+            "to": "",
+            "value": "草露貫珠@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/800/R8082/36/1/345/0016.bmp",
+        "title": "哲@ja",
+        "unicode": "10"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34002042",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34002042",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/800/R8082/36/1/345/manifest/manifest-34-34002042.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "R8082-36-1@ja",
+            "date": "",
+            "division": "その他@ja",
+            "document": "",
+            "occupation": "",
+            "page": "345",
+            "remarks": "",
+            "send": "",
+            "to": "",
+            "value": "草露貫珠@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/800/R8082/36/1/345/0019.bmp",
+        "title": "哲@ja",
+        "unicode": "10"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34002043",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34002043",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/800/R8082/36/1/345/manifest/manifest-34-34002043.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "R8082-36-1@ja",
+            "date": "",
+            "division": "その他@ja",
+            "document": "",
+            "occupation": "",
+            "page": "345",
+            "remarks": "",
+            "send": "",
+            "to": "",
+            "value": "草露貫珠@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/800/R8082/36/1/345/0020.bmp",
+        "title": "哲@ja",
+        "unicode": "10"
+    }
+]

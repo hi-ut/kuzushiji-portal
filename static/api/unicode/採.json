@@ -1,0 +1,598 @@
+[
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AAFKQ34000014",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AAF/6AAFKQ34/6AAFKQ340000142/6AAFKQ340000142-2/list/6AAFKQ340000142-2-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AAF/6AAFKQ34/6AAFKQ340000142/6AAFKQ340000142-2/6AAFKQ340000142-2.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AAFKQ34000014",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AAFKQ340000142-C1.tiff/213,196,164,182/full/0/default.jpg",
+        "title": "採",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AFITC11000152",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITC11/6AFITC110001521/6AFITC110001521-2/list/6AFITC110001521-2-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITC11/6AFITC110001521/6AFITC110001521-2/6AFITC110001521-2.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFITC11000152",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFITC110001521-C1.tiff/168,594,396,396/full/0/default.jpg",
+        "title": "採",
+        "unicode": "UTF-8"
+    },
+    {
+        "character": "採",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+63A1_200015779_00011_2_X1397_Y2919",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E6%8E%A1/manifest&pos=14&xywh=1397,2919,129,101",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+63A1_200015779_00011_2_X1397_Y2919/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 11,
+            "label": "『浮世風呂』（200015779）11v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+63A1/U+63A1_200015779_00011_2_X1397_Y2919.jpg/full/full/0/default.jpg",
+        "unicode": "63A1"
+    },
+    {
+        "character": "採",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+63A1_200021660_00011_2_X1424_Y3381",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E6%8E%A1/manifest&pos=20&xywh=1424,3381,93,117",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+63A1_200021660_00011_2_X1424_Y3381/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 11,
+            "label": "『養蚕秘録』（200021660）11v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+63A1/U+63A1_200021660_00011_2_X1424_Y3381.jpg/full/full/0/default.jpg",
+        "unicode": "63A1"
+    },
+    {
+        "character": "採",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+63A1_200021660_00012_1_X1866_Y3038",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E6%8E%A1/manifest&pos=21&xywh=1866,3038,109,127",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+63A1_200021660_00012_1_X1866_Y3038/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 12,
+            "label": "『養蚕秘録』（200021660）12r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+63A1/U+63A1_200021660_00012_1_X1866_Y3038.jpg/full/full/0/default.jpg",
+        "unicode": "63A1"
+    },
+    {
+        "character": "採",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+63A1_200021660_00012_2_X1363_Y2404",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E6%8E%A1/manifest&pos=22&xywh=1363,2404,104,116",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+63A1_200021660_00012_2_X1363_Y2404/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 12,
+            "label": "『養蚕秘録』（200021660）12v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+63A1/U+63A1_200021660_00012_2_X1363_Y2404.jpg/full/full/0/default.jpg",
+        "unicode": "63A1"
+    },
+    {
+        "character": "採",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+63A1_200021660_00014_1_X2120_Y2341",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E6%8E%A1/manifest&pos=25&xywh=2120,2341,105,115",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+63A1_200021660_00014_1_X2120_Y2341/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 14,
+            "label": "『養蚕秘録』（200021660）14r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+63A1/U+63A1_200021660_00014_1_X2120_Y2341.jpg/full/full/0/default.jpg",
+        "unicode": "63A1"
+    },
+    {
+        "character": "採",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+63A1_200021660_00018_1_X2106_Y3112",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E6%8E%A1/manifest&pos=33&xywh=2106,3112,97,121",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+63A1_200021660_00018_1_X2106_Y3112/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 18,
+            "label": "『養蚕秘録』（200021660）18r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+63A1/U+63A1_200021660_00018_1_X2106_Y3112.jpg/full/full/0/default.jpg",
+        "unicode": "63A1"
+    },
+    {
+        "character": "採",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+63A1_200021660_00028_2_X1504_Y2712",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E6%8E%A1/manifest&pos=54&xywh=1504,2712,81,81",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+63A1_200021660_00028_2_X1504_Y2712/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 28,
+            "label": "『養蚕秘録』（200021660）28v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+63A1/U+63A1_200021660_00028_2_X1504_Y2712.jpg/full/full/0/default.jpg",
+        "unicode": "63A1"
+    },
+    {
+        "character": "採",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+63A1_200021660_00032_1_X2025_Y1883",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E6%8E%A1/manifest&pos=61&xywh=2025,1883,107,103",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+63A1_200021660_00032_1_X2025_Y1883/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 32,
+            "label": "『養蚕秘録』（200021660）32r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+63A1/U+63A1_200021660_00032_1_X2025_Y1883.jpg/full/full/0/default.jpg",
+        "unicode": "63A1"
+    },
+    {
+        "character": "採",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+63A1_200021660_00048_1_X2106_Y0997",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E6%8E%A1/manifest&pos=91&xywh=2106,997,97,80",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+63A1_200021660_00048_1_X2106_Y0997/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 48,
+            "label": "『養蚕秘録』（200021660）48r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+63A1/U+63A1_200021660_00048_1_X2106_Y0997.jpg/full/full/0/default.jpg",
+        "unicode": "63A1"
+    },
+    {
+        "character": "採",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+63A1_200021660_00073_1_X2273_Y0940",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E6%8E%A1/manifest&pos=139&xywh=2273,940,95,81",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+63A1_200021660_00073_1_X2273_Y0940/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 73,
+            "label": "『養蚕秘録』（200021660）73r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+63A1/U+63A1_200021660_00073_1_X2273_Y0940.jpg/full/full/0/default.jpg",
+        "unicode": "63A1"
+    },
+    {
+        "character": "採",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+63A1_200021660_00073_1_X2399_Y2668",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E6%8E%A1/manifest&pos=139&xywh=2399,2668,112,107",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+63A1_200021660_00073_1_X2399_Y2668/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 73,
+            "label": "『養蚕秘録』（200021660）73r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+63A1/U+63A1_200021660_00073_1_X2399_Y2668.jpg/full/full/0/default.jpg",
+        "unicode": "63A1"
+    },
+    {
+        "character": "採",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+63A1_200021660_00079_2_X0741_Y1360",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E6%8E%A1/manifest&pos=152&xywh=741,1360,112,113",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+63A1_200021660_00079_2_X0741_Y1360/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 79,
+            "label": "『養蚕秘録』（200021660）79v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+63A1/U+63A1_200021660_00079_2_X0741_Y1360.jpg/full/full/0/default.jpg",
+        "unicode": "63A1"
+    },
+    {
+        "character": "採",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+63A1_200021660_00079_2_X2079_Y2569",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E6%8E%A1/manifest&pos=152&xywh=2079,2569,95,105",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+63A1_200021660_00079_2_X2079_Y2569/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 79,
+            "label": "『養蚕秘録』（200021660）79v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+63A1/U+63A1_200021660_00079_2_X2079_Y2569.jpg/full/full/0/default.jpg",
+        "unicode": "63A1"
+    },
+    {
+        "character": "採",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+63A1_200021660_00083_2_X1850_Y0808",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E6%8E%A1/manifest&pos=160&xywh=1850,808,91,77",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+63A1_200021660_00083_2_X1850_Y0808/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 83,
+            "label": "『養蚕秘録』（200021660）83v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+63A1/U+63A1_200021660_00083_2_X1850_Y0808.jpg/full/full/0/default.jpg",
+        "unicode": "63A1"
+    },
+    {
+        "character": "採",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+63A1_200021660_00083_2_X1986_Y1021",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E6%8E%A1/manifest&pos=160&xywh=1986,1021,87,75",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+63A1_200021660_00083_2_X1986_Y1021/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 83,
+            "label": "『養蚕秘録』（200021660）83v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+63A1/U+63A1_200021660_00083_2_X1986_Y1021.jpg/full/full/0/default.jpg",
+        "unicode": "63A1"
+    },
+    {
+        "character": "採",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+63A1_200021660_00087_1_X1287_Y1623",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E6%8E%A1/manifest&pos=167&xywh=1287,1623,117,117",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+63A1_200021660_00087_1_X1287_Y1623/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 87,
+            "label": "『養蚕秘録』（200021660）87r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+63A1/U+63A1_200021660_00087_1_X1287_Y1623.jpg/full/full/0/default.jpg",
+        "unicode": "63A1"
+    },
+    {
+        "character": "採",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+63A1_200021660_00090_1_X2136_Y1313",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E6%8E%A1/manifest&pos=173&xywh=2136,1313,83,84",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+63A1_200021660_00090_1_X2136_Y1313/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 90,
+            "label": "『養蚕秘録』（200021660）90r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+63A1/U+63A1_200021660_00090_1_X2136_Y1313.jpg/full/full/0/default.jpg",
+        "unicode": "63A1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kgk0107",
+        "identifer": "7-107",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/07kgk/kgk0107.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "610年",
+            "value": "賢劫經卷二(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/07kgk/kgk0107.tiff/full/full/0/default.jpg",
+        "title": "採",
+        "unicode": "E68EA1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyd0335",
+        "identifer": "14-335",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/14kyd/kyd0335.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "初唐",
+            "value": "漢書楊雄傳(上野本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/14kyd/kyd0335.tiff/full/full/0/default.jpg",
+        "title": "採",
+        "unicode": "E68EA1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0968a",
+        "identifer": "26-968a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0968a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0968a.tiff/full/full/0/default.jpg",
+        "title": "採",
+        "unicode": "E68EA1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0968b",
+        "identifer": "26-968b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0968b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0968b.tiff/full/full/0/default.jpg",
+        "title": "採",
+        "unicode": "E68EA1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink0167",
+        "identifer": "33-167",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink0167.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink0167.tiff/full/full/0/default.jpg",
+        "title": "採",
+        "unicode": "E68EA1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0161",
+        "identifer": "34-161",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0161.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0161.tiff/full/full/0/default.jpg",
+        "title": "採",
+        "unicode": "E68EA1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0163",
+        "identifer": "36-163",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0163.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0163.tiff/full/full/0/default.jpg",
+        "title": "採",
+        "unicode": "E68EA1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240157",
+        "identifer": "3724-157",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240157.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240157.tiff/full/full/0/default.jpg",
+        "title": "採",
+        "unicode": "E68EA1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkk0587",
+        "identifer": "39-587",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/39nkk/nkk0587.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1286年",
+            "value": "卷二(兼方本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/39nkk/nkk0587.tiff/full/full/0/default.jpg",
+        "title": "採",
+        "unicode": "E68EA1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0898",
+        "identifer": "56-898",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0898.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0898.tiff/full/full/0/default.jpg",
+        "title": "採",
+        "unicode": "E68EA1"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34136116",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34136116",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0073/11/1/00000007/manifest/manifest-34-34136116.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0073-11-1@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "康安元年三月二十五日条@ja",
+            "occupation": "公家@ja",
+            "page": "00000007",
+            "remarks": "",
+            "send": "三条公忠@ja",
+            "to": "",
+            "value": "後愚昧記康安元年三月記@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0073/11/1/00000007/00392047.bmp",
+        "title": "採@ja",
+        "unicode": "11"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34290311",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34290311",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0071/10/2/00000016/manifest/manifest-34-34290311.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0071-10-2@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "三好義興禁制@ja",
+            "occupation": "武家@ja",
+            "page": "00000016",
+            "remarks": "",
+            "send": "筑前守（三好義興）Ｋ@ja",
+            "to": "園城寺@ja",
+            "value": "園城寺文書@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0071/10/2/00000016/34290311.bmp",
+        "title": "採@ja",
+        "unicode": "11"
+    }
+]

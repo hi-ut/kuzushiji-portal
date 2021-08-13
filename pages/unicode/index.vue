@@ -15,15 +15,6 @@
       <h3>データセットの統計情報</h3>
 
       <p>
-        データセットに含まれる文字種を、頻度順文字種リストまたはコード順文字種リストで一覧できます。くずし字の一つ一つの文字の形の違いだけでなく、くずし字の元となる字母の違いによる異体字のバリエーションなど、実際の字形を画像で確認しながら、くずし字の学習などにご利用ください。文字をクリックすると字形一覧ページに移動します。文字の検索にはブラウザの検索機能を使って下さい。
-      </p>
-
-      <p>
-        なおデータセット全体の統計情報については、くずし字データセット
-        文字種（くずし字）一覧、また検索にはくずし字データベース検索（ひらがな（変体仮名）・カタカナ・漢字）をご利用下さい。
-      </p>
-
-      <p>
         文字種：{{ items.length.toLocaleString() }} ／ 文字数：{{
           total.toLocaleString()
         }}
@@ -122,7 +113,11 @@ export default class about extends Vue {
   total: number = 0
 
   async mounted() {
-    const res = await axios.get(this.baseUrl + '/data/001_list.json')
+    const df = await axios.get(this.baseUrl + '/data/ana.json')
+    const ana = df.data
+    this.total = ana.total
+
+    const res = await axios.get(this.baseUrl + '/data/list.json')
     const data = res.data
     console.log(data)
 
@@ -137,7 +132,7 @@ export default class about extends Vue {
       total += item.size
     }
 
-    this.total = total
+    //this.total = total
 
     this.items = data
   }

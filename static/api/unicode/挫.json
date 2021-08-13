@@ -1,0 +1,39 @@
+[
+    {
+        "character": "挫",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+632B_200014685_00013_2_X0448_Y1495",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E6%8C%AB/manifest&pos=24&xywh=448,1495,97,78",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+632B_200014685_00013_2_X0448_Y1495/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 13,
+            "label": "『南総里見八犬伝』（200014685）13v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+632B/U+632B_200014685_00013_2_X0448_Y1495.jpg/full/full/0/default.jpg",
+        "unicode": "632B"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sys0398b",
+        "identifer": "22-398b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/22sys/sys0398b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "857年",
+            "value": "瑜伽師地論卷三十(S5309)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/22sys/sys0398b.tiff/full/full/0/default.jpg",
+        "title": "挫",
+        "unicode": "E68CAB"
+    }
+]

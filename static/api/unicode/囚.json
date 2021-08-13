@@ -1,0 +1,76 @@
+[
+    {
+        "character": "囚",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+56DA_200014685_00019_1_X0241_Y1395",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E5%9B%9A/manifest&pos=35&xywh=241,1395,79,84",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+56DA_200014685_00019_1_X0241_Y1395/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 19,
+            "label": "『南総里見八犬伝』（200014685）19r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+56DA/U+56DA_200014685_00019_1_X0241_Y1395.jpg/full/full/0/default.jpg",
+        "unicode": "56DA"
+    },
+    {
+        "character": "囚",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+56DA_200014685_00019_1_X1632_Y1134",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E5%9B%9A/manifest&pos=35&xywh=1632,1134,70,76",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+56DA_200014685_00019_1_X1632_Y1134/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 19,
+            "label": "『南総里見八犬伝』（200014685）19r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+56DA/U+56DA_200014685_00019_1_X1632_Y1134.jpg/full/full/0/default.jpg",
+        "unicode": "56DA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0034",
+        "identifer": "13-34",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0034.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0034.tiff/full/full/0/default.jpg",
+        "title": "囚",
+        "unicode": "E59B9A"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0600",
+        "identifer": "31-600",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0600.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0600.tiff/full/full/0/default.jpg",
+        "title": "囚",
+        "unicode": "E59B9A"
+    }
+]

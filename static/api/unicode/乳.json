@@ -1,0 +1,1270 @@
+[
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AFITB11000101",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITB11/6AFITB110001011/6AFITB110001011-2/list/6AFITB110001011-2-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITB11/6AFITB110001011/6AFITB110001011-2/6AFITB110001011-2.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFITB11000101",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFITB110001011-C1.tiff/137,671,326,324/full/0/default.jpg",
+        "title": "乳",
+        "unicode": "UTF-8"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+4E73_100241706_00017_1_X0305_Y1843",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100241706/%E4%B9%B3/manifest&pos=32&xywh=305,1843,128,141",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_100241706_00017_1_X0305_Y1843/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100241706",
+            "frame": 17,
+            "label": "『虚南留別志』（100241706）17r",
+            "side": "r",
+            "title": "虚南留別志"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100241706/characters/U+4E73/U+4E73_100241706_00017_1_X0305_Y1843.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_100241706_00017_1_X1023_Y2121",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100241706/%E4%B9%B3/manifest&pos=32&xywh=1023,2121,139,132",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_100241706_00017_1_X1023_Y2121/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100241706",
+            "frame": 17,
+            "label": "『虚南留別志』（100241706）17r",
+            "side": "r",
+            "title": "虚南留別志"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100241706/characters/U+4E73/U+4E73_100241706_00017_1_X1023_Y2121.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+4E73_200003076_00006_1_X0827_Y2543",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E4%B9%B3/manifest&pos=5&xywh=827,2543,119,117",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200003076_00006_1_X0827_Y2543/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 6,
+            "label": "『好色一代男』（200003076）6r",
+            "side": "r",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+4E73/U+4E73_200003076_00006_1_X0827_Y2543.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200003076_00013_1_X1126_Y2390",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E4%B9%B3/manifest&pos=19&xywh=1126,2390,125,123",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200003076_00013_1_X1126_Y2390/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 13,
+            "label": "『好色一代男』（200003076）13r",
+            "side": "r",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+4E73/U+4E73_200003076_00013_1_X1126_Y2390.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200003076_00055_2_X0860_Y1311",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E4%B9%B3/manifest&pos=104&xywh=860,1311,117,120",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200003076_00055_2_X0860_Y1311/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 55,
+            "label": "『好色一代男』（200003076）55v",
+            "side": "v",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+4E73/U+4E73_200003076_00055_2_X0860_Y1311.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200003076_00055_2_X1028_Y2366",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E4%B9%B3/manifest&pos=104&xywh=1028,2366,118,117",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200003076_00055_2_X1028_Y2366/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 55,
+            "label": "『好色一代男』（200003076）55v",
+            "side": "v",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+4E73/U+4E73_200003076_00055_2_X1028_Y2366.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+4E73_200003967_00030_1_X0363_Y1559",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003967/%E4%B9%B3/manifest&pos=53&xywh=363,1559,98,94",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200003967_00030_1_X0363_Y1559/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003967",
+            "frame": 30,
+            "label": "『おらが春』（200003967）30r",
+            "side": "r",
+            "title": "おらが春"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003967/characters/U+4E73/U+4E73_200003967_00030_1_X0363_Y1559.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200003967_00030_2_X0982_Y2056",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003967/%E4%B9%B3/manifest&pos=54&xywh=982,2056,121,105",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200003967_00030_2_X0982_Y2056/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003967",
+            "frame": 30,
+            "label": "『おらが春』（200003967）30v",
+            "side": "v",
+            "title": "おらが春"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003967/characters/U+4E73/U+4E73_200003967_00030_2_X0982_Y2056.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200003967_00035_2_X0268_Y1664",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003967/%E4%B9%B3/manifest&pos=64&xywh=268,1664,103,111",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200003967_00035_2_X0268_Y1664/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003967",
+            "frame": 35,
+            "label": "『おらが春』（200003967）35v",
+            "side": "v",
+            "title": "おらが春"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003967/characters/U+4E73/U+4E73_200003967_00035_2_X0268_Y1664.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200003967_00037_1_X0951_Y1130",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003967/%E4%B9%B3/manifest&pos=67&xywh=951,1130,119,107",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200003967_00037_1_X0951_Y1130/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003967",
+            "frame": 37,
+            "label": "『おらが春』（200003967）37r",
+            "side": "r",
+            "title": "おらが春"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003967/characters/U+4E73/U+4E73_200003967_00037_1_X0951_Y1130.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+4E73_200004148_00013_1_X1426_Y2378",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E4%B9%B3/manifest&pos=23&xywh=1426,2378,96,75",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200004148_00013_1_X1426_Y2378/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 13,
+            "label": "『椿説弓張月』（200004148）13r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+4E73/U+4E73_200004148_00013_1_X1426_Y2378.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200004148_00020_1_X0860_Y2408",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E4%B9%B3/manifest&pos=37&xywh=860,2408,101,90",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200004148_00020_1_X0860_Y2408/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 20,
+            "label": "『椿説弓張月』（200004148）20r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+4E73/U+4E73_200004148_00020_1_X0860_Y2408.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200004148_00025_2_X1573_Y1339",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E4%B9%B3/manifest&pos=48&xywh=1573,1339,98,89",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200004148_00025_2_X1573_Y1339/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 25,
+            "label": "『椿説弓張月』（200004148）25v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+4E73/U+4E73_200004148_00025_2_X1573_Y1339.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200004148_00054_1_X0425_Y1521",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E4%B9%B3/manifest&pos=105&xywh=425,1521,88,82",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200004148_00054_1_X0425_Y1521/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 54,
+            "label": "『椿説弓張月』（200004148）54r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+4E73/U+4E73_200004148_00054_1_X0425_Y1521.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200004148_00068_2_X0521_Y0914",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E4%B9%B3/manifest&pos=134&xywh=521,914,99,91",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200004148_00068_2_X0521_Y0914/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 68,
+            "label": "『椿説弓張月』（200004148）68v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+4E73/U+4E73_200004148_00068_2_X0521_Y0914.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+4E73_200005798_00035_2_X1422_Y1998",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005798/%E4%B9%B3/manifest&pos=64&xywh=1422,1998,74,122",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200005798_00035_2_X1422_Y1998/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005798",
+            "frame": 35,
+            "label": "『世間胸算用／大晦日ハ一日千金』（200005798）35v",
+            "side": "v",
+            "title": "世間胸算用／大晦日ハ一日千金"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005798/characters/U+4E73/U+4E73_200005798_00035_2_X1422_Y1998.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200005798_00062_2_X0353_Y2035",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005798/%E4%B9%B3/manifest&pos=114&xywh=353,2035,113,126",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200005798_00062_2_X0353_Y2035/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005798",
+            "frame": 62,
+            "label": "『世間胸算用／大晦日ハ一日千金』（200005798）62v",
+            "side": "v",
+            "title": "世間胸算用／大晦日ハ一日千金"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005798/characters/U+4E73/U+4E73_200005798_00062_2_X0353_Y2035.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200005798_00062_2_X0818_Y2094",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005798/%E4%B9%B3/manifest&pos=114&xywh=818,2094,106,115",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200005798_00062_2_X0818_Y2094/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005798",
+            "frame": 62,
+            "label": "『世間胸算用／大晦日ハ一日千金』（200005798）62v",
+            "side": "v",
+            "title": "世間胸算用／大晦日ハ一日千金"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005798/characters/U+4E73/U+4E73_200005798_00062_2_X0818_Y2094.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200005798_00064_2_X1249_Y2353",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005798/%E4%B9%B3/manifest&pos=118&xywh=1249,2353,102,119",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200005798_00064_2_X1249_Y2353/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005798",
+            "frame": 64,
+            "label": "『世間胸算用／大晦日ハ一日千金』（200005798）64v",
+            "side": "v",
+            "title": "世間胸算用／大晦日ハ一日千金"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005798/characters/U+4E73/U+4E73_200005798_00064_2_X1249_Y2353.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+4E73_200006663_00003_2_X1681_Y0443",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200006663/%E4%B9%B3/manifest&pos=4&xywh=1681,443,145,127",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200006663_00003_2_X1681_Y0443/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200006663",
+            "frame": 3,
+            "label": "『ぢぐち』（200006663）3v",
+            "side": "v",
+            "title": "ぢぐち"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200006663/characters/U+4E73/U+4E73_200006663_00003_2_X1681_Y0443.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+4E73_200008316_00096_1_X1720_Y3478",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008316/%E4%B9%B3/manifest&pos=169&xywh=1720,3478,146,163",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200008316_00096_1_X1720_Y3478/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008316",
+            "frame": 96,
+            "label": "『武家義理物語』（200008316）96r",
+            "side": "r",
+            "title": "武家義理物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008316/characters/U+4E73/U+4E73_200008316_00096_1_X1720_Y3478.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200008316_00096_1_X1945_Y1285",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008316/%E4%B9%B3/manifest&pos=169&xywh=1945,1285,147,164",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200008316_00096_1_X1945_Y1285/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008316",
+            "frame": 96,
+            "label": "『武家義理物語』（200008316）96r",
+            "side": "r",
+            "title": "武家義理物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008316/characters/U+4E73/U+4E73_200008316_00096_1_X1945_Y1285.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200008316_00097_1_X1732_Y2460",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008316/%E4%B9%B3/manifest&pos=171&xywh=1732,2460,151,189",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200008316_00097_1_X1732_Y2460/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008316",
+            "frame": 97,
+            "label": "『武家義理物語』（200008316）97r",
+            "side": "r",
+            "title": "武家義理物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008316/characters/U+4E73/U+4E73_200008316_00097_1_X1732_Y2460.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+4E73_200014685_00004_2_X1764_Y1278",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E4%B9%B3/manifest&pos=6&xywh=1764,1278,65,76",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200014685_00004_2_X1764_Y1278/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 4,
+            "label": "『南総里見八犬伝』（200014685）4v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+4E73/U+4E73_200014685_00004_2_X1764_Y1278.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200014685_00004_2_X1764_Y2203",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E4%B9%B3/manifest&pos=6&xywh=1764,2203,56,64",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200014685_00004_2_X1764_Y2203/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 4,
+            "label": "『南総里見八犬伝』（200014685）4v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+4E73/U+4E73_200014685_00004_2_X1764_Y2203.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200014685_00004_2_X1767_Y1746",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E4%B9%B3/manifest&pos=6&xywh=1767,1746,60,72",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200014685_00004_2_X1767_Y1746/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 4,
+            "label": "『南総里見八犬伝』（200014685）4v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+4E73/U+4E73_200014685_00004_2_X1767_Y1746.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200014685_00004_2_X1905_Y2396",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E4%B9%B3/manifest&pos=6&xywh=1905,2396,65,76",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200014685_00004_2_X1905_Y2396/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 4,
+            "label": "『南総里見八犬伝』（200014685）4v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+4E73/U+4E73_200014685_00004_2_X1905_Y2396.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200014685_00004_2_X1906_Y1958",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E4%B9%B3/manifest&pos=6&xywh=1906,1958,55,67",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200014685_00004_2_X1906_Y1958/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 4,
+            "label": "『南総里見八犬伝』（200014685）4v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+4E73/U+4E73_200014685_00004_2_X1906_Y1958.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200014685_00004_2_X1908_Y2839",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E4%B9%B3/manifest&pos=6&xywh=1908,2839,56,63",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200014685_00004_2_X1908_Y2839/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 4,
+            "label": "『南総里見八犬伝』（200014685）4v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+4E73/U+4E73_200014685_00004_2_X1908_Y2839.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200014685_00004_2_X1917_Y1508",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E4%B9%B3/manifest&pos=6&xywh=1917,1508,55,66",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200014685_00004_2_X1917_Y1508/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 4,
+            "label": "『南総里見八犬伝』（200014685）4v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+4E73/U+4E73_200014685_00004_2_X1917_Y1508.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200014685_00029_1_X1625_Y2783",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E4%B9%B3/manifest&pos=55&xywh=1625,2783,109,102",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200014685_00029_1_X1625_Y2783/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 29,
+            "label": "『南総里見八犬伝』（200014685）29r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+4E73/U+4E73_200014685_00029_1_X1625_Y2783.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+4E73_200014740_00061_1_X1134_Y1249",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E4%B9%B3/manifest&pos=117&xywh=1134,1249,119,130",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200014740_00061_1_X1134_Y1249/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 61,
+            "label": "『雨月物語』（200014740）61r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+4E73/U+4E73_200014740_00061_1_X1134_Y1249.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200014740_00061_1_X1575_Y1040",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E4%B9%B3/manifest&pos=117&xywh=1575,1040,109,131",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200014740_00061_1_X1575_Y1040/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 61,
+            "label": "『雨月物語』（200014740）61r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+4E73/U+4E73_200014740_00061_1_X1575_Y1040.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+4E73_200015779_00098_2_X0656_Y1449",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E4%B9%B3/manifest&pos=174&xywh=656,1449,117,130",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200015779_00098_2_X0656_Y1449/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 98,
+            "label": "『浮世風呂』（200015779）98v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+4E73/U+4E73_200015779_00098_2_X0656_Y1449.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200015779_00099_1_X0745_Y1355",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E4%B9%B3/manifest&pos=175&xywh=745,1355,128,121",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200015779_00099_1_X0745_Y1355/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 99,
+            "label": "『浮世風呂』（200015779）99r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+4E73/U+4E73_200015779_00099_1_X0745_Y1355.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200015779_00099_1_X0970_Y2411",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E4%B9%B3/manifest&pos=175&xywh=970,2411,127,124",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200015779_00099_1_X0970_Y2411/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 99,
+            "label": "『浮世風呂』（200015779）99r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+4E73/U+4E73_200015779_00099_1_X0970_Y2411.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200015779_00099_2_X0889_Y0889",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E4%B9%B3/manifest&pos=176&xywh=889,889,125,127",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200015779_00099_2_X0889_Y0889/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 99,
+            "label": "『浮世風呂』（200015779）99v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+4E73/U+4E73_200015779_00099_2_X0889_Y0889.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200015779_00109_2_X1111_Y1410",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E4%B9%B3/manifest&pos=196&xywh=1111,1410,125,111",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200015779_00109_2_X1111_Y1410/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 109,
+            "label": "『浮世風呂』（200015779）109v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+4E73/U+4E73_200015779_00109_2_X1111_Y1410.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200015779_00109_2_X1564_Y0385",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E4%B9%B3/manifest&pos=196&xywh=1564,385,122,119",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200015779_00109_2_X1564_Y0385/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 109,
+            "label": "『浮世風呂』（200015779）109v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+4E73/U+4E73_200015779_00109_2_X1564_Y0385.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200015779_00155_2_X0460_Y0843",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E4%B9%B3/manifest&pos=284&xywh=460,843,119,121",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200015779_00155_2_X0460_Y0843/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 155,
+            "label": "『浮世風呂』（200015779）155v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+4E73/U+4E73_200015779_00155_2_X0460_Y0843.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200015779_00156_1_X1218_Y1933",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E4%B9%B3/manifest&pos=285&xywh=1218,1933,117,108",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200015779_00156_1_X1218_Y1933/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 156,
+            "label": "『浮世風呂』（200015779）156r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+4E73/U+4E73_200015779_00156_1_X1218_Y1933.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200015779_00156_2_X0247_Y2063",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E4%B9%B3/manifest&pos=286&xywh=247,2063,117,128",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200015779_00156_2_X0247_Y2063/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 156,
+            "label": "『浮世風呂』（200015779）156v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+4E73/U+4E73_200015779_00156_2_X0247_Y2063.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200015779_00157_1_X0091_Y0462",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E4%B9%B3/manifest&pos=287&xywh=91,462,127,116",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200015779_00157_1_X0091_Y0462/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 157,
+            "label": "『浮世風呂』（200015779）157r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+4E73/U+4E73_200015779_00157_1_X0091_Y0462.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200015779_00158_2_X0911_Y0575",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E4%B9%B3/manifest&pos=290&xywh=911,575,125,126",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200015779_00158_2_X0911_Y0575/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 158,
+            "label": "『浮世風呂』（200015779）158v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+4E73/U+4E73_200015779_00158_2_X0911_Y0575.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200015779_00159_1_X1685_Y2113",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E4%B9%B3/manifest&pos=291&xywh=1685,2113,119,126",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200015779_00159_1_X1685_Y2113/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 159,
+            "label": "『浮世風呂』（200015779）159r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+4E73/U+4E73_200015779_00159_1_X1685_Y2113.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200015779_00160_1_X1445_Y2672",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E4%B9%B3/manifest&pos=293&xywh=1445,2672,138,121",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200015779_00160_1_X1445_Y2672/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 160,
+            "label": "『浮世風呂』（200015779）160r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+4E73/U+4E73_200015779_00160_1_X1445_Y2672.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+4E73_200015843_00031_2_X1878_Y2690",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E4%B9%B3/manifest&pos=56&xywh=1878,2690,116,123",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200015843_00031_2_X1878_Y2690/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 31,
+            "label": "『日本永代蔵』（200015843）31v",
+            "side": "v",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+4E73/U+4E73_200015843_00031_2_X1878_Y2690.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200015843_00082_2_X0459_Y2244",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E4%B9%B3/manifest&pos=150&xywh=459,2244,116,112",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200015843_00082_2_X0459_Y2244/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 82,
+            "label": "『日本永代蔵』（200015843）82v",
+            "side": "v",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+4E73/U+4E73_200015843_00082_2_X0459_Y2244.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200015843_00084_2_X0898_Y1162",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E4%B9%B3/manifest&pos=154&xywh=898,1162,107,110",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200015843_00084_2_X0898_Y1162/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 84,
+            "label": "『日本永代蔵』（200015843）84v",
+            "side": "v",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+4E73/U+4E73_200015843_00084_2_X0898_Y1162.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+4E73_200019865_00124_1_X1836_Y1748",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200019865/%E4%B9%B3/manifest&pos=219&xywh=1836,1748,124,109",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200019865_00124_1_X1836_Y1748/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200019865",
+            "frame": 124,
+            "label": "『女郎花物語』（200019865）124r",
+            "side": "r",
+            "title": "女郎花物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200019865/characters/U+4E73/U+4E73_200019865_00124_1_X1836_Y1748.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+4E73_200021644_00028_2_X0507_Y0948",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021644/%E4%B9%B3/manifest&pos=55&xywh=507,948,109,112",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200021644_00028_2_X0507_Y0948/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021644",
+            "frame": 28,
+            "label": "『菓子話船橋』（200021644）28v",
+            "side": "v",
+            "title": "菓子話船橋"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021644/characters/U+4E73/U+4E73_200021644_00028_2_X0507_Y0948.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+4E73_200021712_00008_1_X1288_Y2714",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021712/%E4%B9%B3/manifest&pos=13&xywh=1288,2714,119,131",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200021712_00008_1_X1288_Y2714/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021712",
+            "frame": 8,
+            "label": "『万宝料理秘密箱』（200021712）8r",
+            "side": "r",
+            "title": "万宝料理秘密箱"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021712/characters/U+4E73/U+4E73_200021712_00008_1_X1288_Y2714.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+4E73_200021712_00073_1_X1623_Y1423",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021712/%E4%B9%B3/manifest&pos=143&xywh=1623,1423,110,124",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200021712_00073_1_X1623_Y1423/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021712",
+            "frame": 73,
+            "label": "『万宝料理秘密箱』（200021712）73r",
+            "side": "r",
+            "title": "万宝料理秘密箱"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021712/characters/U+4E73/U+4E73_200021712_00073_1_X1623_Y1423.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "character": "乳",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+4E73_200021925_00013_1_X1908_Y0749",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021925/%E4%B9%B3/manifest&pos=23&xywh=1908,749,84,100",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+4E73_200021925_00013_1_X1908_Y0749/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021925",
+            "frame": 13,
+            "label": "『新編異国料理』（200021925）13r",
+            "side": "r",
+            "title": "新編異国料理"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021925/characters/U+4E73/U+4E73_200021925_00013_1_X1908_Y0749.jpg/full/full/0/default.jpg",
+        "unicode": "4E73"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kkh0001",
+        "identifer": "27-1",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/27kkh/kkh0001.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "北宋期？",
+            "value": "金剛般若經(京都国立博物館本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/27kkh/kkh0001.tiff/full/full/0/default.jpg",
+        "title": "乳",
+        "unicode": "E4B9B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink0443",
+        "identifer": "33-443",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink0443.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink0443.tiff/full/full/0/default.jpg",
+        "title": "乳",
+        "unicode": "E4B9B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0428",
+        "identifer": "34-428",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0428.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0428.tiff/full/full/0/default.jpg",
+        "title": "乳",
+        "unicode": "E4B9B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0438",
+        "identifer": "36-438",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0438.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0438.tiff/full/full/0/default.jpg",
+        "title": "乳",
+        "unicode": "E4B9B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240434",
+        "identifer": "3724-434",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240434.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240434.tiff/full/full/0/default.jpg",
+        "title": "乳",
+        "unicode": "E4B9B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ini0393",
+        "identifer": "38-393",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/38ini/ini0393.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1236年",
+            "value": "卷二(鴨脚本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/38ini/ini0393.tiff/full/full/0/default.jpg",
+        "title": "乳",
+        "unicode": "E4B9B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkk0321",
+        "identifer": "39-321",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/39nkk/nkk0321.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1286年",
+            "value": "卷二(兼方本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/39nkk/nkk0321.tiff/full/full/0/default.jpg",
+        "title": "乳",
+        "unicode": "E4B9B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcc0400",
+        "identifer": "41-400",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/41kcc/kcc0400.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1599年",
+            "value": "卷二(慶長勅版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/41kcc/kcc0400.tiff/full/full/0/default.jpg",
+        "title": "乳",
+        "unicode": "E4B9B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcj0403",
+        "identifer": "42-403",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/42kcj/kcj0403.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1610年",
+            "value": "卷二(慶長十五年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/42kcj/kcj0403.tiff/full/full/0/default.jpg",
+        "title": "乳",
+        "unicode": "E4B9B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kbk0399",
+        "identifer": "43-399",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/43kbk/kbk0399.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/43kbk/kbk0399.tiff/full/full/0/default.jpg",
+        "title": "乳",
+        "unicode": "E4B9B3"
+    }
+]

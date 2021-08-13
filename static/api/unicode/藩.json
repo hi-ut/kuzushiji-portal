@@ -1,0 +1,56 @@
+[
+    {
+        "character": "藩",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+85E9_200014685_00023_1_X0931_Y0960",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E8%97%A9/manifest&pos=43&xywh=931,960,92,132",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+85E9_200014685_00023_1_X0931_Y0960/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 23,
+            "label": "『南総里見八犬伝』（200014685）23r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+85E9/U+85E9_200014685_00023_1_X0931_Y0960.jpg/full/full/0/default.jpg",
+        "unicode": "85E9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae1324",
+        "identifer": "19-1324",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae1324.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae1324.tiff/full/full/0/default.jpg",
+        "title": "藩",
+        "unicode": "E897A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0335",
+        "identifer": "31-335",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0335.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0335.tiff/full/full/0/default.jpg",
+        "title": "藩",
+        "unicode": "E897A9"
+    }
+]

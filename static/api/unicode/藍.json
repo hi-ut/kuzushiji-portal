@@ -1,0 +1,486 @@
+[
+    {
+        "character": "藍",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+85CD_200004148_00040_1_X0994_Y1929",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E8%97%8D/manifest&pos=77&xywh=994,1929,87,99",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+85CD_200004148_00040_1_X0994_Y1929/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 40,
+            "label": "『椿説弓張月』（200004148）40r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+85CD/U+85CD_200004148_00040_1_X0994_Y1929.jpg/full/full/0/default.jpg",
+        "unicode": "85CD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "drt0461",
+        "identifer": "6-461",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/06drt/drt0461.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "589年",
+            "value": "大樓炭經卷三(P2413)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/06drt/drt0461.tiff/full/full/0/default.jpg",
+        "title": "藍",
+        "unicode": "E8978D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0653",
+        "identifer": "13-653",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0653.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0653.tiff/full/full/0/default.jpg",
+        "title": "藍",
+        "unicode": "E8978D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0998a",
+        "identifer": "26-998a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0998a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0998a.tiff/full/full/0/default.jpg",
+        "title": "藍",
+        "unicode": "E8978D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0998b",
+        "identifer": "26-998b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0998b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0998b.tiff/full/full/0/default.jpg",
+        "title": "藍",
+        "unicode": "E8978D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0483",
+        "identifer": "30-483",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0483.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0483.tiff/full/full/0/default.jpg",
+        "title": "藍",
+        "unicode": "E8978D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink0336",
+        "identifer": "33-336",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink0336.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink0336.tiff/full/full/0/default.jpg",
+        "title": "藍",
+        "unicode": "E8978D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0330",
+        "identifer": "36-330",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0330.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0330.tiff/full/full/0/default.jpg",
+        "title": "藍",
+        "unicode": "E8978D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240328",
+        "identifer": "3724-328",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240328.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240328.tiff/full/full/0/default.jpg",
+        "title": "藍",
+        "unicode": "E8978D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkk0202",
+        "identifer": "39-202",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/39nkk/nkk0202.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1286年",
+            "value": "卷二(兼方本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/39nkk/nkk0202.tiff/full/full/0/default.jpg",
+        "title": "藍",
+        "unicode": "E8978D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcc0268",
+        "identifer": "41-268",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/41kcc/kcc0268.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1599年",
+            "value": "卷二(慶長勅版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/41kcc/kcc0268.tiff/full/full/0/default.jpg",
+        "title": "藍",
+        "unicode": "E8978D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcj0267",
+        "identifer": "42-267",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/42kcj/kcj0267.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1610年",
+            "value": "卷二(慶長十五年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/42kcj/kcj0267.tiff/full/full/0/default.jpg",
+        "title": "藍",
+        "unicode": "E8978D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kbk0265",
+        "identifer": "43-265",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/43kbk/kbk0265.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/43kbk/kbk0265.tiff/full/full/0/default.jpg",
+        "title": "藍",
+        "unicode": "E8978D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyu0537",
+        "identifer": "47-537",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/47kyu/kyu0537.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "11C",
+            "value": "瑜伽師地論卷五(高麗初彫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/47kyu/kyu0537.tiff/full/full/0/default.jpg",
+        "title": "藍",
+        "unicode": "E8978D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd1170",
+        "identifer": "56-1170",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd1170.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd1170.tiff/full/full/0/default.jpg",
+        "title": "藍",
+        "unicode": "E8978D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0556",
+        "identifer": "71-556",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0556.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0556.tiff/full/full/0/default.jpg",
+        "title": "藍",
+        "unicode": "E8978D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sgs0077",
+        "identifer": "77-77",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/77sgs/sgs0077.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年頃",
+            "value": "四分律卷第十六(正倉院五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/77sgs/sgs0077.tiff/full/full/0/default.jpg",
+        "title": "藍",
+        "unicode": "E8978D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sts0076",
+        "identifer": "78-76",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/78sts/sts0076.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年頃",
+            "value": "四分律卷第二十(正倉院唐經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/78sts/sts0076.tiff/full/full/0/default.jpg",
+        "title": "藍",
+        "unicode": "E8978D"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34122555",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34122555",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0073/11/18/00000015/manifest/manifest-34-34122555.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0073-11-18@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "後漢書光武紀@ja",
+            "occupation": "公家@ja",
+            "page": "00000015",
+            "remarks": "",
+            "send": "",
+            "to": "",
+            "value": "後愚昧記貞治三年関係文書（史料編纂所原本第十八）@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0073/11/18/00000015/00378472.bmp",
+        "title": "藍@ja",
+        "unicode": "17"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34134797",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34134797",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0073/11/1/00000003/manifest/manifest-34-34134797.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0073-11-1@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "康安元年二月二十四日条@ja",
+            "occupation": "公家@ja",
+            "page": "00000003",
+            "remarks": "",
+            "send": "三条公忠@ja",
+            "to": "",
+            "value": "後愚昧記康安元年二月記@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0073/11/1/00000003/00390732.bmp",
+        "title": "藍@ja",
+        "unicode": "17"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34237806",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34237806",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0073/10/8/00000006/manifest/manifest-34-34237806.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0073-10-8@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "寿永元年七月二十日条@ja",
+            "occupation": "公家@ja",
+            "page": "00000006",
+            "remarks": "",
+            "send": "三条実房@ja",
+            "to": "",
+            "value": "愚昧記寿永元年秋記@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0073/10/8/00000006/34237806.bmp",
+        "title": "藍@ja",
+        "unicode": "17"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34262756",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34262756",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0073/13/2/00000057/manifest/manifest-34-34262756.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0073-13-2@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "久我長通書状@ja",
+            "occupation": "公家@ja",
+            "page": "00000057",
+            "remarks": "",
+            "send": "（花押）（久我長通）@ja",
+            "to": "",
+            "value": "中院一品記巻2　紙背文書@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0073/13/2/00000057/34262756.bmp",
+        "title": "藍@ja",
+        "unicode": "17"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34262805",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34262805",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0073/13/2/00000056/manifest/manifest-34-34262805.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0073-13-2@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "久我長通書状@ja",
+            "occupation": "公家@ja",
+            "page": "00000056",
+            "remarks": "",
+            "send": "（花押）（久我長通）@ja",
+            "to": "",
+            "value": "中院一品記巻2　紙背文書@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0073/13/2/00000056/34262805.bmp",
+        "title": "藍@ja",
+        "unicode": "17"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34285610",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34285610",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0073/13/2/00000057/manifest/manifest-34-34285610.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0073-13-2@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "久我長通書状@ja",
+            "occupation": "公家@ja",
+            "page": "00000057",
+            "remarks": "",
+            "send": "",
+            "to": "",
+            "value": "中院一品記　巻２　暦応二年春夏記　紙背文書@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0073/13/2/00000057/34285610.bmp",
+        "title": "藍@ja",
+        "unicode": "17"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34285622",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34285622",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0073/13/2/00000056/manifest/manifest-34-34285622.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0073-13-2@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "久我長通書状@ja",
+            "occupation": "公家@ja",
+            "page": "00000056",
+            "remarks": "",
+            "send": "",
+            "to": "",
+            "value": "中院一品記　巻２　暦応二年春夏記　紙背文書@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0073/13/2/00000056/34285622.bmp",
+        "title": "藍@ja",
+        "unicode": "17"
+    }
+]

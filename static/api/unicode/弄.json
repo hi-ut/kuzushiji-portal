@@ -1,0 +1,130 @@
+[
+    {
+        "character": "弄",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5F04_200004148_00013_2_X0542_Y1339",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%BC%84/manifest&pos=24&xywh=542,1339,84,82",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5F04_200004148_00013_2_X0542_Y1339/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 13,
+            "label": "『椿説弓張月』（200004148）13v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+5F04/U+5F04_200004148_00013_2_X0542_Y1339.jpg/full/full/0/default.jpg",
+        "unicode": "5F04"
+    },
+    {
+        "character": "弄",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5F04_200004148_00016_2_X1387_Y0789",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%BC%84/manifest&pos=30&xywh=1387,789,100,95",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5F04_200004148_00016_2_X1387_Y0789/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 16,
+            "label": "『椿説弓張月』（200004148）16v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+5F04/U+5F04_200004148_00016_2_X1387_Y0789.jpg/full/full/0/default.jpg",
+        "unicode": "5F04"
+    },
+    {
+        "character": "弄",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5F04_200025191_00060_1_X0709_Y2328",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200025191/%E5%BC%84/manifest&pos=109&xywh=709,2328,107,155",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5F04_200025191_00060_1_X0709_Y2328/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200025191",
+            "frame": 60,
+            "label": "『仁勢物語』（200025191）60r",
+            "side": "r",
+            "title": "仁勢物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200025191/characters/U+5F04/U+5F04_200025191_00060_1_X0709_Y2328.jpg/full/full/0/default.jpg",
+        "unicode": "5F04"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "yhk0084",
+        "identifer": "16-84",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/16yhk/yhk0084.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "712年",
+            "value": "瑜伽法鏡經(S2423)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/16yhk/yhk0084.tiff/full/full/0/default.jpg",
+        "title": "弄",
+        "unicode": "E5BC84"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sys0345",
+        "identifer": "22-345",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/22sys/sys0345.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "857年",
+            "value": "瑜伽師地論卷三十(S5309)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/22sys/sys0345.tiff/full/full/0/default.jpg",
+        "title": "弄",
+        "unicode": "E5BC84"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0153",
+        "identifer": "56-153",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0153.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0153.tiff/full/full/0/default.jpg",
+        "title": "弄",
+        "unicode": "E5BC84"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "doh0052",
+        "identifer": "57-52",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/57doh/doh0052.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "815年",
+            "value": "金剛大教王經卷一(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/57doh/doh0052.tiff/full/full/0/default.jpg",
+        "title": "弄",
+        "unicode": "E5BC84"
+    }
+]

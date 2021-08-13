@@ -1,0 +1,172 @@
+[
+    {
+        "character": "耐",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+8010_200014740_00012_1_X0537_Y2581",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E8%80%90/manifest&pos=21&xywh=537,2581,103,92",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8010_200014740_00012_1_X0537_Y2581/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 12,
+            "label": "『雨月物語』（200014740）12r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+8010/U+8010_200014740_00012_1_X0537_Y2581.jpg/full/full/0/default.jpg",
+        "unicode": "8010"
+    },
+    {
+        "character": "耐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+8010_200014740_00046_1_X0666_Y0364",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E8%80%90/manifest&pos=89&xywh=666,364,104,89",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8010_200014740_00046_1_X0666_Y0364/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 46,
+            "label": "『雨月物語』（200014740）46r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+8010/U+8010_200014740_00046_1_X0666_Y0364.jpg/full/full/0/default.jpg",
+        "unicode": "8010"
+    },
+    {
+        "character": "耐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+8010_200014740_00061_2_X0621_Y2449",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E8%80%90/manifest&pos=118&xywh=621,2449,118,96",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8010_200014740_00061_2_X0621_Y2449/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 61,
+            "label": "『雨月物語』（200014740）61v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+8010/U+8010_200014740_00061_2_X0621_Y2449.jpg/full/full/0/default.jpg",
+        "unicode": "8010"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ini0876",
+        "identifer": "38-876",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/38ini/ini0876.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1236年",
+            "value": "卷二(鴨脚本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/38ini/ini0876.tiff/full/full/0/default.jpg",
+        "title": "耐",
+        "unicode": "E88090"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkk0809",
+        "identifer": "39-809",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/39nkk/nkk0809.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1286年",
+            "value": "卷二(兼方本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/39nkk/nkk0809.tiff/full/full/0/default.jpg",
+        "title": "耐",
+        "unicode": "E88090"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcc0963",
+        "identifer": "41-963",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/41kcc/kcc0963.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1599年",
+            "value": "卷二(慶長勅版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/41kcc/kcc0963.tiff/full/full/0/default.jpg",
+        "title": "耐",
+        "unicode": "E88090"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcj0932",
+        "identifer": "42-932",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/42kcj/kcj0932.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1610年",
+            "value": "卷二(慶長十五年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/42kcj/kcj0932.tiff/full/full/0/default.jpg",
+        "title": "耐",
+        "unicode": "E88090"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kbk0919",
+        "identifer": "43-919",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/43kbk/kbk0919.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/43kbk/kbk0919.tiff/full/full/0/default.jpg",
+        "title": "耐",
+        "unicode": "E88090"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34194289",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34194289",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0673/6/1/00000029/manifest/manifest-34-34194289.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0673-6-1@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "文明六年二月十四日条@ja",
+            "occupation": "公家@ja",
+            "page": "00000029",
+            "remarks": "",
+            "send": "三条西実隆@ja",
+            "to": "",
+            "value": "実隆公記@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0673/6/1/00000029/34194289.bmp",
+        "title": "耐@ja",
+        "unicode": "09"
+    }
+]

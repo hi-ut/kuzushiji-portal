@@ -1,0 +1,711 @@
+[
+    {
+        "character": "恭",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+606D_200014685_00007_1_X1628_Y0893",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E6%81%AD/manifest&pos=11&xywh=1628,893,84,79",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+606D_200014685_00007_1_X1628_Y0893/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 7,
+            "label": "『南総里見八犬伝』（200014685）7r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+606D/U+606D_200014685_00007_1_X1628_Y0893.jpg/full/full/0/default.jpg",
+        "unicode": "606D"
+    },
+    {
+        "character": "恭",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+606D_200014685_00010_1_X1822_Y1879",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E6%81%AD/manifest&pos=17&xywh=1822,1879,59,69",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+606D_200014685_00010_1_X1822_Y1879/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 10,
+            "label": "『南総里見八犬伝』（200014685）10r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+606D/U+606D_200014685_00010_1_X1822_Y1879.jpg/full/full/0/default.jpg",
+        "unicode": "606D"
+    },
+    {
+        "character": "恭",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+606D_200019865_00008_1_X0772_Y2051",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200019865/%E6%81%AD/manifest&pos=13&xywh=772,2051,109,118",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+606D_200019865_00008_1_X0772_Y2051/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200019865",
+            "frame": 8,
+            "label": "『女郎花物語』（200019865）8r",
+            "side": "r",
+            "title": "女郎花物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200019865/characters/U+606D/U+606D_200019865_00008_1_X0772_Y2051.jpg/full/full/0/default.jpg",
+        "unicode": "606D"
+    },
+    {
+        "character": "恭",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+606D_200019865_00009_1_X1897_Y2480",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200019865/%E6%81%AD/manifest&pos=15&xywh=1897,2480,103,138",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+606D_200019865_00009_1_X1897_Y2480/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200019865",
+            "frame": 9,
+            "label": "『女郎花物語』（200019865）9r",
+            "side": "r",
+            "title": "女郎花物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200019865/characters/U+606D/U+606D_200019865_00009_1_X1897_Y2480.jpg/full/full/0/default.jpg",
+        "unicode": "606D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "dng0915a",
+        "identifer": "3-915a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/03dng/dng0915a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "506年",
+            "value": "大般涅槃經卷十一(S81)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/03dng/dng0915a.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "dng0915b",
+        "identifer": "3-915b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/03dng/dng0915b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "506年",
+            "value": "大般涅槃經卷十一(S81)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/03dng/dng0915b.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "mam0593",
+        "identifer": "5-593",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/05mam/mam0593.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "586年",
+            "value": "摩訶摩耶經卷上(P2160)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/05mam/mam0593.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kgk0514",
+        "identifer": "7-514",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/07kgk/kgk0514.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "610年",
+            "value": "賢劫經卷二(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/07kgk/kgk0514.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "myz0357",
+        "identifer": "8-357",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/08myz/myz0357.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "617年",
+            "value": "妙法蓮華經卷五(P2334)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/08myz/myz0357.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khi0384",
+        "identifer": "10-384",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/10khi/khi0384.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "671年",
+            "value": "妙法蓮華經卷五(今西本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/10khi/khi0384.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khm0335",
+        "identifer": "11-335",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/11khm/khm0335.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷三(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/11khm/khm0335.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "fhs0368",
+        "identifer": "12-368",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/12fhs/fhs0368.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷六(P2195)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/12fhs/fhs0368.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0454",
+        "identifer": "13-454",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0454.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0454.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "yhk0101",
+        "identifer": "16-101",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/16yhk/yhk0101.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "712年",
+            "value": "瑜伽法鏡經(S2423)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/16yhk/yhk0101.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kak0093",
+        "identifer": "17-93",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/17kak/kak0093.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經孝經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/17kak/kak0093.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0889",
+        "identifer": "18-889",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0889.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0889.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0843",
+        "identifer": "19-843",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0843.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0843.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sys0716a",
+        "identifer": "22-716a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/22sys/sys0716a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "857年",
+            "value": "瑜伽師地論卷三十(S5309)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/22sys/sys0716a.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sys0716b",
+        "identifer": "22-716b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/22sys/sys0716b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "857年",
+            "value": "瑜伽師地論卷三十(S5309)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/22sys/sys0716b.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kkh0278",
+        "identifer": "27-278",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/27kkh/kkh0278.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "北宋期？",
+            "value": "金剛般若經(京都国立博物館本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/27kkh/kkh0278.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nak0055",
+        "identifer": "28-55",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/28nak/nak0055.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1146年",
+            "value": "華嚴孔目(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/28nak/nak0055.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0154",
+        "identifer": "30-154",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0154.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0154.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0145",
+        "identifer": "31-145",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0145.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0145.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink0140",
+        "identifer": "33-140",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink0140.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink0140.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0136",
+        "identifer": "34-136",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0136.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0136.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0138",
+        "identifer": "36-138",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0138.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0138.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240134",
+        "identifer": "3724-134",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240134.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240134.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "skk0047",
+        "identifer": "46-47",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/46skk/skk0047.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "華嚴經卷二十(晉本高麗古版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/46skk/skk0047.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyu0070",
+        "identifer": "47-70",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/47kyu/kyu0070.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "11C",
+            "value": "瑜伽師地論卷五(高麗初彫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/47kyu/kyu0070.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ksk0055",
+        "identifer": "48-55",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/48ksk/ksk0055.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "13C",
+            "value": "華嚴經卷六(高麗再彫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/48ksk/ksk0055.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wan0319",
+        "identifer": "49-319",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/49wan/wan0319.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "華嚴經卷三十八(趙氏藏本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/49wan/wan0319.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kmi0583a",
+        "identifer": "55-583a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/55kmi/kmi0583a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "738年",
+            "value": "弥勒上生經(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/55kmi/kmi0583a.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kmi0583b",
+        "identifer": "55-583b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/55kmi/kmi0583b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "738年",
+            "value": "弥勒上生經(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/55kmi/kmi0583b.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0854",
+        "identifer": "56-854",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0854.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0854.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzs0101",
+        "identifer": "60-101",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/60tzs/tzs0101.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C",
+            "value": "佛説大教王經卷一(東禪寺版日本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/60tzs/tzs0101.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyo0360",
+        "identifer": "66-360",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/66kyo/kyo0360.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1224年",
+            "value": "教行信証卷四(親鸞自筆)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/66kyo/kyo0360.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ykk0507",
+        "identifer": "68-507",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/68ykk/ykk0507.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1412年",
+            "value": "藥師功徳經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/68ykk/ykk0507.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0384",
+        "identifer": "71-384",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0384.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0384.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0067",
+        "identifer": "72-67",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0067.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0067.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wke0475",
+        "identifer": "73-475",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/73wke/wke0475.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/73wke/wke0475.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0481",
+        "identifer": "74-481",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0481.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0481.tiff/full/full/0/default.jpg",
+        "title": "恭",
+        "unicode": "E681AD"
+    }
+]

@@ -1,0 +1,345 @@
+[
+    {
+        "character": "毀",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6BC0_200015843_00058_2_X1050_Y1785",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E6%AF%80/manifest&pos=106&xywh=1050,1785,103,117",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6BC0_200015843_00058_2_X1050_Y1785/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 58,
+            "label": "『日本永代蔵』（200015843）58v",
+            "side": "v",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+6BC0/U+6BC0_200015843_00058_2_X1050_Y1785.jpg/full/full/0/default.jpg",
+        "unicode": "6BC0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "keg0474",
+        "identifer": "2-474",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/02keg/keg0474.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "514年",
+            "value": "華嚴經卷十六(S2067)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/02keg/keg0474.tiff/full/full/0/default.jpg",
+        "title": "毀",
+        "unicode": "E6AF80"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "dng0607",
+        "identifer": "3-607",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/03dng/dng0607.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "506年",
+            "value": "大般涅槃經卷十一(S81)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/03dng/dng0607.tiff/full/full/0/default.jpg",
+        "title": "毀",
+        "unicode": "E6AF80"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "mam0707",
+        "identifer": "5-707",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/05mam/mam0707.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "586年",
+            "value": "摩訶摩耶經卷上(P2160)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/05mam/mam0707.tiff/full/full/0/default.jpg",
+        "title": "毀",
+        "unicode": "E6AF80"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kgk0136",
+        "identifer": "7-136",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/07kgk/kgk0136.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "610年",
+            "value": "賢劫經卷二(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/07kgk/kgk0136.tiff/full/full/0/default.jpg",
+        "title": "毀",
+        "unicode": "E6AF80"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "myz0426",
+        "identifer": "8-426",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/08myz/myz0426.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "617年",
+            "value": "妙法蓮華經卷五(P2334)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/08myz/myz0426.tiff/full/full/0/default.jpg",
+        "title": "毀",
+        "unicode": "E6AF80"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khi0452",
+        "identifer": "10-452",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/10khi/khi0452.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "671年",
+            "value": "妙法蓮華經卷五(今西本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/10khi/khi0452.tiff/full/full/0/default.jpg",
+        "title": "毀",
+        "unicode": "E6AF80"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khm0073",
+        "identifer": "11-73",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/11khm/khm0073.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷三(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/11khm/khm0073.tiff/full/full/0/default.jpg",
+        "title": "毀",
+        "unicode": "E6AF80"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0530a",
+        "identifer": "13-530a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0530a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0530a.tiff/full/full/0/default.jpg",
+        "title": "毀",
+        "unicode": "E6AF80"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0530b",
+        "identifer": "13-530b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0530b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0530b.tiff/full/full/0/default.jpg",
+        "title": "毀",
+        "unicode": "E6AF80"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0530c",
+        "identifer": "13-530c",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0530c.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0530c.tiff/full/full/0/default.jpg",
+        "title": "毀",
+        "unicode": "E6AF80"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "yhk0681",
+        "identifer": "16-681",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/16yhk/yhk0681.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "712年",
+            "value": "瑜伽法鏡經(S2423)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/16yhk/yhk0681.tiff/full/full/0/default.jpg",
+        "title": "毀",
+        "unicode": "E6AF80"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kak0384",
+        "identifer": "17-384",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/17kak/kak0384.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經孝經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/17kak/kak0384.tiff/full/full/0/default.jpg",
+        "title": "毀",
+        "unicode": "E6AF80"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar1008",
+        "identifer": "18-1008",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar1008.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar1008.tiff/full/full/0/default.jpg",
+        "title": "毀",
+        "unicode": "E6AF80"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae1047",
+        "identifer": "19-1047",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae1047.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae1047.tiff/full/full/0/default.jpg",
+        "title": "毀",
+        "unicode": "E6AF80"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0202",
+        "identifer": "31-202",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0202.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0202.tiff/full/full/0/default.jpg",
+        "title": "毀",
+        "unicode": "E6AF80"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "okd0071",
+        "identifer": "50-71",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/50okd/okd0071.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "686年",
+            "value": "金剛場陀羅尼經(小川本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/50okd/okd0071.tiff/full/full/0/default.jpg",
+        "title": "毀",
+        "unicode": "E6AF80"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0259",
+        "identifer": "56-259",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0259.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0259.tiff/full/full/0/default.jpg",
+        "title": "毀",
+        "unicode": "E6AF80"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ykk0591",
+        "identifer": "68-591",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/68ykk/ykk0591.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1412年",
+            "value": "藥師功徳經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/68ykk/ykk0591.tiff/full/full/0/default.jpg",
+        "title": "毀",
+        "unicode": "E6AF80"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wke0565",
+        "identifer": "73-565",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/73wke/wke0565.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/73wke/wke0565.tiff/full/full/0/default.jpg",
+        "title": "毀",
+        "unicode": "E6AF80"
+    }
+]

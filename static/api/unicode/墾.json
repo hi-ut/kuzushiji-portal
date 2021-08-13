@@ -1,0 +1,90 @@
+[
+    {
+        "character": "墾",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+58BE_200021660_00009_1_X1239_Y1536",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E5%A2%BE/manifest&pos=15&xywh=1239,1536,92,131",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+58BE_200021660_00009_1_X1239_Y1536/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 9,
+            "label": "『養蚕秘録』（200021660）9r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+58BE/U+58BE_200021660_00009_1_X1239_Y1536.jpg/full/full/0/default.jpg",
+        "unicode": "58BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink0082",
+        "identifer": "33-82",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink0082.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink0082.tiff/full/full/0/default.jpg",
+        "title": "墾",
+        "unicode": "E5A2BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0080",
+        "identifer": "34-80",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0080.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0080.tiff/full/full/0/default.jpg",
+        "title": "墾",
+        "unicode": "E5A2BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0078",
+        "identifer": "36-78",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0078.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0078.tiff/full/full/0/default.jpg",
+        "title": "墾",
+        "unicode": "E5A2BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240077",
+        "identifer": "3724-77",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240077.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240077.tiff/full/full/0/default.jpg",
+        "title": "墾",
+        "unicode": "E5A2BE"
+    }
+]

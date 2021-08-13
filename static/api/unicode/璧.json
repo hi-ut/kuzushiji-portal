@@ -1,0 +1,42 @@
+[
+    {
+        "character": "璧",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+74A7_200014740_00078_1_X1714_Y1040",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E7%92%A7/manifest&pos=151&xywh=1714,1040,92,137",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+74A7_200014740_00078_1_X1714_Y1040/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 78,
+            "label": "『雨月物語』（200014740）78r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+74A7/U+74A7_200014740_00078_1_X1714_Y1040.jpg/full/full/0/default.jpg",
+        "unicode": "74A7"
+    },
+    {
+        "character": "璧",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+74A7_200014740_00084_2_X0810_Y1021",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E7%92%A7/manifest&pos=164&xywh=810,1021,97,122",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+74A7_200014740_00084_2_X0810_Y1021/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 84,
+            "label": "『雨月物語』（200014740）84v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+74A7/U+74A7_200014740_00084_2_X0810_Y1021.jpg/full/full/0/default.jpg",
+        "unicode": "74A7"
+    }
+]

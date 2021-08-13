@@ -1,0 +1,39 @@
+[
+    {
+        "character": "喝",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+559D_200014740_00083_2_X0215_Y0472",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%96%9D/manifest&pos=162&xywh=215,472,97,121",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+559D_200014740_00083_2_X0215_Y0472/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 83,
+            "label": "『雨月物語』（200014740）83v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+559D/U+559D_200014740_00083_2_X0215_Y0472.jpg/full/full/0/default.jpg",
+        "unicode": "559D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0308",
+        "identifer": "71-308",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0308.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0308.tiff/full/full/0/default.jpg",
+        "title": "喝",
+        "unicode": "E5969D"
+    }
+]

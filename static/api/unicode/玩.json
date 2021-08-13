@@ -1,0 +1,121 @@
+[
+    {
+        "character": "玩",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+73A9_200008003_00010_1_X1831_Y0980",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008003/%E7%8E%A9/manifest&pos=17&xywh=1831,980,156,120",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+73A9_200008003_00010_1_X1831_Y0980/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008003",
+            "frame": 10,
+            "label": "『歌学提要』（200008003）10r",
+            "side": "r",
+            "title": "歌学提要"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008003/characters/U+73A9/U+73A9_200008003_00010_1_X1831_Y0980.jpg/full/full/0/default.jpg",
+        "unicode": "73A9"
+    },
+    {
+        "character": "玩",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+73A9_200008003_00010_1_X1846_Y2231",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008003/%E7%8E%A9/manifest&pos=17&xywh=1846,2231,149,127",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+73A9_200008003_00010_1_X1846_Y2231/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008003",
+            "frame": 10,
+            "label": "『歌学提要』（200008003）10r",
+            "side": "r",
+            "title": "歌学提要"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008003/characters/U+73A9/U+73A9_200008003_00010_1_X1846_Y2231.jpg/full/full/0/default.jpg",
+        "unicode": "73A9"
+    },
+    {
+        "character": "玩",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+73A9_200008003_00026_2_X1841_Y2345",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008003/%E7%8E%A9/manifest&pos=50&xywh=1841,2345,161,131",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+73A9_200008003_00026_2_X1841_Y2345/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008003",
+            "frame": 26,
+            "label": "『歌学提要』（200008003）26v",
+            "side": "v",
+            "title": "歌学提要"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008003/characters/U+73A9/U+73A9_200008003_00026_2_X1841_Y2345.jpg/full/full/0/default.jpg",
+        "unicode": "73A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0205",
+        "identifer": "19-205",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0205.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0205.tiff/full/full/0/default.jpg",
+        "title": "玩",
+        "unicode": "E78EA9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod1204",
+        "identifer": "30-1204",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod1204.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod1204.tiff/full/full/0/default.jpg",
+        "title": "玩",
+        "unicode": "E78EA9"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34250580",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34250580",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0073/13/1/00000016/manifest/manifest-34-34250580.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0073-13-1@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "菅原長員年号勘文@ja",
+            "occupation": "公家@ja",
+            "page": "00000016",
+            "remarks": "",
+            "send": "正三位行式部大輔菅原朝臣長員@ja",
+            "to": "",
+            "value": "中院一品記　巻1@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0073/13/1/00000016/34250580.bmp",
+        "title": "玩@ja",
+        "unicode": "08"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "character": "酸",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+9178_100249476_00017_2_X1131_Y1630",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249476/%E9%85%B8/manifest&pos=33&xywh=1131,1630,105,115",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+9178_100249476_00017_2_X1131_Y1630/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249476",
+            "frame": 17,
+            "label": "『飯百珍伝』（100249476）17v",
+            "side": "v",
+            "title": "飯百珍伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249476/characters/U+9178/U+9178_100249476_00017_2_X1131_Y1630.jpg/full/full/0/default.jpg",
+        "unicode": "9178"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ini0315",
+        "identifer": "38-315",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/38ini/ini0315.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1236年",
+            "value": "卷二(鴨脚本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/38ini/ini0315.tiff/full/full/0/default.jpg",
+        "title": "酸",
+        "unicode": "E985B8"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkk0250",
+        "identifer": "39-250",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/39nkk/nkk0250.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1286年",
+            "value": "卷二(兼方本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/39nkk/nkk0250.tiff/full/full/0/default.jpg",
+        "title": "酸",
+        "unicode": "E985B8"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcc1097",
+        "identifer": "41-1097",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/41kcc/kcc1097.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1599年",
+            "value": "卷二(慶長勅版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/41kcc/kcc1097.tiff/full/full/0/default.jpg",
+        "title": "酸",
+        "unicode": "E985B8"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcj1060",
+        "identifer": "42-1060",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/42kcj/kcj1060.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1610年",
+            "value": "卷二(慶長十五年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/42kcj/kcj1060.tiff/full/full/0/default.jpg",
+        "title": "酸",
+        "unicode": "E985B8"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kbk1044",
+        "identifer": "43-1044",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/43kbk/kbk1044.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/43kbk/kbk1044.tiff/full/full/0/default.jpg",
+        "title": "酸",
+        "unicode": "E985B8"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34223752",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34223752",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/貴41/2/00000003/manifest/manifest-34-34223752.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "貴41-2-@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "耕雲紀行@ja",
+            "occupation": "公家@ja",
+            "page": "00000003",
+            "remarks": "",
+            "send": "花山院長親@ja",
+            "to": "",
+            "value": "耕雲紀行@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/貴41/2/00000003/34223752.bmp",
+        "title": "酸@ja",
+        "unicode": "14"
+    }
+]

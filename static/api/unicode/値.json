@@ -1,0 +1,336 @@
+[
+    {
+        "character": "値",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5024_200015843_00060_1_X0877_Y0649",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E5%80%A4/manifest&pos=109&xywh=877,649,85,119",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5024_200015843_00060_1_X0877_Y0649/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 60,
+            "label": "『日本永代蔵』（200015843）60r",
+            "side": "r",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+5024/U+5024_200015843_00060_1_X0877_Y0649.jpg/full/full/0/default.jpg",
+        "unicode": "5024"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "mam0393",
+        "identifer": "5-393",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/05mam/mam0393.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "586年",
+            "value": "摩訶摩耶經卷上(P2160)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/05mam/mam0393.tiff/full/full/0/default.jpg",
+        "title": "値",
+        "unicode": "E580A4"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kgk0336",
+        "identifer": "7-336",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/07kgk/kgk0336.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "610年",
+            "value": "賢劫經卷二(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/07kgk/kgk0336.tiff/full/full/0/default.jpg",
+        "title": "値",
+        "unicode": "E580A4"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kda0007",
+        "identifer": "9-7",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/09kda/kda0007.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "高昌期",
+            "value": "大品經卷二十八(京都国立博物館本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/09kda/kda0007.tiff/full/full/0/default.jpg",
+        "title": "値",
+        "unicode": "E580A4"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khi0234",
+        "identifer": "10-234",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/10khi/khi0234.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "671年",
+            "value": "妙法蓮華經卷五(今西本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/10khi/khi0234.tiff/full/full/0/default.jpg",
+        "title": "値",
+        "unicode": "E580A4"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khm0180",
+        "identifer": "11-180",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/11khm/khm0180.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷三(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/11khm/khm0180.tiff/full/full/0/default.jpg",
+        "title": "値",
+        "unicode": "E580A4"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0299",
+        "identifer": "13-299",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0299.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0299.tiff/full/full/0/default.jpg",
+        "title": "値",
+        "unicode": "E580A4"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0006",
+        "identifer": "19-6",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0006.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0006.tiff/full/full/0/default.jpg",
+        "title": "値",
+        "unicode": "E580A4"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0013",
+        "identifer": "26-13",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0013.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0013.tiff/full/full/0/default.jpg",
+        "title": "値",
+        "unicode": "E580A4"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kkh0007",
+        "identifer": "27-7",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/27kkh/kkh0007.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "北宋期？",
+            "value": "金剛般若經(京都国立博物館本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/27kkh/kkh0007.tiff/full/full/0/default.jpg",
+        "title": "値",
+        "unicode": "E580A4"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0737",
+        "identifer": "30-737",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0737.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0737.tiff/full/full/0/default.jpg",
+        "title": "値",
+        "unicode": "E580A4"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kmi0229",
+        "identifer": "55-229",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/55kmi/kmi0229.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "738年",
+            "value": "弥勒上生經(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/55kmi/kmi0229.tiff/full/full/0/default.jpg",
+        "title": "値",
+        "unicode": "E580A4"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0615",
+        "identifer": "56-615",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0615.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0615.tiff/full/full/0/default.jpg",
+        "title": "値",
+        "unicode": "E580A4"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0013",
+        "identifer": "72-13",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0013.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0013.tiff/full/full/0/default.jpg",
+        "title": "値",
+        "unicode": "E580A4"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wke0311",
+        "identifer": "73-311",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/73wke/wke0311.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/73wke/wke0311.tiff/full/full/0/default.jpg",
+        "title": "値",
+        "unicode": "E580A4"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0323",
+        "identifer": "74-323",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0323.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0323.tiff/full/full/0/default.jpg",
+        "title": "値",
+        "unicode": "E580A4"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sgs0008",
+        "identifer": "77-8",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/77sgs/sgs0008.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年頃",
+            "value": "四分律卷第十六(正倉院五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/77sgs/sgs0008.tiff/full/full/0/default.jpg",
+        "title": "値",
+        "unicode": "E580A4"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sts0008",
+        "identifer": "78-8",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/78sts/sts0008.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年頃",
+            "value": "四分律卷第二十(正倉院唐經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/78sts/sts0008.tiff/full/full/0/default.jpg",
+        "title": "値",
+        "unicode": "E580A4"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34254425",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34254425",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0671/20/41/00000099/manifest/manifest-34-34254425.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0671-20-41@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "漢詩写@ja",
+            "occupation": "武家@ja",
+            "page": "00000099",
+            "remarks": "",
+            "send": "",
+            "to": "",
+            "value": "小浜酒井家文書@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0671/20/41/00000099/34254425.bmp",
+        "title": "値@ja",
+        "unicode": "10"
+    }
+]

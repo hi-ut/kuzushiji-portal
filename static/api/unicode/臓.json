@@ -1,0 +1,42 @@
+[
+    {
+        "character": "臓",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+81D3_200004107_00038_1_X0333_Y1751",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004107/%E8%87%93/manifest&pos=71&xywh=333,1751,105,104",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+81D3_200004107_00038_1_X0333_Y1751/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004107",
+            "frame": 38,
+            "label": "『二人比丘尼』（200004107）38r",
+            "side": "r",
+            "title": "二人比丘尼"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004107/characters/U+81D3/U+81D3_200004107_00038_1_X0333_Y1751.jpg/full/full/0/default.jpg",
+        "unicode": "81D3"
+    },
+    {
+        "character": "臓",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+81D3_200004148_00027_1_X0850_Y1990",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E8%87%93/manifest&pos=51&xywh=850,1990,111,99",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+81D3_200004148_00027_1_X0850_Y1990/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 27,
+            "label": "『椿説弓張月』（200004148）27r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+81D3/U+81D3_200004148_00027_1_X0850_Y1990.jpg/full/full/0/default.jpg",
+        "unicode": "81D3"
+    }
+]

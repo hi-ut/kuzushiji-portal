@@ -1,0 +1,39 @@
+[
+    {
+        "character": "隊",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+968A_200004148_00002_2_X1548_Y1194",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E9%9A%8A/manifest&pos=2&xywh=1548,1194,111,117",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+968A_200004148_00002_2_X1548_Y1194/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 2,
+            "label": "『椿説弓張月』（200004148）2v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+968A/U+968A_200004148_00002_2_X1548_Y1194.jpg/full/full/0/default.jpg",
+        "unicode": "968A"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0416",
+        "identifer": "31-416",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0416.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0416.tiff/full/full/0/default.jpg",
+        "title": "隊",
+        "unicode": "E99A8A"
+    }
+]

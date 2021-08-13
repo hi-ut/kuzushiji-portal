@@ -1,0 +1,59 @@
+[
+    {
+        "character": "瞬",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+77AC_200004148_00044_1_X0512_Y1980",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E7%9E%AC/manifest&pos=85&xywh=512,1980,90,116",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+77AC_200004148_00044_1_X0512_Y1980/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 44,
+            "label": "『椿説弓張月』（200004148）44r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+77AC/U+77AC_200004148_00044_1_X0512_Y1980.jpg/full/full/0/default.jpg",
+        "unicode": "77AC"
+    },
+    {
+        "character": "瞬",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+77AC_200014685_00027_2_X1003_Y0619",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E7%9E%AC/manifest&pos=52&xywh=1003,619,99,104",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+77AC_200014685_00027_2_X1003_Y0619/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 27,
+            "label": "『南総里見八犬伝』（200014685）27v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+77AC/U+77AC_200014685_00027_2_X1003_Y0619.jpg/full/full/0/default.jpg",
+        "unicode": "77AC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wke0641",
+        "identifer": "73-641",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/73wke/wke0641.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/73wke/wke0641.tiff/full/full/0/default.jpg",
+        "title": "瞬",
+        "unicode": null
+    }
+]

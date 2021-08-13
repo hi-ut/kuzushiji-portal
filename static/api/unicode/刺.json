@@ -1,0 +1,454 @@
+[
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AFIUO11000103",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFIUO11/6AFIUO110001031/6AFIUO110001031-23/list/6AFIUO110001031-23-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFIUO11/6AFIUO110001031/6AFIUO110001031-23/6AFIUO110001031-23.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFIUO11000103",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFIUO110001031-C1.tiff/258,4304,239,257/full/0/default.jpg",
+        "title": "刺",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AFIUO11000113",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFIUO11/6AFIUO110001131/6AFIUO110001131-15/list/6AFIUO110001131-15-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFIUO11/6AFIUO110001131/6AFIUO110001131-15/6AFIUO110001131-15.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFIUO11000113",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFIUO110001131-C1.tiff/183,2448,229,217/full/0/default.jpg",
+        "title": "刺",
+        "unicode": "UTF-8"
+    },
+    {
+        "character": "刺",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+523A_200003076_00107_1_X0206_Y2370",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E5%88%BA/manifest&pos=205&xywh=206,2370,99,130",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+523A_200003076_00107_1_X0206_Y2370/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 107,
+            "label": "『好色一代男』（200003076）107r",
+            "side": "r",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+523A/U+523A_200003076_00107_1_X0206_Y2370.jpg/full/full/0/default.jpg",
+        "unicode": "523A"
+    },
+    {
+        "character": "刺",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+523A_200003076_00153_1_X0749_Y0690",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E5%88%BA/manifest&pos=297&xywh=749,690,93,128",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+523A_200003076_00153_1_X0749_Y0690/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 153,
+            "label": "『好色一代男』（200003076）153r",
+            "side": "r",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+523A/U+523A_200003076_00153_1_X0749_Y0690.jpg/full/full/0/default.jpg",
+        "unicode": "523A"
+    },
+    {
+        "character": "刺",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+523A_200004148_00028_1_X0114_Y0433",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%88%BA/manifest&pos=53&xywh=114,433,87,85",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+523A_200004148_00028_1_X0114_Y0433/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 28,
+            "label": "『椿説弓張月』（200004148）28r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+523A/U+523A_200004148_00028_1_X0114_Y0433.jpg/full/full/0/default.jpg",
+        "unicode": "523A"
+    },
+    {
+        "character": "刺",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+523A_200004148_00028_1_X0253_Y2463",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%88%BA/manifest&pos=53&xywh=253,2463,89,72",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+523A_200004148_00028_1_X0253_Y2463/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 28,
+            "label": "『椿説弓張月』（200004148）28r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+523A/U+523A_200004148_00028_1_X0253_Y2463.jpg/full/full/0/default.jpg",
+        "unicode": "523A"
+    },
+    {
+        "character": "刺",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+523A_200004148_00028_1_X1306_Y2308",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%88%BA/manifest&pos=53&xywh=1306,2308,84,85",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+523A_200004148_00028_1_X1306_Y2308/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 28,
+            "label": "『椿説弓張月』（200004148）28r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+523A/U+523A_200004148_00028_1_X1306_Y2308.jpg/full/full/0/default.jpg",
+        "unicode": "523A"
+    },
+    {
+        "character": "刺",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+523A_200004148_00052_2_X0823_Y2179",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%88%BA/manifest&pos=102&xywh=823,2179,83,80",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+523A_200004148_00052_2_X0823_Y2179/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 52,
+            "label": "『椿説弓張月』（200004148）52v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+523A/U+523A_200004148_00052_2_X0823_Y2179.jpg/full/full/0/default.jpg",
+        "unicode": "523A"
+    },
+    {
+        "character": "刺",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+523A_200014685_00013_1_X1460_Y0428",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E5%88%BA/manifest&pos=23&xywh=1460,428,83,82",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+523A_200014685_00013_1_X1460_Y0428/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 13,
+            "label": "『南総里見八犬伝』（200014685）13r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+523A/U+523A_200014685_00013_1_X1460_Y0428.jpg/full/full/0/default.jpg",
+        "unicode": "523A"
+    },
+    {
+        "character": "刺",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+523A_200014685_00029_1_X1106_Y1948",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E5%88%BA/manifest&pos=55&xywh=1106,1948,85,89",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+523A_200014685_00029_1_X1106_Y1948/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 29,
+            "label": "『南総里見八犬伝』（200014685）29r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+523A/U+523A_200014685_00029_1_X1106_Y1948.jpg/full/full/0/default.jpg",
+        "unicode": "523A"
+    },
+    {
+        "character": "刺",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+523A_200021660_00084_1_X0834_Y0836",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E5%88%BA/manifest&pos=161&xywh=834,836,100,107",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+523A_200021660_00084_1_X0834_Y0836/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 84,
+            "label": "『養蚕秘録』（200021660）84r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+523A/U+523A_200021660_00084_1_X0834_Y0836.jpg/full/full/0/default.jpg",
+        "unicode": "523A"
+    },
+    {
+        "character": "刺",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+523A_200021763_00016_1_X0669_Y2500",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021763/%E5%88%BA/manifest&pos=30&xywh=669,2500,173,235",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+523A_200021763_00016_1_X0669_Y2500/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021763",
+            "frame": 16,
+            "label": "『膳部料理抄』（200021763）16r",
+            "side": "r",
+            "title": "膳部料理抄"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021763/characters/U+523A/U+523A_200021763_00016_1_X0669_Y2500.jpg/full/full/0/default.jpg",
+        "unicode": "523A"
+    },
+    {
+        "character": "刺",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+523A_200021763_00016_2_X2026_Y0619",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021763/%E5%88%BA/manifest&pos=31&xywh=2026,619,168,204",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+523A_200021763_00016_2_X2026_Y0619/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021763",
+            "frame": 16,
+            "label": "『膳部料理抄』（200021763）16v",
+            "side": "v",
+            "title": "膳部料理抄"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021763/characters/U+523A/U+523A_200021763_00016_2_X2026_Y0619.jpg/full/full/0/default.jpg",
+        "unicode": "523A"
+    },
+    {
+        "character": "刺",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+523A_200021763_00037_1_X1010_Y0569",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021763/%E5%88%BA/manifest&pos=72&xywh=1010,569,165,236",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+523A_200021763_00037_1_X1010_Y0569/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021763",
+            "frame": 37,
+            "label": "『膳部料理抄』（200021763）37r",
+            "side": "r",
+            "title": "膳部料理抄"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021763/characters/U+523A/U+523A_200021763_00037_1_X1010_Y0569.jpg/full/full/0/default.jpg",
+        "unicode": "523A"
+    },
+    {
+        "character": "刺",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+523A_200021763_00037_1_X1681_Y2963",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021763/%E5%88%BA/manifest&pos=72&xywh=1681,2963,161,273",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+523A_200021763_00037_1_X1681_Y2963/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021763",
+            "frame": 37,
+            "label": "『膳部料理抄』（200021763）37r",
+            "side": "r",
+            "title": "膳部料理抄"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021763/characters/U+523A/U+523A_200021763_00037_1_X1681_Y2963.jpg/full/full/0/default.jpg",
+        "unicode": "523A"
+    },
+    {
+        "character": "刺",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+523A_200021763_00037_1_X1870_Y3037",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021763/%E5%88%BA/manifest&pos=72&xywh=1870,3037,152,215",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+523A_200021763_00037_1_X1870_Y3037/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021763",
+            "frame": 37,
+            "label": "『膳部料理抄』（200021763）37r",
+            "side": "r",
+            "title": "膳部料理抄"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021763/characters/U+523A/U+523A_200021763_00037_1_X1870_Y3037.jpg/full/full/0/default.jpg",
+        "unicode": "523A"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "dng0394",
+        "identifer": "3-394",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/03dng/dng0394.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "506年",
+            "value": "大般涅槃經卷十一(S81)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/03dng/dng0394.tiff/full/full/0/default.jpg",
+        "title": "刺",
+        "unicode": "E588BA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "drt0215",
+        "identifer": "6-215",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/06drt/drt0215.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "589年",
+            "value": "大樓炭經卷三(P2413)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/06drt/drt0215.tiff/full/full/0/default.jpg",
+        "title": "刺",
+        "unicode": "E588BA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sys0016",
+        "identifer": "22-16",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/22sys/sys0016.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "857年",
+            "value": "瑜伽師地論卷三十(S5309)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/22sys/sys0016.tiff/full/full/0/default.jpg",
+        "title": "刺",
+        "unicode": "E588BA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0054",
+        "identifer": "56-54",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0054.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0054.tiff/full/full/0/default.jpg",
+        "title": "刺",
+        "unicode": "E588BA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0014",
+        "identifer": "71-14",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0014.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0014.tiff/full/full/0/default.jpg",
+        "title": "刺",
+        "unicode": "E588BA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0330",
+        "identifer": "72-330",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0330.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0330.tiff/full/full/0/default.jpg",
+        "title": "刺",
+        "unicode": "E588BA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sgs0157",
+        "identifer": "77-157",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/77sgs/sgs0157.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年頃",
+            "value": "四分律卷第十六(正倉院五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/77sgs/sgs0157.tiff/full/full/0/default.jpg",
+        "title": "刺",
+        "unicode": "E588BA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sts0154",
+        "identifer": "78-154",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/78sts/sts0154.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年頃",
+            "value": "四分律卷第二十(正倉院唐經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/78sts/sts0154.tiff/full/full/0/default.jpg",
+        "title": "刺",
+        "unicode": "E588BA"
+    }
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "character": "克",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+514B_200004148_00040_2_X1140_Y0997",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%85%8B/manifest&pos=78&xywh=1140,997,79,100",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+514B_200004148_00040_2_X1140_Y0997/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 40,
+            "label": "『椿説弓張月』（200004148）40v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+514B/U+514B_200004148_00040_2_X1140_Y0997.jpg/full/full/0/default.jpg",
+        "unicode": "514B"
+    },
+    {
+        "character": "克",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+514B_200019865_00062_1_X1375_Y2755",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200019865/%E5%85%8B/manifest&pos=109&xywh=1375,2755,87,119",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+514B_200019865_00062_1_X1375_Y2755/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200019865",
+            "frame": 62,
+            "label": "『女郎花物語』（200019865）62r",
+            "side": "r",
+            "title": "女郎花物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200019865/characters/U+514B/U+514B_200019865_00062_1_X1375_Y2755.jpg/full/full/0/default.jpg",
+        "unicode": "514B"
+    },
+    {
+        "character": "克",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+514B_200019865_00062_2_X0788_Y2099",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200019865/%E5%85%8B/manifest&pos=110&xywh=788,2099,81,121",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+514B_200019865_00062_2_X0788_Y2099/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200019865",
+            "frame": 62,
+            "label": "『女郎花物語』（200019865）62v",
+            "side": "v",
+            "title": "女郎花物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200019865/characters/U+514B/U+514B_200019865_00062_2_X0788_Y2099.jpg/full/full/0/default.jpg",
+        "unicode": "514B"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0578",
+        "identifer": "18-578",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0578.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0578.tiff/full/full/0/default.jpg",
+        "title": "克",
+        "unicode": "E5858B"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0512",
+        "identifer": "19-512",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0512.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0512.tiff/full/full/0/default.jpg",
+        "title": "克",
+        "unicode": "E5858B"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0024",
+        "identifer": "31-24",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0024.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0024.tiff/full/full/0/default.jpg",
+        "title": "克",
+        "unicode": "E5858B"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sik0008",
+        "identifer": "44-8",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/44sik/sik0008.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "754～755年",
+            "value": "花嚴經卷八(新羅本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/44sik/sik0008.tiff/full/full/0/default.jpg",
+        "title": "克",
+        "unicode": "E5858B"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ksk0008",
+        "identifer": "48-8",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/48ksk/ksk0008.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "13C",
+            "value": "華嚴經卷六(高麗再彫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/48ksk/ksk0008.tiff/full/full/0/default.jpg",
+        "title": "克",
+        "unicode": "E5858B"
+    }
+]

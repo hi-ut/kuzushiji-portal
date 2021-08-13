@@ -1,0 +1,67 @@
+[
+    {
+        "character": "刷",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5237_200008003_00026_1_X0820_Y0667",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008003/%E5%88%B7/manifest&pos=49&xywh=820,667,141,156",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5237_200008003_00026_1_X0820_Y0667/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008003",
+            "frame": 26,
+            "label": "『歌学提要』（200008003）26r",
+            "side": "r",
+            "title": "歌学提要"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008003/characters/U+5237/U+5237_200008003_00026_1_X0820_Y0667.jpg/full/full/0/default.jpg",
+        "unicode": "5237"
+    },
+    {
+        "character": "刷",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5237_200015779_00047_2_X1327_Y1844",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%88%B7/manifest&pos=82&xywh=1327,1844,120,127",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5237_200015779_00047_2_X1327_Y1844/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 47,
+            "label": "『浮世風呂』（200015779）47v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+5237/U+5237_200015779_00047_2_X1327_Y1844.jpg/full/full/0/default.jpg",
+        "unicode": "5237"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34255628",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34255628",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0073/13/1/00000030/manifest/manifest-34-34255628.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0073-13-1@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "中院一品記　暦応元年十二月二十九日条@ja",
+            "occupation": "公家@ja",
+            "page": "00000030",
+            "remarks": "",
+            "send": "",
+            "to": "",
+            "value": "中院一品記　巻1@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0073/13/1/00000030/34255628.bmp",
+        "title": "刷@ja",
+        "unicode": "08"
+    }
+]

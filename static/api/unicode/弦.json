@@ -1,0 +1,168 @@
+[
+    {
+        "character": "弦",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5F26_200014685_00029_1_X0925_Y1919",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E5%BC%A6/manifest&pos=55&xywh=925,1919,84,91",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5F26_200014685_00029_1_X0925_Y1919/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 29,
+            "label": "『南総里見八犬伝』（200014685）29r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+5F26/U+5F26_200014685_00029_1_X0925_Y1919.jpg/full/full/0/default.jpg",
+        "unicode": "5F26"
+    },
+    {
+        "character": "弦",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5F26_200015779_00073_2_X0682_Y1001",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%BC%A6/manifest&pos=134&xywh=682,1001,130,138",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5F26_200015779_00073_2_X0682_Y1001/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 73,
+            "label": "『浮世風呂』（200015779）73v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+5F26/U+5F26_200015779_00073_2_X0682_Y1001.jpg/full/full/0/default.jpg",
+        "unicode": "5F26"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0117",
+        "identifer": "18-117",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0117.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0117.tiff/full/full/0/default.jpg",
+        "title": "弦",
+        "unicode": "E5BCA6"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0094",
+        "identifer": "19-94",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0094.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0094.tiff/full/full/0/default.jpg",
+        "title": "弦",
+        "unicode": "E5BCA6"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0154",
+        "identifer": "56-154",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0154.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0154.tiff/full/full/0/default.jpg",
+        "title": "弦",
+        "unicode": "E5BCA6"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34112708",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34112708",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0673/5/2/00000007/manifest/manifest-34-34112708.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0673-5-2@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "応永三十一年七月暦@ja",
+            "occupation": "公家@ja",
+            "page": "00000007",
+            "remarks": "",
+            "send": "",
+            "to": "",
+            "value": "薩戒記@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0673/5/2/00000007/00368642.bmp",
+        "title": "弦@ja",
+        "unicode": "08"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34117248",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34117248",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0673/5/2/00000011/manifest/manifest-34-34117248.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0673-5-2@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "応永三十一年八月条@ja",
+            "occupation": "公家@ja",
+            "page": "00000011",
+            "remarks": "",
+            "send": "中山定親@ja",
+            "to": "",
+            "value": "薩戒記@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0673/5/2/00000011/00373169.bmp",
+        "title": "弦@ja",
+        "unicode": "08"
+    },
+    {
+        "creator": "東京大学史料編纂所@ja",
+        "delegate": "0",
+        "id": "34120782",
+        "identifer": "https://clioapi.hi.u-tokyo.ac.jp/shipsapi/v1/W34/controlnumber/34120782",
+        "manifest_url": "https://clioapi.hi.u-tokyo.ac.jp/EXT/3401/000/0673/5/2/00000014/manifest/manifest-34-34120782.json",
+        "rights": "",
+        "rights_url": "https://www.hi.u-tokyo.ac.jp/faq/reuse_cc-by.html",
+        "source": {
+            "call_number": "0673-5-2@ja",
+            "date": "",
+            "division": "原本@ja",
+            "document": "応永三十一年九月条@ja",
+            "occupation": "公家@ja",
+            "page": "00000014",
+            "remarks": "",
+            "send": "中山定親@ja",
+            "to": "",
+            "value": "薩戒記@ja"
+        },
+        "subject": "電子くずし字字典@ja",
+        "thumbnail_url": "https://clioimg.hi.u-tokyo.ac.jp/EXT/3401/000/0673/5/2/00000014/00376709.bmp",
+        "title": "弦@ja",
+        "unicode": "08"
+    }
+]
