@@ -1,0 +1,39 @@
+[
+    {
+        "character": "惹",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+60F9_200004148_00013_1_X0844_Y0249",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E6%83%B9/manifest&pos=23&xywh=844,249,67,106",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+60F9_200004148_00013_1_X0844_Y0249/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 13,
+            "label": "『椿説弓張月』（200004148）13r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+60F9/U+60F9_200004148_00013_1_X0844_Y0249.jpg/full/full/0/default.jpg",
+        "unicode": "60F9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzs0114",
+        "identifer": "60-114",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/60tzs/tzs0114.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C",
+            "value": "佛説大教王經卷一(東禪寺版日本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/60tzs/tzs0114.tiff/full/full/0/default.jpg",
+        "title": "惹",
+        "unicode": "E683B9"
+    }
+]

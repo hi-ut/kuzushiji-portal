@@ -1,5 +1,25 @@
 [
     {
+        "character": "頌",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+980C_200003967_00034_2_X1585_Y0979",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003967/%E9%A0%8C/manifest&pos=62&xywh=1585,979,105,117",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+980C_200003967_00034_2_X1585_Y0979/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003967",
+            "frame": 34,
+            "label": "『おらが春』（200003967）34v",
+            "side": "v",
+            "title": "おらが春"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003967/characters/U+980C/U+980C_200003967_00034_2_X1585_Y0979.jpg/full/full/0/default.jpg",
+        "unicode": "980C"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34226648",

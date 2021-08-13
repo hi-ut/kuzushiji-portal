@@ -1,0 +1,42 @@
+[
+    {
+        "character": "嬬",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5B2C_200019865_00095_1_X0382_Y2904",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200019865/%E5%AC%AC/manifest&pos=165&xywh=382,2904,126,111",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5B2C_200019865_00095_1_X0382_Y2904/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200019865",
+            "frame": 95,
+            "label": "『女郎花物語』（200019865）95r",
+            "side": "r",
+            "title": "女郎花物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200019865/characters/U+5B2C/U+5B2C_200019865_00095_1_X0382_Y2904.jpg/full/full/0/default.jpg",
+        "unicode": "5B2C"
+    },
+    {
+        "character": "嬬",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5B2C_200019865_00095_2_X1525_Y2729",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200019865/%E5%AC%AC/manifest&pos=166&xywh=1525,2729,118,120",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5B2C_200019865_00095_2_X1525_Y2729/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200019865",
+            "frame": 95,
+            "label": "『女郎花物語』（200019865）95v",
+            "side": "v",
+            "title": "女郎花物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200019865/characters/U+5B2C/U+5B2C_200019865_00095_2_X1525_Y2729.jpg/full/full/0/default.jpg",
+        "unicode": "5B2C"
+    }
+]

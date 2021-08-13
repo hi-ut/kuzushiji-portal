@@ -1,5 +1,65 @@
 [
     {
+        "character": "綴",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7DB4_200004148_00010_1_X0268_Y2192",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E7%B6%B4/manifest&pos=17&xywh=268,2192,82,89",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7DB4_200004148_00010_1_X0268_Y2192/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 10,
+            "label": "『椿説弓張月』（200004148）10r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+7DB4/U+7DB4_200004148_00010_1_X0268_Y2192.jpg/full/full/0/default.jpg",
+        "unicode": "7DB4"
+    },
+    {
+        "character": "綴",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7DB4_200014685_00003_2_X1360_Y2231",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E7%B6%B4/manifest&pos=4&xywh=1360,2231,135,125",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7DB4_200014685_00003_2_X1360_Y2231/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 3,
+            "label": "『南総里見八犬伝』（200014685）3v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+7DB4/U+7DB4_200014685_00003_2_X1360_Y2231.jpg/full/full/0/default.jpg",
+        "unicode": "7DB4"
+    },
+    {
+        "character": "綴",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+7DB4_200014685_00004_2_X0771_Y1008",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E7%B6%B4/manifest&pos=6&xywh=771,1008,88,77",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7DB4_200014685_00004_2_X0771_Y1008/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 4,
+            "label": "『南総里見八犬伝』（200014685）4v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+7DB4/U+7DB4_200014685_00004_2_X0771_Y1008.jpg/full/full/0/default.jpg",
+        "unicode": "7DB4"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34200725",

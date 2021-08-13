@@ -1,5 +1,187 @@
 [
     {
+        "character": "懺",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+61FA_200003076_00045_2_X1457_Y2021",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E6%87%BA/manifest&pos=84&xywh=1457,2021,126,156",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+61FA_200003076_00045_2_X1457_Y2021/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 45,
+            "label": "『好色一代男』（200003076）45v",
+            "side": "v",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+61FA/U+61FA_200003076_00045_2_X1457_Y2021.jpg/full/full/0/default.jpg",
+        "unicode": "61FA"
+    },
+    {
+        "character": "懺",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+61FA_200003076_00105_1_X0874_Y1464",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E6%87%BA/manifest&pos=201&xywh=874,1464,130,129",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+61FA_200003076_00105_1_X0874_Y1464/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 105,
+            "label": "『好色一代男』（200003076）105r",
+            "side": "r",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+61FA/U+61FA_200003076_00105_1_X0874_Y1464.jpg/full/full/0/default.jpg",
+        "unicode": "61FA"
+    },
+    {
+        "character": "懺",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+61FA_200004107_00039_1_X0359_Y2322",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004107/%E6%87%BA/manifest&pos=73&xywh=359,2322,112,119",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+61FA_200004107_00039_1_X0359_Y2322/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004107",
+            "frame": 39,
+            "label": "『二人比丘尼』（200004107）39r",
+            "side": "r",
+            "title": "二人比丘尼"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004107/characters/U+61FA/U+61FA_200004107_00039_1_X0359_Y2322.jpg/full/full/0/default.jpg",
+        "unicode": "61FA"
+    },
+    {
+        "character": "懺",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+61FA_200014740_00009_1_X0088_Y1359",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E6%87%BA/manifest&pos=15&xywh=88,1359,103,108",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+61FA_200014740_00009_1_X0088_Y1359/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 9,
+            "label": "『雨月物語』（200014740）9r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+61FA/U+61FA_200014740_00009_1_X0088_Y1359.jpg/full/full/0/default.jpg",
+        "unicode": "61FA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "yhk0966b",
+        "identifer": "16-966b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/16yhk/yhk0966b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "712年",
+            "value": "瑜伽法鏡經(S2423)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/16yhk/yhk0966b.tiff/full/full/0/default.jpg",
+        "title": "懺",
+        "unicode": "E687BA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0988",
+        "identifer": "30-988",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0988.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0988.tiff/full/full/0/default.jpg",
+        "title": "懺",
+        "unicode": "E687BA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kmi0078",
+        "identifer": "55-78",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/55kmi/kmi0078.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "738年",
+            "value": "弥勒上生經(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/55kmi/kmi0078.tiff/full/full/0/default.jpg",
+        "title": "懺",
+        "unicode": "E687BA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0166",
+        "identifer": "56-166",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0166.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0166.tiff/full/full/0/default.jpg",
+        "title": "懺",
+        "unicode": "E687BA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sgs0246",
+        "identifer": "77-246",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/77sgs/sgs0246.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年頃",
+            "value": "四分律卷第十六(正倉院五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/77sgs/sgs0246.tiff/full/full/0/default.jpg",
+        "title": "懺",
+        "unicode": "E687BA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sts0246",
+        "identifer": "78-246",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/78sts/sts0246.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年頃",
+            "value": "四分律卷第二十(正倉院唐經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/78sts/sts0246.tiff/full/full/0/default.jpg",
+        "title": "懺",
+        "unicode": "E687BA"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34022138",

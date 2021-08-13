@@ -1,0 +1,150 @@
+[
+    {
+        "character": "捷",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6377_200008003_00004_2_X0740_Y3536",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008003/%E6%8D%B7/manifest&pos=6&xywh=740,3536,248,201",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6377_200008003_00004_2_X0740_Y3536/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008003",
+            "frame": 4,
+            "label": "『歌学提要』（200008003）4v",
+            "side": "v",
+            "title": "歌学提要"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008003/characters/U+6377/U+6377_200008003_00004_2_X0740_Y3536.jpg/full/full/0/default.jpg",
+        "unicode": "6377"
+    },
+    {
+        "character": "捷",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6377_200014685_00021_1_X1781_Y2120",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E6%8D%B7/manifest&pos=39&xywh=1781,2120,104,93",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6377_200014685_00021_1_X1781_Y2120/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 21,
+            "label": "『南総里見八犬伝』（200014685）21r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+6377/U+6377_200014685_00021_1_X1781_Y2120.jpg/full/full/0/default.jpg",
+        "unicode": "6377"
+    },
+    {
+        "character": "捷",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6377_200015779_00005_2_X1574_Y1430",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E6%8D%B7/manifest&pos=2&xywh=1574,1430,160,111",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6377_200015779_00005_2_X1574_Y1430/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 5,
+            "label": "『浮世風呂』（200015779）5v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+6377/U+6377_200015779_00005_2_X1574_Y1430.jpg/full/full/0/default.jpg",
+        "unicode": "6377"
+    },
+    {
+        "character": "捷",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+6377_200015779_00088_2_X1844_Y2181",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E6%8D%B7/manifest&pos=154&xywh=1844,2181,137,128",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6377_200015779_00088_2_X1844_Y2181/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 88,
+            "label": "『浮世風呂』（200015779）88v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+6377/U+6377_200015779_00088_2_X1844_Y2181.jpg/full/full/0/default.jpg",
+        "unicode": "6377"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0204",
+        "identifer": "30-204",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0204.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0204.tiff/full/full/0/default.jpg",
+        "title": "捷",
+        "unicode": "E68DB7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0162",
+        "identifer": "31-162",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0162.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0162.tiff/full/full/0/default.jpg",
+        "title": "捷",
+        "unicode": "E68DB7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "okd0311",
+        "identifer": "50-311",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/50okd/okd0311.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "686年",
+            "value": "金剛場陀羅尼經(小川本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/50okd/okd0311.tiff/full/full/0/default.jpg",
+        "title": "捷",
+        "unicode": "E68DB7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0084",
+        "identifer": "72-84",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0084.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0084.tiff/full/full/0/default.jpg",
+        "title": "捷",
+        "unicode": "E68DB7"
+    }
+]

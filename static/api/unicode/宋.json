@@ -1,5 +1,76 @@
 [
     {
+        "character": "宋",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5B8B_200021660_00074_2_X2039_Y2302",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E5%AE%8B/manifest&pos=142&xywh=2039,2302,92,109",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5B8B_200021660_00074_2_X2039_Y2302/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 74,
+            "label": "『養蚕秘録』（200021660）74v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+5B8B/U+5B8B_200021660_00074_2_X2039_Y2302.jpg/full/full/0/default.jpg",
+        "unicode": "5B8B"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0114",
+        "identifer": "30-114",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0114.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0114.tiff/full/full/0/default.jpg",
+        "title": "宋",
+        "unicode": "E5AE8B"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0656",
+        "identifer": "31-656",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0656.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0656.tiff/full/full/0/default.jpg",
+        "title": "宋",
+        "unicode": "E5AE8B"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0785",
+        "identifer": "56-785",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0785.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0785.tiff/full/full/0/default.jpg",
+        "title": "宋",
+        "unicode": "E5AE8B"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34003119",

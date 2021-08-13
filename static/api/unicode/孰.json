@@ -1,0 +1,110 @@
+[
+    {
+        "character": "孰",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5B70_200015779_00005_2_X0727_Y2034",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%AD%B0/manifest&pos=2&xywh=727,2034,148,118",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5B70_200015779_00005_2_X0727_Y2034/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 5,
+            "label": "『浮世風呂』（200015779）5v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+5B70/U+5B70_200015779_00005_2_X0727_Y2034.jpg/full/full/0/default.jpg",
+        "unicode": "5B70"
+    },
+    {
+        "character": "孰",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5B70_200015779_00005_2_X0730_Y1843",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%AD%B0/manifest&pos=2&xywh=730,1843,148,106",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5B70_200015779_00005_2_X0730_Y1843/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 5,
+            "label": "『浮世風呂』（200015779）5v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+5B70/U+5B70_200015779_00005_2_X0730_Y1843.jpg/full/full/0/default.jpg",
+        "unicode": "5B70"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kak0060",
+        "identifer": "17-60",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/17kak/kak0060.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經孝經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/17kak/kak0060.tiff/full/full/0/default.jpg",
+        "title": "孰",
+        "unicode": "E5ADB0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0751",
+        "identifer": "18-751",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0751.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0751.tiff/full/full/0/default.jpg",
+        "title": "孰",
+        "unicode": "E5ADB0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0722",
+        "identifer": "19-722",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0722.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0722.tiff/full/full/0/default.jpg",
+        "title": "孰",
+        "unicode": "E5ADB0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0901",
+        "identifer": "30-901",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0901.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0901.tiff/full/full/0/default.jpg",
+        "title": "孰",
+        "unicode": "E5ADB0"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "character": "掩",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+63A9_200004148_00030_1_X0038_Y1369",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E6%8E%A9/manifest&pos=57&xywh=38,1369,46,83",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+63A9_200004148_00030_1_X0038_Y1369/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 30,
+            "label": "『椿説弓張月』（200004148）30r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+63A9/U+63A9_200004148_00030_1_X0038_Y1369.jpg/full/full/0/default.jpg",
+        "unicode": "63A9"
+    },
+    {
+        "character": "掩",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+63A9_200014740_00016_2_X0488_Y0707",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E6%8E%A9/manifest&pos=30&xywh=488,707,110,101",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+63A9_200014740_00016_2_X0488_Y0707/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 16,
+            "label": "『雨月物語』（200014740）16v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+63A9/U+63A9_200014740_00016_2_X0488_Y0707.jpg/full/full/0/default.jpg",
+        "unicode": "63A9"
+    }
+]

@@ -1,5 +1,85 @@
 [
     {
+        "character": "曝",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+66DD_100249476_00010_1_X0848_Y0575",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249476/%E6%9B%9D/manifest&pos=18&xywh=848,575,115,101",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+66DD_100249476_00010_1_X0848_Y0575/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249476",
+            "frame": 10,
+            "label": "『飯百珍伝』（100249476）10r",
+            "side": "r",
+            "title": "飯百珍伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249476/characters/U+66DD/U+66DD_100249476_00010_1_X0848_Y0575.jpg/full/full/0/default.jpg",
+        "unicode": "66DD"
+    },
+    {
+        "character": "曝",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+66DD_200004148_00077_2_X1103_Y0821",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E6%9B%9D/manifest&pos=152&xywh=1103,821,109,101",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+66DD_200004148_00077_2_X1103_Y0821/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 77,
+            "label": "『椿説弓張月』（200004148）77v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+66DD/U+66DD_200004148_00077_2_X1103_Y0821.jpg/full/full/0/default.jpg",
+        "unicode": "66DD"
+    },
+    {
+        "character": "曝",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+66DD_200004148_00086_1_X1503_Y2174",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E6%9B%9D/manifest&pos=165&xywh=1503,2174,89,102",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+66DD_200004148_00086_1_X1503_Y2174/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 86,
+            "label": "『椿説弓張月』（200004148）86r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+66DD/U+66DD_200004148_00086_1_X1503_Y2174.jpg/full/full/0/default.jpg",
+        "unicode": "66DD"
+    },
+    {
+        "character": "曝",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+66DD_200015843_00019_1_X0916_Y1528",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E6%9B%9D/manifest&pos=35&xywh=916,1528,114,118",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+66DD_200015843_00019_1_X0916_Y1528/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 19,
+            "label": "『日本永代蔵』（200015843）19r",
+            "side": "r",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+66DD/U+66DD_200015843_00019_1_X0916_Y1528.jpg/full/full/0/default.jpg",
+        "unicode": "66DD"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34046592",

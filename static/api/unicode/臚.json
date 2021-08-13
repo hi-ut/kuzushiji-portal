@@ -1,0 +1,42 @@
+[
+    {
+        "character": "臚",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+81DA_200003803_00020_1_X0564_Y2610",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003803/%E8%87%9A/manifest&pos=37&xywh=564,2610,90,117",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+81DA_200003803_00020_1_X0564_Y2610/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003803",
+            "frame": 20,
+            "label": "『源氏物語』（200003803）20r",
+            "side": "r",
+            "title": "源氏物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003803/characters/U+81DA/U+81DA_200003803_00020_1_X0564_Y2610.jpg/full/full/0/default.jpg",
+        "unicode": "81DA"
+    },
+    {
+        "character": "臚",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+81DA_200010454_00026_1_X1456_Y1293",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200010454/%E8%87%9A/manifest&pos=49&xywh=1456,1293,144,142",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+81DA_200010454_00026_1_X1456_Y1293/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200010454",
+            "frame": 26,
+            "label": "『源氏物語』（200010454）26r",
+            "side": "r",
+            "title": "源氏物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200010454/characters/U+81DA/U+81DA_200010454_00026_1_X1456_Y1293.jpg/full/full/0/default.jpg",
+        "unicode": "81DA"
+    }
+]

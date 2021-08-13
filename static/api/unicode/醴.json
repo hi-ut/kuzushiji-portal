@@ -1,5 +1,85 @@
 [
     {
+        "character": "醴",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+91B4_200015779_00028_1_X1506_Y2676",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E9%86%B4/manifest&pos=47&xywh=1506,2676,123,103",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+91B4_200015779_00028_1_X1506_Y2676/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 28,
+            "label": "『浮世風呂』（200015779）28r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+91B4/U+91B4_200015779_00028_1_X1506_Y2676.jpg/full/full/0/default.jpg",
+        "unicode": "91B4"
+    },
+    {
+        "character": "醴",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+91B4_200015779_00030_2_X0419_Y2643",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E9%86%B4/manifest&pos=52&xywh=419,2643,117,123",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+91B4_200015779_00030_2_X0419_Y2643/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 30,
+            "label": "『浮世風呂』（200015779）30v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+91B4/U+91B4_200015779_00030_2_X0419_Y2643.jpg/full/full/0/default.jpg",
+        "unicode": "91B4"
+    },
+    {
+        "character": "醴",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+91B4_200015779_00118_2_X0677_Y0967",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E9%86%B4/manifest&pos=214&xywh=677,967,110,122",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+91B4_200015779_00118_2_X0677_Y0967/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 118,
+            "label": "『浮世風呂』（200015779）118v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+91B4/U+91B4_200015779_00118_2_X0677_Y0967.jpg/full/full/0/default.jpg",
+        "unicode": "91B4"
+    },
+    {
+        "character": "醴",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+91B4_200021712_00079_1_X1430_Y1363",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021712/%E9%86%B4/manifest&pos=155&xywh=1430,1363,110,132",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+91B4_200021712_00079_1_X1430_Y1363/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021712",
+            "frame": 79,
+            "label": "『万宝料理秘密箱』（200021712）79r",
+            "side": "r",
+            "title": "万宝料理秘密箱"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021712/characters/U+91B4/U+91B4_200021712_00079_1_X1430_Y1363.jpg/full/full/0/default.jpg",
+        "unicode": "91B4"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34240969",

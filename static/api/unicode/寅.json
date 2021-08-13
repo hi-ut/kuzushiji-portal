@@ -1,5 +1,208 @@
 [
     {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "5BASNL36000101",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/5BAS/5BASNL36/5BASNL360001011/5BASNL360001011-6/list/5BASNL360001011-6-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/5BAS/5BASNL36/5BASNL360001011/5BASNL360001011-6/5BASNL360001011-6.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/5BASNL36000101",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/5BASNL360001011-C1.tiff/82,1184,280,334/full/0/default.jpg",
+        "title": "寅",
+        "unicode": "UTF-8"
+    },
+    {
+        "character": "寅",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5BC5_200004107_00026_1_X0698_Y1084",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004107/%E5%AF%85/manifest&pos=47&xywh=698,1084,68,110",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5BC5_200004107_00026_1_X0698_Y1084/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004107",
+            "frame": 26,
+            "label": "『二人比丘尼』（200004107）26r",
+            "side": "r",
+            "title": "二人比丘尼"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004107/characters/U+5BC5/U+5BC5_200004107_00026_1_X0698_Y1084.jpg/full/full/0/default.jpg",
+        "unicode": "5BC5"
+    },
+    {
+        "character": "寅",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5BC5_200014740_00051_1_X0423_Y1671",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%AF%85/manifest&pos=99&xywh=423,1671,81,126",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5BC5_200014740_00051_1_X0423_Y1671/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 51,
+            "label": "『雨月物語』（200014740）51r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+5BC5/U+5BC5_200014740_00051_1_X0423_Y1671.jpg/full/full/0/default.jpg",
+        "unicode": "5BC5"
+    },
+    {
+        "character": "寅",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5BC5_200014740_00070_1_X0870_Y1270",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%AF%85/manifest&pos=135&xywh=870,1270,91,121",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5BC5_200014740_00070_1_X0870_Y1270/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 70,
+            "label": "『雨月物語』（200014740）70r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+5BC5/U+5BC5_200014740_00070_1_X0870_Y1270.jpg/full/full/0/default.jpg",
+        "unicode": "5BC5"
+    },
+    {
+        "character": "寅",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5BC5_200014740_00073_1_X1732_Y0784",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%AF%85/manifest&pos=141&xywh=1732,784,86,125",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5BC5_200014740_00073_1_X1732_Y0784/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 73,
+            "label": "『雨月物語』（200014740）73r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+5BC5/U+5BC5_200014740_00073_1_X1732_Y0784.jpg/full/full/0/default.jpg",
+        "unicode": "5BC5"
+    },
+    {
+        "character": "寅",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5BC5_200014740_00074_2_X0370_Y2584",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%AF%85/manifest&pos=144&xywh=370,2584,89,132",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5BC5_200014740_00074_2_X0370_Y2584/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 74,
+            "label": "『雨月物語』（200014740）74v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+5BC5/U+5BC5_200014740_00074_2_X0370_Y2584.jpg/full/full/0/default.jpg",
+        "unicode": "5BC5"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink1060a",
+        "identifer": "33-1060a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink1060a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink1060a.tiff/full/full/0/default.jpg",
+        "title": "寅",
+        "unicode": "E5AF85"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink1060b",
+        "identifer": "33-1060b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink1060b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink1060b.tiff/full/full/0/default.jpg",
+        "title": "寅",
+        "unicode": "E5AF85"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0604",
+        "identifer": "34-604",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0604.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0604.tiff/full/full/0/default.jpg",
+        "title": "寅",
+        "unicode": "E5AF85"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0612",
+        "identifer": "36-612",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0612.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0612.tiff/full/full/0/default.jpg",
+        "title": "寅",
+        "unicode": "E5AF85"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240605",
+        "identifer": "3724-605",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240605.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240605.tiff/full/full/0/default.jpg",
+        "title": "寅",
+        "unicode": "E5AF85"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34003274",

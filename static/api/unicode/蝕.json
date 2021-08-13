@@ -1,5 +1,65 @@
 [
     {
+        "character": "蝕",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+8755_200003967_00038_1_X0526_Y0942",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003967/%E8%9D%95/manifest&pos=69&xywh=526,942,86,85",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8755_200003967_00038_1_X0526_Y0942/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003967",
+            "frame": 38,
+            "label": "『おらが春』（200003967）38r",
+            "side": "r",
+            "title": "おらが春"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003967/characters/U+8755/U+8755_200003967_00038_1_X0526_Y0942.jpg/full/full/0/default.jpg",
+        "unicode": "8755"
+    },
+    {
+        "character": "蝕",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+8755_200005798_00009_1_X1270_Y1508",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005798/%E8%9D%95/manifest&pos=15&xywh=1270,1508,82,118",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8755_200005798_00009_1_X1270_Y1508/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005798",
+            "frame": 9,
+            "label": "『世間胸算用／大晦日ハ一日千金』（200005798）9r",
+            "side": "r",
+            "title": "世間胸算用／大晦日ハ一日千金"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005798/characters/U+8755/U+8755_200005798_00009_1_X1270_Y1508.jpg/full/full/0/default.jpg",
+        "unicode": "8755"
+    },
+    {
+        "character": "蝕",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+8755_200005798_00009_1_X1582_Y1070",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005798/%E8%9D%95/manifest&pos=15&xywh=1582,1070,92,129",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8755_200005798_00009_1_X1582_Y1070/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005798",
+            "frame": 9,
+            "label": "『世間胸算用／大晦日ハ一日千金』（200005798）9r",
+            "side": "r",
+            "title": "世間胸算用／大晦日ハ一日千金"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005798/characters/U+8755/U+8755_200005798_00009_1_X1582_Y1070.jpg/full/full/0/default.jpg",
+        "unicode": "8755"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34138241",

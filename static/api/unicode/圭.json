@@ -1,0 +1,79 @@
+[
+    {
+        "character": "圭",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+572D_200003076_00096_1_X1784_Y1882",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E5%9C%AD/manifest&pos=183&xywh=1784,1882,112,99",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+572D_200003076_00096_1_X1784_Y1882/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 96,
+            "label": "『好色一代男』（200003076）96r",
+            "side": "r",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+572D/U+572D_200003076_00096_1_X1784_Y1882.jpg/full/full/0/default.jpg",
+        "unicode": "572D"
+    },
+    {
+        "character": "圭",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+572D_200008003_00005_1_X0177_Y3123",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008003/%E5%9C%AD/manifest&pos=7&xywh=177,3123,135,117",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+572D_200008003_00005_1_X0177_Y3123/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008003",
+            "frame": 5,
+            "label": "『歌学提要』（200008003）5r",
+            "side": "r",
+            "title": "歌学提要"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008003/characters/U+572D/U+572D_200008003_00005_1_X0177_Y3123.jpg/full/full/0/default.jpg",
+        "unicode": "572D"
+    },
+    {
+        "character": "圭",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+572D_200014740_00085_2_X0222_Y1808",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%9C%AD/manifest&pos=166&xywh=222,1808,81,108",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+572D_200014740_00085_2_X0222_Y1808/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 85,
+            "label": "『雨月物語』（200014740）85v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+572D/U+572D_200014740_00085_2_X0222_Y1808.jpg/full/full/0/default.jpg",
+        "unicode": "572D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0053",
+        "identifer": "19-53",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0053.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0053.tiff/full/full/0/default.jpg",
+        "title": "圭",
+        "unicode": "E59CAD"
+    }
+]

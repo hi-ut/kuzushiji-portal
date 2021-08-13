@@ -1,5 +1,25 @@
 [
     {
+        "character": "秉",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+79C9_200004148_00045_2_X0848_Y1050",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E7%A7%89/manifest&pos=88&xywh=848,1050,81,105",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+79C9_200004148_00045_2_X0848_Y1050/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 45,
+            "label": "『椿説弓張月』（200004148）45v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+79C9/U+79C9_200004148_00045_2_X0848_Y1050.jpg/full/full/0/default.jpg",
+        "unicode": "79C9"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34115043",

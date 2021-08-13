@@ -1,5 +1,119 @@
 [
     {
+        "character": "戈",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6208_200004148_00002_2_X1543_Y1778",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E6%88%88/manifest&pos=2&xywh=1543,1778,95,111",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6208_200004148_00002_2_X1543_Y1778/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 2,
+            "label": "『椿説弓張月』（200004148）2v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+6208/U+6208_200004148_00002_2_X1543_Y1778.jpg/full/full/0/default.jpg",
+        "unicode": "6208"
+    },
+    {
+        "character": "戈",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+6208_200004148_00082_2_X0397_Y1472",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E6%88%88/manifest&pos=158&xywh=397,1472,81,71",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6208_200004148_00082_2_X0397_Y1472/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 82,
+            "label": "『椿説弓張月』（200004148）82v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+6208/U+6208_200004148_00082_2_X0397_Y1472.jpg/full/full/0/default.jpg",
+        "unicode": "6208"
+    },
+    {
+        "character": "戈",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6208_200014740_00023_2_X1572_Y1933",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E6%88%88/manifest&pos=44&xywh=1572,1933,69,111",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6208_200014740_00023_2_X1572_Y1933/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 23,
+            "label": "『雨月物語』（200014740）23v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+6208/U+6208_200014740_00023_2_X1572_Y1933.jpg/full/full/0/default.jpg",
+        "unicode": "6208"
+    },
+    {
+        "character": "戈",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+6208_200014740_00029_1_X0529_Y2662",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E6%88%88/manifest&pos=55&xywh=529,2662,89,103",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6208_200014740_00029_1_X0529_Y2662/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 29,
+            "label": "『雨月物語』（200014740）29r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+6208/U+6208_200014740_00029_1_X0529_Y2662.jpg/full/full/0/default.jpg",
+        "unicode": "6208"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0114",
+        "identifer": "19-114",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0114.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0114.tiff/full/full/0/default.jpg",
+        "title": "戈",
+        "unicode": "E68888"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0084",
+        "identifer": "71-84",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0084.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0084.tiff/full/full/0/default.jpg",
+        "title": "戈",
+        "unicode": "E68888"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34279721",

@@ -86,8 +86,8 @@
             >{{ value.label }}（{{ value.list.length }}）</nuxt-link
           >
           -->
-          {{ value.label }}（Delegate:
-          {{ value.delegate.toLocaleString() }}／Total:
+          {{ value.label }}（<small>Delegate:</small>
+          {{ value.delegate.toLocaleString() }}／<small>Total:</small>
           {{ value.size.toLocaleString() }}）
         </h3>
         <!-- <p>{{ key }}</p> -->
@@ -112,7 +112,7 @@
         </v-row>
       </div>
 
-      <BarChart class="pt-10 my-10" :labels="labels" :datasets="datasets">
+      <BarChart class="pt-10 my-10" :labels="labels" :datasets="datasets" v-if="labels.length > 0">
       </BarChart>
     </v-container>
   </div>

@@ -1,0 +1,42 @@
+[
+    {
+        "character": "焔",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7114_200003967_00005_1_X0995_Y1871",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003967/%E7%84%94/manifest&pos=5&xywh=995,1871,130,125",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7114_200003967_00005_1_X0995_Y1871/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003967",
+            "frame": 5,
+            "label": "『おらが春』（200003967）5r",
+            "side": "r",
+            "title": "おらが春"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003967/characters/U+7114/U+7114_200003967_00005_1_X0995_Y1871.jpg/full/full/0/default.jpg",
+        "unicode": "7114"
+    },
+    {
+        "character": "焔",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7114_200014685_00018_2_X0288_Y0675",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E7%84%94/manifest&pos=34&xywh=288,675,82,92",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7114_200014685_00018_2_X0288_Y0675/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 18,
+            "label": "『南総里見八犬伝』（200014685）18v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+7114/U+7114_200014685_00018_2_X0288_Y0675.jpg/full/full/0/default.jpg",
+        "unicode": "7114"
+    }
+]

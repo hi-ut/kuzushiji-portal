@@ -1,5 +1,1065 @@
 [
     {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+72D0_100241706_00012_1_X0532_Y1219",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100241706/%E7%8B%90/manifest&pos=22&xywh=532,1219,161,156",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_100241706_00012_1_X0532_Y1219/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100241706",
+            "frame": 12,
+            "label": "『虚南留別志』（100241706）12r",
+            "side": "r",
+            "title": "虚南留別志"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100241706/characters/U+72D0/U+72D0_100241706_00012_1_X0532_Y1219.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_100241706_00012_2_X1879_Y1254",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100241706/%E7%8B%90/manifest&pos=23&xywh=1879,1254,121,133",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_100241706_00012_2_X1879_Y1254/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100241706",
+            "frame": 12,
+            "label": "『虚南留別志』（100241706）12v",
+            "side": "v",
+            "title": "虚南留別志"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100241706/characters/U+72D0/U+72D0_100241706_00012_2_X1879_Y1254.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+72D0_100249416_00017_2_X0323_Y2287",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249416/%E7%8B%90/manifest&pos=33&xywh=323,2287,107,121",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_100249416_00017_2_X0323_Y2287/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249416",
+            "frame": 17,
+            "label": "『餅菓子即席／手製集』（100249416）17v",
+            "side": "v",
+            "title": "餅菓子即席／手製集"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249416/characters/U+72D0/U+72D0_100249416_00017_2_X0323_Y2287.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+72D0_100249537_00086_2_X1056_Y1718",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249537/%E7%8B%90/manifest&pos=165&xywh=1056,1718,153,148",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_100249537_00086_2_X1056_Y1718/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249537",
+            "frame": 86,
+            "label": "『料理珍味集』（100249537）86v",
+            "side": "v",
+            "title": "料理珍味集"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249537/characters/U+72D0/U+72D0_100249537_00086_2_X1056_Y1718.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+72D0_200003076_00049_2_X1486_Y1436",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E7%8B%90/manifest&pos=92&xywh=1486,1436,145,122",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200003076_00049_2_X1486_Y1436/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 49,
+            "label": "『好色一代男』（200003076）49v",
+            "side": "v",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+72D0/U+72D0_200003076_00049_2_X1486_Y1436.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200003076_00083_1_X1803_Y1341",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E7%8B%90/manifest&pos=159&xywh=1803,1341,130,91",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200003076_00083_1_X1803_Y1341/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 83,
+            "label": "『好色一代男』（200003076）83r",
+            "side": "r",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+72D0/U+72D0_200003076_00083_1_X1803_Y1341.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+72D0_200003967_00009_2_X0301_Y1787",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003967/%E7%8B%90/manifest&pos=14&xywh=301,1787,114,83",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200003967_00009_2_X0301_Y1787/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003967",
+            "frame": 9,
+            "label": "『おらが春』（200003967）9v",
+            "side": "v",
+            "title": "おらが春"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003967/characters/U+72D0/U+72D0_200003967_00009_2_X0301_Y1787.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+72D0_200005798_00045_1_X1621_Y2216",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005798/%E7%8B%90/manifest&pos=83&xywh=1621,2216,107,101",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200005798_00045_1_X1621_Y2216/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005798",
+            "frame": 45,
+            "label": "『世間胸算用／大晦日ハ一日千金』（200005798）45r",
+            "side": "r",
+            "title": "世間胸算用／大晦日ハ一日千金"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005798/characters/U+72D0/U+72D0_200005798_00045_1_X1621_Y2216.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+72D0_200014740_00018_1_X0546_Y1736",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E7%8B%90/manifest&pos=33&xywh=546,1736,106,92",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200014740_00018_1_X0546_Y1736/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 18,
+            "label": "『雨月物語』（200014740）18r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+72D0/U+72D0_200014740_00018_1_X0546_Y1736.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200014740_00027_1_X0655_Y1205",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E7%8B%90/manifest&pos=51&xywh=655,1205,117,100",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200014740_00027_1_X0655_Y1205/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 27,
+            "label": "『雨月物語』（200014740）27r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+72D0/U+72D0_200014740_00027_1_X0655_Y1205.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200014740_00027_2_X0337_Y0297",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E7%8B%90/manifest&pos=52&xywh=337,297,129,109",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200014740_00027_2_X0337_Y0297/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 27,
+            "label": "『雨月物語』（200014740）27v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+72D0/U+72D0_200014740_00027_2_X0337_Y0297.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200014740_00027_2_X0957_Y2281",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E7%8B%90/manifest&pos=52&xywh=957,2281,115,110",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200014740_00027_2_X0957_Y2281/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 27,
+            "label": "『雨月物語』（200014740）27v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+72D0/U+72D0_200014740_00027_2_X0957_Y2281.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200014740_00029_1_X0241_Y0971",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E7%8B%90/manifest&pos=55&xywh=241,971,109,110",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200014740_00029_1_X0241_Y0971/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 29,
+            "label": "『雨月物語』（200014740）29r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+72D0/U+72D0_200014740_00029_1_X0241_Y0971.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200014740_00051_1_X1137_Y0964",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E7%8B%90/manifest&pos=99&xywh=1137,964,106,112",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200014740_00051_1_X1137_Y0964/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 51,
+            "label": "『雨月物語』（200014740）51r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+72D0/U+72D0_200014740_00051_1_X1137_Y0964.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200014740_00085_1_X0577_Y0310",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E7%8B%90/manifest&pos=165&xywh=577,310,108,113",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200014740_00085_1_X0577_Y0310/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 85,
+            "label": "『雨月物語』（200014740）85r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+72D0/U+72D0_200014740_00085_1_X0577_Y0310.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+72D0_200015779_00039_1_X0064_Y1423",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E7%8B%90/manifest&pos=69&xywh=64,1423,169,119",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200015779_00039_1_X0064_Y1423/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 39,
+            "label": "『浮世風呂』（200015779）39r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+72D0/U+72D0_200015779_00039_1_X0064_Y1423.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200015779_00156_2_X0908_Y2908",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E7%8B%90/manifest&pos=286&xywh=908,2908,115,90",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200015779_00156_2_X0908_Y2908/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 156,
+            "label": "『浮世風呂』（200015779）156v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+72D0/U+72D0_200015779_00156_2_X0908_Y2908.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200015779_00156_2_X0922_Y1687",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E7%8B%90/manifest&pos=286&xywh=922,1687,114,97",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200015779_00156_2_X0922_Y1687/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 156,
+            "label": "『浮世風呂』（200015779）156v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+72D0/U+72D0_200015779_00156_2_X0922_Y1687.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+72D0_200015843_00097_1_X0717_Y0877",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E7%8B%90/manifest&pos=175&xywh=717,877,105,107",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200015843_00097_1_X0717_Y0877/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 97,
+            "label": "『日本永代蔵』（200015843）97r",
+            "side": "r",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+72D0/U+72D0_200015843_00097_1_X0717_Y0877.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+72D0_200021071_00032_1_X0593_Y1045",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E7%8B%90/manifest&pos=55&xywh=593,1045,115,108",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021071_00032_1_X0593_Y1045/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 32,
+            "label": "『伊曾保物語』（200021071）32r",
+            "side": "r",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+72D0/U+72D0_200021071_00032_1_X0593_Y1045.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021071_00049_1_X0849_Y2562",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E7%8B%90/manifest&pos=89&xywh=849,2562,111,97",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021071_00049_1_X0849_Y2562/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 49,
+            "label": "『伊曾保物語』（200021071）49r",
+            "side": "r",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+72D0/U+72D0_200021071_00049_1_X0849_Y2562.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021071_00049_2_X1579_Y2318",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E7%8B%90/manifest&pos=90&xywh=1579,2318,115,88",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021071_00049_2_X1579_Y2318/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 49,
+            "label": "『伊曾保物語』（200021071）49v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+72D0/U+72D0_200021071_00049_2_X1579_Y2318.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021071_00050_2_X1741_Y0529",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E7%8B%90/manifest&pos=92&xywh=1741,529,119,98",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021071_00050_2_X1741_Y0529/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 50,
+            "label": "『伊曾保物語』（200021071）50v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+72D0/U+72D0_200021071_00050_2_X1741_Y0529.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021071_00061_2_X1437_Y1360",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E7%8B%90/manifest&pos=114&xywh=1437,1360,117,96",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021071_00061_2_X1437_Y1360/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 61,
+            "label": "『伊曾保物語』（200021071）61v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+72D0/U+72D0_200021071_00061_2_X1437_Y1360.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021071_00069_2_X1296_Y1053",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E7%8B%90/manifest&pos=126&xywh=1296,1053,113,96",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021071_00069_2_X1296_Y1053/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 69,
+            "label": "『伊曾保物語』（200021071）69v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+72D0/U+72D0_200021071_00069_2_X1296_Y1053.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021071_00073_1_X1174_Y2797",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E7%8B%90/manifest&pos=133&xywh=1174,2797,113,87",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021071_00073_1_X1174_Y2797/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 73,
+            "label": "『伊曾保物語』（200021071）73r",
+            "side": "r",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+72D0/U+72D0_200021071_00073_1_X1174_Y2797.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021071_00073_2_X1603_Y2567",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E7%8B%90/manifest&pos=134&xywh=1603,2567,106,94",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021071_00073_2_X1603_Y2567/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 73,
+            "label": "『伊曾保物語』（200021071）73v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+72D0/U+72D0_200021071_00073_2_X1603_Y2567.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021071_00074_2_X1439_Y1484",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E7%8B%90/manifest&pos=136&xywh=1439,1484,113,84",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021071_00074_2_X1439_Y1484/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 74,
+            "label": "『伊曾保物語』（200021071）74v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+72D0/U+72D0_200021071_00074_2_X1439_Y1484.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021071_00075_2_X0402_Y1117",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E7%8B%90/manifest&pos=138&xywh=402,1117,112,96",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021071_00075_2_X0402_Y1117/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 75,
+            "label": "『伊曾保物語』（200021071）75v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+72D0/U+72D0_200021071_00075_2_X0402_Y1117.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021071_00076_2_X0859_Y1503",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E7%8B%90/manifest&pos=140&xywh=859,1503,107,94",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021071_00076_2_X0859_Y1503/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 76,
+            "label": "『伊曾保物語』（200021071）76v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+72D0/U+72D0_200021071_00076_2_X0859_Y1503.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021071_00077_2_X1750_Y1763",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E7%8B%90/manifest&pos=142&xywh=1750,1763,110,82",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021071_00077_2_X1750_Y1763/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 77,
+            "label": "『伊曾保物語』（200021071）77v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+72D0/U+72D0_200021071_00077_2_X1750_Y1763.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021071_00081_2_X1439_Y0658",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E7%8B%90/manifest&pos=150&xywh=1439,658,115,84",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021071_00081_2_X1439_Y0658/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 81,
+            "label": "『伊曾保物語』（200021071）81v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+72D0/U+72D0_200021071_00081_2_X1439_Y0658.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021071_00082_2_X0854_Y0516",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E7%8B%90/manifest&pos=152&xywh=854,516,100,98",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021071_00082_2_X0854_Y0516/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 82,
+            "label": "『伊曾保物語』（200021071）82v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+72D0/U+72D0_200021071_00082_2_X0854_Y0516.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021071_00084_2_X0114_Y1101",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E7%8B%90/manifest&pos=156&xywh=114,1101,112,85",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021071_00084_2_X0114_Y1101/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 84,
+            "label": "『伊曾保物語』（200021071）84v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+72D0/U+72D0_200021071_00084_2_X0114_Y1101.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021071_00095_2_X0084_Y2339",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E7%8B%90/manifest&pos=178&xywh=84,2339,114,92",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021071_00095_2_X0084_Y2339/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 95,
+            "label": "『伊曾保物語』（200021071）95v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+72D0/U+72D0_200021071_00095_2_X0084_Y2339.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021071_00096_2_X0369_Y2446",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E7%8B%90/manifest&pos=180&xywh=369,2446,119,90",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021071_00096_2_X0369_Y2446/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 96,
+            "label": "『伊曾保物語』（200021071）96v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+72D0/U+72D0_200021071_00096_2_X0369_Y2446.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021071_00096_2_X1447_Y1505",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E7%8B%90/manifest&pos=180&xywh=1447,1505,109,96",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021071_00096_2_X1447_Y1505/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 96,
+            "label": "『伊曾保物語』（200021071）96v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+72D0/U+72D0_200021071_00096_2_X1447_Y1505.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021071_00101_1_X0203_Y2940",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E7%8B%90/manifest&pos=189&xywh=203,2940,110,97",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021071_00101_1_X0203_Y2940/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 101,
+            "label": "『伊曾保物語』（200021071）101r",
+            "side": "r",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+72D0/U+72D0_200021071_00101_1_X0203_Y2940.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021071_00101_1_X1434_Y0547",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E7%8B%90/manifest&pos=189&xywh=1434,547,119,88",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021071_00101_1_X1434_Y0547/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 101,
+            "label": "『伊曾保物語』（200021071）101r",
+            "side": "r",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+72D0/U+72D0_200021071_00101_1_X1434_Y0547.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021071_00101_2_X1287_Y2810",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021071/%E7%8B%90/manifest&pos=190&xywh=1287,2810,101,100",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021071_00101_2_X1287_Y2810/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021071",
+            "frame": 101,
+            "label": "『伊曾保物語』（200021071）101v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021071/characters/U+72D0/U+72D0_200021071_00101_2_X1287_Y2810.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+72D0_200021086_00017_2_X0543_Y0960",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021086/%E7%8B%90/manifest&pos=32&xywh=543,960,112,107",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021086_00017_2_X0543_Y0960/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021086",
+            "frame": 17,
+            "label": "『伊曾保物語』（200021086）17v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021086/characters/U+72D0/U+72D0_200021086_00017_2_X0543_Y0960.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021086_00017_2_X0695_Y2104",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021086/%E7%8B%90/manifest&pos=32&xywh=695,2104,115,105",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021086_00017_2_X0695_Y2104/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021086",
+            "frame": 17,
+            "label": "『伊曾保物語』（200021086）17v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021086/characters/U+72D0/U+72D0_200021086_00017_2_X0695_Y2104.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021086_00018_1_X1564_Y0634",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021086/%E7%8B%90/manifest&pos=33&xywh=1564,634,99,107",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021086_00018_1_X1564_Y0634/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021086",
+            "frame": 18,
+            "label": "『伊曾保物語』（200021086）18r",
+            "side": "r",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021086/characters/U+72D0/U+72D0_200021086_00018_1_X1564_Y0634.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021086_00019_1_X0856_Y2011",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021086/%E7%8B%90/manifest&pos=35&xywh=856,2011,105,116",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021086_00019_1_X0856_Y2011/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021086",
+            "frame": 19,
+            "label": "『伊曾保物語』（200021086）19r",
+            "side": "r",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021086/characters/U+72D0/U+72D0_200021086_00019_1_X0856_Y2011.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021086_00019_1_X0960_Y0740",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021086/%E7%8B%90/manifest&pos=35&xywh=960,740,118,109",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021086_00019_1_X0960_Y0740/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021086",
+            "frame": 19,
+            "label": "『伊曾保物語』（200021086）19r",
+            "side": "r",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021086/characters/U+72D0/U+72D0_200021086_00019_1_X0960_Y0740.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021086_00019_2_X1445_Y0509",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021086/%E7%8B%90/manifest&pos=36&xywh=1445,509,108,129",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021086_00019_2_X1445_Y0509/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021086",
+            "frame": 19,
+            "label": "『伊曾保物語』（200021086）19v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021086/characters/U+72D0/U+72D0_200021086_00019_2_X1445_Y0509.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021086_00028_1_X0223_Y2342",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021086/%E7%8B%90/manifest&pos=53&xywh=223,2342,117,115",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021086_00028_1_X0223_Y2342/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021086",
+            "frame": 28,
+            "label": "『伊曾保物語』（200021086）28r",
+            "side": "r",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021086/characters/U+72D0/U+72D0_200021086_00028_1_X0223_Y2342.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021086_00028_1_X0825_Y2314",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021086/%E7%8B%90/manifest&pos=53&xywh=825,2314,105,103",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021086_00028_1_X0825_Y2314/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021086",
+            "frame": 28,
+            "label": "『伊曾保物語』（200021086）28r",
+            "side": "r",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021086/characters/U+72D0/U+72D0_200021086_00028_1_X0825_Y2314.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021086_00029_2_X0682_Y0734",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021086/%E7%8B%90/manifest&pos=56&xywh=682,734,103,108",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021086_00029_2_X0682_Y0734/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021086",
+            "frame": 29,
+            "label": "『伊曾保物語』（200021086）29v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021086/characters/U+72D0/U+72D0_200021086_00029_2_X0682_Y0734.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021086_00029_2_X1267_Y1124",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021086/%E7%8B%90/manifest&pos=56&xywh=1267,1124,102,113",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021086_00029_2_X1267_Y1124/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021086",
+            "frame": 29,
+            "label": "『伊曾保物語』（200021086）29v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021086/characters/U+72D0/U+72D0_200021086_00029_2_X1267_Y1124.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021086_00029_2_X1570_Y0548",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021086/%E7%8B%90/manifest&pos=56&xywh=1570,548,109,110",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021086_00029_2_X1570_Y0548/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021086",
+            "frame": 29,
+            "label": "『伊曾保物語』（200021086）29v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021086/characters/U+72D0/U+72D0_200021086_00029_2_X1570_Y0548.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+72D0_200021086_00031_2_X0528_Y2482",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021086/%E7%8B%90/manifest&pos=60&xywh=528,2482,102,107",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021086_00031_2_X0528_Y2482/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021086",
+            "frame": 31,
+            "label": "『伊曾保物語』（200021086）31v",
+            "side": "v",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021086/characters/U+72D0/U+72D0_200021086_00031_2_X0528_Y2482.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
+        "character": "狐",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+72D0_200021660_00031_2_X1417_Y1023",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E7%8B%90/manifest&pos=60&xywh=1417,1023,124,107",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72D0_200021660_00031_2_X1417_Y1023/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 31,
+            "label": "『養蚕秘録』（200021660）31v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+72D0/U+72D0_200021660_00031_2_X1417_Y1023.jpg/full/full/0/default.jpg",
+        "unicode": "72D0"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34201553",

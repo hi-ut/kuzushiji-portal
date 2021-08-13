@@ -1,5 +1,85 @@
 [
     {
+        "character": "斧",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+65A7_200004107_00034_2_X0505_Y1012",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004107/%E6%96%A7/manifest&pos=64&xywh=505,1012,107,156",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+65A7_200004107_00034_2_X0505_Y1012/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004107",
+            "frame": 34,
+            "label": "『二人比丘尼』（200004107）34v",
+            "side": "v",
+            "title": "二人比丘尼"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004107/characters/U+65A7/U+65A7_200004107_00034_2_X0505_Y1012.jpg/full/full/0/default.jpg",
+        "unicode": "65A7"
+    },
+    {
+        "character": "斧",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+65A7_200004148_00030_2_X0977_Y1335",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E6%96%A7/manifest&pos=58&xywh=977,1335,95,103",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+65A7_200004148_00030_2_X0977_Y1335/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 30,
+            "label": "『椿説弓張月』（200004148）30v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+65A7/U+65A7_200004148_00030_2_X0977_Y1335.jpg/full/full/0/default.jpg",
+        "unicode": "65A7"
+    },
+    {
+        "character": "斧",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+65A7_200008316_00002_2_X1569_Y2539",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008316/%E6%96%A7/manifest&pos=2&xywh=1569,2539,214,303",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+65A7_200008316_00002_2_X1569_Y2539/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008316",
+            "frame": 2,
+            "label": "『武家義理物語』（200008316）2v",
+            "side": "v",
+            "title": "武家義理物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008316/characters/U+65A7/U+65A7_200008316_00002_2_X1569_Y2539.jpg/full/full/0/default.jpg",
+        "unicode": "65A7"
+    },
+    {
+        "character": "斧",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+65A7_200014740_00052_2_X1337_Y0278",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E6%96%A7/manifest&pos=102&xywh=1337,278,103,161",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+65A7_200014740_00052_2_X1337_Y0278/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 52,
+            "label": "『雨月物語』（200014740）52v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+65A7/U+65A7_200014740_00052_2_X1337_Y0278.jpg/full/full/0/default.jpg",
+        "unicode": "65A7"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34187428",

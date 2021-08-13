@@ -1,0 +1,76 @@
+[
+    {
+        "character": "區",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5340_200008003_00026_2_X2093_Y2297",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008003/%E5%8D%80/manifest&pos=50&xywh=2093,2297,124,155",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5340_200008003_00026_2_X2093_Y2297/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008003",
+            "frame": 26,
+            "label": "『歌学提要』（200008003）26v",
+            "side": "v",
+            "title": "歌学提要"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008003/characters/U+5340/U+5340_200008003_00026_2_X2093_Y2297.jpg/full/full/0/default.jpg",
+        "unicode": "5340"
+    },
+    {
+        "character": "區",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5340_200014685_00032_1_X1464_Y0914",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E5%8D%80/manifest&pos=61&xywh=1464,914,76,76",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5340_200014685_00032_1_X1464_Y0914/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 32,
+            "label": "『南総里見八犬伝』（200014685）32r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+5340/U+5340_200014685_00032_1_X1464_Y0914.jpg/full/full/0/default.jpg",
+        "unicode": "5340"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0050",
+        "identifer": "18-50",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0050.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0050.tiff/full/full/0/default.jpg",
+        "title": "區",
+        "unicode": "E58D80"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sik0009",
+        "identifer": "44-9",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/44sik/sik0009.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "754～755年",
+            "value": "花嚴經卷八(新羅本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/44sik/sik0009.tiff/full/full/0/default.jpg",
+        "title": "區",
+        "unicode": "E58D80"
+    }
+]

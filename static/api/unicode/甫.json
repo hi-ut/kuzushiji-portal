@@ -1,5 +1,65 @@
 [
     {
+        "character": "甫",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+752B_200008316_00032_2_X2252_Y2187",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008316/%E7%94%AB/manifest&pos=56&xywh=2252,2187,120,229",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+752B_200008316_00032_2_X2252_Y2187/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008316",
+            "frame": 32,
+            "label": "『武家義理物語』（200008316）32v",
+            "side": "v",
+            "title": "武家義理物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008316/characters/U+752B/U+752B_200008316_00032_2_X2252_Y2187.jpg/full/full/0/default.jpg",
+        "unicode": "752B"
+    },
+    {
+        "character": "甫",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+752B_200021763_00016_2_X0456_Y3106",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021763/%E7%94%AB/manifest&pos=31&xywh=456,3106,117,205",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+752B_200021763_00016_2_X0456_Y3106/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021763",
+            "frame": 16,
+            "label": "『膳部料理抄』（200021763）16v",
+            "side": "v",
+            "title": "膳部料理抄"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021763/characters/U+752B/U+752B_200021763_00016_2_X0456_Y3106.jpg/full/full/0/default.jpg",
+        "unicode": "752B"
+    },
+    {
+        "character": "甫",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+752B_200021763_00023_1_X1814_Y1576",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021763/%E7%94%AB/manifest&pos=44&xywh=1814,1576,77,141",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+752B_200021763_00023_1_X1814_Y1576/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021763",
+            "frame": 23,
+            "label": "『膳部料理抄』（200021763）23r",
+            "side": "r",
+            "title": "膳部料理抄"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021763/characters/U+752B/U+752B_200021763_00023_1_X1814_Y1576.jpg/full/full/0/default.jpg",
+        "unicode": "752B"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34256727",

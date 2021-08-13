@@ -1,0 +1,42 @@
+[
+    {
+        "character": "銜",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+929C_200004148_00027_2_X0836_Y1988",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E9%8A%9C/manifest&pos=52&xywh=836,1988,100,102",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+929C_200004148_00027_2_X0836_Y1988/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 27,
+            "label": "『椿説弓張月』（200004148）27v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+929C/U+929C_200004148_00027_2_X0836_Y1988.jpg/full/full/0/default.jpg",
+        "unicode": "929C"
+    },
+    {
+        "character": "銜",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+929C_200004148_00044_2_X1281_Y1526",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E9%8A%9C/manifest&pos=86&xywh=1281,1526,89,89",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+929C_200004148_00044_2_X1281_Y1526/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 44,
+            "label": "『椿説弓張月』（200004148）44v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+929C/U+929C_200004148_00044_2_X1281_Y1526.jpg/full/full/0/default.jpg",
+        "unicode": "929C"
+    }
+]

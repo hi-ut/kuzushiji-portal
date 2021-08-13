@@ -1,0 +1,42 @@
+[
+    {
+        "character": "罌",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7F4C_100249371_00025_1_X1393_Y0552",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249371/%E7%BD%8C/manifest&pos=48&xywh=1393,552,88,150",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7F4C_100249371_00025_1_X1393_Y0552/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249371",
+            "frame": 25,
+            "label": "『鼎左秘録』（100249371）25r",
+            "side": "r",
+            "title": "鼎左秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249371/characters/U+7F4C/U+7F4C_100249371_00025_1_X1393_Y0552.jpg/full/full/0/default.jpg",
+        "unicode": "7F4C"
+    },
+    {
+        "character": "罌",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7F4C_200021712_00045_2_X1710_Y1025",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021712/%E7%BD%8C/manifest&pos=88&xywh=1710,1025,102,127",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7F4C_200021712_00045_2_X1710_Y1025/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021712",
+            "frame": 45,
+            "label": "『万宝料理秘密箱』（200021712）45v",
+            "side": "v",
+            "title": "万宝料理秘密箱"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021712/characters/U+7F4C/U+7F4C_200021712_00045_2_X1710_Y1025.jpg/full/full/0/default.jpg",
+        "unicode": "7F4C"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "character": "檎",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6A8E_200003076_00110_1_X1561_Y2451",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E6%AA%8E/manifest&pos=211&xywh=1561,2451,100,116",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6A8E_200003076_00110_1_X1561_Y2451/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 110,
+            "label": "『好色一代男』（200003076）110r",
+            "side": "r",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+6A8E/U+6A8E_200003076_00110_1_X1561_Y2451.jpg/full/full/0/default.jpg",
+        "unicode": "6A8E"
+    },
+    {
+        "character": "檎",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6A8E_200021763_00023_2_X2253_Y0956",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021763/%E6%AA%8E/manifest&pos=45&xywh=2253,956,149,255",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6A8E_200021763_00023_2_X2253_Y0956/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021763",
+            "frame": 23,
+            "label": "『膳部料理抄』（200021763）23v",
+            "side": "v",
+            "title": "膳部料理抄"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021763/characters/U+6A8E/U+6A8E_200021763_00023_2_X2253_Y0956.jpg/full/full/0/default.jpg",
+        "unicode": "6A8E"
+    }
+]

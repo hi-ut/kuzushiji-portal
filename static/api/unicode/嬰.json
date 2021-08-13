@@ -1,0 +1,181 @@
+[
+    {
+        "character": "嬰",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5B30_200015779_00105_1_X0297_Y0381",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%AC%B0/manifest&pos=187&xywh=297,381,111,149",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5B30_200015779_00105_1_X0297_Y0381/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 105,
+            "label": "『浮世風呂』（200015779）105r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+5B30/U+5B30_200015779_00105_1_X0297_Y0381.jpg/full/full/0/default.jpg",
+        "unicode": "5B30"
+    },
+    {
+        "character": "嬰",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5B30_200015779_00105_2_X1785_Y2013",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%AC%B0/manifest&pos=188&xywh=1785,2013,113,141",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5B30_200015779_00105_2_X1785_Y2013/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 105,
+            "label": "『浮世風呂』（200015779）105v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+5B30/U+5B30_200015779_00105_2_X1785_Y2013.jpg/full/full/0/default.jpg",
+        "unicode": "5B30"
+    },
+    {
+        "character": "嬰",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5B30_200015779_00112_2_X0429_Y1492",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%AC%B0/manifest&pos=202&xywh=429,1492,117,119",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5B30_200015779_00112_2_X0429_Y1492/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 112,
+            "label": "『浮世風呂』（200015779）112v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+5B30/U+5B30_200015779_00112_2_X0429_Y1492.jpg/full/full/0/default.jpg",
+        "unicode": "5B30"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyd0983",
+        "identifer": "14-983",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/14kyd/kyd0983.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "初唐",
+            "value": "漢書楊雄傳(上野本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/14kyd/kyd0983.tiff/full/full/0/default.jpg",
+        "title": "嬰",
+        "unicode": "E5ACB0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0089",
+        "identifer": "31-89",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0089.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0089.tiff/full/full/0/default.jpg",
+        "title": "嬰",
+        "unicode": "E5ACB0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ini0083",
+        "identifer": "38-83",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/38ini/ini0083.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1236年",
+            "value": "卷二(鴨脚本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/38ini/ini0083.tiff/full/full/0/default.jpg",
+        "title": "嬰",
+        "unicode": "E5ACB0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkk0066",
+        "identifer": "39-66",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/39nkk/nkk0066.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1286年",
+            "value": "卷二(兼方本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/39nkk/nkk0066.tiff/full/full/0/default.jpg",
+        "title": "嬰",
+        "unicode": "E5ACB0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcc0083",
+        "identifer": "41-83",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/41kcc/kcc0083.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1599年",
+            "value": "卷二(慶長勅版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/41kcc/kcc0083.tiff/full/full/0/default.jpg",
+        "title": "嬰",
+        "unicode": "E5ACB0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcj0083",
+        "identifer": "42-83",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/42kcj/kcj0083.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1610年",
+            "value": "卷二(慶長十五年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/42kcj/kcj0083.tiff/full/full/0/default.jpg",
+        "title": "嬰",
+        "unicode": "E5ACB0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kbk0083",
+        "identifer": "43-83",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/43kbk/kbk0083.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/43kbk/kbk0083.tiff/full/full/0/default.jpg",
+        "title": "嬰",
+        "unicode": "E5ACB0"
+    }
+]

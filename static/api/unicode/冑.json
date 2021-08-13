@@ -1,0 +1,76 @@
+[
+    {
+        "character": "冑",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5191_200008003_00034_1_X0599_Y3327",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008003/%E5%86%91/manifest&pos=65&xywh=599,3327,109,148",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5191_200008003_00034_1_X0599_Y3327/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008003",
+            "frame": 34,
+            "label": "『歌学提要』（200008003）34r",
+            "side": "r",
+            "title": "歌学提要"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008003/characters/U+5191/U+5191_200008003_00034_1_X0599_Y3327.jpg/full/full/0/default.jpg",
+        "unicode": "5191"
+    },
+    {
+        "character": "冑",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5191_200014685_00013_2_X0641_Y2658",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E5%86%91/manifest&pos=24&xywh=641,2658,61,102",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5191_200014685_00013_2_X0641_Y2658/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 13,
+            "label": "『南総里見八犬伝』（200014685）13v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+5191/U+5191_200014685_00013_2_X0641_Y2658.jpg/full/full/0/default.jpg",
+        "unicode": "5191"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0021",
+        "identifer": "19-21",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0021.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0021.tiff/full/full/0/default.jpg",
+        "title": "冑",
+        "unicode": "E58691"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzs0406",
+        "identifer": "60-406",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/60tzs/tzs0406.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C",
+            "value": "佛説大教王經卷一(東禪寺版日本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/60tzs/tzs0406.tiff/full/full/0/default.jpg",
+        "title": "冑",
+        "unicode": "E58691"
+    }
+]

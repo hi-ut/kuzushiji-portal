@@ -1,5 +1,85 @@
 [
     {
+        "character": "葦",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+8466_100249416_00018_1_X0515_Y2671",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249416/%E8%91%A6/manifest&pos=34&xywh=515,2671,89,156",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8466_100249416_00018_1_X0515_Y2671/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249416",
+            "frame": 18,
+            "label": "『餅菓子即席／手製集』（100249416）18r",
+            "side": "r",
+            "title": "餅菓子即席／手製集"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249416/characters/U+8466/U+8466_100249416_00018_1_X0515_Y2671.jpg/full/full/0/default.jpg",
+        "unicode": "8466"
+    },
+    {
+        "character": "葦",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+8466_200014685_00025_1_X0080_Y0384",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E8%91%A6/manifest&pos=47&xywh=80,384,72,119",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8466_200014685_00025_1_X0080_Y0384/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 25,
+            "label": "『南総里見八犬伝』（200014685）25r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+8466/U+8466_200014685_00025_1_X0080_Y0384.jpg/full/full/0/default.jpg",
+        "unicode": "8466"
+    },
+    {
+        "character": "葦",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+8466_200018243_00006_2_X1135_Y2808",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200018243/%E8%91%A6/manifest&pos=10&xywh=1135,2808,75,122",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8466_200018243_00006_2_X1135_Y2808/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200018243",
+            "frame": 6,
+            "label": "『玉くしげ』（200018243）6v",
+            "side": "v",
+            "title": "玉くしげ"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200018243/characters/U+8466/U+8466_200018243_00006_2_X1135_Y2808.jpg/full/full/0/default.jpg",
+        "unicode": "8466"
+    },
+    {
+        "character": "葦",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+8466_200021660_00008_1_X1911_Y1351",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E8%91%A6/manifest&pos=13&xywh=1911,1351,112,148",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8466_200021660_00008_1_X1911_Y1351/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 8,
+            "label": "『養蚕秘録』（200021660）8r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+8466/U+8466_200021660_00008_1_X1911_Y1351.jpg/full/full/0/default.jpg",
+        "unicode": "8466"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34129559",

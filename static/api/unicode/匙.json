@@ -34,5 +34,25 @@
         "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AAIBP140001011-C1.tiff/0,723,402,402/full/0/default.jpg",
         "title": "匙",
         "unicode": "UTF-8"
+    },
+    {
+        "character": "匙",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5319_100249537_00010_1_X1513_Y1690",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249537/%E5%8C%99/manifest&pos=18&xywh=1513,1690,125,125",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5319_100249537_00010_1_X1513_Y1690/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249537",
+            "frame": 10,
+            "label": "『料理珍味集』（100249537）10r",
+            "side": "r",
+            "title": "料理珍味集"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249537/characters/U+5319/U+5319_100249537_00010_1_X1513_Y1690.jpg/full/full/0/default.jpg",
+        "unicode": "5319"
     }
 ]

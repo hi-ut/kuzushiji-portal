@@ -1,0 +1,39 @@
+[
+    {
+        "character": "圃",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5703_200015779_00022_1_X0315_Y0945",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%9C%83/manifest&pos=35&xywh=315,945,112,99",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5703_200015779_00022_1_X0315_Y0945/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 22,
+            "label": "『浮世風呂』（200015779）22r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+5703/U+5703_200015779_00022_1_X0315_Y0945.jpg/full/full/0/default.jpg",
+        "unicode": "5703"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0690",
+        "identifer": "18-690",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0690.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0690.tiff/full/full/0/default.jpg",
+        "title": "圃",
+        "unicode": "E59C83"
+    }
+]

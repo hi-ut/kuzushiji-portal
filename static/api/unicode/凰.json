@@ -1,0 +1,42 @@
+[
+    {
+        "character": "凰",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+51F0_200005798_00009_1_X1430_Y2593",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005798/%E5%87%B0/manifest&pos=15&xywh=1430,2593,113,97",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+51F0_200005798_00009_1_X1430_Y2593/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005798",
+            "frame": 9,
+            "label": "『世間胸算用／大晦日ハ一日千金』（200005798）9r",
+            "side": "r",
+            "title": "世間胸算用／大晦日ハ一日千金"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005798/characters/U+51F0/U+51F0_200005798_00009_1_X1430_Y2593.jpg/full/full/0/default.jpg",
+        "unicode": "51F0"
+    },
+    {
+        "character": "凰",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+51F0_200005798_00092_2_X1442_Y1295",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005798/%E5%87%B0/manifest&pos=170&xywh=1442,1295,88,105",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+51F0_200005798_00092_2_X1442_Y1295/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005798",
+            "frame": 92,
+            "label": "『世間胸算用／大晦日ハ一日千金』（200005798）92v",
+            "side": "v",
+            "title": "世間胸算用／大晦日ハ一日千金"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005798/characters/U+51F0/U+51F0_200005798_00092_2_X1442_Y1295.jpg/full/full/0/default.jpg",
+        "unicode": "51F0"
+    }
+]

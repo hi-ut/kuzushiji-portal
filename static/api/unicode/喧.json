@@ -1,5 +1,533 @@
 [
     {
+        "character": "喧",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+55A7_200003076_00098_2_X1550_Y1819",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E5%96%A7/manifest&pos=188&xywh=1550,1819,112,112",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+55A7_200003076_00098_2_X1550_Y1819/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 98,
+            "label": "『好色一代男』（200003076）98v",
+            "side": "v",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+55A7/U+55A7_200003076_00098_2_X1550_Y1819.jpg/full/full/0/default.jpg",
+        "unicode": "55A7"
+    },
+    {
+        "character": "喧",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+55A7_200003967_00040_1_X0319_Y1054",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003967/%E5%96%A7/manifest&pos=73&xywh=319,1054,108,78",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+55A7_200003967_00040_1_X0319_Y1054/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003967",
+            "frame": 40,
+            "label": "『おらが春』（200003967）40r",
+            "side": "r",
+            "title": "おらが春"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003967/characters/U+55A7/U+55A7_200003967_00040_1_X0319_Y1054.jpg/full/full/0/default.jpg",
+        "unicode": "55A7"
+    },
+    {
+        "character": "喧",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+55A7_200005798_00009_1_X0778_Y1893",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005798/%E5%96%A7/manifest&pos=15&xywh=778,1893,92,119",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+55A7_200005798_00009_1_X0778_Y1893/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005798",
+            "frame": 9,
+            "label": "『世間胸算用／大晦日ハ一日千金』（200005798）9r",
+            "side": "r",
+            "title": "世間胸算用／大晦日ハ一日千金"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005798/characters/U+55A7/U+55A7_200005798_00009_1_X0778_Y1893.jpg/full/full/0/default.jpg",
+        "unicode": "55A7"
+    },
+    {
+        "character": "喧",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+55A7_200005798_00028_1_X0757_Y1968",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005798/%E5%96%A7/manifest&pos=49&xywh=757,1968,78,114",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+55A7_200005798_00028_1_X0757_Y1968/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005798",
+            "frame": 28,
+            "label": "『世間胸算用／大晦日ハ一日千金』（200005798）28r",
+            "side": "r",
+            "title": "世間胸算用／大晦日ハ一日千金"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005798/characters/U+55A7/U+55A7_200005798_00028_1_X0757_Y1968.jpg/full/full/0/default.jpg",
+        "unicode": "55A7"
+    },
+    {
+        "character": "喧",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+55A7_200005798_00047_1_X0634_Y1238",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005798/%E5%96%A7/manifest&pos=87&xywh=634,1238,81,108",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+55A7_200005798_00047_1_X0634_Y1238/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005798",
+            "frame": 47,
+            "label": "『世間胸算用／大晦日ハ一日千金』（200005798）47r",
+            "side": "r",
+            "title": "世間胸算用／大晦日ハ一日千金"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005798/characters/U+55A7/U+55A7_200005798_00047_1_X0634_Y1238.jpg/full/full/0/default.jpg",
+        "unicode": "55A7"
+    },
+    {
+        "character": "喧",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+55A7_200005798_00058_1_X1582_Y1577",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005798/%E5%96%A7/manifest&pos=105&xywh=1582,1577,85,128",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+55A7_200005798_00058_1_X1582_Y1577/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005798",
+            "frame": 58,
+            "label": "『世間胸算用／大晦日ハ一日千金』（200005798）58r",
+            "side": "r",
+            "title": "世間胸算用／大晦日ハ一日千金"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005798/characters/U+55A7/U+55A7_200005798_00058_1_X1582_Y1577.jpg/full/full/0/default.jpg",
+        "unicode": "55A7"
+    },
+    {
+        "character": "喧",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+55A7_200008316_00002_2_X0265_Y0982",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008316/%E5%96%A7/manifest&pos=2&xywh=265,982,190,231",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+55A7_200008316_00002_2_X0265_Y0982/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008316",
+            "frame": 2,
+            "label": "『武家義理物語』（200008316）2v",
+            "side": "v",
+            "title": "武家義理物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008316/characters/U+55A7/U+55A7_200008316_00002_2_X0265_Y0982.jpg/full/full/0/default.jpg",
+        "unicode": "55A7"
+    },
+    {
+        "character": "喧",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+55A7_200008316_00048_2_X1565_Y1214",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008316/%E5%96%A7/manifest&pos=82&xywh=1565,1214,150,178",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+55A7_200008316_00048_2_X1565_Y1214/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008316",
+            "frame": 48,
+            "label": "『武家義理物語』（200008316）48v",
+            "side": "v",
+            "title": "武家義理物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008316/characters/U+55A7/U+55A7_200008316_00048_2_X1565_Y1214.jpg/full/full/0/default.jpg",
+        "unicode": "55A7"
+    },
+    {
+        "character": "喧",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+55A7_200015779_00007_2_X1591_Y0656",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%96%A7/manifest&pos=6&xywh=1591,656,120,90",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+55A7_200015779_00007_2_X1591_Y0656/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 7,
+            "label": "『浮世風呂』（200015779）7v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+55A7/U+55A7_200015779_00007_2_X1591_Y0656.jpg/full/full/0/default.jpg",
+        "unicode": "55A7"
+    },
+    {
+        "character": "喧",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+55A7_200015779_00012_1_X1720_Y0616",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%96%A7/manifest&pos=15&xywh=1720,616,122,122",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+55A7_200015779_00012_1_X1720_Y0616/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 12,
+            "label": "『浮世風呂』（200015779）12r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+55A7/U+55A7_200015779_00012_1_X1720_Y0616.jpg/full/full/0/default.jpg",
+        "unicode": "55A7"
+    },
+    {
+        "character": "喧",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+55A7_200015779_00044_1_X1206_Y0835",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%96%A7/manifest&pos=75&xywh=1206,835,134,116",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+55A7_200015779_00044_1_X1206_Y0835/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 44,
+            "label": "『浮世風呂』（200015779）44r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+55A7/U+55A7_200015779_00044_1_X1206_Y0835.jpg/full/full/0/default.jpg",
+        "unicode": "55A7"
+    },
+    {
+        "character": "喧",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+55A7_200015779_00045_2_X1337_Y1389",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%96%A7/manifest&pos=78&xywh=1337,1389,125,108",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+55A7_200015779_00045_2_X1337_Y1389/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 45,
+            "label": "『浮世風呂』（200015779）45v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+55A7/U+55A7_200015779_00045_2_X1337_Y1389.jpg/full/full/0/default.jpg",
+        "unicode": "55A7"
+    },
+    {
+        "character": "喧",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+55A7_200015779_00054_2_X1156_Y2721",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%96%A7/manifest&pos=96&xywh=1156,2721,137,103",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+55A7_200015779_00054_2_X1156_Y2721/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 54,
+            "label": "『浮世風呂』（200015779）54v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+55A7/U+55A7_200015779_00054_2_X1156_Y2721.jpg/full/full/0/default.jpg",
+        "unicode": "55A7"
+    },
+    {
+        "character": "喧",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+55A7_200015779_00069_1_X1028_Y1688",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%96%A7/manifest&pos=125&xywh=1028,1688,141,114",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+55A7_200015779_00069_1_X1028_Y1688/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 69,
+            "label": "『浮世風呂』（200015779）69r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+55A7/U+55A7_200015779_00069_1_X1028_Y1688.jpg/full/full/0/default.jpg",
+        "unicode": "55A7"
+    },
+    {
+        "character": "喧",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+55A7_200015779_00093_2_X0232_Y2676",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%96%A7/manifest&pos=164&xywh=232,2676,109,110",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+55A7_200015779_00093_2_X0232_Y2676/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 93,
+            "label": "『浮世風呂』（200015779）93v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+55A7/U+55A7_200015779_00093_2_X0232_Y2676.jpg/full/full/0/default.jpg",
+        "unicode": "55A7"
+    },
+    {
+        "character": "喧",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+55A7_200015779_00107_1_X0091_Y0821",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%96%A7/manifest&pos=191&xywh=91,821,117,135",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+55A7_200015779_00107_1_X0091_Y0821/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 107,
+            "label": "『浮世風呂』（200015779）107r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+55A7/U+55A7_200015779_00107_1_X0091_Y0821.jpg/full/full/0/default.jpg",
+        "unicode": "55A7"
+    },
+    {
+        "character": "喧",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+55A7_200015779_00107_1_X0296_Y2288",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%96%A7/manifest&pos=191&xywh=296,2288,124,124",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+55A7_200015779_00107_1_X0296_Y2288/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 107,
+            "label": "『浮世風呂』（200015779）107r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+55A7/U+55A7_200015779_00107_1_X0296_Y2288.jpg/full/full/0/default.jpg",
+        "unicode": "55A7"
+    },
+    {
+        "character": "喧",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+55A7_200015779_00107_1_X0298_Y1121",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%96%A7/manifest&pos=191&xywh=298,1121,123,133",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+55A7_200015779_00107_1_X0298_Y1121/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 107,
+            "label": "『浮世風呂』（200015779）107r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+55A7/U+55A7_200015779_00107_1_X0298_Y1121.jpg/full/full/0/default.jpg",
+        "unicode": "55A7"
+    },
+    {
+        "character": "喧",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+55A7_200015779_00121_2_X0463_Y1493",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%96%A7/manifest&pos=220&xywh=463,1493,114,125",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+55A7_200015779_00121_2_X0463_Y1493/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 121,
+            "label": "『浮世風呂』（200015779）121v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+55A7/U+55A7_200015779_00121_2_X0463_Y1493.jpg/full/full/0/default.jpg",
+        "unicode": "55A7"
+    },
+    {
+        "character": "喧",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+55A7_200015779_00131_1_X0083_Y0803",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%96%A7/manifest&pos=235&xywh=83,803,132,127",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+55A7_200015779_00131_1_X0083_Y0803/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 131,
+            "label": "『浮世風呂』（200015779）131r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+55A7/U+55A7_200015779_00131_1_X0083_Y0803.jpg/full/full/0/default.jpg",
+        "unicode": "55A7"
+    },
+    {
+        "character": "喧",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+55A7_200015779_00136_1_X1445_Y1981",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%96%A7/manifest&pos=245&xywh=1445,1981,119,125",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+55A7_200015779_00136_1_X1445_Y1981/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 136,
+            "label": "『浮世風呂』（200015779）136r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+55A7/U+55A7_200015779_00136_1_X1445_Y1981.jpg/full/full/0/default.jpg",
+        "unicode": "55A7"
+    },
+    {
+        "character": "喧",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+55A7_200015779_00136_2_X0458_Y1323",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%96%A7/manifest&pos=246&xywh=458,1323,118,126",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+55A7_200015779_00136_2_X0458_Y1323/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 136,
+            "label": "『浮世風呂』（200015779）136v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+55A7/U+55A7_200015779_00136_2_X0458_Y1323.jpg/full/full/0/default.jpg",
+        "unicode": "55A7"
+    },
+    {
+        "character": "喧",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+55A7_200015779_00154_1_X0055_Y2679",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%96%A7/manifest&pos=281&xywh=55,2679,108,117",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+55A7_200015779_00154_1_X0055_Y2679/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 154,
+            "label": "『浮世風呂』（200015779）154r",
+            "side": "r",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+55A7/U+55A7_200015779_00154_1_X0055_Y2679.jpg/full/full/0/default.jpg",
+        "unicode": "55A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkk0437",
+        "identifer": "39-437",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/39nkk/nkk0437.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1286年",
+            "value": "卷二(兼方本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/39nkk/nkk0437.tiff/full/full/0/default.jpg",
+        "title": "喧",
+        "unicode": "E596A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcc0529",
+        "identifer": "41-529",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/41kcc/kcc0529.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1599年",
+            "value": "卷二(慶長勅版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/41kcc/kcc0529.tiff/full/full/0/default.jpg",
+        "title": "喧",
+        "unicode": "E596A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcj0509",
+        "identifer": "42-509",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/42kcj/kcj0509.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1610年",
+            "value": "卷二(慶長十五年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/42kcj/kcj0509.tiff/full/full/0/default.jpg",
+        "title": "喧",
+        "unicode": "E596A7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kbk0504",
+        "identifer": "43-504",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/43kbk/kbk0504.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/43kbk/kbk0504.tiff/full/full/0/default.jpg",
+        "title": "喧",
+        "unicode": "E596A7"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34002138",

@@ -1,5 +1,45 @@
 [
     {
+        "character": "扈",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6248_200003076_00049_2_X0806_Y1804",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E6%89%88/manifest&pos=92&xywh=806,1804,137,134",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6248_200003076_00049_2_X0806_Y1804/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 49,
+            "label": "『好色一代男』（200003076）49v",
+            "side": "v",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+6248/U+6248_200003076_00049_2_X0806_Y1804.jpg/full/full/0/default.jpg",
+        "unicode": "6248"
+    },
+    {
+        "character": "扈",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+6248_200003076_00083_2_X0824_Y0436",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E6%89%88/manifest&pos=160&xywh=824,436,139,150",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6248_200003076_00083_2_X0824_Y0436/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 83,
+            "label": "『好色一代男』（200003076）83v",
+            "side": "v",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+6248/U+6248_200003076_00083_2_X0824_Y0436.jpg/full/full/0/default.jpg",
+        "unicode": "6248"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34163565",

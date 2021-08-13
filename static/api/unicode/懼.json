@@ -1,5 +1,286 @@
 [
     {
+        "character": "懼",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+61FC_200004148_00027_1_X0552_Y1911",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E6%87%BC/manifest&pos=51&xywh=552,1911,95,87",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+61FC_200004148_00027_1_X0552_Y1911/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 27,
+            "label": "『椿説弓張月』（200004148）27r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+61FC/U+61FC_200004148_00027_1_X0552_Y1911.jpg/full/full/0/default.jpg",
+        "unicode": "61FC"
+    },
+    {
+        "character": "懼",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+61FC_200004148_00050_2_X1694_Y1762",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E6%87%BC/manifest&pos=98&xywh=1694,1762,43,92",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+61FC_200004148_00050_2_X1694_Y1762/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 50,
+            "label": "『椿説弓張月』（200004148）50v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+61FC/U+61FC_200004148_00050_2_X1694_Y1762.jpg/full/full/0/default.jpg",
+        "unicode": "61FC"
+    },
+    {
+        "character": "懼",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+61FC_200014685_00007_1_X1748_Y0888",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E6%87%BC/manifest&pos=11&xywh=1748,888,70,76",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+61FC_200014685_00007_1_X1748_Y0888/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 7,
+            "label": "『南総里見八犬伝』（200014685）7r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+61FC/U+61FC_200014685_00007_1_X1748_Y0888.jpg/full/full/0/default.jpg",
+        "unicode": "61FC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kgk0086",
+        "identifer": "7-86",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/07kgk/kgk0086.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "610年",
+            "value": "賢劫經卷二(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/07kgk/kgk0086.tiff/full/full/0/default.jpg",
+        "title": "懼",
+        "unicode": "E687BC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khm0322",
+        "identifer": "11-322",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/11khm/khm0322.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷三(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/11khm/khm0322.tiff/full/full/0/default.jpg",
+        "title": "懼",
+        "unicode": "E687BC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0869",
+        "identifer": "18-869",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0869.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0869.tiff/full/full/0/default.jpg",
+        "title": "懼",
+        "unicode": "E687BC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0864",
+        "identifer": "19-864",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0864.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0864.tiff/full/full/0/default.jpg",
+        "title": "懼",
+        "unicode": "E687BC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0735",
+        "identifer": "31-735",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0735.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0735.tiff/full/full/0/default.jpg",
+        "title": "懼",
+        "unicode": "E687BC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink0153",
+        "identifer": "33-153",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink0153.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink0153.tiff/full/full/0/default.jpg",
+        "title": "懼",
+        "unicode": "E687BC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0147",
+        "identifer": "34-147",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0147.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0147.tiff/full/full/0/default.jpg",
+        "title": "懼",
+        "unicode": "E687BC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0149",
+        "identifer": "36-149",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0149.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0149.tiff/full/full/0/default.jpg",
+        "title": "懼",
+        "unicode": "E687BC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240144",
+        "identifer": "3724-144",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240144.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240144.tiff/full/full/0/default.jpg",
+        "title": "懼",
+        "unicode": "E687BC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyu0063",
+        "identifer": "47-63",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/47kyu/kyu0063.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "11C",
+            "value": "瑜伽師地論卷五(高麗初彫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/47kyu/kyu0063.tiff/full/full/0/default.jpg",
+        "title": "懼",
+        "unicode": "E687BC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0178",
+        "identifer": "56-178",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0178.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0178.tiff/full/full/0/default.jpg",
+        "title": "懼",
+        "unicode": "E687BC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0082",
+        "identifer": "71-82",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0082.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0082.tiff/full/full/0/default.jpg",
+        "title": "懼",
+        "unicode": "E687BC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0076",
+        "identifer": "72-76",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0076.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0076.tiff/full/full/0/default.jpg",
+        "title": "懼",
+        "unicode": "E687BC"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34207074",

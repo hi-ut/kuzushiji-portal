@@ -1,5 +1,85 @@
 [
     {
+        "character": "襖",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+8956_200003076_00033_2_X2054_Y1179",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E8%A5%96/manifest&pos=60&xywh=2054,1179,93,125",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8956_200003076_00033_2_X2054_Y1179/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 33,
+            "label": "『好色一代男』（200003076）33v",
+            "side": "v",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+8956/U+8956_200003076_00033_2_X2054_Y1179.jpg/full/full/0/default.jpg",
+        "unicode": "8956"
+    },
+    {
+        "character": "襖",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+8956_200003076_00049_1_X0981_Y1325",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E8%A5%96/manifest&pos=91&xywh=981,1325,125,148",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8956_200003076_00049_1_X0981_Y1325/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 49,
+            "label": "『好色一代男』（200003076）49r",
+            "side": "r",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+8956/U+8956_200003076_00049_1_X0981_Y1325.jpg/full/full/0/default.jpg",
+        "unicode": "8956"
+    },
+    {
+        "character": "襖",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+8956_200003076_00129_2_X1505_Y0857",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E8%A5%96/manifest&pos=250&xywh=1505,857,118,130",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8956_200003076_00129_2_X1505_Y0857/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 129,
+            "label": "『好色一代男』（200003076）129v",
+            "side": "v",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+8956/U+8956_200003076_00129_2_X1505_Y0857.jpg/full/full/0/default.jpg",
+        "unicode": "8956"
+    },
+    {
+        "character": "襖",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+8956_200003076_00148_1_X0294_Y0674",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E8%A5%96/manifest&pos=287&xywh=294,674,102,120",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8956_200003076_00148_1_X0294_Y0674/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 148,
+            "label": "『好色一代男』（200003076）148r",
+            "side": "r",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+8956/U+8956_200003076_00148_1_X0294_Y0674.jpg/full/full/0/default.jpg",
+        "unicode": "8956"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34151578",

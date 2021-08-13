@@ -1,0 +1,42 @@
+[
+    {
+        "character": "筧",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7B67_200003076_00042_2_X0781_Y1102",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E7%AD%A7/manifest&pos=78&xywh=781,1102,103,149",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7B67_200003076_00042_2_X0781_Y1102/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 42,
+            "label": "『好色一代男』（200003076）42v",
+            "side": "v",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+7B67/U+7B67_200003076_00042_2_X0781_Y1102.jpg/full/full/0/default.jpg",
+        "unicode": "7B67"
+    },
+    {
+        "character": "筧",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7B67_200008316_00054_1_X2502_Y3284",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008316/%E7%AD%A7/manifest&pos=93&xywh=2502,3284,154,218",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7B67_200008316_00054_1_X2502_Y3284/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008316",
+            "frame": 54,
+            "label": "『武家義理物語』（200008316）54r",
+            "side": "r",
+            "title": "武家義理物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008316/characters/U+7B67/U+7B67_200008316_00054_1_X2502_Y3284.jpg/full/full/0/default.jpg",
+        "unicode": "7B67"
+    }
+]

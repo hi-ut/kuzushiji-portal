@@ -1,5 +1,85 @@
 [
     {
+        "character": "箆",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7B86_100249371_00015_1_X1529_Y1944",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249371/%E7%AE%86/manifest&pos=28&xywh=1529,1944,77,130",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7B86_100249371_00015_1_X1529_Y1944/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249371",
+            "frame": 15,
+            "label": "『鼎左秘録』（100249371）15r",
+            "side": "r",
+            "title": "鼎左秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249371/characters/U+7B86/U+7B86_100249371_00015_1_X1529_Y1944.jpg/full/full/0/default.jpg",
+        "unicode": "7B86"
+    },
+    {
+        "character": "箆",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7B86_200003076_00077_2_X1539_Y2446",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E7%AE%86/manifest&pos=148&xywh=1539,2446,87,163",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7B86_200003076_00077_2_X1539_Y2446/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 77,
+            "label": "『好色一代男』（200003076）77v",
+            "side": "v",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+7B86/U+7B86_200003076_00077_2_X1539_Y2446.jpg/full/full/0/default.jpg",
+        "unicode": "7B86"
+    },
+    {
+        "character": "箆",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7B86_200004148_00083_2_X1741_Y0365",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E7%AE%86/manifest&pos=160&xywh=1741,365,53,104",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7B86_200004148_00083_2_X1741_Y0365/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 83,
+            "label": "『椿説弓張月』（200004148）83v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+7B86/U+7B86_200004148_00083_2_X1741_Y0365.jpg/full/full/0/default.jpg",
+        "unicode": "7B86"
+    },
+    {
+        "character": "箆",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+7B86_200004148_00092_1_X1297_Y2253",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E7%AE%86/manifest&pos=177&xywh=1297,2253,93,114",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7B86_200004148_00092_1_X1297_Y2253/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 92,
+            "label": "『椿説弓張月』（200004148）92r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+7B86/U+7B86_200004148_00092_1_X1297_Y2253.jpg/full/full/0/default.jpg",
+        "unicode": "7B86"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34271624",

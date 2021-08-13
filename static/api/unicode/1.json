@@ -1,0 +1,42 @@
+[
+    {
+        "character": "1",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+0031_200021851_00030_2_X0756_Y2670",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021851/1/manifest&pos=58&xywh=756,2670,19,50",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+0031_200021851_00030_2_X0756_Y2670/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021851",
+            "frame": 30,
+            "label": "『かてもの』（200021851）30v",
+            "side": "v",
+            "title": "かてもの"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021851/characters/U+31/U+0031_200021851_00030_2_X0756_Y2670.jpg/full/full/0/default.jpg",
+        "unicode": "0031"
+    },
+    {
+        "character": "1",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+0031_200021851_00030_2_X0898_Y2737",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021851/1/manifest&pos=58&xywh=898,2737,17,50",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+0031_200021851_00030_2_X0898_Y2737/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021851",
+            "frame": 30,
+            "label": "『かてもの』（200021851）30v",
+            "side": "v",
+            "title": "かてもの"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021851/characters/U+31/U+0031_200021851_00030_2_X0898_Y2737.jpg/full/full/0/default.jpg",
+        "unicode": "0031"
+    }
+]

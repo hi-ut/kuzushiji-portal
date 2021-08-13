@@ -1,0 +1,42 @@
+[
+    {
+        "character": "訣",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+8A23_200021644_00043_2_X0491_Y2246",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021644/%E8%A8%A3/manifest&pos=85&xywh=491,2246,110,113",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8A23_200021644_00043_2_X0491_Y2246/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021644",
+            "frame": 43,
+            "label": "『菓子話船橋』（200021644）43v",
+            "side": "v",
+            "title": "菓子話船橋"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021644/characters/U+8A23/U+8A23_200021644_00043_2_X0491_Y2246.jpg/full/full/0/default.jpg",
+        "unicode": "8A23"
+    },
+    {
+        "character": "訣",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+8A23_200021660_00009_1_X2167_Y1428",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E8%A8%A3/manifest&pos=15&xywh=2167,1428,88,76",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+8A23_200021660_00009_1_X2167_Y1428/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 9,
+            "label": "『養蚕秘録』（200021660）9r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+8A23/U+8A23_200021660_00009_1_X2167_Y1428.jpg/full/full/0/default.jpg",
+        "unicode": "8A23"
+    }
+]

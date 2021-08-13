@@ -1,0 +1,62 @@
+[
+    {
+        "character": "甜",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+751C_200021802_00016_1_X1729_Y0790",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021802/%E7%94%9C/manifest&pos=29&xywh=1729,790,164,155",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+751C_200021802_00016_1_X1729_Y0790/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021802",
+            "frame": 16,
+            "label": "『料理物語』（200021802）16r",
+            "side": "r",
+            "title": "料理物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021802/characters/U+751C/U+751C_200021802_00016_1_X1729_Y0790.jpg/full/full/0/default.jpg",
+        "unicode": "751C"
+    },
+    {
+        "character": "甜",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+751C_200021925_00011_1_X1660_Y1073",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021925/%E7%94%9C/manifest&pos=19&xywh=1660,1073,84,61",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+751C_200021925_00011_1_X1660_Y1073/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021925",
+            "frame": 11,
+            "label": "『新編異国料理』（200021925）11r",
+            "side": "r",
+            "title": "新編異国料理"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021925/characters/U+751C/U+751C_200021925_00011_1_X1660_Y1073.jpg/full/full/0/default.jpg",
+        "unicode": "751C"
+    },
+    {
+        "character": "甜",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+751C_200021925_00012_2_X0495_Y0228",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021925/%E7%94%9C/manifest&pos=22&xywh=495,228,111,111",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+751C_200021925_00012_2_X0495_Y0228/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021925",
+            "frame": 12,
+            "label": "『新編異国料理』（200021925）12v",
+            "side": "v",
+            "title": "新編異国料理"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021925/characters/U+751C/U+751C_200021925_00012_2_X0495_Y0228.jpg/full/full/0/default.jpg",
+        "unicode": "751C"
+    }
+]

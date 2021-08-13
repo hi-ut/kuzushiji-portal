@@ -1,5 +1,85 @@
 [
     {
+        "character": "李",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+674E_200004148_00040_2_X1132_Y0875",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E6%9D%8E/manifest&pos=78&xywh=1132,875,81,111",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+674E_200004148_00040_2_X1132_Y0875/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 40,
+            "label": "『椿説弓張月』（200004148）40v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+674E/U+674E_200004148_00040_2_X1132_Y0875.jpg/full/full/0/default.jpg",
+        "unicode": "674E"
+    },
+    {
+        "character": "李",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+674E_200021763_00023_1_X0283_Y3064",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021763/%E6%9D%8E/manifest&pos=44&xywh=283,3064,103,211",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+674E_200021763_00023_1_X0283_Y3064/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021763",
+            "frame": 23,
+            "label": "『膳部料理抄』（200021763）23r",
+            "side": "r",
+            "title": "膳部料理抄"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021763/characters/U+674E/U+674E_200021763_00023_1_X0283_Y3064.jpg/full/full/0/default.jpg",
+        "unicode": "674E"
+    },
+    {
+        "character": "李",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+674E_200021763_00023_1_X0447_Y3080",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021763/%E6%9D%8E/manifest&pos=44&xywh=447,3080,91,215",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+674E_200021763_00023_1_X0447_Y3080/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021763",
+            "frame": 23,
+            "label": "『膳部料理抄』（200021763）23r",
+            "side": "r",
+            "title": "膳部料理抄"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021763/characters/U+674E/U+674E_200021763_00023_1_X0447_Y3080.jpg/full/full/0/default.jpg",
+        "unicode": "674E"
+    },
+    {
+        "character": "李",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+674E_200021763_00023_2_X2040_Y0765",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021763/%E6%9D%8E/manifest&pos=45&xywh=2040,765,139,305",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+674E_200021763_00023_2_X2040_Y0765/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021763",
+            "frame": 23,
+            "label": "『膳部料理抄』（200021763）23v",
+            "side": "v",
+            "title": "膳部料理抄"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021763/characters/U+674E/U+674E_200021763_00023_2_X2040_Y0765.jpg/full/full/0/default.jpg",
+        "unicode": "674E"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34200576",

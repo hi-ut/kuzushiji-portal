@@ -1,5 +1,65 @@
 [
     {
+        "character": "琢",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7422_200004148_00015_1_X1011_Y0359",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E7%90%A2/manifest&pos=27&xywh=1011,359,104,76",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7422_200004148_00015_1_X1011_Y0359/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 15,
+            "label": "『椿説弓張月』（200004148）15r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+7422/U+7422_200004148_00015_1_X1011_Y0359.jpg/full/full/0/default.jpg",
+        "unicode": "7422"
+    },
+    {
+        "character": "琢",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7422_200015843_00117_2_X1341_Y0929",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E7%90%A2/manifest&pos=212&xywh=1341,929,91,105",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7422_200015843_00117_2_X1341_Y0929/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 117,
+            "label": "『日本永代蔵』（200015843）117v",
+            "side": "v",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+7422/U+7422_200015843_00117_2_X1341_Y0929.jpg/full/full/0/default.jpg",
+        "unicode": "7422"
+    },
+    {
+        "character": "琢",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7422_200021660_00082_1_X0978_Y0996",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E7%90%A2/manifest&pos=157&xywh=978,996,97,92",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7422_200021660_00082_1_X0978_Y0996/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 82,
+            "label": "『養蚕秘録』（200021660）82r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+7422/U+7422_200021660_00082_1_X0978_Y0996.jpg/full/full/0/default.jpg",
+        "unicode": "7422"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34245135",

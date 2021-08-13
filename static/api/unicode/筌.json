@@ -1,0 +1,42 @@
+[
+    {
+        "character": "筌",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7B4C_100249371_00034_1_X1411_Y1122",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249371/%E7%AD%8C/manifest&pos=66&xywh=1411,1122,81,130",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7B4C_100249371_00034_1_X1411_Y1122/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249371",
+            "frame": 34,
+            "label": "『鼎左秘録』（100249371）34r",
+            "side": "r",
+            "title": "鼎左秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249371/characters/U+7B4C/U+7B4C_100249371_00034_1_X1411_Y1122.jpg/full/full/0/default.jpg",
+        "unicode": "7B4C"
+    },
+    {
+        "character": "筌",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7B4C_200008003_00034_2_X0147_Y1592",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200008003/%E7%AD%8C/manifest&pos=66&xywh=147,1592,144,163",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7B4C_200008003_00034_2_X0147_Y1592/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200008003",
+            "frame": 34,
+            "label": "『歌学提要』（200008003）34v",
+            "side": "v",
+            "title": "歌学提要"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200008003/characters/U+7B4C/U+7B4C_200008003_00034_2_X0147_Y1592.jpg/full/full/0/default.jpg",
+        "unicode": "7B4C"
+    }
+]

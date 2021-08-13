@@ -1,5 +1,96 @@
 [
     {
+        "character": "宏",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5B8F_200004148_00013_1_X1440_Y0656",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%AE%8F/manifest&pos=23&xywh=1440,656,62,82",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5B8F_200004148_00013_1_X1440_Y0656/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 13,
+            "label": "『椿説弓張月』（200004148）13r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+5B8F/U+5B8F_200004148_00013_1_X1440_Y0656.jpg/full/full/0/default.jpg",
+        "unicode": "5B8F"
+    },
+    {
+        "character": "宏",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5B8F_200015843_00060_1_X1178_Y0509",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E5%AE%8F/manifest&pos=109&xywh=1178,509,86,145",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5B8F_200015843_00060_1_X1178_Y0509/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 60,
+            "label": "『日本永代蔵』（200015843）60r",
+            "side": "r",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+5B8F/U+5B8F_200015843_00060_1_X1178_Y0509.jpg/full/full/0/default.jpg",
+        "unicode": "5B8F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0654",
+        "identifer": "31-654",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0654.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0654.tiff/full/full/0/default.jpg",
+        "title": "宏",
+        "unicode": "E5AE8F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0125",
+        "identifer": "56-125",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0125.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0125.tiff/full/full/0/default.jpg",
+        "title": "宏",
+        "unicode": "E5AE8F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzs0483",
+        "identifer": "60-483",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/60tzs/tzs0483.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C",
+            "value": "佛説大教王經卷一(東禪寺版日本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/60tzs/tzs0483.tiff/full/full/0/default.jpg",
+        "title": "宏",
+        "unicode": "E5AE8F"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34234075",

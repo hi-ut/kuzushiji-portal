@@ -18,6 +18,120 @@
         "unicode": "UTF-8"
     },
     {
+        "character": "允",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5141_200006665_00047_2_X2961_Y3929",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200006665/%E5%85%81/manifest&pos=88&xywh=2961,3929,192,201",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5141_200006665_00047_2_X2961_Y3929/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200006665",
+            "frame": 47,
+            "label": "『吉利支丹物語』（200006665）47v",
+            "side": "v",
+            "title": "吉利支丹物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200006665/characters/U+5141/U+5141_200006665_00047_2_X2961_Y3929.jpg/full/full/0/default.jpg",
+        "unicode": "5141"
+    },
+    {
+        "character": "允",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5141_200019865_00008_1_X0790_Y1958",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200019865/%E5%85%81/manifest&pos=13&xywh=790,1958,94,83",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5141_200019865_00008_1_X0790_Y1958/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200019865",
+            "frame": 8,
+            "label": "『女郎花物語』（200019865）8r",
+            "side": "r",
+            "title": "女郎花物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200019865/characters/U+5141/U+5141_200019865_00008_1_X0790_Y1958.jpg/full/full/0/default.jpg",
+        "unicode": "5141"
+    },
+    {
+        "character": "允",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5141_200019865_00009_1_X1912_Y2373",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200019865/%E5%85%81/manifest&pos=15&xywh=1912,2373,81,98",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5141_200019865_00009_1_X1912_Y2373/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200019865",
+            "frame": 9,
+            "label": "『女郎花物語』（200019865）9r",
+            "side": "r",
+            "title": "女郎花物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200019865/characters/U+5141/U+5141_200019865_00009_1_X1912_Y2373.jpg/full/full/0/default.jpg",
+        "unicode": "5141"
+    },
+    {
+        "character": "允",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5141_200021660_00092_1_X0815_Y1407",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E5%85%81/manifest&pos=177&xywh=815,1407,144,120",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5141_200021660_00092_1_X0815_Y1407/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 92,
+            "label": "『養蚕秘録』（200021660）92r",
+            "side": "r",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+5141/U+5141_200021660_00092_1_X0815_Y1407.jpg/full/full/0/default.jpg",
+        "unicode": "5141"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0031",
+        "identifer": "18-31",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0031.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0031.tiff/full/full/0/default.jpg",
+        "title": "允",
+        "unicode": "E58581"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0513",
+        "identifer": "19-513",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0513.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0513.tiff/full/full/0/default.jpg",
+        "title": "允",
+        "unicode": "E58581"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34000835",

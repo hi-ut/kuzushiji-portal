@@ -18,6 +18,86 @@
         "unicode": "UTF-8"
     },
     {
+        "character": "厨",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+53A8_200014685_00022_1_X1432_Y2655",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E5%8E%A8/manifest&pos=41&xywh=1432,2655,105,77",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+53A8_200014685_00022_1_X1432_Y2655/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 22,
+            "label": "『南総里見八犬伝』（200014685）22r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+53A8/U+53A8_200014685_00022_1_X1432_Y2655.jpg/full/full/0/default.jpg",
+        "unicode": "53A8"
+    },
+    {
+        "character": "厨",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+53A8_200014740_00015_2_X1231_Y2202",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%8E%A8/manifest&pos=28&xywh=1231,2202,116,114",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+53A8_200014740_00015_2_X1231_Y2202/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 15,
+            "label": "『雨月物語』（200014740）15v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+53A8/U+53A8_200014740_00015_2_X1231_Y2202.jpg/full/full/0/default.jpg",
+        "unicode": "53A8"
+    },
+    {
+        "character": "厨",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+53A8_200014740_00060_2_X1475_Y1397",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%8E%A8/manifest&pos=116&xywh=1475,1397,106,127",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+53A8_200014740_00060_2_X1475_Y1397/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 60,
+            "label": "『雨月物語』（200014740）60v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+53A8/U+53A8_200014740_00060_2_X1475_Y1397.jpg/full/full/0/default.jpg",
+        "unicode": "53A8"
+    },
+    {
+        "character": "厨",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+53A8_200021853_00020_1_X0849_Y0447",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021853/%E5%8E%A8/manifest&pos=37&xywh=849,447,91,111",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+53A8_200021853_00020_1_X0849_Y0447/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021853",
+            "frame": 20,
+            "label": "『日用惣菜俎不時珍客即席庖丁』（200021853）20r",
+            "side": "r",
+            "title": "日用惣菜俎不時珍客即席庖丁"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021853/characters/U+53A8/U+53A8_200021853_00020_1_X0849_Y0447.jpg/full/full/0/default.jpg",
+        "unicode": "53A8"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34268041",

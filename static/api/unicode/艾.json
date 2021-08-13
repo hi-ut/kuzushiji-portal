@@ -1,5 +1,25 @@
 [
     {
+        "character": "艾",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+827E_200021853_00006_2_X0344_Y0499",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021853/%E8%89%BE/manifest&pos=10&xywh=344,499,105,101",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+827E_200021853_00006_2_X0344_Y0499/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021853",
+            "frame": 6,
+            "label": "『日用惣菜俎不時珍客即席庖丁』（200021853）6v",
+            "side": "v",
+            "title": "日用惣菜俎不時珍客即席庖丁"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021853/characters/U+827E/U+827E_200021853_00006_2_X0344_Y0499.jpg/full/full/0/default.jpg",
+        "unicode": "827E"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34150047",

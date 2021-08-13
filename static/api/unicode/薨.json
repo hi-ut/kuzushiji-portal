@@ -1,5 +1,25 @@
 [
     {
+        "character": "薨",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+85A8_200021660_00019_2_X1569_Y2748",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E8%96%A8/manifest&pos=36&xywh=1569,2748,103,163",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+85A8_200021660_00019_2_X1569_Y2748/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 19,
+            "label": "『養蚕秘録』（200021660）19v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+85A8/U+85A8_200021660_00019_2_X1569_Y2748.jpg/full/full/0/default.jpg",
+        "unicode": "85A8"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34126720",

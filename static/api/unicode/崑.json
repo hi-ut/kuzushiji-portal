@@ -1,0 +1,127 @@
+[
+    {
+        "character": "崑",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5D11_200014740_00084_2_X0811_Y0688",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%B4%91/manifest&pos=164&xywh=811,688,100,138",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5D11_200014740_00084_2_X0811_Y0688/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 84,
+            "label": "『雨月物語』（200014740）84v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+5D11/U+5D11_200014740_00084_2_X0811_Y0688.jpg/full/full/0/default.jpg",
+        "unicode": "5D11"
+    },
+    {
+        "character": "崑",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5D11_200021660_00086_2_X2275_Y0691",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021660/%E5%B4%91/manifest&pos=166&xywh=2275,691,101,136",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5D11_200021660_00086_2_X2275_Y0691/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021660",
+            "frame": 86,
+            "label": "『養蚕秘録』（200021660）86v",
+            "side": "v",
+            "title": "養蚕秘録"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+5D11/U+5D11_200021660_00086_2_X2275_Y0691.jpg/full/full/0/default.jpg",
+        "unicode": "5D11"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink0113",
+        "identifer": "33-113",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink0113.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink0113.tiff/full/full/0/default.jpg",
+        "title": "崑",
+        "unicode": "E5B491"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0110",
+        "identifer": "34-110",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0110.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0110.tiff/full/full/0/default.jpg",
+        "title": "崑",
+        "unicode": "E5B491"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0110",
+        "identifer": "36-110",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0110.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0110.tiff/full/full/0/default.jpg",
+        "title": "崑",
+        "unicode": "E5B491"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240108",
+        "identifer": "3724-108",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240108.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240108.tiff/full/full/0/default.jpg",
+        "title": "崑",
+        "unicode": "E5B491"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0142",
+        "identifer": "56-142",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0142.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0142.tiff/full/full/0/default.jpg",
+        "title": "崑",
+        "unicode": "E5B491"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "character": "闊",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+95CA_200005798_00003_2_X0990_Y1676",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005798/%E9%97%8A/manifest&pos=4&xywh=990,1676,141,130",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+95CA_200005798_00003_2_X0990_Y1676/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005798",
+            "frame": 3,
+            "label": "『世間胸算用／大晦日ハ一日千金』（200005798）3v",
+            "side": "v",
+            "title": "世間胸算用／大晦日ハ一日千金"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005798/characters/U+95CA/U+95CA_200005798_00003_2_X0990_Y1676.jpg/full/full/0/default.jpg",
+        "unicode": "95CA"
+    },
+    {
+        "character": "闊",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+95CA_200005798_00004_2_X1588_Y1518",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005798/%E9%97%8A/manifest&pos=6&xywh=1588,1518,90,93",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+95CA_200005798_00004_2_X1588_Y1518/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005798",
+            "frame": 4,
+            "label": "『世間胸算用／大晦日ハ一日千金』（200005798）4v",
+            "side": "v",
+            "title": "世間胸算用／大晦日ハ一日千金"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005798/characters/U+95CA/U+95CA_200005798_00004_2_X1588_Y1518.jpg/full/full/0/default.jpg",
+        "unicode": "95CA"
+    }
+]

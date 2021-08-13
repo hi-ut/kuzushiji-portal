@@ -1,0 +1,42 @@
+[
+    {
+        "character": "蛯",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+86EF_200021637_00012_2_X0673_Y1544",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021637/%E8%9B%AF/manifest&pos=22&xywh=673,1544,115,105",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+86EF_200021637_00012_2_X0673_Y1544/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021637",
+            "frame": 12,
+            "label": "『当世料理』（200021637）12v",
+            "side": "v",
+            "title": "当世料理"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021637/characters/U+86EF/U+86EF_200021637_00012_2_X0673_Y1544.jpg/full/full/0/default.jpg",
+        "unicode": "86EF"
+    },
+    {
+        "character": "蛯",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+86EF_200021637_00015_1_X1170_Y1081",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021637/%E8%9B%AF/manifest&pos=27&xywh=1170,1081,115,96",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+86EF_200021637_00015_1_X1170_Y1081/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021637",
+            "frame": 15,
+            "label": "『当世料理』（200021637）15r",
+            "side": "r",
+            "title": "当世料理"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021637/characters/U+86EF/U+86EF_200021637_00015_1_X1170_Y1081.jpg/full/full/0/default.jpg",
+        "unicode": "86EF"
+    }
+]

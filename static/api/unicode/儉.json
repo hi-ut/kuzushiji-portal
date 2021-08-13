@@ -1,0 +1,90 @@
+[
+    {
+        "character": "儉",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5109_100249476_00001_1_X0228_Y0277",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249476/%E5%84%89/manifest&pos=1&xywh=228,277,273,177",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5109_100249476_00001_1_X0228_Y0277/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249476",
+            "frame": 1,
+            "label": "『飯百珍伝』（100249476）1r",
+            "side": "r",
+            "title": "飯百珍伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249476/characters/U+5109/U+5109_100249476_00001_1_X0228_Y0277.jpg/full/full/0/default.jpg",
+        "unicode": "5109"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0484",
+        "identifer": "19-484",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0484.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0484.tiff/full/full/0/default.jpg",
+        "title": "儉",
+        "unicode": "E58489"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sys0009",
+        "identifer": "22-9",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/22sys/sys0009.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "857年",
+            "value": "瑜伽師地論卷三十(S5309)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/22sys/sys0009.tiff/full/full/0/default.jpg",
+        "title": "儉",
+        "unicode": "E58489"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0622",
+        "identifer": "56-622",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0622.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0622.tiff/full/full/0/default.jpg",
+        "title": "儉",
+        "unicode": "E58489"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0011",
+        "identifer": "71-11",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0011.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0011.tiff/full/full/0/default.jpg",
+        "title": "儉",
+        "unicode": "E58489"
+    }
+]

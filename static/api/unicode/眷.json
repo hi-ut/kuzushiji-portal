@@ -1,5 +1,85 @@
 [
     {
+        "character": "眷",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7737_200014740_00020_2_X0211_Y0655",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E7%9C%B7/manifest&pos=38&xywh=211,655,125,127",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7737_200014740_00020_2_X0211_Y0655/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 20,
+            "label": "『雨月物語』（200014740）20v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+7737/U+7737_200014740_00020_2_X0211_Y0655.jpg/full/full/0/default.jpg",
+        "unicode": "7737"
+    },
+    {
+        "character": "眷",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7737_200015779_00149_2_X1103_Y1759",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E7%9C%B7/manifest&pos=272&xywh=1103,1759,114,152",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7737_200015779_00149_2_X1103_Y1759/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 149,
+            "label": "『浮世風呂』（200015779）149v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+7737/U+7737_200015779_00149_2_X1103_Y1759.jpg/full/full/0/default.jpg",
+        "unicode": "7737"
+    },
+    {
+        "character": "眷",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7737_200015843_00077_2_X0771_Y0476",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E7%9C%B7/manifest&pos=140&xywh=771,476,105,137",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7737_200015843_00077_2_X0771_Y0476/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 77,
+            "label": "『日本永代蔵』（200015843）77v",
+            "side": "v",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+7737/U+7737_200015843_00077_2_X0771_Y0476.jpg/full/full/0/default.jpg",
+        "unicode": "7737"
+    },
+    {
+        "character": "眷",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+7737_200018243_00020_1_X0937_Y1176",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200018243/%E7%9C%B7/manifest&pos=37&xywh=937,1176,111,105",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+7737_200018243_00020_1_X0937_Y1176/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200018243",
+            "frame": 20,
+            "label": "『玉くしげ』（200018243）20r",
+            "side": "r",
+            "title": "玉くしげ"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200018243/characters/U+7737/U+7737_200018243_00020_1_X0937_Y1176.jpg/full/full/0/default.jpg",
+        "unicode": "7737"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34186714",

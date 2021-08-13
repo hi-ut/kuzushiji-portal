@@ -1,0 +1,59 @@
+[
+    {
+        "character": "噎",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+564E_200015779_00025_2_X1166_Y1549",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%99%8E/manifest&pos=42&xywh=1166,1549,136,116",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+564E_200015779_00025_2_X1166_Y1549/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 25,
+            "label": "『浮世風呂』（200015779）25v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+564E/U+564E_200015779_00025_2_X1166_Y1549.jpg/full/full/0/default.jpg",
+        "unicode": "564E"
+    },
+    {
+        "character": "噎",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+564E_200015779_00026_2_X1601_Y2493",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E5%99%8E/manifest&pos=44&xywh=1601,2493,115,97",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+564E_200015779_00026_2_X1601_Y2493/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 26,
+            "label": "『浮世風呂』（200015779）26v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+564E/U+564E_200015779_00026_2_X1601_Y2493.jpg/full/full/0/default.jpg",
+        "unicode": "564E"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sts0014",
+        "identifer": "78-14",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/78sts/sts0014.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年頃",
+            "value": "四分律卷第二十(正倉院唐經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/78sts/sts0014.tiff/full/full/0/default.jpg",
+        "title": "噎",
+        "unicode": "E5998E"
+    }
+]

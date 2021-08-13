@@ -1,5 +1,25 @@
 [
     {
+        "character": "莽",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+83BD_200014685_00007_1_X1634_Y0677",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E8%8E%BD/manifest&pos=11&xywh=1634,677,76,92",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+83BD_200014685_00007_1_X1634_Y0677/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 7,
+            "label": "『南総里見八犬伝』（200014685）7r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+83BD/U+83BD_200014685_00007_1_X1634_Y0677.jpg/full/full/0/default.jpg",
+        "unicode": "83BD"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34122588",

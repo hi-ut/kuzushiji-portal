@@ -1,5 +1,45 @@
 [
     {
+        "character": "馭",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+99AD_100249537_00007_2_X0254_Y1031",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249537/%E9%A6%AD/manifest&pos=13&xywh=254,1031,166,136",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+99AD_100249537_00007_2_X0254_Y1031/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249537",
+            "frame": 7,
+            "label": "『料理珍味集』（100249537）7v",
+            "side": "v",
+            "title": "料理珍味集"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249537/characters/U+99AD/U+99AD_100249537_00007_2_X0254_Y1031.jpg/full/full/0/default.jpg",
+        "unicode": "99AD"
+    },
+    {
+        "character": "馭",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+99AD_100249537_00019_1_X1502_Y1075",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249537/%E9%A6%AD/manifest&pos=36&xywh=1502,1075,177,143",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+99AD_100249537_00019_1_X1502_Y1075/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249537",
+            "frame": 19,
+            "label": "『料理珍味集』（100249537）19r",
+            "side": "r",
+            "title": "料理珍味集"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249537/characters/U+99AD/U+99AD_100249537_00019_1_X1502_Y1075.jpg/full/full/0/default.jpg",
+        "unicode": "99AD"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34067558",

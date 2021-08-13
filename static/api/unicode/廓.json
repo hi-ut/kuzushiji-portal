@@ -1,0 +1,79 @@
+[
+    {
+        "character": "廓",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5ED3_200003076_00153_1_X0715_Y2593",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003076/%E5%BB%93/manifest&pos=297&xywh=715,2593,121,213",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5ED3_200003076_00153_1_X0715_Y2593/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003076",
+            "frame": 153,
+            "label": "『好色一代男』（200003076）153r",
+            "side": "r",
+            "title": "好色一代男"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+5ED3/U+5ED3_200003076_00153_1_X0715_Y2593.jpg/full/full/0/default.jpg",
+        "unicode": "5ED3"
+    },
+    {
+        "character": "廓",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5ED3_200005598_00036_1_X1450_Y1325",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005598/%E5%BB%93/manifest&pos=69&xywh=1450,1325,89,150",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5ED3_200005598_00036_1_X1450_Y1325/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005598",
+            "frame": 36,
+            "label": "『傾城買四十八手』（200005598）36r",
+            "side": "r",
+            "title": "傾城買四十八手"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005598/characters/U+5ED3/U+5ED3_200005598_00036_1_X1450_Y1325.jpg/full/full/0/default.jpg",
+        "unicode": "5ED3"
+    },
+    {
+        "character": "廓",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5ED3_200005598_00048_1_X0235_Y1538",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200005598/%E5%BB%93/manifest&pos=93&xywh=235,1538,151,553",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5ED3_200005598_00048_1_X0235_Y1538/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200005598",
+            "frame": 48,
+            "label": "『傾城買四十八手』（200005598）48r",
+            "side": "r",
+            "title": "傾城買四十八手"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200005598/characters/U+5ED3/U+5ED3_200005598_00048_1_X0235_Y1538.jpg/full/full/0/default.jpg",
+        "unicode": "5ED3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0826",
+        "identifer": "56-826",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0826.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0826.tiff/full/full/0/default.jpg",
+        "title": "廓",
+        "unicode": "E5BB93"
+    }
+]

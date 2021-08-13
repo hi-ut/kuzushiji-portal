@@ -1,5 +1,61 @@
 [
     {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AFITC11000145",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITC11/6AFITC110001451/6AFITC110001451-1/list/6AFITC110001451-1-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITC11/6AFITC110001451/6AFITC110001451-1/6AFITC110001451-1.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFITC11000145",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFITC110001451-C1.tiff/114,329,434,534/full/0/default.jpg",
+        "title": "狛",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AFITC11000342",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITC11/6AFITC110003421/6AFITC110003421-7/list/6AFITC110003421-7-IR1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITC11/6AFITC110003421/6AFITC110003421-7/6AFITC110003421-7.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFITC11000342",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFITC110003421-IR1.tiff/80,884,322,242/full/0/default.jpg",
+        "title": "狛",
+        "unicode": "UTF-8"
+    },
+    {
+        "character": "狛",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+72DB_200014740_00065_2_X0359_Y2059",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E7%8B%9B/manifest&pos=126&xywh=359,2059,101,108",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+72DB_200014740_00065_2_X0359_Y2059/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 65,
+            "label": "『雨月物語』（200014740）65v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+72DB/U+72DB_200014740_00065_2_X0359_Y2059.jpg/full/full/0/default.jpg",
+        "unicode": "72DB"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34136099",

@@ -1,0 +1,56 @@
+[
+    {
+        "character": "壑",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+58D1_200004148_00058_2_X0821_Y0605",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%A3%91/manifest&pos=114&xywh=821,605,100,89",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+58D1_200004148_00058_2_X0821_Y0605/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 58,
+            "label": "『椿説弓張月』（200004148）58v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+58D1/U+58D1_200004148_00058_2_X0821_Y0605.jpg/full/full/0/default.jpg",
+        "unicode": "58D1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0050",
+        "identifer": "19-50",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0050.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0050.tiff/full/full/0/default.jpg",
+        "title": "壑",
+        "unicode": "E5A391"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0097",
+        "identifer": "56-97",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0097.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0097.tiff/full/full/0/default.jpg",
+        "title": "壑",
+        "unicode": "E5A391"
+    }
+]

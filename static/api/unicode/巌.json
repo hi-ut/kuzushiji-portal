@@ -1,5 +1,125 @@
 [
     {
+        "character": "巌",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5DCC_200004148_00025_1_X1483_Y1540",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%B7%8C/manifest&pos=47&xywh=1483,1540,93,109",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5DCC_200004148_00025_1_X1483_Y1540/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 25,
+            "label": "『椿説弓張月』（200004148）25r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+5DCC/U+5DCC_200004148_00025_1_X1483_Y1540.jpg/full/full/0/default.jpg",
+        "unicode": "5DCC"
+    },
+    {
+        "character": "巌",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+5DCC_200004148_00056_2_X0368_Y1000",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E5%B7%8C/manifest&pos=110&xywh=368,1000,88,110",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5DCC_200004148_00056_2_X0368_Y1000/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 56,
+            "label": "『椿説弓張月』（200004148）56v",
+            "side": "v",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+5DCC/U+5DCC_200004148_00056_2_X0368_Y1000.jpg/full/full/0/default.jpg",
+        "unicode": "5DCC"
+    },
+    {
+        "character": "巌",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5DCC_200014685_00017_1_X0751_Y1039",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E5%B7%8C/manifest&pos=31&xywh=751,1039,90,133",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5DCC_200014685_00017_1_X0751_Y1039/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 17,
+            "label": "『南総里見八犬伝』（200014685）17r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+5DCC/U+5DCC_200014685_00017_1_X0751_Y1039.jpg/full/full/0/default.jpg",
+        "unicode": "5DCC"
+    },
+    {
+        "character": "巌",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5DCC_200014740_00041_2_X1391_Y1692",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%B7%8C/manifest&pos=80&xywh=1391,1692,118,158",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5DCC_200014740_00041_2_X1391_Y1692/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 41,
+            "label": "『雨月物語』（200014740）41v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+5DCC/U+5DCC_200014740_00041_2_X1391_Y1692.jpg/full/full/0/default.jpg",
+        "unicode": "5DCC"
+    },
+    {
+        "character": "巌",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5DCC_200015843_00122_2_X0789_Y1122",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015843/%E5%B7%8C/manifest&pos=222&xywh=789,1122,78,117",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5DCC_200015843_00122_2_X0789_Y1122/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015843",
+            "frame": 122,
+            "label": "『日本永代蔵』（200015843）122v",
+            "side": "v",
+            "title": "日本永代蔵"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+5DCC/U+5DCC_200015843_00122_2_X0789_Y1122.jpg/full/full/0/default.jpg",
+        "unicode": "5DCC"
+    },
+    {
+        "character": "巌",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+5DCC_200021086_00013_1_X0384_Y1078",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021086/%E5%B7%8C/manifest&pos=23&xywh=384,1078,98,151",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+5DCC_200021086_00013_1_X0384_Y1078/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021086",
+            "frame": 13,
+            "label": "『伊曾保物語』（200021086）13r",
+            "side": "r",
+            "title": "伊曾保物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021086/characters/U+5DCC/U+5DCC_200021086_00013_1_X0384_Y1078.jpg/full/full/0/default.jpg",
+        "unicode": "5DCC"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34084048",

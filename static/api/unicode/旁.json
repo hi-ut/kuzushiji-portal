@@ -1,5 +1,45 @@
 [
     {
+        "character": "旁",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+65C1_200014740_00035_1_X1545_Y0334",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E6%97%81/manifest&pos=67&xywh=1545,334,93,133",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+65C1_200014740_00035_1_X1545_Y0334/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 35,
+            "label": "『雨月物語』（200014740）35r",
+            "side": "r",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+65C1/U+65C1_200014740_00035_1_X1545_Y0334.jpg/full/full/0/default.jpg",
+        "unicode": "65C1"
+    },
+    {
+        "character": "旁",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+65C1_200021802_00055_2_X2005_Y2864",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200021802/%E6%97%81/manifest&pos=108&xywh=2005,2864,102,246",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+65C1_200021802_00055_2_X2005_Y2864/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200021802",
+            "frame": 55,
+            "label": "『料理物語』（200021802）55v",
+            "side": "v",
+            "title": "料理物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021802/characters/U+65C1/U+65C1_200021802_00055_2_X2005_Y2864.jpg/full/full/0/default.jpg",
+        "unicode": "65C1"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34006641",

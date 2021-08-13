@@ -1,0 +1,42 @@
+[
+    {
+        "character": "癪",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+766A_100249476_00012_2_X1294_Y2434",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/100249476/%E7%99%AA/manifest&pos=23&xywh=1294,2434,95,141",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+766A_100249476_00012_2_X1294_Y2434/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "100249476",
+            "frame": 12,
+            "label": "『飯百珍伝』（100249476）12v",
+            "side": "v",
+            "title": "飯百珍伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249476/characters/U+766A/U+766A_100249476_00012_2_X1294_Y2434.jpg/full/full/0/default.jpg",
+        "unicode": "766A"
+    },
+    {
+        "character": "癪",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+766A_200015779_00014_2_X0630_Y1209",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200015779/%E7%99%AA/manifest&pos=20&xywh=630,1209,155,145",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+766A_200015779_00014_2_X0630_Y1209/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200015779",
+            "frame": 14,
+            "label": "『浮世風呂』（200015779）14v",
+            "side": "v",
+            "title": "浮世風呂"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+766A/U+766A_200015779_00014_2_X0630_Y1209.jpg/full/full/0/default.jpg",
+        "unicode": "766A"
+    }
+]

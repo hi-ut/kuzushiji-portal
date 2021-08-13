@@ -1,5 +1,76 @@
 [
     {
+        "character": "捐",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+6350_200014685_00029_1_X0747_Y2624",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E6%8D%90/manifest&pos=55&xywh=747,2624,98,85",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+6350_200014685_00029_1_X0747_Y2624/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 29,
+            "label": "『南総里見八犬伝』（200014685）29r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+6350/U+6350_200014685_00029_1_X0747_Y2624.jpg/full/full/0/default.jpg",
+        "unicode": "6350"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0910",
+        "identifer": "56-910",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0910.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0910.tiff/full/full/0/default.jpg",
+        "title": "捐",
+        "unicode": "E68D90"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sgs0262",
+        "identifer": "77-262",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/77sgs/sgs0262.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年頃",
+            "value": "四分律卷第十六(正倉院五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/77sgs/sgs0262.tiff/full/full/0/default.jpg",
+        "title": "捐",
+        "unicode": "E68D90"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sts0259",
+        "identifer": "78-259",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/78sts/sts0259.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年頃",
+            "value": "四分律卷第二十(正倉院唐經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/78sts/sts0259.tiff/full/full/0/default.jpg",
+        "title": "捐",
+        "unicode": "E68D90"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34036060",

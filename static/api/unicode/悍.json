@@ -1,0 +1,42 @@
+[
+    {
+        "character": "悍",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+608D_200014685_00023_2_X1505_Y1887",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E6%82%8D/manifest&pos=44&xywh=1505,1887,87,99",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+608D_200014685_00023_2_X1505_Y1887/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 23,
+            "label": "『南総里見八犬伝』（200014685）23v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+608D/U+608D_200014685_00023_2_X1505_Y1887.jpg/full/full/0/default.jpg",
+        "unicode": "608D"
+    },
+    {
+        "character": "悍",
+        "creator": "国文学研究資料館",
+        "delegate": false,
+        "id": "U+608D_200014685_00031_1_X0241_Y2420",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E6%82%8D/manifest&pos=59&xywh=241,2420,91,90",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+608D_200014685_00031_1_X0241_Y2420/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 31,
+            "label": "『南総里見八犬伝』（200014685）31r",
+            "side": "r",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+608D/U+608D_200014685_00031_1_X0241_Y2420.jpg/full/full/0/default.jpg",
+        "unicode": "608D"
+    }
+]

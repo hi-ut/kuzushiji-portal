@@ -1,5 +1,45 @@
 [
     {
+        "character": "僻",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+50FB_200014685_00013_2_X0458_Y2199",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014685/%E5%83%BB/manifest&pos=24&xywh=458,2199,93,82",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+50FB_200014685_00013_2_X0458_Y2199/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014685",
+            "frame": 13,
+            "label": "『南総里見八犬伝』（200014685）13v",
+            "side": "v",
+            "title": "南総里見八犬伝"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+50FB/U+50FB_200014685_00013_2_X0458_Y2199.jpg/full/full/0/default.jpg",
+        "unicode": "50FB"
+    },
+    {
+        "character": "僻",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+50FB_200014740_00041_2_X1535_Y1328",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200014740/%E5%83%BB/manifest&pos=80&xywh=1535,1328,107,129",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+50FB_200014740_00041_2_X1535_Y1328/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200014740",
+            "frame": 41,
+            "label": "『雨月物語』（200014740）41v",
+            "side": "v",
+            "title": "雨月物語"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+50FB/U+50FB_200014740_00041_2_X1535_Y1328.jpg/full/full/0/default.jpg",
+        "unicode": "50FB"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34000784",

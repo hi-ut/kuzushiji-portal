@@ -1,5 +1,405 @@
 [
     {
+        "character": "懈",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+61C8_200003967_00018_1_X1485_Y1196",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200003967/%E6%87%88/manifest&pos=31&xywh=1485,1196,122,112",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+61C8_200003967_00018_1_X1485_Y1196/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200003967",
+            "frame": 18,
+            "label": "『おらが春』（200003967）18r",
+            "side": "r",
+            "title": "おらが春"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003967/characters/U+61C8/U+61C8_200003967_00018_1_X1485_Y1196.jpg/full/full/0/default.jpg",
+        "unicode": "61C8"
+    },
+    {
+        "character": "懈",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+61C8_200004107_00040_1_X0854_Y2134",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004107/%E6%87%88/manifest&pos=75&xywh=854,2134,107,114",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+61C8_200004107_00040_1_X0854_Y2134/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004107",
+            "frame": 40,
+            "label": "『二人比丘尼』（200004107）40r",
+            "side": "r",
+            "title": "二人比丘尼"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004107/characters/U+61C8/U+61C8_200004107_00040_1_X0854_Y2134.jpg/full/full/0/default.jpg",
+        "unicode": "61C8"
+    },
+    {
+        "character": "懈",
+        "creator": "国文学研究資料館",
+        "delegate": true,
+        "id": "U+61C8_200004148_00078_1_X1458_Y0280",
+        "link": "https://lab.nijl.ac.jp/jikei/viewer/?manifest=https://lab.nijl.ac.jp/jikei/api/biblio/200004148/%E6%87%88/manifest&pos=153&xywh=1458,280,88,99",
+        "manifest_url": "https://lab.nijl.ac.jp/jikei/api/char/U+61C8_200004148_00078_1_X1458_Y0280/manifest",
+        "rights": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） doi:10.20676/00000340",
+        "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "source": {
+            "bid": "200004148",
+            "frame": 78,
+            "label": "『椿説弓張月』（200004148）78r",
+            "side": "r",
+            "title": "椿説弓張月"
+        },
+        "subject": "日本古典籍くずし字データ",
+        "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+61C8/U+61C8_200004148_00078_1_X1458_Y0280.jpg/full/full/0/default.jpg",
+        "unicode": "61C8"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kgk0904a",
+        "identifer": "7-904a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/07kgk/kgk0904a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "610年",
+            "value": "賢劫經卷二(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/07kgk/kgk0904a.tiff/full/full/0/default.jpg",
+        "title": "懈",
+        "unicode": "E68788"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kgk0904b",
+        "identifer": "7-904b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/07kgk/kgk0904b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "610年",
+            "value": "賢劫經卷二(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/07kgk/kgk0904b.tiff/full/full/0/default.jpg",
+        "title": "懈",
+        "unicode": "E68788"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "myz0643a",
+        "identifer": "8-643a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/08myz/myz0643a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "617年",
+            "value": "妙法蓮華經卷五(P2334)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/08myz/myz0643a.tiff/full/full/0/default.jpg",
+        "title": "懈",
+        "unicode": "E68788"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "myz0643b",
+        "identifer": "8-643b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/08myz/myz0643b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "617年",
+            "value": "妙法蓮華經卷五(P2334)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/08myz/myz0643b.tiff/full/full/0/default.jpg",
+        "title": "懈",
+        "unicode": "E68788"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kda0159",
+        "identifer": "9-159",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/09kda/kda0159.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "高昌期",
+            "value": "大品經卷二十八(京都国立博物館本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/09kda/kda0159.tiff/full/full/0/default.jpg",
+        "title": "懈",
+        "unicode": "E68788"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khi0058",
+        "identifer": "10-58",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/10khi/khi0058.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "671年",
+            "value": "妙法蓮華經卷五(今西本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/10khi/khi0058.tiff/full/full/0/default.jpg",
+        "title": "懈",
+        "unicode": "E68788"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khm0339",
+        "identifer": "11-339",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/11khm/khm0339.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷三(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/11khm/khm0339.tiff/full/full/0/default.jpg",
+        "title": "懈",
+        "unicode": "E68788"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kak0087",
+        "identifer": "17-87",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/17kak/kak0087.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經孝經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/17kak/kak0087.tiff/full/full/0/default.jpg",
+        "title": "懈",
+        "unicode": "E68788"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sys0059",
+        "identifer": "22-59",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/22sys/sys0059.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "857年",
+            "value": "瑜伽師地論卷三十(S5309)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/22sys/sys0059.tiff/full/full/0/default.jpg",
+        "title": "懈",
+        "unicode": "E68788"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jhk0410",
+        "identifer": "29-410",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/29jhk/jhk0410.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1126年",
+            "value": "神足變化經(開元寺版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/29jhk/jhk0410.tiff/full/full/0/default.jpg",
+        "title": "懈",
+        "unicode": "E68788"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0167",
+        "identifer": "30-167",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0167.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0167.tiff/full/full/0/default.jpg",
+        "title": "懈",
+        "unicode": "E68788"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "skk0282a",
+        "identifer": "46-282a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/46skk/skk0282a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "華嚴經卷二十(晉本高麗古版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/46skk/skk0282a.tiff/full/full/0/default.jpg",
+        "title": "懈",
+        "unicode": "E68788"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "skk0282b",
+        "identifer": "46-282b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/46skk/skk0282b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "華嚴經卷二十(晉本高麗古版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/46skk/skk0282b.tiff/full/full/0/default.jpg",
+        "title": "懈",
+        "unicode": "E68788"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "okd0041",
+        "identifer": "50-41",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/50okd/okd0041.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "686年",
+            "value": "金剛場陀羅尼經(小川本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/50okd/okd0041.tiff/full/full/0/default.jpg",
+        "title": "懈",
+        "unicode": "E68788"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0172",
+        "identifer": "56-172",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0172.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0172.tiff/full/full/0/default.jpg",
+        "title": "懈",
+        "unicode": "E68788"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzs0108",
+        "identifer": "60-108",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/60tzs/tzs0108.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C",
+            "value": "佛説大教王經卷一(東禪寺版日本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/60tzs/tzs0108.tiff/full/full/0/default.jpg",
+        "title": "懈",
+        "unicode": "E68788"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kss0080",
+        "identifer": "64-80",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/64kss/kss0080.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1221年",
+            "value": "華嚴信種義(明惠自筆)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/64kss/kss0080.tiff/full/full/0/default.jpg",
+        "title": "懈",
+        "unicode": "E68788"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0392",
+        "identifer": "71-392",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0392.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0392.tiff/full/full/0/default.jpg",
+        "title": "懈",
+        "unicode": "E68788"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wke0090",
+        "identifer": "73-90",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/73wke/wke0090.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/73wke/wke0090.tiff/full/full/0/default.jpg",
+        "title": "懈",
+        "unicode": "E68788"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0496",
+        "identifer": "74-496",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0496.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0496.tiff/full/full/0/default.jpg",
+        "title": "懈",
+        "unicode": "E68788"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34005326",
