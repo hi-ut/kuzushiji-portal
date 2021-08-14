@@ -336,5 +336,39 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021851/characters/U+7621/U+7621_200021851_00021_1_X1225_Y1101.jpg/full/full/0/default.jpg",
         "unicode": "7621"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0355",
+        "identifer": "30-355",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0355.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0355.tiff/full/full/0/default.jpg",
+        "title": "瘡",
+        "unicode": "E798A1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sgs0352",
+        "identifer": "77-352",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/77sgs/sgs0352.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年頃",
+            "value": "四分律卷第十六(正倉院五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/77sgs/sgs0352.tiff/full/full/0/default.jpg",
+        "title": "瘡",
+        "unicode": "E798A1"
     }
 ]

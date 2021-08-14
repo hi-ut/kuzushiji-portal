@@ -1,5 +1,127 @@
 [
     {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AFFJD27000141",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFF/6AFFJD27/6AFFJD270001411/6AFFJD270001411-2/list/6AFFJD270001411-2-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFF/6AFFJD27/6AFFJD270001411/6AFFJD270001411-2/6AFFJD270001411-2.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFFJD27000141",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFFJD270001411-C1.tiff/80,160,241,321/full/0/default.jpg",
+        "title": "耆",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AFIUO47000142",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFIUO47/6AFIUO470001421/6AFIUO470001421-2/list/6AFIUO470001421-2-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFIUO47/6AFIUO470001421/6AFIUO470001421-2/6AFIUO470001421-2.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFIUO47000142",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFIUO470001421-C1.tiff/63,354,201,210/full/0/default.jpg",
+        "title": "耆",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AABUS48001441",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AAB/6AABUS48/6AABUS480014411/6AABUS480014411-2/list/6AABUS480014411-2-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AAB/6AABUS48/6AABUS480014411/6AABUS480014411-2/6AABUS480014411-2.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AABUS48001441",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AABUS480014411-C1.tiff/49,132,169,179/full/0/default.jpg",
+        "title": "耆",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0784a",
+        "identifer": "13-784a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0784a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0784a.tiff/full/full/0/default.jpg",
+        "title": "耆",
+        "unicode": "E88086"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0784b",
+        "identifer": "13-784b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0784b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0784b.tiff/full/full/0/default.jpg",
+        "title": "耆",
+        "unicode": "E88086"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyd0571",
+        "identifer": "14-571",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/14kyd/kyd0571.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "初唐",
+            "value": "漢書楊雄傳(上野本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/14kyd/kyd0571.tiff/full/full/0/default.jpg",
+        "title": "耆",
+        "unicode": "E88086"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0184",
+        "identifer": "74-184",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0184.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0184.tiff/full/full/0/default.jpg",
+        "title": "耆",
+        "unicode": "E88086"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34136205",

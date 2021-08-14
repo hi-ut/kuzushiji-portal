@@ -38,5 +38,90 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+7A0D/U+7A0D_200014685_00018_2_X1683_Y2408.jpg/full/full/0/default.jpg",
         "unicode": "7A0D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyd0502",
+        "identifer": "14-502",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/14kyd/kyd0502.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "初唐",
+            "value": "漢書楊雄傳(上野本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/14kyd/kyd0502.tiff/full/full/0/default.jpg",
+        "title": "稍",
+        "unicode": "E7A88D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0788",
+        "identifer": "26-788",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0788.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0788.tiff/full/full/0/default.jpg",
+        "title": "稍",
+        "unicode": "E7A88D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jhk0541",
+        "identifer": "29-541",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/29jhk/jhk0541.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1126年",
+            "value": "神足變化經(開元寺版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/29jhk/jhk0541.tiff/full/full/0/default.jpg",
+        "title": "稍",
+        "unicode": "E7A88D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod1258",
+        "identifer": "30-1258",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod1258.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod1258.tiff/full/full/0/default.jpg",
+        "title": "稍",
+        "unicode": "E7A88D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0955",
+        "identifer": "31-955",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0955.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0955.tiff/full/full/0/default.jpg",
+        "title": "稍",
+        "unicode": "E7A88D"
     }
 ]

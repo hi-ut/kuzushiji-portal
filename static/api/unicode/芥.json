@@ -298,5 +298,56 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021802/characters/U+82A5/U+82A5_200021802_00054_1_X1563_Y0789.jpg/full/full/0/default.jpg",
         "unicode": "82A5"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzs0269",
+        "identifer": "60-269",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/60tzs/tzs0269.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C",
+            "value": "佛説大教王經卷一(東禪寺版日本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/60tzs/tzs0269.tiff/full/full/0/default.jpg",
+        "title": "芥",
+        "unicode": "E88AA5"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kss0165",
+        "identifer": "64-165",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/64kss/kss0165.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1221年",
+            "value": "華嚴信種義(明惠自筆)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/64kss/kss0165.tiff/full/full/0/default.jpg",
+        "title": "芥",
+        "unicode": "E88AA5"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0173",
+        "identifer": "71-173",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0173.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0173.tiff/full/full/0/default.jpg",
+        "title": "芥",
+        "unicode": "E88AA5"
     }
 ]

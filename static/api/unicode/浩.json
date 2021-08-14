@@ -118,5 +118,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+6D69/U+6D69_200014685_00029_2_X0302_Y2796.jpg/full/full/0/default.jpg",
         "unicode": "6D69"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzs0602",
+        "identifer": "60-602",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/60tzs/tzs0602.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C",
+            "value": "佛説大教王經卷一(東禪寺版日本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/60tzs/tzs0602.tiff/full/full/0/default.jpg",
+        "title": "浩",
+        "unicode": "E6B5A9"
     }
 ]

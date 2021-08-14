@@ -38,5 +38,90 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+8A91/U+8A91_200014685_00031_2_X0286_Y1902.jpg/full/full/0/default.jpg",
         "unicode": "8A91"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0213",
+        "identifer": "13-213",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0213.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0213.tiff/full/full/0/default.jpg",
+        "title": "誑",
+        "unicode": "E8AA91"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "yhk0855",
+        "identifer": "16-855",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/16yhk/yhk0855.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "712年",
+            "value": "瑜伽法鏡經(S2423)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/16yhk/yhk0855.tiff/full/full/0/default.jpg",
+        "title": "誑",
+        "unicode": "E8AA91"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kkh0118",
+        "identifer": "27-118",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/27kkh/kkh0118.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "北宋期？",
+            "value": "金剛般若經(京都国立博物館本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/27kkh/kkh0118.tiff/full/full/0/default.jpg",
+        "title": "誑",
+        "unicode": "E8AA91"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0428",
+        "identifer": "56-428",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0428.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0428.tiff/full/full/0/default.jpg",
+        "title": "誑",
+        "unicode": "E8AA91"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0207",
+        "identifer": "74-207",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0207.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0207.tiff/full/full/0/default.jpg",
+        "title": "誑",
+        "unicode": "E8AA91"
     }
 ]

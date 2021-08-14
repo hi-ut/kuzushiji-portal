@@ -38,5 +38,124 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+63A9/U+63A9_200014740_00016_2_X0488_Y0707.jpg/full/full/0/default.jpg",
         "unicode": "63A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0113",
+        "identifer": "26-113",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0113.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0113.tiff/full/full/0/default.jpg",
+        "title": "掩",
+        "unicode": "E68EA9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod1026",
+        "identifer": "30-1026",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod1026.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod1026.tiff/full/full/0/default.jpg",
+        "title": "掩",
+        "unicode": "E68EA9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink0169",
+        "identifer": "33-169",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink0169.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink0169.tiff/full/full/0/default.jpg",
+        "title": "掩",
+        "unicode": "E68EA9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0163",
+        "identifer": "34-163",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0163.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0163.tiff/full/full/0/default.jpg",
+        "title": "掩",
+        "unicode": "E68EA9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0165",
+        "identifer": "36-165",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0165.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0165.tiff/full/full/0/default.jpg",
+        "title": "掩",
+        "unicode": "E68EA9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240159",
+        "identifer": "3724-159",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240159.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240159.tiff/full/full/0/default.jpg",
+        "title": "掩",
+        "unicode": "E68EA9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0193",
+        "identifer": "56-193",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0193.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0193.tiff/full/full/0/default.jpg",
+        "title": "掩",
+        "unicode": "E68EA9"
     }
 ]

@@ -1,5 +1,23 @@
 [
     {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AFITD11000106",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITD11/6AFITD110001061/6AFITD110001061-2/list/6AFITD110001061-2-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITD11/6AFITD110001061/6AFITD110001061-2/6AFITD110001061-2.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFITD11000106",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFITD110001061-C1.tiff/0,396,317,318/full/0/default.jpg",
+        "title": "鞍",
+        "unicode": "UTF-8"
+    },
+    {
         "character": "鞍",
         "creator": "国文学研究資料館",
         "delegate": true,
@@ -198,6 +216,74 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+978D/U+978D_200015843_00060_2_X1780_Y1057.jpg/full/full/0/default.jpg",
         "unicode": "978D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink1018",
+        "identifer": "33-1018",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink1018.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink1018.tiff/full/full/0/default.jpg",
+        "title": "鞍",
+        "unicode": "E99E8D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto1015",
+        "identifer": "34-1015",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto1015.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto1015.tiff/full/full/0/default.jpg",
+        "title": "鞍",
+        "unicode": "E99E8D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm1032",
+        "identifer": "36-1032",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm1032.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm1032.tiff/full/full/0/default.jpg",
+        "title": "鞍",
+        "unicode": "E99E8D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240994",
+        "identifer": "3724-994",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240994.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240994.tiff/full/full/0/default.jpg",
+        "title": "鞍",
+        "unicode": "E99E8D"
     },
     {
         "creator": "東京大学史料編纂所@ja",

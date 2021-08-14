@@ -258,5 +258,209 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+72D7/U+72D7_200015843_00038_1_X1916_Y1183.jpg/full/full/0/default.jpg",
         "unicode": "72D7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0145",
+        "identifer": "13-145",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0145.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0145.tiff/full/full/0/default.jpg",
+        "title": "狗",
+        "unicode": "E78B97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "yhk0178",
+        "identifer": "16-178",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/16yhk/yhk0178.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "712年",
+            "value": "瑜伽法鏡經(S2423)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/16yhk/yhk0178.tiff/full/full/0/default.jpg",
+        "title": "狗",
+        "unicode": "E78B97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae1119",
+        "identifer": "19-1119",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae1119.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae1119.tiff/full/full/0/default.jpg",
+        "title": "狗",
+        "unicode": "E78B97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sys0106",
+        "identifer": "22-106",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/22sys/sys0106.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "857年",
+            "value": "瑜伽師地論卷三十(S5309)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/22sys/sys0106.tiff/full/full/0/default.jpg",
+        "title": "狗",
+        "unicode": "E78B97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ini0781",
+        "identifer": "38-781",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/38ini/ini0781.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1236年",
+            "value": "卷二(鴨脚本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/38ini/ini0781.tiff/full/full/0/default.jpg",
+        "title": "狗",
+        "unicode": "E78B97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkk2199a",
+        "identifer": "39-2199a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/39nkk/nkk2199a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1286年",
+            "value": "卷二(兼方本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/39nkk/nkk2199a.tiff/full/full/0/default.jpg",
+        "title": "狗",
+        "unicode": "E78B97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkk2199b",
+        "identifer": "39-2199b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/39nkk/nkk2199b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1286年",
+            "value": "卷二(兼方本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/39nkk/nkk2199b.tiff/full/full/0/default.jpg",
+        "title": "狗",
+        "unicode": "E78B97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcc0856",
+        "identifer": "41-856",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/41kcc/kcc0856.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1599年",
+            "value": "卷二(慶長勅版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/41kcc/kcc0856.tiff/full/full/0/default.jpg",
+        "title": "狗",
+        "unicode": "E78B97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcj0833",
+        "identifer": "42-833",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/42kcj/kcj0833.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1610年",
+            "value": "卷二(慶長十五年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/42kcj/kcj0833.tiff/full/full/0/default.jpg",
+        "title": "狗",
+        "unicode": "E78B97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kbk0823",
+        "identifer": "43-823",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/43kbk/kbk0823.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/43kbk/kbk0823.tiff/full/full/0/default.jpg",
+        "title": "狗",
+        "unicode": "E78B97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sgs0340",
+        "identifer": "77-340",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/77sgs/sgs0340.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年頃",
+            "value": "四分律卷第十六(正倉院五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/77sgs/sgs0340.tiff/full/full/0/default.jpg",
+        "title": "狗",
+        "unicode": "E78B97"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sts0343",
+        "identifer": "78-343",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/78sts/sts0343.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年頃",
+            "value": "四分律卷第二十(正倉院唐經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/78sts/sts0343.tiff/full/full/0/default.jpg",
+        "title": "狗",
+        "unicode": "E78B97"
     }
 ]

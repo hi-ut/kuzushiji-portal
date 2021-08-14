@@ -18,5 +18,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+8831/U+8831_200014740_00073_1_X1292_Y0313.jpg/full/full/0/default.jpg",
         "unicode": "8831"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ykk0652",
+        "identifer": "68-652",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/68ykk/ykk0652.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1412年",
+            "value": "藥師功徳經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/68ykk/ykk0652.tiff/full/full/0/default.jpg",
+        "title": "蠱",
+        "unicode": "E8A0B1"
     }
 ]

@@ -18,5 +18,73 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+8D6B/U+8D6B_200021660_00020_1_X2132_Y3560.jpg/full/full/0/default.jpg",
         "unicode": "8D6B"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sok0411",
+        "identifer": "15-411",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/15sok/sok0411.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "則天期",
+            "value": "花嚴經卷八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/15sok/sok0411.tiff/full/full/0/default.jpg",
+        "title": "赫",
+        "unicode": "E8B5AB"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kak0459",
+        "identifer": "17-459",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/17kak/kak0459.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經孝經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/17kak/kak0459.tiff/full/full/0/default.jpg",
+        "title": "赫",
+        "unicode": "E8B5AB"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sik0464",
+        "identifer": "44-464",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/44sik/sik0464.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "754～755年",
+            "value": "花嚴經卷八(新羅本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/44sik/sik0464.tiff/full/full/0/default.jpg",
+        "title": "赫",
+        "unicode": "E8B5AB"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kmi0172",
+        "identifer": "55-172",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/55kmi/kmi0172.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "738年",
+            "value": "弥勒上生經(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/55kmi/kmi0172.tiff/full/full/0/default.jpg",
+        "title": "赫",
+        "unicode": "E8B5AB"
     }
 ]

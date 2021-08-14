@@ -78,5 +78,56 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021712/characters/U+803D/U+803D_200021712_00004_1_X1005_Y3120.jpg/full/full/0/default.jpg",
         "unicode": "803D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ykk0227",
+        "identifer": "68-227",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/68ykk/ykk0227.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1412年",
+            "value": "藥師功徳經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/68ykk/ykk0227.tiff/full/full/0/default.jpg",
+        "title": "耽",
+        "unicode": "E880BD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0165",
+        "identifer": "71-165",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0165.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0165.tiff/full/full/0/default.jpg",
+        "title": "耽",
+        "unicode": "E880BD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0180",
+        "identifer": "72-180",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0180.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0180.tiff/full/full/0/default.jpg",
+        "title": "耽",
+        "unicode": "E880BD"
     }
 ]

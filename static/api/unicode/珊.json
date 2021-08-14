@@ -38,5 +38,73 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+73CA/U+73CA_200015843_00055_2_X1479_Y1135.jpg/full/full/0/default.jpg",
         "unicode": "73CA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ykk0172",
+        "identifer": "68-172",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/68ykk/ykk0172.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1412年",
+            "value": "藥師功徳經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/68ykk/ykk0172.tiff/full/full/0/default.jpg",
+        "title": "珊",
+        "unicode": "E78F8A"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wke0829a",
+        "identifer": "73-829a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/73wke/wke0829a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/73wke/wke0829a.tiff/full/full/0/default.jpg",
+        "title": "珊",
+        "unicode": "E78F8A"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wke0829b",
+        "identifer": "73-829b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/73wke/wke0829b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/73wke/wke0829b.tiff/full/full/0/default.jpg",
+        "title": "珊",
+        "unicode": "E78F8A"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0137",
+        "identifer": "74-137",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0137.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0137.tiff/full/full/0/default.jpg",
+        "title": "珊",
+        "unicode": "E78F8A"
     }
 ]

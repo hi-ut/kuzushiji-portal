@@ -18,5 +18,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+8026/U+8026_200015779_00112_2_X1098_Y1418.jpg/full/full/0/default.jpg",
         "unicode": "8026"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0261",
+        "identifer": "19-261",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0261.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0261.tiff/full/full/0/default.jpg",
+        "title": "耦",
+        "unicode": null
     }
 ]

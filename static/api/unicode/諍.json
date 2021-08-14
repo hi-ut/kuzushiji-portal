@@ -58,5 +58,243 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021086/characters/U+8ACD/U+8ACD_200021086_00016_2_X0704_Y2890.jpg/full/full/0/default.jpg",
         "unicode": "8ACD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "keg0619",
+        "identifer": "2-619",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/02keg/keg0619.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "514年",
+            "value": "華嚴經卷十六(S2067)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/02keg/keg0619.tiff/full/full/0/default.jpg",
+        "title": "諍",
+        "unicode": "E8AB8D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "dng0805",
+        "identifer": "3-805",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/03dng/dng0805.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "506年",
+            "value": "大般涅槃經卷十一(S81)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/03dng/dng0805.tiff/full/full/0/default.jpg",
+        "title": "諍",
+        "unicode": "E8AB8D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0214",
+        "identifer": "13-214",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0214.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0214.tiff/full/full/0/default.jpg",
+        "title": "諍",
+        "unicode": "E8AB8D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "yhk0271",
+        "identifer": "16-271",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/16yhk/yhk0271.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "712年",
+            "value": "瑜伽法鏡經(S2423)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/16yhk/yhk0271.tiff/full/full/0/default.jpg",
+        "title": "諍",
+        "unicode": "E8AB8D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sys0741a",
+        "identifer": "22-741a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/22sys/sys0741a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "857年",
+            "value": "瑜伽師地論卷三十(S5309)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/22sys/sys0741a.tiff/full/full/0/default.jpg",
+        "title": "諍",
+        "unicode": "E8AB8D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sys0741b",
+        "identifer": "22-741b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/22sys/sys0741b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "857年",
+            "value": "瑜伽師地論卷三十(S5309)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/22sys/sys0741b.tiff/full/full/0/default.jpg",
+        "title": "諍",
+        "unicode": "E8AB8D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzj0376",
+        "identifer": "25-376",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/25tzj/tzj0376.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1100年",
+            "value": "阿毘達磨大毘婆沙論卷百七(東禪寺版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/25tzj/tzj0376.tiff/full/full/0/default.jpg",
+        "title": "諍",
+        "unicode": "E8AB8D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kkh0115",
+        "identifer": "27-115",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/27kkh/kkh0115.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "北宋期？",
+            "value": "金剛般若經(京都国立博物館本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/27kkh/kkh0115.tiff/full/full/0/default.jpg",
+        "title": "諍",
+        "unicode": "E8AB8D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "skk0110",
+        "identifer": "46-110",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/46skk/skk0110.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "華嚴經卷二十(晉本高麗古版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/46skk/skk0110.tiff/full/full/0/default.jpg",
+        "title": "諍",
+        "unicode": "E8AB8D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyu0560",
+        "identifer": "47-560",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/47kyu/kyu0560.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "11C",
+            "value": "瑜伽師地論卷五(高麗初彫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/47kyu/kyu0560.tiff/full/full/0/default.jpg",
+        "title": "諍",
+        "unicode": "E8AB8D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "okd0471",
+        "identifer": "50-471",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/50okd/okd0471.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "686年",
+            "value": "金剛場陀羅尼經(小川本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/50okd/okd0471.tiff/full/full/0/default.jpg",
+        "title": "諍",
+        "unicode": "E8AB8D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "saa0181",
+        "identifer": "70-181",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/70saa/saa0181.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/70saa/saa0181.tiff/full/full/0/default.jpg",
+        "title": "諍",
+        "unicode": "E8AB8D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0916a",
+        "identifer": "72-916a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0916a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0916a.tiff/full/full/0/default.jpg",
+        "title": "諍",
+        "unicode": "E8AB8D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0916b",
+        "identifer": "72-916b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0916b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0916b.tiff/full/full/0/default.jpg",
+        "title": "諍",
+        "unicode": "E8AB8D"
     }
 ]

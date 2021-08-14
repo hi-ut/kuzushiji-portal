@@ -1,5 +1,23 @@
 [
     {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AFFJF11000103",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFF/6AFFJF11/6AFFJF110001031/6AFFJF110001031-1/list/6AFFJF110001031-1-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFF/6AFFJF11/6AFFJF110001031/6AFFJF110001031-1/6AFFJF110001031-1.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFFJF11000103",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFFJF110001031-C1.tiff/107,57,337,543/full/0/default.jpg",
+        "title": "鷹",
+        "unicode": "UTF-8"
+    },
+    {
         "character": "鷹",
         "creator": "国文学研究資料館",
         "delegate": true,

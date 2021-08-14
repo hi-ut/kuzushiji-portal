@@ -38,5 +38,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+7F88/U+7F88_200014740_00070_2_X1519_Y1092.jpg/full/full/0/default.jpg",
         "unicode": "7F88"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wan0098",
+        "identifer": "49-98",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/49wan/wan0098.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "華嚴經卷三十八(趙氏藏本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/49wan/wan0098.tiff/full/full/0/default.jpg",
+        "title": "羈",
+        "unicode": null
     }
 ]

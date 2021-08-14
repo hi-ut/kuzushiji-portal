@@ -38,5 +38,39 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+68AF/U+68AF_200021660_00029_2_X1522_Y2805.jpg/full/full/0/default.jpg",
         "unicode": "68AF"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0158",
+        "identifer": "26-158",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0158.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0158.tiff/full/full/0/default.jpg",
+        "title": "梯",
+        "unicode": "E6A2AF"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kss0109",
+        "identifer": "64-109",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/64kss/kss0109.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1221年",
+            "value": "華嚴信種義(明惠自筆)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/64kss/kss0109.tiff/full/full/0/default.jpg",
+        "title": "梯",
+        "unicode": "E6A2AF"
     }
 ]

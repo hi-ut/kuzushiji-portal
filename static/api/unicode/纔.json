@@ -358,5 +358,124 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+7E94/U+7E94_200021660_00091_1_X1942_Y0705.jpg/full/full/0/default.jpg",
         "unicode": "7E94"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0435",
+        "identifer": "30-435",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0435.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0435.tiff/full/full/0/default.jpg",
+        "title": "纔",
+        "unicode": "E7BA94"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0368",
+        "identifer": "56-368",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0368.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0368.tiff/full/full/0/default.jpg",
+        "title": "纔",
+        "unicode": "E7BA94"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "doh0441",
+        "identifer": "57-441",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/57doh/doh0441.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "815年",
+            "value": "金剛大教王經卷一(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/57doh/doh0441.tiff/full/full/0/default.jpg",
+        "title": "纔",
+        "unicode": "E7BA94"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jyu0066",
+        "identifer": "58-66",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/58jyu/jyu0066.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1088年",
+            "value": "成唯識論卷十(寛治二年刊本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/58jyu/jyu0066.tiff/full/full/0/default.jpg",
+        "title": "纔",
+        "unicode": "E7BA94"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzs0662",
+        "identifer": "60-662",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/60tzs/tzs0662.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C",
+            "value": "佛説大教王經卷一(東禪寺版日本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/60tzs/tzs0662.tiff/full/full/0/default.jpg",
+        "title": "纔",
+        "unicode": "E7BA94"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kss0159",
+        "identifer": "64-159",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/64kss/kss0159.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1221年",
+            "value": "華嚴信種義(明惠自筆)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/64kss/kss0159.tiff/full/full/0/default.jpg",
+        "title": "纔",
+        "unicode": "E7BA94"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wke0175",
+        "identifer": "73-175",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/73wke/wke0175.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/73wke/wke0175.tiff/full/full/0/default.jpg",
+        "title": "纔",
+        "unicode": "E7BA94"
     }
 ]

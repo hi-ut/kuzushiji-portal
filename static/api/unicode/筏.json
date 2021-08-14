@@ -18,5 +18,124 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+7B4F/U+7B4F_200004148_00085_2_X1549_Y1536.jpg/full/full/0/default.jpg",
         "unicode": "7B4F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kkh0101",
+        "identifer": "27-101",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/27kkh/kkh0101.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "北宋期？",
+            "value": "金剛般若經(京都国立博物館本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/27kkh/kkh0101.tiff/full/full/0/default.jpg",
+        "title": "筏",
+        "unicode": "E7AD8F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod1271",
+        "identifer": "30-1271",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod1271.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod1271.tiff/full/full/0/default.jpg",
+        "title": "筏",
+        "unicode": "E7AD8F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "doh0112",
+        "identifer": "57-112",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/57doh/doh0112.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "815年",
+            "value": "金剛大教王經卷一(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/57doh/doh0112.tiff/full/full/0/default.jpg",
+        "title": "筏",
+        "unicode": "E7AD8F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0656a",
+        "identifer": "71-656a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0656a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0656a.tiff/full/full/0/default.jpg",
+        "title": "筏",
+        "unicode": "E7AD8F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0656b",
+        "identifer": "71-656b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0656b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0656b.tiff/full/full/0/default.jpg",
+        "title": "筏",
+        "unicode": "E7AD8F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0165",
+        "identifer": "72-165",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0165.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0165.tiff/full/full/0/default.jpg",
+        "title": "筏",
+        "unicode": "E7AD8F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wke0165",
+        "identifer": "73-165",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/73wke/wke0165.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/73wke/wke0165.tiff/full/full/0/default.jpg",
+        "title": "筏",
+        "unicode": "E7AD8F"
     }
 ]

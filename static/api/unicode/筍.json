@@ -378,5 +378,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021925/characters/U+7B4D/U+7B4D_200021925_00019_1_X2016_Y0360.jpg/full/full/0/default.jpg",
         "unicode": "7B4D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0800b",
+        "identifer": "26-800b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0800b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0800b.tiff/full/full/0/default.jpg",
+        "title": "筍",
+        "unicode": "E7AD8D"
     }
 ]

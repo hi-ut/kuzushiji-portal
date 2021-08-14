@@ -18,5 +18,175 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+8212/U+8212_200015843_00105_1_X1428_Y2181.jpg/full/full/0/default.jpg",
         "unicode": "8212"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sok0383",
+        "identifer": "15-383",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/15sok/sok0383.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "則天期",
+            "value": "花嚴經卷八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/15sok/sok0383.tiff/full/full/0/default.jpg",
+        "title": "舒",
+        "unicode": "E88892"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0290",
+        "identifer": "26-290",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0290.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0290.tiff/full/full/0/default.jpg",
+        "title": "舒",
+        "unicode": "E88892"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0320",
+        "identifer": "31-320",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0320.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0320.tiff/full/full/0/default.jpg",
+        "title": "舒",
+        "unicode": "E88892"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sik0432",
+        "identifer": "44-432",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/44sik/sik0432.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "754～755年",
+            "value": "花嚴經卷八(新羅本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/44sik/sik0432.tiff/full/full/0/default.jpg",
+        "title": "舒",
+        "unicode": "E88892"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ksk0097",
+        "identifer": "48-97",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/48ksk/ksk0097.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "13C",
+            "value": "華嚴經卷六(高麗再彫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/48ksk/ksk0097.tiff/full/full/0/default.jpg",
+        "title": "舒",
+        "unicode": "E88892"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0384",
+        "identifer": "56-384",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0384.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0384.tiff/full/full/0/default.jpg",
+        "title": "舒",
+        "unicode": "E88892"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "doh0456",
+        "identifer": "57-456",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/57doh/doh0456.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "815年",
+            "value": "金剛大教王經卷一(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/57doh/doh0456.tiff/full/full/0/default.jpg",
+        "title": "舒",
+        "unicode": "E88892"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzs0265",
+        "identifer": "60-265",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/60tzs/tzs0265.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C",
+            "value": "佛説大教王經卷一(東禪寺版日本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/60tzs/tzs0265.tiff/full/full/0/default.jpg",
+        "title": "舒",
+        "unicode": "E88892"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0733",
+        "identifer": "72-733",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0733.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0733.tiff/full/full/0/default.jpg",
+        "title": "舒",
+        "unicode": "E88892"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wke0691",
+        "identifer": "73-691",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/73wke/wke0691.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/73wke/wke0691.tiff/full/full/0/default.jpg",
+        "title": "舒",
+        "unicode": "E88892"
     }
 ]

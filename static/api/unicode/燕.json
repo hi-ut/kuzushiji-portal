@@ -238,5 +238,90 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021925/characters/U+71D5/U+71D5_200021925_00021_2_X1645_Y0245.jpg/full/full/0/default.jpg",
         "unicode": "71D5"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0223",
+        "identifer": "18-223",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0223.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0223.tiff/full/full/0/default.jpg",
+        "title": "燕",
+        "unicode": "E78795"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0190",
+        "identifer": "19-190",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0190.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0190.tiff/full/full/0/default.jpg",
+        "title": "燕",
+        "unicode": "E78795"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0198",
+        "identifer": "26-198",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0198.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0198.tiff/full/full/0/default.jpg",
+        "title": "燕",
+        "unicode": "E78795"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0321",
+        "identifer": "30-321",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0321.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0321.tiff/full/full/0/default.jpg",
+        "title": "燕",
+        "unicode": "E78795"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0235",
+        "identifer": "31-235",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0235.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0235.tiff/full/full/0/default.jpg",
+        "title": "燕",
+        "unicode": "E78795"
     }
 ]

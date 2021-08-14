@@ -58,5 +58,39 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+994B/U+994B_200004148_00055_2_X1300_Y1589.jpg/full/full/0/default.jpg",
         "unicode": "994B"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0358",
+        "identifer": "19-358",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0358.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0358.tiff/full/full/0/default.jpg",
+        "title": "饋",
+        "unicode": "E9A58B"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0433",
+        "identifer": "31-433",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0433.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0433.tiff/full/full/0/default.jpg",
+        "title": "饋",
+        "unicode": "E9A58B"
     }
 ]

@@ -18,5 +18,39 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+6518/U+6518_200021660_00027_2_X1776_Y1087.jpg/full/full/0/default.jpg",
         "unicode": "6518"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0153",
+        "identifer": "18-153",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0153.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0153.tiff/full/full/0/default.jpg",
+        "title": "攘",
+        "unicode": "E69498"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kss0040",
+        "identifer": "64-40",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/64kss/kss0040.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1221年",
+            "value": "華嚴信種義(明惠自筆)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/64kss/kss0040.tiff/full/full/0/default.jpg",
+        "title": "攘",
+        "unicode": "E69498"
     }
 ]

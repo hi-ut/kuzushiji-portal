@@ -1,5 +1,95 @@
 [
     {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AFITF11000154",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITF11/6AFITF110001541/6AFITF110001541-4/list/6AFITF110001541-4-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITF11/6AFITF110001541/6AFITF110001541-4/6AFITF110001541-4.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFITF11000154",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFITF110001541-C1.tiff/36,564,364,400/full/0/default.jpg",
+        "title": "糯",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AFIUO12000133",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFIUO12/6AFIUO120001331/6AFIUO120001331-4/list/6AFIUO120001331-4-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFIUO12/6AFIUO120001331/6AFIUO120001331-4/6AFIUO120001331-4.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFIUO12000133",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFIUO120001331-C1.tiff/0,80,321,321/full/0/default.jpg",
+        "title": "糯",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AFIUO46000174",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFIUO46/6AFIUO460001741/6AFIUO460001741-7/list/6AFIUO460001741-7-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFIUO46/6AFIUO460001741/6AFIUO460001741-7/6AFIUO460001741-7.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFIUO46000174",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFIUO460001741-C1.tiff/69,1711,334,340/full/0/default.jpg",
+        "title": "糯",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AFITF11000256",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITF11/6AFITF110002561/6AFITF110002561-7/list/6AFITF110002561-7-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITF11/6AFITF110002561/6AFITF110002561-7/6AFITF110002561-7.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFITF11000256",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFITF110002561-C1.tiff/0,2324,481,642/full/0/default.jpg",
+        "title": "糯",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AFITC11000154",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITC11/6AFITC110001541/6AFITC110001541-1/list/6AFITC110001541-1-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITC11/6AFITC110001541/6AFITC110001541-1/6AFITC110001541-1.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFITC11000154",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFITC110001541-C1.tiff/0,168,472,576/full/0/default.jpg",
+        "title": "糯",
+        "unicode": "UTF-8"
+    },
+    {
         "character": "糯",
         "creator": "国文学研究資料館",
         "delegate": true,

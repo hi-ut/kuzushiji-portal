@@ -78,5 +78,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+8087/U+8087_200015779_00088_2_X0776_Y1770.jpg/full/full/0/default.jpg",
         "unicode": "8087"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyo0140",
+        "identifer": "66-140",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/66kyo/kyo0140.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1224年",
+            "value": "教行信証卷四(親鸞自筆)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/66kyo/kyo0140.tiff/full/full/0/default.jpg",
+        "title": "肇",
+        "unicode": "E88287"
     }
 ]

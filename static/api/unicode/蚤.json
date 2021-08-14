@@ -178,5 +178,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+86A4/U+86A4_200015843_00108_2_X1437_Y1371.jpg/full/full/0/default.jpg",
         "unicode": "86A4"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0408",
+        "identifer": "56-408",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0408.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0408.tiff/full/full/0/default.jpg",
+        "title": "蚤",
+        "unicode": "E89AA4"
     }
 ]

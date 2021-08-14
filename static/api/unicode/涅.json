@@ -38,5 +38,515 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+6D85/U+6D85_200015843_00041_1_X1459_Y0610.jpg/full/full/0/default.jpg",
         "unicode": "6D85"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "dng0622",
+        "identifer": "3-622",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/03dng/dng0622.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "506年",
+            "value": "大般涅槃經卷十一(S81)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/03dng/dng0622.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "mam0722",
+        "identifer": "5-722",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/05mam/mam0722.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "586年",
+            "value": "摩訶摩耶經卷上(P2160)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/05mam/mam0722.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "myz0439",
+        "identifer": "8-439",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/08myz/myz0439.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "617年",
+            "value": "妙法蓮華經卷五(P2334)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/08myz/myz0439.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kda0060",
+        "identifer": "9-60",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/09kda/kda0060.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "高昌期",
+            "value": "大品經卷二十八(京都国立博物館本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/09kda/kda0060.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khi0469",
+        "identifer": "10-469",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/10khi/khi0469.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "671年",
+            "value": "妙法蓮華經卷五(今西本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/10khi/khi0469.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khm0600a",
+        "identifer": "11-600a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/11khm/khm0600a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷三(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/11khm/khm0600a.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khm0600b",
+        "identifer": "11-600b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/11khm/khm0600b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷三(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/11khm/khm0600b.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "fhs0445",
+        "identifer": "12-445",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/12fhs/fhs0445.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷六(P2195)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/12fhs/fhs0445.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0551",
+        "identifer": "13-551",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0551.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0551.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "yhk0696",
+        "identifer": "16-696",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/16yhk/yhk0696.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "712年",
+            "value": "瑜伽法鏡經(S2423)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/16yhk/yhk0696.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0211",
+        "identifer": "18-211",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0211.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0211.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sys0480",
+        "identifer": "22-480",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/22sys/sys0480.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "857年",
+            "value": "瑜伽師地論卷三十(S5309)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/22sys/sys0480.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzj0048",
+        "identifer": "25-48",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/25tzj/tzj0048.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1100年",
+            "value": "阿毘達磨大毘婆沙論卷百七(東禪寺版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/25tzj/tzj0048.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kkh0079",
+        "identifer": "27-79",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/27kkh/kkh0079.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "北宋期？",
+            "value": "金剛般若經(京都国立博物館本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/27kkh/kkh0079.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nak0611",
+        "identifer": "28-611",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/28nak/nak0611.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1146年",
+            "value": "華嚴孔目(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/28nak/nak0611.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sik0059",
+        "identifer": "44-59",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/44sik/sik0059.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "754～755年",
+            "value": "花嚴經卷八(新羅本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/44sik/sik0059.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyu0426",
+        "identifer": "47-426",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/47kyu/kyu0426.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "11C",
+            "value": "瑜伽師地論卷五(高麗初彫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/47kyu/kyu0426.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "okd0361",
+        "identifer": "50-361",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/50okd/okd0361.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "686年",
+            "value": "金剛場陀羅尼經(小川本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/50okd/okd0361.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kmi0110",
+        "identifer": "55-110",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/55kmi/kmi0110.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "738年",
+            "value": "弥勒上生經(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/55kmi/kmi0110.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd1014",
+        "identifer": "56-1014",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd1014.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd1014.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "doh0089",
+        "identifer": "57-89",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/57doh/doh0089.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "815年",
+            "value": "金剛大教王經卷一(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/57doh/doh0089.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jyu0495a",
+        "identifer": "58-495a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/58jyu/jyu0495a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1088年",
+            "value": "成唯識論卷十(寛治二年刊本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/58jyu/jyu0495a.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jyu0495b",
+        "identifer": "58-495b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/58jyu/jyu0495b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1088年",
+            "value": "成唯識論卷十(寛治二年刊本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/58jyu/jyu0495b.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzs0168",
+        "identifer": "60-168",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/60tzs/tzs0168.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C",
+            "value": "佛説大教王經卷一(東禪寺版日本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/60tzs/tzs0168.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kss0467",
+        "identifer": "64-467",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/64kss/kss0467.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1221年",
+            "value": "華嚴信種義(明惠自筆)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/64kss/kss0467.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyo0445",
+        "identifer": "66-445",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/66kyo/kyo0445.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1224年",
+            "value": "教行信証卷四(親鸞自筆)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/66kyo/kyo0445.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0467",
+        "identifer": "71-467",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0467.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0467.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0123",
+        "identifer": "72-123",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0123.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0123.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wke0584",
+        "identifer": "73-584",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/73wke/wke0584.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/73wke/wke0584.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0587",
+        "identifer": "74-587",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0587.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0587.tiff/full/full/0/default.jpg",
+        "title": "涅",
+        "unicode": "E6B685"
     }
 ]

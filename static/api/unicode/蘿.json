@@ -98,5 +98,39 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021644/characters/U+863F/U+863F_200021644_00007_2_X0333_Y0990.jpg/full/full/0/default.jpg",
         "unicode": "863F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0192",
+        "identifer": "72-192",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0192.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0192.tiff/full/full/0/default.jpg",
+        "title": "蘿",
+        "unicode": "E898BF"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wke0198",
+        "identifer": "73-198",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/73wke/wke0198.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/73wke/wke0198.tiff/full/full/0/default.jpg",
+        "title": "蘿",
+        "unicode": "E898BF"
     }
 ]

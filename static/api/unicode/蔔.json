@@ -58,5 +58,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/100249537/characters/U+8514/U+8514_100249537_00083_1_X1134_Y1718.jpg/full/full/0/default.jpg",
         "unicode": "8514"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sts0072",
+        "identifer": "78-72",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/78sts/sts0072.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年頃",
+            "value": "四分律卷第二十(正倉院唐經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/78sts/sts0072.tiff/full/full/0/default.jpg",
+        "title": "蔔",
+        "unicode": "E89494"
     }
 ]

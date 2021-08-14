@@ -98,5 +98,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+7D43/U+7D43_200015779_00145_2_X0669_Y2308.jpg/full/full/0/default.jpg",
         "unicode": "7D43"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0268",
+        "identifer": "26-268",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0268.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0268.tiff/full/full/0/default.jpg",
+        "title": "絃",
+        "unicode": "E7B583"
     }
 ]

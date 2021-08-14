@@ -158,5 +158,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+68F2/U+68F2_200015843_00062_2_X1863_Y0622.jpg/full/full/0/default.jpg",
         "unicode": "68F2"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0256",
+        "identifer": "30-256",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0256.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0256.tiff/full/full/0/default.jpg",
+        "title": "棲",
+        "unicode": "E6A3B2"
     }
 ]

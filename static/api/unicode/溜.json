@@ -578,5 +578,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021851/characters/U+6E9C/U+6E9C_200021851_00008_2_X0521_Y1097.jpg/full/full/0/default.jpg",
         "unicode": "6E9C"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyo0101",
+        "identifer": "66-101",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/66kyo/kyo0101.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1224年",
+            "value": "教行信証卷四(親鸞自筆)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/66kyo/kyo0101.tiff/full/full/0/default.jpg",
+        "title": "溜",
+        "unicode": "E6BA9C"
     }
 ]

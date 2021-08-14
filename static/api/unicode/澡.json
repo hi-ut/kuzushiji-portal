@@ -18,5 +18,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+6FA1/U+6FA1_200021660_00092_2_X1056_Y0965.jpg/full/full/0/default.jpg",
         "unicode": "6FA1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ykk0608",
+        "identifer": "68-608",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/68ykk/ykk0608.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1412年",
+            "value": "藥師功徳經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/68ykk/ykk0608.tiff/full/full/0/default.jpg",
+        "title": "澡",
+        "unicode": "E6BEA1"
     }
 ]

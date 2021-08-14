@@ -78,5 +78,39 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+964B/U+964B_200021660_00006_1_X1036_Y2411.jpg/full/full/0/default.jpg",
         "unicode": "964B"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar1375",
+        "identifer": "18-1375",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar1375.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar1375.tiff/full/full/0/default.jpg",
+        "title": "陋",
+        "unicode": "E9998B"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ykk0296",
+        "identifer": "68-296",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/68ykk/ykk0296.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1412年",
+            "value": "藥師功徳經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/68ykk/ykk0296.tiff/full/full/0/default.jpg",
+        "title": "陋",
+        "unicode": "E9998B"
     }
 ]

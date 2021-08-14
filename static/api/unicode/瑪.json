@@ -38,5 +38,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+746A/U+746A_200015843_00054_1_X0475_Y0987.jpg/full/full/0/default.jpg",
         "unicode": "746A"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0862b",
+        "identifer": "74-862b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0862b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0862b.tiff/full/full/0/default.jpg",
+        "title": "瑪",
+        "unicode": "E791AA"
     }
 ]

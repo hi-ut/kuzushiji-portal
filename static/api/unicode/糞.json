@@ -278,5 +278,39 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+7CDE/U+7CDE_200021660_00031_2_X0775_Y1614.jpg/full/full/0/default.jpg",
         "unicode": "7CDE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0810",
+        "identifer": "26-810",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0810.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0810.tiff/full/full/0/default.jpg",
+        "title": "糞",
+        "unicode": "E7B39E"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nak0131",
+        "identifer": "28-131",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/28nak/nak0131.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1146年",
+            "value": "華嚴孔目(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/28nak/nak0131.tiff/full/full/0/default.jpg",
+        "title": "糞",
+        "unicode": "E7B39E"
     }
 ]

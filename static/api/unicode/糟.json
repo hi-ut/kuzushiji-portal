@@ -318,5 +318,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021851/characters/U+7CDF/U+7CDF_200021851_00023_2_X1203_Y0826.jpg/full/full/0/default.jpg",
         "unicode": "7CDF"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0173",
+        "identifer": "74-173",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0173.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0173.tiff/full/full/0/default.jpg",
+        "title": "糟",
+        "unicode": "E7B39F"
     }
 ]

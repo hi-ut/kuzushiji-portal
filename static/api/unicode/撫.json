@@ -318,5 +318,39 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021763/characters/U+64AB/U+64AB_200021763_00037_1_X1661_Y1479.jpg/full/full/0/default.jpg",
         "unicode": "64AB"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0185",
+        "identifer": "30-185",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0185.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0185.tiff/full/full/0/default.jpg",
+        "title": "撫",
+        "unicode": "E692AB"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0167",
+        "identifer": "31-167",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0167.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0167.tiff/full/full/0/default.jpg",
+        "title": "撫",
+        "unicode": "E692AB"
     }
 ]

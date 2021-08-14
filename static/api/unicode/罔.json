@@ -18,5 +18,56 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+7F54/U+7F54_200021660_00091_2_X1863_Y0989.jpg/full/full/0/default.jpg",
         "unicode": "7F54"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0307",
+        "identifer": "18-307",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0307.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0307.tiff/full/full/0/default.jpg",
+        "title": "罔",
+        "unicode": "E7BD94"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae1239",
+        "identifer": "19-1239",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae1239.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae1239.tiff/full/full/0/default.jpg",
+        "title": "罔",
+        "unicode": "E7BD94"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzs0250",
+        "identifer": "60-250",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/60tzs/tzs0250.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C",
+            "value": "佛説大教王經卷一(東禪寺版日本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/60tzs/tzs0250.tiff/full/full/0/default.jpg",
+        "title": "罔",
+        "unicode": "E7BD94"
     }
 ]

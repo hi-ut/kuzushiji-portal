@@ -1,5 +1,23 @@
 [
     {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AABUS48000035",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AAB/6AABUS48/6AABUS480000351/6AABUS480000351-13/list/6AABUS480000351-13-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AAB/6AABUS48/6AABUS480000351/6AABUS480000351-13/6AABUS480000351-13.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AABUS48000035",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AABUS480000351-C1.tiff/52,1652,252,288/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "UTF-8"
+    },
+    {
         "character": "薩",
         "creator": "国文学研究資料館",
         "delegate": true,
@@ -438,6 +456,635 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021644/characters/U+85A9/U+85A9_200021644_00034_1_X0299_Y1760.jpg/full/full/0/default.jpg",
         "unicode": "85A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "keg0582",
+        "identifer": "2-582",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/02keg/keg0582.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "514年",
+            "value": "華嚴經卷十六(S2067)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/02keg/keg0582.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "dng0773",
+        "identifer": "3-773",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/03dng/dng0773.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "506年",
+            "value": "大般涅槃經卷十一(S81)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/03dng/dng0773.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kgk0778",
+        "identifer": "7-778",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/07kgk/kgk0778.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "610年",
+            "value": "賢劫經卷二(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/07kgk/kgk0778.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "myz0544",
+        "identifer": "8-544",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/08myz/myz0544.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "617年",
+            "value": "妙法蓮華經卷五(P2334)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/08myz/myz0544.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kda0233",
+        "identifer": "9-233",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/09kda/kda0233.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "高昌期",
+            "value": "大品經卷二十八(京都国立博物館本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/09kda/kda0233.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khi0545",
+        "identifer": "10-545",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/10khi/khi0545.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "671年",
+            "value": "妙法蓮華經卷五(今西本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/10khi/khi0545.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khm0504",
+        "identifer": "11-504",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/11khm/khm0504.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷三(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/11khm/khm0504.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "fhs0542",
+        "identifer": "12-542",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/12fhs/fhs0542.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷六(P2195)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/12fhs/fhs0542.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0664",
+        "identifer": "13-664",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0664.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0664.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sok0394",
+        "identifer": "15-394",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/15sok/sok0394.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "則天期",
+            "value": "花嚴經卷八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/15sok/sok0394.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "yhk0833",
+        "identifer": "16-833",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/16yhk/yhk0833.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "712年",
+            "value": "瑜伽法鏡經(S2423)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/16yhk/yhk0833.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kkh0404",
+        "identifer": "27-404",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/27kkh/kkh0404.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "北宋期？",
+            "value": "金剛般若經(京都国立博物館本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/27kkh/kkh0404.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nak0777",
+        "identifer": "28-777",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/28nak/nak0777.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1146年",
+            "value": "華嚴孔目(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/28nak/nak0777.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jhk0578",
+        "identifer": "29-578",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/29jhk/jhk0578.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1126年",
+            "value": "神足變化經(開元寺版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/29jhk/jhk0578.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod1344",
+        "identifer": "30-1344",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod1344.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod1344.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink0335",
+        "identifer": "33-335",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink0335.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink0335.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0326",
+        "identifer": "34-326",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0326.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0326.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0329",
+        "identifer": "36-329",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0329.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0329.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240327",
+        "identifer": "3724-327",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240327.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240327.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sik0442",
+        "identifer": "44-442",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/44sik/sik0442.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "754～755年",
+            "value": "花嚴經卷八(新羅本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/44sik/sik0442.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "skk0433",
+        "identifer": "46-433",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/46skk/skk0433.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "華嚴經卷二十(晉本高麗古版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/46skk/skk0433.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyu0143",
+        "identifer": "47-143",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/47kyu/kyu0143.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "11C",
+            "value": "瑜伽師地論卷五(高麗初彫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/47kyu/kyu0143.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ksk0454",
+        "identifer": "48-454",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/48ksk/ksk0454.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "13C",
+            "value": "華嚴經卷六(高麗再彫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/48ksk/ksk0454.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wan0511",
+        "identifer": "49-511",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/49wan/wan0511.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "華嚴經卷三十八(趙氏藏本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/49wan/wan0511.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "okd0447",
+        "identifer": "50-447",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/50okd/okd0447.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "686年",
+            "value": "金剛場陀羅尼經(小川本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/50okd/okd0447.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wad0223",
+        "identifer": "54-223",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/54wad/wad0223.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "712年",
+            "value": "大般若經卷二百五十(和銅經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/54wad/wad0223.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kmi0501",
+        "identifer": "55-501",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/55kmi/kmi0501.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "738年",
+            "value": "弥勒上生經(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/55kmi/kmi0501.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd1175",
+        "identifer": "56-1175",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd1175.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd1175.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "doh0458",
+        "identifer": "57-458",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/57doh/doh0458.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "815年",
+            "value": "金剛大教王經卷一(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/57doh/doh0458.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jyu0410",
+        "identifer": "58-410",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/58jyu/jyu0410.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1088年",
+            "value": "成唯識論卷十(寛治二年刊本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/58jyu/jyu0410.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzs0686",
+        "identifer": "60-686",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/60tzs/tzs0686.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C",
+            "value": "佛説大教王經卷一(東禪寺版日本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/60tzs/tzs0686.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kss0559",
+        "identifer": "64-559",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/64kss/kss0559.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1221年",
+            "value": "華嚴信種義(明惠自筆)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/64kss/kss0559.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyo0539",
+        "identifer": "66-539",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/66kyo/kyo0539.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1224年",
+            "value": "教行信証卷四(親鸞自筆)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/66kyo/kyo0539.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0555",
+        "identifer": "71-555",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0555.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0555.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0749",
+        "identifer": "72-749",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0749.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0749.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wke0704",
+        "identifer": "73-704",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/73wke/wke0704.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/73wke/wke0704.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0707",
+        "identifer": "74-707",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0707.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0707.tiff/full/full/0/default.jpg",
+        "title": "薩",
+        "unicode": "E896A9"
     },
     {
         "creator": "東京大学史料編纂所@ja",

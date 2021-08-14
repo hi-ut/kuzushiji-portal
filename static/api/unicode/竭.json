@@ -198,5 +198,124 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015779/characters/U+7AED/U+7AED_200015779_00153_2_X1096_Y2138.jpg/full/full/0/default.jpg",
         "unicode": "7AED"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar1142",
+        "identifer": "18-1142",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar1142.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar1142.tiff/full/full/0/default.jpg",
+        "title": "竭",
+        "unicode": "E7ABAD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jhk0546",
+        "identifer": "29-546",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/29jhk/jhk0546.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1126年",
+            "value": "神足變化經(開元寺版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/29jhk/jhk0546.tiff/full/full/0/default.jpg",
+        "title": "竭",
+        "unicode": "E7ABAD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0399",
+        "identifer": "30-399",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0399.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0399.tiff/full/full/0/default.jpg",
+        "title": "竭",
+        "unicode": "E7ABAD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd1097",
+        "identifer": "56-1097",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd1097.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd1097.tiff/full/full/0/default.jpg",
+        "title": "竭",
+        "unicode": "E7ABAD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ykk0205",
+        "identifer": "68-205",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/68ykk/ykk0205.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1412年",
+            "value": "藥師功徳經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/68ykk/ykk0205.tiff/full/full/0/default.jpg",
+        "title": "竭",
+        "unicode": "E7ABAD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0697",
+        "identifer": "72-697",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0697.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0697.tiff/full/full/0/default.jpg",
+        "title": "竭",
+        "unicode": "E7ABAD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wke0659",
+        "identifer": "73-659",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/73wke/wke0659.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/73wke/wke0659.tiff/full/full/0/default.jpg",
+        "title": "竭",
+        "unicode": "E7ABAD"
     }
 ]

@@ -38,5 +38,39 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+9E9F/U+9E9F_200014740_00069_2_X0348_Y0335.jpg/full/full/0/default.jpg",
         "unicode": "9E9F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0661",
+        "identifer": "30-661",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0661.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0661.tiff/full/full/0/default.jpg",
+        "title": "麟",
+        "unicode": "E9BA9F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "saa0037",
+        "identifer": "70-37",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/70saa/saa0037.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/70saa/saa0037.tiff/full/full/0/default.jpg",
+        "title": "麟",
+        "unicode": "E9BA9F"
     }
 ]

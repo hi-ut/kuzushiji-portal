@@ -18,5 +18,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+65CC/U+65CC_200004148_00003_2_X1154_Y2090.jpg/full/full/0/default.jpg",
         "unicode": "65CC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzs0130",
+        "identifer": "60-130",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/60tzs/tzs0130.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C",
+            "value": "佛説大教王經卷一(東禪寺版日本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/60tzs/tzs0130.tiff/full/full/0/default.jpg",
+        "title": "旌",
+        "unicode": "E6978C"
     }
 ]

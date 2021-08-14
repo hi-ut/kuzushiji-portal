@@ -18,5 +18,56 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+81A0/U+81A0_200003076_00173_2_X1097_Y2608.jpg/full/full/0/default.jpg",
         "unicode": "81A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyd1287",
+        "identifer": "14-1287",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/14kyd/kyd1287.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "初唐",
+            "value": "漢書楊雄傳(上野本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/14kyd/kyd1287.tiff/full/full/0/default.jpg",
+        "title": "膠",
+        "unicode": "E886A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0181",
+        "identifer": "18-181",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0181.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0181.tiff/full/full/0/default.jpg",
+        "title": "膠",
+        "unicode": "E886A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0189",
+        "identifer": "74-189",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0189.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0189.tiff/full/full/0/default.jpg",
+        "title": "膠",
+        "unicode": "E886A0"
     }
 ]

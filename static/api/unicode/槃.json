@@ -78,5 +78,617 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+69C3/U+69C3_200015843_00041_1_X1461_Y0708.jpg/full/full/0/default.jpg",
         "unicode": "69C3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "dng0592",
+        "identifer": "3-592",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/03dng/dng0592.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "506年",
+            "value": "大般涅槃經卷十一(S81)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/03dng/dng0592.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "mam0685",
+        "identifer": "5-685",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/05mam/mam0685.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "586年",
+            "value": "摩訶摩耶經卷上(P2160)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/05mam/mam0685.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "myz0645a",
+        "identifer": "8-645a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/08myz/myz0645a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "617年",
+            "value": "妙法蓮華經卷五(P2334)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/08myz/myz0645a.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "myz0645b",
+        "identifer": "8-645b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/08myz/myz0645b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "617年",
+            "value": "妙法蓮華經卷五(P2334)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/08myz/myz0645b.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kda0051",
+        "identifer": "9-51",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/09kda/kda0051.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "高昌期",
+            "value": "大品經卷二十八(京都国立博物館本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/09kda/kda0051.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khi0434",
+        "identifer": "10-434",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/10khi/khi0434.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "671年",
+            "value": "妙法蓮華經卷五(今西本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/10khi/khi0434.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khm0393",
+        "identifer": "11-393",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/11khm/khm0393.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷三(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/11khm/khm0393.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "fhs0420",
+        "identifer": "12-420",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/12fhs/fhs0420.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷六(P2195)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/12fhs/fhs0420.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0518a",
+        "identifer": "13-518a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0518a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0518a.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0518b",
+        "identifer": "13-518b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0518b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0518b.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "yhk0664",
+        "identifer": "16-664",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/16yhk/yhk0664.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "712年",
+            "value": "瑜伽法鏡經(S2423)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/16yhk/yhk0664.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sys0451",
+        "identifer": "22-451",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/22sys/sys0451.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "857年",
+            "value": "瑜伽師地論卷三十(S5309)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/22sys/sys0451.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzj0040",
+        "identifer": "25-40",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/25tzj/tzj0040.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1100年",
+            "value": "阿毘達磨大毘婆沙論卷百七(東禪寺版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/25tzj/tzj0040.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kkh0073",
+        "identifer": "27-73",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/27kkh/kkh0073.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "北宋期？",
+            "value": "金剛般若經(京都国立博物館本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/27kkh/kkh0073.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nak0951a",
+        "identifer": "28-951a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/28nak/nak0951a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1146年",
+            "value": "華嚴孔目(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/28nak/nak0951a.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nak0951b",
+        "identifer": "28-951b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/28nak/nak0951b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1146年",
+            "value": "華嚴孔目(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/28nak/nak0951b.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0255",
+        "identifer": "30-255",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0255.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0255.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ini0157",
+        "identifer": "38-157",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/38ini/ini0157.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1236年",
+            "value": "卷二(鴨脚本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/38ini/ini0157.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyu0400",
+        "identifer": "47-400",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/47kyu/kyu0400.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "11C",
+            "value": "瑜伽師地論卷五(高麗初彫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/47kyu/kyu0400.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "okd0340",
+        "identifer": "50-340",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/50okd/okd0340.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "686年",
+            "value": "金剛場陀羅尼經(小川本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/50okd/okd0340.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kmi0102",
+        "identifer": "55-102",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/55kmi/kmi0102.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "738年",
+            "value": "弥勒上生經(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/55kmi/kmi0102.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd1383a",
+        "identifer": "56-1383a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd1383a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd1383a.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd1383b",
+        "identifer": "56-1383b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd1383b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd1383b.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd1383c",
+        "identifer": "56-1383c",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd1383c.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd1383c.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "doh0079",
+        "identifer": "57-79",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/57doh/doh0079.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "815年",
+            "value": "金剛大教王經卷一(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/57doh/doh0079.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jyu0308a",
+        "identifer": "58-308a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/58jyu/jyu0308a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1088年",
+            "value": "成唯識論卷十(寛治二年刊本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/58jyu/jyu0308a.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jyu0308b",
+        "identifer": "58-308b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/58jyu/jyu0308b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1088年",
+            "value": "成唯識論卷十(寛治二年刊本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/58jyu/jyu0308b.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jyu0308c",
+        "identifer": "58-308c",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/58jyu/jyu0308c.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1088年",
+            "value": "成唯識論卷十(寛治二年刊本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/58jyu/jyu0308c.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzs0146",
+        "identifer": "60-146",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/60tzs/tzs0146.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C",
+            "value": "佛説大教王經卷一(東禪寺版日本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/60tzs/tzs0146.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kss0443",
+        "identifer": "64-443",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/64kss/kss0443.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1221年",
+            "value": "華嚴信種義(明惠自筆)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/64kss/kss0443.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyo0425",
+        "identifer": "66-425",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/66kyo/kyo0425.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1224年",
+            "value": "教行信証卷四(親鸞自筆)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/66kyo/kyo0425.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0445",
+        "identifer": "71-445",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0445.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0445.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0896a",
+        "identifer": "72-896a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0896a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0896a.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0896b",
+        "identifer": "72-896b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0896b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0896b.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wke0554",
+        "identifer": "73-554",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/73wke/wke0554.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/73wke/wke0554.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0562",
+        "identifer": "74-562",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0562.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0562.tiff/full/full/0/default.jpg",
+        "title": "槃",
+        "unicode": "E6A783"
     }
 ]

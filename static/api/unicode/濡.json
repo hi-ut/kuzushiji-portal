@@ -318,5 +318,56 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021712/characters/U+6FE1/U+6FE1_200021712_00056_1_X0846_Y2308.jpg/full/full/0/default.jpg",
         "unicode": "6FE1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "myz0097",
+        "identifer": "8-97",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/08myz/myz0097.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "617年",
+            "value": "妙法蓮華經卷五(P2334)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/08myz/myz0097.tiff/full/full/0/default.jpg",
+        "title": "濡",
+        "unicode": "E6BFA1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae1087",
+        "identifer": "19-1087",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae1087.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae1087.tiff/full/full/0/default.jpg",
+        "title": "濡",
+        "unicode": "E6BFA1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyo0453",
+        "identifer": "66-453",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/66kyo/kyo0453.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1224年",
+            "value": "教行信証卷四(親鸞自筆)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/66kyo/kyo0453.tiff/full/full/0/default.jpg",
+        "title": "濡",
+        "unicode": "E6BFA1"
     }
 ]

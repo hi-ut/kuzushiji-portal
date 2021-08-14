@@ -18,5 +18,107 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+79B9/U+79B9_200004148_00004_1_X0939_Y0910.jpg/full/full/0/default.jpg",
         "unicode": "79B9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar1131",
+        "identifer": "18-1131",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar1131.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar1131.tiff/full/full/0/default.jpg",
+        "title": "禹",
+        "unicode": "E7A6B9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0949",
+        "identifer": "31-949",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0949.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0949.tiff/full/full/0/default.jpg",
+        "title": "禹",
+        "unicode": "E7A6B9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink0289",
+        "identifer": "33-289",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink0289.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink0289.tiff/full/full/0/default.jpg",
+        "title": "禹",
+        "unicode": "E7A6B9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0285",
+        "identifer": "34-285",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0285.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0285.tiff/full/full/0/default.jpg",
+        "title": "禹",
+        "unicode": "E7A6B9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0280",
+        "identifer": "36-280",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0280.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0280.tiff/full/full/0/default.jpg",
+        "title": "禹",
+        "unicode": "E7A6B9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240280",
+        "identifer": "3724-280",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240280.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240280.tiff/full/full/0/default.jpg",
+        "title": "禹",
+        "unicode": "E7A6B9"
     }
 ]

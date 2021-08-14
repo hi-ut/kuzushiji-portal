@@ -78,5 +78,90 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021644/characters/U+96F9/U+96F9_200021644_00036_1_X1417_Y1281.jpg/full/full/0/default.jpg",
         "unicode": "96F9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nak0197",
+        "identifer": "28-197",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/28nak/nak0197.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1146年",
+            "value": "華嚴孔目(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/28nak/nak0197.tiff/full/full/0/default.jpg",
+        "title": "雹",
+        "unicode": "E99BB9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink1015",
+        "identifer": "33-1015",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink1015.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink1015.tiff/full/full/0/default.jpg",
+        "title": "雹",
+        "unicode": "E99BB9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto1011",
+        "identifer": "34-1011",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto1011.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto1011.tiff/full/full/0/default.jpg",
+        "title": "雹",
+        "unicode": "E99BB9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm1028",
+        "identifer": "36-1028",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm1028.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm1028.tiff/full/full/0/default.jpg",
+        "title": "雹",
+        "unicode": "E99BB9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k241092",
+        "identifer": "3724-1092",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k241092.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k241092.tiff/full/full/0/default.jpg",
+        "title": "雹",
+        "unicode": "E99BB9"
     }
 ]

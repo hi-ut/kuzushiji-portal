@@ -18,5 +18,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021851/characters/U+8385/U+8385_200021851_00029_2_X0472_Y1677.jpg/full/full/0/default.jpg",
         "unicode": "8385"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0395",
+        "identifer": "56-395",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0395.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0395.tiff/full/full/0/default.jpg",
+        "title": "莅",
+        "unicode": "E88E85"
     }
 ]

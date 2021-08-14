@@ -78,5 +78,39 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+7FF3/U+7FF3_200014685_00027_2_X0827_Y1264.jpg/full/full/0/default.jpg",
         "unicode": "7FF3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nak0143",
+        "identifer": "28-143",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/28nak/nak0143.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1146年",
+            "value": "華嚴孔目(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/28nak/nak0143.tiff/full/full/0/default.jpg",
+        "title": "翳",
+        "unicode": "E7BFB3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wke0180",
+        "identifer": "73-180",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/73wke/wke0180.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/73wke/wke0180.tiff/full/full/0/default.jpg",
+        "title": "翳",
+        "unicode": "E7BFB3"
     }
 ]

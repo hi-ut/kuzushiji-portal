@@ -38,5 +38,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+9D3F/U+9D3F_200014685_00005_1_X0066_Y1927.jpg/full/full/0/default.jpg",
         "unicode": "9D3F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkk0287",
+        "identifer": "39-287",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/39nkk/nkk0287.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1286年",
+            "value": "卷二(兼方本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/39nkk/nkk0287.tiff/full/full/0/default.jpg",
+        "title": "鴿",
+        "unicode": "E9B4BF"
     }
 ]

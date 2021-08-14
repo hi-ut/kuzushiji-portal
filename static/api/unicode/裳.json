@@ -1,5 +1,41 @@
 [
     {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6ALTTG46000009",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6ALT/6ALTTG46/6ALTTG460000091/6ALTTG460000091-28/list/6ALTTG460000091-28-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6ALT/6ALTTG46/6ALTTG460000091/6ALTTG460000091-28/6ALTTG460000091-28.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6ALTTG46000009",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6ALTTG460000091-C1.tiff/332,4754,368,342/full/0/default.jpg",
+        "title": "裳",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AFITC11000260",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITC11/6AFITC110002601/6AFITC110002601-59/list/6AFITC110002601-59-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITC11/6AFITC110002601/6AFITC110002601-59/6AFITC110002601-59.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFITC11000260",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFITC110002601-C1.tiff/305,4477,227,282/full/0/default.jpg",
+        "title": "裳",
+        "unicode": "UTF-8"
+    },
+    {
         "character": "裳",
         "creator": "国文学研究資料館",
         "delegate": true,
@@ -218,6 +254,176 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+88F3/U+88F3_200021660_00090_1_X1572_Y1361.jpg/full/full/0/default.jpg",
         "unicode": "88F3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyd1331",
+        "identifer": "14-1331",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/14kyd/kyd1331.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "初唐",
+            "value": "漢書楊雄傳(上野本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/14kyd/kyd1331.tiff/full/full/0/default.jpg",
+        "title": "裳",
+        "unicode": "E8A3B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar1246",
+        "identifer": "18-1246",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar1246.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar1246.tiff/full/full/0/default.jpg",
+        "title": "裳",
+        "unicode": "E8A3B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae1362",
+        "identifer": "19-1362",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae1362.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae1362.tiff/full/full/0/default.jpg",
+        "title": "裳",
+        "unicode": "E8A3B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0499",
+        "identifer": "30-499",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0499.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0499.tiff/full/full/0/default.jpg",
+        "title": "裳",
+        "unicode": "E8A3B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ini0273",
+        "identifer": "38-273",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/38ini/ini0273.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1236年",
+            "value": "卷二(鴨脚本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/38ini/ini0273.tiff/full/full/0/default.jpg",
+        "title": "裳",
+        "unicode": "E8A3B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkk0209",
+        "identifer": "39-209",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/39nkk/nkk0209.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1286年",
+            "value": "卷二(兼方本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/39nkk/nkk0209.tiff/full/full/0/default.jpg",
+        "title": "裳",
+        "unicode": "E8A3B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcc0275",
+        "identifer": "41-275",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/41kcc/kcc0275.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1599年",
+            "value": "卷二(慶長勅版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/41kcc/kcc0275.tiff/full/full/0/default.jpg",
+        "title": "裳",
+        "unicode": "E8A3B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcj0277",
+        "identifer": "42-277",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/42kcj/kcj0277.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1610年",
+            "value": "卷二(慶長十五年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/42kcj/kcj0277.tiff/full/full/0/default.jpg",
+        "title": "裳",
+        "unicode": "E8A3B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kbk0275",
+        "identifer": "43-275",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/43kbk/kbk0275.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/43kbk/kbk0275.tiff/full/full/0/default.jpg",
+        "title": "裳",
+        "unicode": "E8A3B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0414",
+        "identifer": "56-414",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0414.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0414.tiff/full/full/0/default.jpg",
+        "title": "裳",
+        "unicode": "E8A3B3"
     },
     {
         "creator": "東京大学史料編纂所@ja",

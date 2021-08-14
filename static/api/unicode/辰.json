@@ -1,5 +1,77 @@
 [
     {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "5AMDQF76000253",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/5AMD/5AMDQF76/5AMDQF760002531/5AMDQF760002531-2/list/5AMDQF760002531-2-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/5AMD/5AMDQF76/5AMDQF760002531/5AMDQF760002531-2/5AMDQF760002531-2.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/5AMDQF76000253",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/5AMDQF760002531-C1.tiff/80,481,402,482/full/0/default.jpg",
+        "title": "辰",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "5AMDQF77000253",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/5AMD/5AMDQF77/5AMDQF770002531/5AMDQF770002531-2/list/5AMDQF770002531-2-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/5AMD/5AMDQF77/5AMDQF770002531/5AMDQF770002531-2/5AMDQF770002531-2.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/5AMDQF77000253",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/5AMDQF770002531-C1.tiff/0,240,320,321/full/0/default.jpg",
+        "title": "辰",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AFITC11000115",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITC11/6AFITC110001152/6AFITC110001152-10/list/6AFITC110001152-10-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITC11/6AFITC110001152/6AFITC110001152-10/6AFITC110001152-10.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFITC11000115",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFITC110001152-C1.tiff/158,1350,159,159/full/0/default.jpg",
+        "title": "辰",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AFITC11001185",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITC11/6AFITC110011852/6AFITC110011852-9/list/6AFITC110011852-9-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITC11/6AFITC110011852/6AFITC110011852-9/6AFITC110011852-9.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFITC11001185",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFITC110011852-C1.tiff/24,1881,330,291/full/0/default.jpg",
+        "title": "辰",
+        "unicode": "UTF-8"
+    },
+    {
         "character": "辰",
         "creator": "国文学研究資料館",
         "delegate": true,
@@ -758,6 +830,193 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021763/characters/U+8FB0/U+8FB0_200021763_00022_2_X1027_Y1652.jpg/full/full/0/default.jpg",
         "unicode": "8FB0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0394",
+        "identifer": "18-394",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0394.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0394.tiff/full/full/0/default.jpg",
+        "title": "辰",
+        "unicode": "E8BEB0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0335",
+        "identifer": "26-335",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0335.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0335.tiff/full/full/0/default.jpg",
+        "title": "辰",
+        "unicode": "E8BEB0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod1461",
+        "identifer": "30-1461",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod1461.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod1461.tiff/full/full/0/default.jpg",
+        "title": "辰",
+        "unicode": "E8BEB0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok1208a",
+        "identifer": "31-1208a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok1208a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok1208a.tiff/full/full/0/default.jpg",
+        "title": "辰",
+        "unicode": "E8BEB0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok1208b",
+        "identifer": "31-1208b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok1208b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok1208b.tiff/full/full/0/default.jpg",
+        "title": "辰",
+        "unicode": "E8BEB0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink1103a",
+        "identifer": "33-1103a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink1103a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink1103a.tiff/full/full/0/default.jpg",
+        "title": "辰",
+        "unicode": "E8BEB0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink1103b",
+        "identifer": "33-1103b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink1103b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink1103b.tiff/full/full/0/default.jpg",
+        "title": "辰",
+        "unicode": "E8BEB0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0967",
+        "identifer": "34-967",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0967.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0967.tiff/full/full/0/default.jpg",
+        "title": "辰",
+        "unicode": "E8BEB0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0985",
+        "identifer": "36-985",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0985.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0985.tiff/full/full/0/default.jpg",
+        "title": "辰",
+        "unicode": "E8BEB0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240953",
+        "identifer": "3724-953",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240953.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240953.tiff/full/full/0/default.jpg",
+        "title": "辰",
+        "unicode": "E8BEB0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzs0314",
+        "identifer": "60-314",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/60tzs/tzs0314.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C",
+            "value": "佛説大教王經卷一(東禪寺版日本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/60tzs/tzs0314.tiff/full/full/0/default.jpg",
+        "title": "辰",
+        "unicode": "E8BEB0"
     },
     {
         "creator": "東京大学史料編纂所@ja",

@@ -38,5 +38,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+6B47/U+6B47_200014740_00016_2_X0649_Y0345.jpg/full/full/0/default.jpg",
         "unicode": "6B47"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sik0052",
+        "identifer": "44-52",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/44sik/sik0052.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "754～755年",
+            "value": "花嚴經卷八(新羅本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/44sik/sik0052.tiff/full/full/0/default.jpg",
+        "title": "歇",
+        "unicode": null
     }
 ]

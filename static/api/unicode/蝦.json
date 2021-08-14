@@ -78,5 +78,124 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021925/characters/U+8766/U+8766_200021925_00019_1_X1092_Y1195.jpg/full/full/0/default.jpg",
         "unicode": "8766"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink1095b",
+        "identifer": "33-1095b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink1095b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink1095b.tiff/full/full/0/default.jpg",
+        "title": "蝦",
+        "unicode": "E89DA6"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto1080a",
+        "identifer": "34-1080a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto1080a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto1080a.tiff/full/full/0/default.jpg",
+        "title": "蝦",
+        "unicode": "E89DA6"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto1080b",
+        "identifer": "34-1080b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto1080b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto1080b.tiff/full/full/0/default.jpg",
+        "title": "蝦",
+        "unicode": "E89DA6"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm1096a",
+        "identifer": "36-1096a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm1096a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm1096a.tiff/full/full/0/default.jpg",
+        "title": "蝦",
+        "unicode": "E89DA6"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm1096b",
+        "identifer": "36-1096b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm1096b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm1096b.tiff/full/full/0/default.jpg",
+        "title": "蝦",
+        "unicode": "E89DA6"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240900a",
+        "identifer": "3724-900a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240900a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240900a.tiff/full/full/0/default.jpg",
+        "title": "蝦",
+        "unicode": "E89DA6"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240900b",
+        "identifer": "3724-900b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240900b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240900b.tiff/full/full/0/default.jpg",
+        "title": "蝦",
+        "unicode": "E89DA6"
     }
 ]

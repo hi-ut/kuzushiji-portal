@@ -258,5 +258,345 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+6E20/U+6E20_200014740_00077_1_X0847_Y1879.jpg/full/full/0/default.jpg",
         "unicode": "6E20"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "drt0370",
+        "identifer": "6-370",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/06drt/drt0370.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "589年",
+            "value": "大樓炭經卷三(P2413)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/06drt/drt0370.tiff/full/full/0/default.jpg",
+        "title": "渠",
+        "unicode": "E6B8A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khm0079",
+        "identifer": "11-79",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/11khm/khm0079.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷三(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/11khm/khm0079.tiff/full/full/0/default.jpg",
+        "title": "渠",
+        "unicode": "E6B8A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0207",
+        "identifer": "31-207",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0207.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0207.tiff/full/full/0/default.jpg",
+        "title": "渠",
+        "unicode": "E6B8A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink1079a",
+        "identifer": "33-1079a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink1079a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink1079a.tiff/full/full/0/default.jpg",
+        "title": "渠",
+        "unicode": "E6B8A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink1079b",
+        "identifer": "33-1079b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink1079b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink1079b.tiff/full/full/0/default.jpg",
+        "title": "渠",
+        "unicode": "E6B8A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto1087a",
+        "identifer": "34-1087a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto1087a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto1087a.tiff/full/full/0/default.jpg",
+        "title": "渠",
+        "unicode": "E6B8A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto1087b",
+        "identifer": "34-1087b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto1087b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto1087b.tiff/full/full/0/default.jpg",
+        "title": "渠",
+        "unicode": "E6B8A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto1087c",
+        "identifer": "34-1087c",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto1087c.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto1087c.tiff/full/full/0/default.jpg",
+        "title": "渠",
+        "unicode": "E6B8A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0804",
+        "identifer": "36-804",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0804.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0804.tiff/full/full/0/default.jpg",
+        "title": "渠",
+        "unicode": "E6B8A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k241058a",
+        "identifer": "3724-1058a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k241058a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k241058a.tiff/full/full/0/default.jpg",
+        "title": "渠",
+        "unicode": "E6B8A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k241058b",
+        "identifer": "3724-1058b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k241058b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k241058b.tiff/full/full/0/default.jpg",
+        "title": "渠",
+        "unicode": "E6B8A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ini0184",
+        "identifer": "38-184",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/38ini/ini0184.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1236年",
+            "value": "卷二(鴨脚本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/38ini/ini0184.tiff/full/full/0/default.jpg",
+        "title": "渠",
+        "unicode": "E6B8A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkk0144",
+        "identifer": "39-144",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/39nkk/nkk0144.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1286年",
+            "value": "卷二(兼方本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/39nkk/nkk0144.tiff/full/full/0/default.jpg",
+        "title": "渠",
+        "unicode": "E6B8A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcc0190",
+        "identifer": "41-190",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/41kcc/kcc0190.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1599年",
+            "value": "卷二(慶長勅版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/41kcc/kcc0190.tiff/full/full/0/default.jpg",
+        "title": "渠",
+        "unicode": "E6B8A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcj0190",
+        "identifer": "42-190",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/42kcj/kcj0190.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1610年",
+            "value": "卷二(慶長十五年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/42kcj/kcj0190.tiff/full/full/0/default.jpg",
+        "title": "渠",
+        "unicode": "E6B8A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kbk0187",
+        "identifer": "43-187",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/43kbk/kbk0187.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/43kbk/kbk0187.tiff/full/full/0/default.jpg",
+        "title": "渠",
+        "unicode": "E6B8A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kmi0423",
+        "identifer": "55-423",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/55kmi/kmi0423.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "738年",
+            "value": "弥勒上生經(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/55kmi/kmi0423.tiff/full/full/0/default.jpg",
+        "title": "渠",
+        "unicode": "E6B8A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0127",
+        "identifer": "72-127",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0127.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0127.tiff/full/full/0/default.jpg",
+        "title": "渠",
+        "unicode": "E6B8A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sgs0325",
+        "identifer": "77-325",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/77sgs/sgs0325.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年頃",
+            "value": "四分律卷第十六(正倉院五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/77sgs/sgs0325.tiff/full/full/0/default.jpg",
+        "title": "渠",
+        "unicode": "E6B8A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sts0325",
+        "identifer": "78-325",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/78sts/sts0325.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年頃",
+            "value": "四分律卷第二十(正倉院唐經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/78sts/sts0325.tiff/full/full/0/default.jpg",
+        "title": "渠",
+        "unicode": "E6B8A0"
     }
 ]

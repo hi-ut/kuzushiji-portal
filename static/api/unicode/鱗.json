@@ -418,5 +418,39 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021712/characters/U+9C57/U+9C57_200021712_00081_1_X0851_Y3327.jpg/full/full/0/default.jpg",
         "unicode": "9C57"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyd1569b",
+        "identifer": "14-1569b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/14kyd/kyd1569b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "初唐",
+            "value": "漢書楊雄傳(上野本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/14kyd/kyd1569b.tiff/full/full/0/default.jpg",
+        "title": "鱗",
+        "unicode": "E9B197"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0443",
+        "identifer": "31-443",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0443.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0443.tiff/full/full/0/default.jpg",
+        "title": "鱗",
+        "unicode": "E9B197"
     }
 ]

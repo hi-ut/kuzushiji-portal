@@ -98,5 +98,56 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+9B4F/U+9B4F_200021660_00092_1_X0796_Y1914.jpg/full/full/0/default.jpg",
         "unicode": "9B4F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0653",
+        "identifer": "30-653",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0653.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0653.tiff/full/full/0/default.jpg",
+        "title": "魏",
+        "unicode": "E9AD8F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0442",
+        "identifer": "31-442",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0442.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0442.tiff/full/full/0/default.jpg",
+        "title": "魏",
+        "unicode": "E9AD8F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0545",
+        "identifer": "56-545",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0545.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0545.tiff/full/full/0/default.jpg",
+        "title": "魏",
+        "unicode": "E9AD8F"
     }
 ]

@@ -52,5 +52,22 @@
         "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFITC110011781-C1.tiff/71,3800,501,431/full/0/default.jpg",
         "title": "瓮",
         "unicode": "UTF-8"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyu0113",
+        "identifer": "47-113",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/47kyu/kyu0113.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "11C",
+            "value": "瑜伽師地論卷五(高麗初彫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/47kyu/kyu0113.tiff/full/full/0/default.jpg",
+        "title": "瓮",
+        "unicode": "E793AE"
     }
 ]

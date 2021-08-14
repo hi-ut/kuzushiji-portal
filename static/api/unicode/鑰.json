@@ -1,5 +1,41 @@
 [
     {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AFITB11000103",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITB11/6AFITB110001031/6AFITB110001031-31/list/6AFITB110001031-31-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITB11/6AFITB110001031/6AFITB110001031-31/6AFITB110001031-31.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFITB11000103",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFITB110001031-C1.tiff/44,3392,238,262/full/0/default.jpg",
+        "title": "鑰",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AFITB11000103",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITB11/6AFITB110001031/6AFITB110001031-23/list/6AFITB110001031-23-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITB11/6AFITB110001031/6AFITB110001031-23/6AFITB110001031-23.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFITB11000103",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFITB110001031-C1.tiff/42,2240,228,246/full/0/default.jpg",
+        "title": "鑰",
+        "unicode": "UTF-8"
+    },
+    {
         "character": "鑰",
         "creator": "国文学研究資料館",
         "delegate": true,

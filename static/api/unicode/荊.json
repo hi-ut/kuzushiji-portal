@@ -198,5 +198,39 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+834A/U+834A_200021660_00023_1_X1535_Y0824.jpg/full/full/0/default.jpg",
         "unicode": "834A"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jhk0178",
+        "identifer": "29-178",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/29jhk/jhk0178.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1126年",
+            "value": "神足變化經(開元寺版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/29jhk/jhk0178.tiff/full/full/0/default.jpg",
+        "title": "荊",
+        "unicode": "E88D8A"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0333",
+        "identifer": "31-333",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0333.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0333.tiff/full/full/0/default.jpg",
+        "title": "荊",
+        "unicode": "E88D8A"
     }
 ]

@@ -138,5 +138,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+689F/U+689F_200014740_00010_1_X0813_Y0785.jpg/full/full/0/default.jpg",
         "unicode": "689F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sys0077",
+        "identifer": "22-77",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/22sys/sys0077.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "857年",
+            "value": "瑜伽師地論卷三十(S5309)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/22sys/sys0077.tiff/full/full/0/default.jpg",
+        "title": "梟",
+        "unicode": "E6A29F"
     }
 ]

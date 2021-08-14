@@ -38,5 +38,39 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+8E81/U+8E81_200014740_00043_2_X1416_Y2221.jpg/full/full/0/default.jpg",
         "unicode": "8E81"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0388",
+        "identifer": "18-388",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0388.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0388.tiff/full/full/0/default.jpg",
+        "title": "躁",
+        "unicode": "E8BA81"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae1428",
+        "identifer": "19-1428",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae1428.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae1428.tiff/full/full/0/default.jpg",
+        "title": "躁",
+        "unicode": "E8BA81"
     }
 ]

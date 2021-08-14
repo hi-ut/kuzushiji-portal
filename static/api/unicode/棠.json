@@ -58,5 +58,39 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+68E0/U+68E0_200015843_00093_2_X1667_Y2153.jpg/full/full/0/default.jpg",
         "unicode": "68E0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0677",
+        "identifer": "26-677",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0677.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0677.tiff/full/full/0/default.jpg",
+        "title": "棠",
+        "unicode": "E6A3A0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kmi0099",
+        "identifer": "55-99",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/55kmi/kmi0099.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "738年",
+            "value": "弥勒上生經(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/55kmi/kmi0099.tiff/full/full/0/default.jpg",
+        "title": "棠",
+        "unicode": "E6A3A0"
     }
 ]

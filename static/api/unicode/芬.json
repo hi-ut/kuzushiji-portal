@@ -18,5 +18,107 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+82AC/U+82AC_200014685_00015_2_X1679_Y0462.jpg/full/full/0/default.jpg",
         "unicode": "82AC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sok0388",
+        "identifer": "15-388",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/15sok/sok0388.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "則天期",
+            "value": "花嚴經卷八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/15sok/sok0388.tiff/full/full/0/default.jpg",
+        "title": "芬",
+        "unicode": "E88AAC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0299",
+        "identifer": "26-299",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0299.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0299.tiff/full/full/0/default.jpg",
+        "title": "芬",
+        "unicode": "E88AAC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jhk0182",
+        "identifer": "29-182",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/29jhk/jhk0182.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1126年",
+            "value": "神足變化經(開元寺版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/29jhk/jhk0182.tiff/full/full/0/default.jpg",
+        "title": "芬",
+        "unicode": "E88AAC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sik0437",
+        "identifer": "44-437",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/44sik/sik0437.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "754～755年",
+            "value": "花嚴經卷八(新羅本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/44sik/sik0437.tiff/full/full/0/default.jpg",
+        "title": "芬",
+        "unicode": "E88AAC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0403",
+        "identifer": "56-403",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0403.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0403.tiff/full/full/0/default.jpg",
+        "title": "芬",
+        "unicode": "E88AAC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0737",
+        "identifer": "72-737",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0737.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0737.tiff/full/full/0/default.jpg",
+        "title": "芬",
+        "unicode": "E88AAC"
     }
 ]

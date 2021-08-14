@@ -18,5 +18,39 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+659F/U+659F_200003076_00176_1_X1216_Y2239.jpg/full/full/0/default.jpg",
         "unicode": "659F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sgs0498b",
+        "identifer": "77-498b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/77sgs/sgs0498b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年頃",
+            "value": "四分律卷第十六(正倉院五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/77sgs/sgs0498b.tiff/full/full/0/default.jpg",
+        "title": "斟",
+        "unicode": "E6969F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sts0271",
+        "identifer": "78-271",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/78sts/sts0271.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年頃",
+            "value": "四分律卷第二十(正倉院唐經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/78sts/sts0271.tiff/full/full/0/default.jpg",
+        "title": "斟",
+        "unicode": "E6969F"
     }
 ]

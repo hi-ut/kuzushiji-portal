@@ -118,5 +118,73 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+95E2/U+95E2_200021660_00024_2_X1116_Y1099.jpg/full/full/0/default.jpg",
         "unicode": "95E2"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink0397",
+        "identifer": "33-397",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink0397.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink0397.tiff/full/full/0/default.jpg",
+        "title": "闢",
+        "unicode": "E997A2"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0381",
+        "identifer": "34-381",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0381.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0381.tiff/full/full/0/default.jpg",
+        "title": "闢",
+        "unicode": "E997A2"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0392",
+        "identifer": "36-392",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0392.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0392.tiff/full/full/0/default.jpg",
+        "title": "闢",
+        "unicode": "E997A2"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240384",
+        "identifer": "3724-384",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240384.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240384.tiff/full/full/0/default.jpg",
+        "title": "闢",
+        "unicode": "E997A2"
     }
 ]

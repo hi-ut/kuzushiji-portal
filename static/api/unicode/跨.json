@@ -58,5 +58,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+8DE8/U+8DE8_200014685_00030_2_X1339_Y0347.jpg/full/full/0/default.jpg",
         "unicode": "8DE8"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0458",
+        "identifer": "56-458",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0458.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0458.tiff/full/full/0/default.jpg",
+        "title": "跨",
+        "unicode": "E8B7A8"
     }
 ]

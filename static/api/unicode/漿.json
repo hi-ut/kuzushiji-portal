@@ -38,5 +38,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+6F3F/U+6F3F_200014740_00019_1_X0735_Y0548.jpg/full/full/0/default.jpg",
         "unicode": "6F3F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0175",
+        "identifer": "26-175",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0175.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0175.tiff/full/full/0/default.jpg",
+        "title": "漿",
+        "unicode": "E6BCBF"
     }
 ]

@@ -18,5 +18,90 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200018243/characters/U+6BB7/U+6BB7_200018243_00014_1_X1551_Y2632.jpg/full/full/0/default.jpg",
         "unicode": "6BB7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar1007",
+        "identifer": "18-1007",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar1007.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar1007.tiff/full/full/0/default.jpg",
+        "title": "殷",
+        "unicode": "E6AEB7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae1046",
+        "identifer": "19-1046",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae1046.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae1046.tiff/full/full/0/default.jpg",
+        "title": "殷",
+        "unicode": "E6AEB7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sys0462",
+        "identifer": "22-462",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/22sys/sys0462.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "857年",
+            "value": "瑜伽師地論卷三十(S5309)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/22sys/sys0462.tiff/full/full/0/default.jpg",
+        "title": "殷",
+        "unicode": "E6AEB7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0853",
+        "identifer": "31-853",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0853.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0853.tiff/full/full/0/default.jpg",
+        "title": "殷",
+        "unicode": "E6AEB7"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0114",
+        "identifer": "74-114",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0114.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0114.tiff/full/full/0/default.jpg",
+        "title": "殷",
+        "unicode": "E6AEB7"
     }
 ]

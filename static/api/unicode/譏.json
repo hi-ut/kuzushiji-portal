@@ -38,5 +38,107 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+8B4F/U+8B4F_200014685_00030_1_X0589_Y2810.jpg/full/full/0/default.jpg",
         "unicode": "8B4F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "dng0809",
+        "identifer": "3-809",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/03dng/dng0809.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "506年",
+            "value": "大般涅槃經卷十一(S81)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/03dng/dng0809.tiff/full/full/0/default.jpg",
+        "title": "譏",
+        "unicode": "E8AD8F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "yhk0870",
+        "identifer": "16-870",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/16yhk/yhk0870.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "712年",
+            "value": "瑜伽法鏡經(S2423)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/16yhk/yhk0870.tiff/full/full/0/default.jpg",
+        "title": "譏",
+        "unicode": "E8AD8F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kak0206",
+        "identifer": "17-206",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/17kak/kak0206.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經孝經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/17kak/kak0206.tiff/full/full/0/default.jpg",
+        "title": "譏",
+        "unicode": "E8AD8F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod1423",
+        "identifer": "30-1423",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod1423.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod1423.tiff/full/full/0/default.jpg",
+        "title": "譏",
+        "unicode": "E8AD8F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sgs0436",
+        "identifer": "77-436",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/77sgs/sgs0436.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年頃",
+            "value": "四分律卷第十六(正倉院五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/77sgs/sgs0436.tiff/full/full/0/default.jpg",
+        "title": "譏",
+        "unicode": "E8AD8F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sts0438",
+        "identifer": "78-438",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/78sts/sts0438.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年頃",
+            "value": "四分律卷第二十(正倉院唐經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/78sts/sts0438.tiff/full/full/0/default.jpg",
+        "title": "譏",
+        "unicode": "E8AD8F"
     }
 ]

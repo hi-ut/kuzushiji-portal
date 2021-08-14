@@ -598,5 +598,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021712/characters/U+7CE0/U+7CE0_200021712_00079_2_X1121_Y2682.jpg/full/full/0/default.jpg",
         "unicode": "7CE0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0174",
+        "identifer": "74-174",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0174.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0174.tiff/full/full/0/default.jpg",
+        "title": "糠",
+        "unicode": "E7B3A0"
     }
 ]

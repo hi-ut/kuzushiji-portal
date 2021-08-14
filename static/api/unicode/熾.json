@@ -38,5 +38,175 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+71BE/U+71BE_200014740_00080_2_X1515_Y2487.jpg/full/full/0/default.jpg",
         "unicode": "71BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "dng0165",
+        "identifer": "3-165",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/03dng/dng0165.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "506年",
+            "value": "大般涅槃經卷十一(S81)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/03dng/dng0165.tiff/full/full/0/default.jpg",
+        "title": "熾",
+        "unicode": "E786BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "mam0755",
+        "identifer": "5-755",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/05mam/mam0755.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "586年",
+            "value": "摩訶摩耶經卷上(P2160)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/05mam/mam0755.tiff/full/full/0/default.jpg",
+        "title": "熾",
+        "unicode": "E786BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sok0329",
+        "identifer": "15-329",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/15sok/sok0329.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "則天期",
+            "value": "花嚴經卷八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/15sok/sok0329.tiff/full/full/0/default.jpg",
+        "title": "熾",
+        "unicode": "E786BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "yhk0175",
+        "identifer": "16-175",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/16yhk/yhk0175.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "712年",
+            "value": "瑜伽法鏡經(S2423)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/16yhk/yhk0175.tiff/full/full/0/default.jpg",
+        "title": "熾",
+        "unicode": "E786BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jhk0114",
+        "identifer": "29-114",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/29jhk/jhk0114.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1126年",
+            "value": "神足變化經(開元寺版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/29jhk/jhk0114.tiff/full/full/0/default.jpg",
+        "title": "熾",
+        "unicode": "E786BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sik0368",
+        "identifer": "44-368",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/44sik/sik0368.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "754～755年",
+            "value": "花嚴經卷八(新羅本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/44sik/sik0368.tiff/full/full/0/default.jpg",
+        "title": "熾",
+        "unicode": "E786BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "skk0371",
+        "identifer": "46-371",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/46skk/skk0371.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "華嚴經卷二十(晉本高麗古版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/46skk/skk0371.tiff/full/full/0/default.jpg",
+        "title": "熾",
+        "unicode": "E786BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ksk0076",
+        "identifer": "48-76",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/48ksk/ksk0076.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "13C",
+            "value": "華嚴經卷六(高麗再彫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/48ksk/ksk0076.tiff/full/full/0/default.jpg",
+        "title": "熾",
+        "unicode": "E786BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wan0077",
+        "identifer": "49-77",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/49wan/wan0077.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "華嚴經卷三十八(趙氏藏本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/49wan/wan0077.tiff/full/full/0/default.jpg",
+        "title": "熾",
+        "unicode": "E786BE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0130",
+        "identifer": "71-130",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0130.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0130.tiff/full/full/0/default.jpg",
+        "title": "熾",
+        "unicode": "E786BE"
     }
 ]

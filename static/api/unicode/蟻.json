@@ -198,5 +198,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021644/characters/U+87FB/U+87FB_200021644_00041_1_X0142_Y0931.jpg/full/full/0/default.jpg",
         "unicode": "87FB"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "yhk0839",
+        "identifer": "16-839",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/16yhk/yhk0839.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "712年",
+            "value": "瑜伽法鏡經(S2423)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/16yhk/yhk0839.tiff/full/full/0/default.jpg",
+        "title": "蟻",
+        "unicode": "E89FBB"
     }
 ]

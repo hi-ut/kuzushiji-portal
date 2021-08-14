@@ -18,5 +18,39 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+6582/U+6582_200004148_00048_2_X1574_Y1301.jpg/full/full/0/default.jpg",
         "unicode": "6582"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sys0070",
+        "identifer": "22-70",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/22sys/sys0070.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "857年",
+            "value": "瑜伽師地論卷三十(S5309)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/22sys/sys0070.tiff/full/full/0/default.jpg",
+        "title": "斂",
+        "unicode": "E69682"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0170",
+        "identifer": "31-170",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0170.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0170.tiff/full/full/0/default.jpg",
+        "title": "斂",
+        "unicode": "E69682"
     }
 ]

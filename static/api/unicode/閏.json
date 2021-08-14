@@ -1,5 +1,41 @@
 [
     {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6BFKEM70000102",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6BFK/6BFKEM70/6BFKEM700001022/6BFKEM700001022-1/list/6BFKEM700001022-1-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6BFK/6BFKEM70/6BFKEM700001022/6BFKEM700001022-1/6BFKEM700001022-1.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6BFKEM70000102",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6BFKEM700001022-C1.tiff/0,960,160,401/full/0/default.jpg",
+        "title": "閏",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AABUS48000021",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AAB/6AABUS48/6AABUS480000211/6AABUS480000211-3/list/6AABUS480000211-3-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AAB/6AABUS48/6AABUS480000211/6AABUS480000211-3/6AABUS480000211-3.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AABUS48000021",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AABUS480000211-C1.tiff/80,334,264,321/full/0/default.jpg",
+        "title": "閏",
+        "unicode": "UTF-8"
+    },
+    {
         "character": "閏",
         "creator": "国文学研究資料館",
         "delegate": true,
@@ -158,6 +194,23 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021763/characters/U+958F/U+958F_200021763_00032_2_X1766_Y2241.jpg/full/full/0/default.jpg",
         "unicode": "958F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0406",
+        "identifer": "31-406",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0406.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0406.tiff/full/full/0/default.jpg",
+        "title": "閏",
+        "unicode": "E9968F"
     },
     {
         "creator": "東京大学史料編纂所@ja",
