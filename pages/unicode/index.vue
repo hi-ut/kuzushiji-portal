@@ -12,78 +12,9 @@
     <v-container class="my-5">
       <h2 class="mb-5">{{ title }}</h2>
 
-      <h3>データセットの統計情報</h3>
-
-      <p>
-        文字種：{{ items.length.toLocaleString() }} ／ 文字数：{{
-          total.toLocaleString()
-        }}
-      </p>
+      <Static :size="items.length" :total="total" />
 
       <h4 class="mt-10">文字種リスト</h4>
-
-      <!--
-      <v-simple-table class="mt-5">
-        <template v-slot:default>
-          <tbody>
-            <tr v-for="(item, key) in items2" :key="key">
-              <td class="py-2 px-4" v-for="(item2, key2) in item" :key="key2">
-                <div>
-                  <small>{{item2.code}}</small>
-                  <h3>
-                    <nuxt-link
-                      :to="
-                        localePath({
-                          name: 'unicode-id',
-                          params: {
-                            id: item2.label,
-                          },
-                        })
-                      "
-                    >{{ item2.label }}
-                    </nuxt-link>
-                  </h3>
-                  <div class="text-right">
-                    <h4>{{item2.size.toLocaleString()}}</h4>
-                    <small>{{item2.index}}位</small>
-                  </div>
-                </div>
-               </td>
-            </tr>
-          </tbody>
-        </template>
-      </v-simple-table>
-      -->
-      <div class="mt-5">
-        <v-row v-for="(item, key) in items2" :key="key" dense>
-          <v-col v-for="(item2, key2) in item" :key="key2" cols="4" sm="1">
-            <v-card outlined>
-              <div class="pa-2">
-                <small>{{item2.code}}</small>
-                <h3>
-                  <nuxt-link
-                    :to="
-                      localePath({
-                        name: 'unicode-id',
-                        params: {
-                          id: item2.label,
-                        },
-                      })
-                    "
-                  >{{ item2.label }}
-                  </nuxt-link>
-                </h3>
-                <div class="text-right">
-                  <h4>{{item2.size.toLocaleString()}} <small>件</small></h4>
-                  <small>{{item2.index}}位</small>
-                </div>
-              </div>
-            </v-card>
-          </v-col>
-        </v-row>
-      </div>
-
-      <!--
 
       <v-text-field
         class="my-10"
@@ -99,39 +30,42 @@
         :clearable="true"
       ></v-text-field>
 
-      <v-data-table
-        :headers="headers"
-        :items="items"
-        :items-per-page="50"
-        :search="search"
-      >
-        <template v-slot:item.label="{ item }">
-          <nuxt-link
-            :to="
-              localePath({
-                name: 'unicode-id',
-                params: {
-                  id: item.label,
-                },
-              })
-            "
-          >
-            {{ item.label }}
-          </nuxt-link>
-        </template>
-      </v-data-table>
+      <div class="text-right">
+        <v-btn
+          v-for="(option, key) in layouts"
+          :key="key"
+          icon
+          @click="layout_ = option.value"
+          ><v-icon :color="layout_ === option.value ? 'primary' : ''">{{
+            option.icon
+          }}</v-icon></v-btn
+        >
+      </div>
 
-      -->
+      <template v-if="layout_ === 'grid'">
+        <List :items="items2" />
+      </template>
+      <template v-else>
+        <Table :items="items2" />
+      </template>
 
-      <!-- <h3>くずし字データセットの書名一覧</h3> -->
     </v-container>
   </div>
 </template>
 <script lang="ts">
 import { Vue, Component } from 'nuxt-property-decorator'
 import axios from 'axios'
+import List from '~/components/kuzushiji/List.vue'
+import Table from '~/components/kuzushiji/Table.vue'
+import Static from '~/components/kuzushiji/Static.vue'
 
-@Component({})
+@Component({
+  components: {
+    List,
+    Table,
+    Static,
+  }
+})
 export default class about extends Vue {
   title: string = '文字種一覧'
 
@@ -144,22 +78,20 @@ export default class about extends Vue {
     }
   }
 
-  items: any = []
-
-  headers: any[] = [
+  layouts: any[] = [
     {
-      text: '文字種',
-      value: 'label',
+      icon: 'mdi-view-grid',
+      value: 'grid',
     },
     {
-      text: '出現回数',
-      value: 'size',
-    },
-    {
-      text: 'コード',
-      value: 'unicode',
+      icon: 'mdi-table',
+      value: 'table',
     },
   ]
+
+  layout_: string = 'grid'
+
+  items: any = []
 
   bh: any[] = [
     {
@@ -177,8 +109,6 @@ export default class about extends Vue {
 
   total: number = 0
 
-  items2: any[] = []
-
   async mounted() {
     const df = await axios.get(this.baseUrl + '/data/ana.json')
     const ana = df.data
@@ -194,26 +124,32 @@ export default class about extends Vue {
     })
 
     let total = 0
-    for (const item of data) {
+    for(let i = 0; i < data.length; i++){
+      const item = data[i]
       total += item.size
+      item.index = i + 1
     }
-
-    //this.total = total
 
     this.items = data
+  }
 
-    let arr: any[] = []
-    const items2: any[] = []
-    for(let i = 0; i < data.length; i++){
-      if (i % 12 === 0){
-        arr = []
-        items2.push(arr)
-      }
-      data[i].index = i+1
-      arr.push(data[i])
+  get items2(){
+    const search = this.search
+    const items = this.items
+    if(!search){
+      return items
     }
 
-    this.items2 = items2
+    const items2 = []
+    for(const item of items){
+      if(search === item.label){
+        items2.push(item)
+        break
+      }
+      
+    }
+
+    return items2
   }
 }
 </script>
