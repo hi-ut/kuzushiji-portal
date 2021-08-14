@@ -38,5 +38,39 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+99DF/U+99DF_200021660_00071_2_X1352_Y1787.jpg/full/full/0/default.jpg",
         "unicode": "99DF"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar1414",
+        "identifer": "18-1414",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar1414.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar1414.tiff/full/full/0/default.jpg",
+        "title": "駟",
+        "unicode": "E9A79F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0269",
+        "identifer": "74-269",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0269.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0269.tiff/full/full/0/default.jpg",
+        "title": "駟",
+        "unicode": "E9A79F"
     }
 ]

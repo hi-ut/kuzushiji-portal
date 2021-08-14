@@ -18,5 +18,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+7707/U+7707_200015843_00052_2_X1044_Y0923.jpg/full/full/0/default.jpg",
         "unicode": "7707"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae1171",
+        "identifer": "19-1171",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae1171.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae1171.tiff/full/full/0/default.jpg",
+        "title": "眇",
+        "unicode": "E79C87"
     }
 ]

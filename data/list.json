@@ -87,7 +87,12 @@
     {
         "code": "U+67CF",
         "label": "柏",
-        "size": 24
+        "size": 26
+    },
+    {
+        "code": "U+7C00",
+        "label": "簀",
+        "size": 40
     },
     {
         "code": "U+7E04",
@@ -98,6 +103,16 @@
         "code": "U+5207",
         "label": "切",
         "size": 811
+    },
+    {
+        "code": "U+858A",
+        "label": "薊",
+        "size": 2
+    },
+    {
+        "code": "U+8471",
+        "label": "葱",
+        "size": 29
     },
     {
         "code": "U+7D44",
@@ -172,7 +187,7 @@
     {
         "code": "U+667A",
         "label": "智",
-        "size": 153
+        "size": 199
     },
     {
         "code": "U+51B6",
@@ -192,7 +207,17 @@
     {
         "code": "U+79E6",
         "label": "秦",
-        "size": 75
+        "size": 85
+    },
+    {
+        "code": "U+8B83",
+        "label": "讃",
+        "size": 54
+    },
+    {
+        "code": "U+9640",
+        "label": "陀",
+        "size": 83
     },
     {
         "code": "U+6765",
@@ -252,7 +277,7 @@
     {
         "code": "U+6A58",
         "label": "橘",
-        "size": 32
+        "size": 42
     },
     {
         "code": "U+6E0B",
@@ -273,6 +298,11 @@
         "code": "U+5168",
         "label": "全",
         "size": 113
+    },
+    {
+        "code": "U+88F9",
+        "label": "裹",
+        "size": 17
     },
     {
         "code": "U+675F",
@@ -308,6 +338,11 @@
         "code": "U+4E09",
         "label": "三",
         "size": 3384
+    },
+    {
+        "code": "U+9BDB",
+        "label": "鯛",
+        "size": 142
     },
     {
         "code": "U+91CF",
@@ -352,7 +387,7 @@
     {
         "code": "U+695A",
         "label": "楚",
-        "size": 29
+        "size": 33
     },
     {
         "code": "U+4F4D",
@@ -367,7 +402,7 @@
     {
         "code": "U+7562",
         "label": "畢",
-        "size": 126
+        "size": 151
     },
     {
         "code": "U+6BDB",
@@ -377,7 +412,7 @@
     {
         "code": "U+77E3",
         "label": "矣",
-        "size": 43
+        "size": 67
     },
     {
         "code": "U+5FB3",
@@ -395,14 +430,24 @@
         "size": 215
     },
     {
+        "code": "U+8499",
+        "label": "蒙",
+        "size": 69
+    },
+    {
         "code": "U+52B4",
         "label": "労",
         "size": 107
     },
     {
+        "code": "U+7CB3",
+        "label": "粳",
+        "size": 20
+    },
+    {
         "code": "U+6C93",
         "label": "沓",
-        "size": 28
+        "size": 29
     },
     {
         "code": "U+4E8C",
@@ -412,7 +457,7 @@
     {
         "code": "U+6B64",
         "label": "此",
-        "size": 3378
+        "size": 3434
     },
     {
         "code": "U+6483",
@@ -512,7 +557,7 @@
     {
         "code": "U+7B51",
         "label": "筑",
-        "size": 62
+        "size": 71
     },
     {
         "code": "U+8ACB",
@@ -540,9 +585,19 @@
         "size": 46
     },
     {
+        "code": "U+978D",
+        "label": "鞍",
+        "size": 19
+    },
+    {
         "code": "U+59CB",
         "label": "始",
         "size": 239
+    },
+    {
+        "code": "U+85A9",
+        "label": "薩",
+        "size": 140
     },
     {
         "code": "U+5224",
@@ -572,7 +627,7 @@
     {
         "code": "U+66F3",
         "label": "曳",
-        "size": 9
+        "size": 17
     },
     {
         "code": "U+533B",
@@ -632,7 +687,7 @@
     {
         "code": "U+64AD",
         "label": "播",
-        "size": 65
+        "size": 75
     },
     {
         "code": "U+4F59",
@@ -720,9 +775,24 @@
         "size": 305
     },
     {
+        "code": "U+9EB9",
+        "label": "麹",
+        "size": 12
+    },
+    {
         "code": "U+901A",
         "label": "通",
         "size": 577
+    },
+    {
+        "code": "U+9DF9",
+        "label": "鷹",
+        "size": 48
+    },
+    {
+        "code": "U+83C5",
+        "label": "菅",
+        "size": 35
     },
     {
         "code": "U+53E4",
@@ -752,7 +822,7 @@
     {
         "code": "U+6961",
         "label": "楡",
-        "size": 4
+        "size": 5
     },
     {
         "code": "U+6CC9",
@@ -870,6 +940,11 @@
         "size": 706
     },
     {
+        "code": "U+936C",
+        "label": "鍬",
+        "size": 18
+    },
+    {
         "code": "U+4F0E",
         "label": "伎",
         "size": 46
@@ -888,6 +963,11 @@
         "code": "U+54C1",
         "label": "品",
         "size": 182
+    },
+    {
+        "code": "U+8540",
+        "label": "蕀",
+        "size": 4
     },
     {
         "code": "U+5132",
@@ -945,6 +1025,11 @@
         "size": 316
     },
     {
+        "code": "U+8FB0",
+        "label": "辰",
+        "size": 94
+    },
+    {
         "code": "U+8DEF",
         "label": "路",
         "size": 284
@@ -965,9 +1050,19 @@
         "size": 19
     },
     {
+        "code": "U+800C",
+        "label": "而",
+        "size": 722
+    },
+    {
         "code": "U+5272",
         "label": "割",
         "size": 91
+    },
+    {
+        "code": "U+8404",
+        "label": "萄",
+        "size": 2
     },
     {
         "code": "U+7269",
@@ -1145,6 +1240,11 @@
         "size": 173
     },
     {
+        "code": "U+7BAD",
+        "label": "箭",
+        "size": 47
+    },
+    {
         "code": "U+5BB6",
         "label": "家",
         "size": 1411
@@ -1185,6 +1285,11 @@
         "size": 154
     },
     {
+        "code": "U+870A",
+        "label": "蜊",
+        "size": 1
+    },
+    {
         "code": "U+8302",
         "label": "茂",
         "size": 138
@@ -1198,6 +1303,11 @@
         "code": "U+59D3",
         "label": "姓",
         "size": 76
+    },
+    {
+        "code": "U+9BD6",
+        "label": "鯖",
+        "size": 11
     },
     {
         "code": "U+4E5F",
@@ -1425,9 +1535,19 @@
         "size": 335
     },
     {
+        "code": "U+9B93",
+        "label": "鮓",
+        "size": 29
+    },
+    {
         "code": "U+9670",
         "label": "陰",
         "size": 171
+    },
+    {
+        "code": "U+958F",
+        "label": "閏",
+        "size": 21
     },
     {
         "code": "U+53D9",
@@ -1475,9 +1595,19 @@
         "size": 1256
     },
     {
+        "code": "U+831C",
+        "label": "茜",
+        "size": 4
+    },
+    {
         "code": "U+5099",
         "label": "備",
         "size": 173
+    },
+    {
+        "code": "U+88F3",
+        "label": "裳",
+        "size": 30
     },
     {
         "code": "U+6D41",
@@ -1575,6 +1705,11 @@
         "size": 186
     },
     {
+        "code": "U+91A4",
+        "label": "醤",
+        "size": 171
+    },
+    {
         "code": "U+540D",
         "label": "名",
         "size": 831
@@ -1608,6 +1743,11 @@
         "code": "U+6C99",
         "label": "沙",
         "size": 481
+    },
+    {
+        "code": "U+92E4",
+        "label": "鋤",
+        "size": 7
     },
     {
         "code": "U+7D19",
@@ -1690,6 +1830,11 @@
         "size": 2
     },
     {
+        "code": "U+8607",
+        "label": "蘇",
+        "size": 49
+    },
+    {
         "code": "U+4FB6",
         "label": "侶",
         "size": 20
@@ -1757,7 +1902,7 @@
     {
         "code": "U+732A",
         "label": "猪",
-        "size": 128
+        "size": 135
     },
     {
         "code": "U+793E",
@@ -1787,7 +1932,7 @@
     {
         "code": "U+74DC",
         "label": "瓜",
-        "size": 92
+        "size": 95
     },
     {
         "code": "U+82B1",
@@ -1808,6 +1953,11 @@
         "code": "U+967D",
         "label": "陽",
         "size": 133
+    },
+    {
+        "code": "U+8C49",
+        "label": "豉",
+        "size": 4
     },
     {
         "code": "U+5FCC",
@@ -1935,6 +2085,11 @@
         "size": 24
     },
     {
+        "code": "U+82C5",
+        "label": "苅",
+        "size": 9
+    },
+    {
         "code": "U+5B54",
         "label": "孔",
         "size": 36
@@ -2020,6 +2175,11 @@
         "size": 91
     },
     {
+        "code": "U+8304",
+        "label": "茄",
+        "size": 41
+    },
+    {
         "code": "U+5DDD",
         "label": "川",
         "size": 510
@@ -2085,6 +2245,16 @@
         "size": 59
     },
     {
+        "code": "U+8006",
+        "label": "耆",
+        "size": 11
+    },
+    {
+        "code": "U+8202",
+        "label": "舂",
+        "size": 25
+    },
+    {
         "code": "U+91DD",
         "label": "針",
         "size": 41
@@ -2093,6 +2263,11 @@
         "code": "U+6C5F",
         "label": "江",
         "size": 354
+    },
+    {
+        "code": "U+9B92",
+        "label": "鮒",
+        "size": 52
     },
     {
         "code": "U+9996",
@@ -2108,6 +2283,11 @@
         "code": "U+8FBA",
         "label": "辺",
         "size": 290
+    },
+    {
+        "code": "U+8F3F",
+        "label": "輿",
+        "size": 44
     },
     {
         "code": "U+8CC0",
@@ -2135,6 +2315,11 @@
         "size": 146
     },
     {
+        "code": "U+7DBE",
+        "label": "綾",
+        "size": 41
+    },
+    {
         "code": "U+5FA1",
         "label": "御",
         "size": 6185
@@ -2160,6 +2345,11 @@
         "size": 546
     },
     {
+        "code": "U+9BA8",
+        "label": "鮨",
+        "size": 11
+    },
+    {
         "code": "U+99AC",
         "label": "馬",
         "size": 720
@@ -2172,7 +2362,7 @@
     {
         "code": "U+7947",
         "label": "祇",
-        "size": 40
+        "size": 75
     },
     {
         "code": "U+5348",
@@ -2182,7 +2372,7 @@
     {
         "code": "U+70AC",
         "label": "炬",
-        "size": 6
+        "size": 11
     },
     {
         "code": "U+98FD",
@@ -2210,6 +2400,11 @@
         "size": 144
     },
     {
+        "code": "U+7CEF",
+        "label": "糯",
+        "size": 15
+    },
+    {
         "code": "U+7E54",
         "label": "織",
         "size": 117
@@ -2222,7 +2417,7 @@
     {
         "code": "U+659B",
         "label": "斛",
-        "size": 23
+        "size": 25
     },
     {
         "code": "U+6545",
@@ -2248,6 +2443,11 @@
         "code": "U+6052",
         "label": "恒",
         "size": 39
+    },
+    {
+        "code": "U+963F",
+        "label": "阿",
+        "size": 252
     },
     {
         "code": "U+5982",
@@ -2330,6 +2530,11 @@
         "size": 148
     },
     {
+        "code": "U+80E1",
+        "label": "胡",
+        "size": 142
+    },
+    {
         "code": "U+76D7",
         "label": "盗",
         "size": 74
@@ -2338,6 +2543,11 @@
         "code": "U+7528",
         "label": "用",
         "size": 806
+    },
+    {
+        "code": "U+84B2",
+        "label": "蒲",
+        "size": 61
     },
     {
         "code": "U+8CA2",
@@ -2410,6 +2620,11 @@
         "size": 56
     },
     {
+        "code": "U+9B91",
+        "label": "鮑",
+        "size": 20
+    },
+    {
         "code": "U+70BA",
         "label": "為",
         "size": 1192
@@ -2460,6 +2675,11 @@
         "size": 408
     },
     {
+        "code": "U+8925",
+        "label": "褥",
+        "size": 5
+    },
+    {
         "code": "U+76F8",
         "label": "相",
         "size": 1400
@@ -2478,6 +2698,11 @@
         "code": "U+679C",
         "label": "果",
         "size": 177
+    },
+    {
+        "code": "U+9C12",
+        "label": "鰒",
+        "size": 20
     },
     {
         "code": "U+5BBF",
@@ -2655,9 +2880,19 @@
         "size": 121
     },
     {
+        "code": "U+96C1",
+        "label": "雁",
+        "size": 65
+    },
+    {
         "code": "U+516C",
         "label": "公",
         "size": 710
+    },
+    {
+        "code": "U+8B02",
+        "label": "謂",
+        "size": 126
     },
     {
         "code": "U+53D7",
@@ -2825,6 +3060,11 @@
         "size": 55
     },
     {
+        "code": "U+876E",
+        "label": "蝮",
+        "size": 4
+    },
+    {
         "code": "U+76F4",
         "label": "直",
         "size": 486
@@ -2847,7 +3087,7 @@
     {
         "code": "U+6893",
         "label": "梓",
-        "size": 18
+        "size": 19
     },
     {
         "code": "U+4F7F",
@@ -3022,7 +3262,7 @@
     {
         "code": "U+65AF",
         "label": "斯",
-        "size": 69
+        "size": 99
     },
     {
         "code": "U+982D",
@@ -3138,6 +3378,11 @@
         "code": "U+62DD",
         "label": "拝",
         "size": 203
+    },
+    {
+        "code": "U+85C1",
+        "label": "藁",
+        "size": 30
     },
     {
         "code": "U+6E6F",
@@ -3285,6 +3530,11 @@
         "size": 498
     },
     {
+        "code": "U+96C0",
+        "label": "雀",
+        "size": 64
+    },
+    {
         "code": "U+516D",
         "label": "六",
         "size": 1543
@@ -3382,12 +3632,17 @@
     {
         "code": "U+70CF",
         "label": "烏",
-        "size": 81
+        "size": 97
     },
     {
         "code": "U+7B20",
         "label": "笠",
-        "size": 95
+        "size": 99
+    },
+    {
+        "code": "U+8D16",
+        "label": "贖",
+        "size": 11
     },
     {
         "code": "U+82F1",
@@ -3418,6 +3673,11 @@
         "code": "U+897F",
         "label": "西",
         "size": 545
+    },
+    {
+        "code": "U+849C",
+        "label": "蒜",
+        "size": 6
     },
     {
         "code": "U+96E3",
@@ -3473,6 +3733,11 @@
         "code": "U+725B",
         "label": "牛",
         "size": 215
+    },
+    {
+        "code": "U+83C1",
+        "label": "菁",
+        "size": 6
     },
     {
         "code": "U+53BB",
@@ -3592,7 +3857,7 @@
     {
         "code": "U+6756",
         "label": "杖",
-        "size": 47
+        "size": 63
     },
     {
         "code": "U+6CB9",
@@ -3635,6 +3900,11 @@
         "size": 377
     },
     {
+        "code": "U+9D28",
+        "label": "鴨",
+        "size": 82
+    },
+    {
         "code": "U+98DB",
         "label": "飛",
         "size": 198
@@ -3658,6 +3928,11 @@
         "code": "U+7686",
         "label": "皆",
         "size": 300
+    },
+    {
+        "code": "U+83AB",
+        "label": "莫",
+        "size": 44
     },
     {
         "code": "U+5426",
@@ -3755,9 +4030,29 @@
         "size": 425
     },
     {
+        "code": "U+8466",
+        "label": "葦",
+        "size": 17
+    },
+    {
         "code": "U+79E4",
         "label": "秤",
         "size": 19
+    },
+    {
+        "code": "U+7BE0",
+        "label": "篠",
+        "size": 20
+    },
+    {
+        "code": "U+7DEC",
+        "label": "緬",
+        "size": 9
+    },
+    {
+        "code": "U+887E",
+        "label": "衾",
+        "size": 14
     },
     {
         "code": "U+6587",
@@ -3778,6 +4073,11 @@
         "code": "U+74F6",
         "label": "瓶",
         "size": 51
+    },
+    {
+        "code": "U+9D5C",
+        "label": "鵜",
+        "size": 23
     },
     {
         "code": "U+6D66",
@@ -3892,7 +4192,7 @@
     {
         "code": "U+660C",
         "label": "昌",
-        "size": 53
+        "size": 57
     },
     {
         "code": "U+4E07",
@@ -3950,6 +4250,11 @@
         "size": 8
     },
     {
+        "code": "U+9F20",
+        "label": "鼠",
+        "size": 113
+    },
+    {
         "code": "U+60A6",
         "label": "悦",
         "size": 130
@@ -3965,6 +4270,11 @@
         "size": 131
     },
     {
+        "code": "U+8D04",
+        "label": "贄",
+        "size": 71
+    },
+    {
         "code": "U+5339",
         "label": "匹",
         "size": 36
@@ -3978,6 +4288,11 @@
         "code": "U+9023",
         "label": "連",
         "size": 374
+    },
+    {
+        "code": "U+91D8",
+        "label": "釘",
+        "size": 19
     },
     {
         "code": "U+4E45",
@@ -4030,6 +4345,11 @@
         "size": 18
     },
     {
+        "code": "U+9470",
+        "label": "鑰",
+        "size": 5
+    },
+    {
         "code": "U+5750",
         "label": "坐",
         "size": 85
@@ -4060,6 +4380,11 @@
         "size": 565
     },
     {
+        "code": "U+8086",
+        "label": "肆",
+        "size": 21
+    },
+    {
         "code": "U+89D2",
         "label": "角",
         "size": 355
@@ -4080,6 +4405,11 @@
         "size": 1952
     },
     {
+        "code": "U+9BAD",
+        "label": "鮭",
+        "size": 39
+    },
+    {
         "code": "U+5DFB",
         "label": "巻",
         "size": 268
@@ -4088,6 +4418,11 @@
         "code": "U+7A17",
         "label": "稗",
         "size": 5
+    },
+    {
+        "code": "U+8591",
+        "label": "薑",
+        "size": 3
     },
     {
         "code": "U+677E",
@@ -4275,6 +4610,11 @@
         "size": 2318
     },
     {
+        "code": "U+87BA",
+        "label": "螺",
+        "size": 28
+    },
+    {
         "code": "U+702C",
         "label": "瀬",
         "size": 64
@@ -4307,7 +4647,7 @@
     {
         "code": "U+7621",
         "label": "瘡",
-        "size": 17
+        "size": 19
     },
     {
         "code": "U+85E4",
@@ -4323,6 +4663,11 @@
         "code": "U+91CC",
         "label": "里",
         "size": 629
+    },
+    {
+        "code": "U+9C2F",
+        "label": "鰯",
+        "size": 11
     },
     {
         "code": "U+5F35",
@@ -4370,6 +4715,11 @@
         "size": 11
     },
     {
+        "code": "U+9846",
+        "label": "顆",
+        "size": 23
+    },
+    {
         "code": "U+51AC",
         "label": "冬",
         "size": 180
@@ -4395,14 +4745,29 @@
         "size": 98
     },
     {
+        "code": "U+7D10",
+        "label": "紐",
+        "size": 12
+    },
+    {
         "code": "U+4F2F",
         "label": "伯",
         "size": 80
     },
     {
+        "code": "U+9149",
+        "label": "酉",
+        "size": 70
+    },
+    {
         "code": "U+677F",
         "label": "板",
         "size": 129
+    },
+    {
+        "code": "U+88D9",
+        "label": "裙",
+        "size": 5
     },
     {
         "code": "U+5148",
@@ -4477,7 +4842,7 @@
     {
         "code": "U+74EE",
         "label": "瓮",
-        "size": 3
+        "size": 4
     },
     {
         "code": "U+8D64",
@@ -4520,6 +4885,11 @@
         "size": 353
     },
     {
+        "code": "U+82B9",
+        "label": "芹",
+        "size": 18
+    },
+    {
         "code": "U+5730",
         "label": "地",
         "size": 859
@@ -4530,6 +4900,11 @@
         "size": 346
     },
     {
+        "code": "U+9E81",
+        "label": "麁",
+        "size": 25
+    },
+    {
         "code": "U+6D44",
         "label": "浄",
         "size": 93
@@ -4538,6 +4913,16 @@
         "code": "U+6750",
         "label": "材",
         "size": 19
+    },
+    {
+        "code": "U+84EE",
+        "label": "蓮",
+        "size": 118
+    },
+    {
+        "code": "U+7C9F",
+        "label": "粟",
+        "size": 87
     },
     {
         "code": "U+7D99",
@@ -4593,6 +4978,16 @@
         "code": "U+9577",
         "label": "長",
         "size": 1013
+    },
+    {
+        "code": "U+9688",
+        "label": "隈",
+        "size": 60
+    },
+    {
+        "code": "U+88B4",
+        "label": "袴",
+        "size": 44
     },
     {
         "code": "U+6797",
@@ -4675,9 +5070,19 @@
         "size": 82
     },
     {
+        "code": "U+99FF",
+        "label": "駿",
+        "size": 53
+    },
+    {
         "code": "U+6A61",
         "label": "橡",
         "size": 5
+    },
+    {
+        "code": "U+93B0",
+        "label": "鎰",
+        "size": 9
     },
     {
         "code": "U+7406",
@@ -4742,7 +5147,7 @@
     {
         "code": "U+65BC",
         "label": "於",
-        "size": 720
+        "size": 785
     },
     {
         "code": "U+5F93",
@@ -4782,7 +5187,7 @@
     {
         "code": "U+675C",
         "label": "杜",
-        "size": 10
+        "size": 20
     },
     {
         "code": "U+4EAC",
@@ -4813,6 +5218,11 @@
         "code": "U+6CE8",
         "label": "注",
         "size": 180
+    },
+    {
+        "code": "U+9091",
+        "label": "邑",
+        "size": 22
     },
     {
         "code": "U+6059",
@@ -4857,7 +5267,7 @@
     {
         "code": "U+821C",
         "label": "舜",
-        "size": 19
+        "size": 21
     },
     {
         "code": "U+5199",
@@ -4867,7 +5277,7 @@
     {
         "code": "U+727D",
         "label": "牽",
-        "size": 27
+        "size": 38
     },
     {
         "code": "U+546A",
@@ -4887,7 +5297,7 @@
     {
         "code": "U+79C9",
         "label": "秉",
-        "size": 34
+        "size": 35
     },
     {
         "code": "U+7832",
@@ -4932,7 +5342,7 @@
     {
         "code": "U+9D3F",
         "label": "鴿",
-        "size": 2
+        "size": 3
     },
     {
         "code": "U+870B",
@@ -4957,7 +5367,7 @@
     {
         "code": "U+8303",
         "label": "范",
-        "size": 2
+        "size": 3
     },
     {
         "code": "U+80FC",
@@ -5002,7 +5412,7 @@
     {
         "code": "U+7CDE",
         "label": "糞",
-        "size": 14
+        "size": 16
     },
     {
         "code": "U+8CBF",
@@ -5087,7 +5497,7 @@
     {
         "code": "U+9E1E",
         "label": "鸞",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+6063",
@@ -5135,24 +5545,9 @@
         "size": 14
     },
     {
-        "code": "U+7C00",
-        "label": "簀",
-        "size": 36
-    },
-    {
         "code": "U+8182",
         "label": "膂",
-        "size": 2
-    },
-    {
-        "code": "U+858A",
-        "label": "薊",
-        "size": 1
-    },
-    {
-        "code": "U+8471",
-        "label": "葱",
-        "size": 25
+        "size": 8
     },
     {
         "code": "U+3091",
@@ -5212,7 +5607,7 @@
     {
         "code": "U+72F8",
         "label": "狸",
-        "size": 11
+        "size": 12
     },
     {
         "code": "U+770B",
@@ -5232,7 +5627,7 @@
     {
         "code": "U+888D",
         "label": "袍",
-        "size": 8
+        "size": 12
     },
     {
         "code": "U+58F7",
@@ -5247,12 +5642,12 @@
     {
         "code": "U+8E81",
         "label": "躁",
-        "size": 2
+        "size": 4
     },
     {
         "code": "U+6D95",
         "label": "涕",
-        "size": 3
+        "size": 10
     },
     {
         "code": "U+25B3",
@@ -5272,7 +5667,7 @@
     {
         "code": "U+745E",
         "label": "瑞",
-        "size": 8
+        "size": 23
     },
     {
         "code": "U+73A9",
@@ -5287,7 +5682,7 @@
     {
         "code": "U+79BD",
         "label": "禽",
-        "size": 5
+        "size": 12
     },
     {
         "code": "U+5DAE",
@@ -5330,11 +5725,6 @@
         "size": 1
     },
     {
-        "code": "U+8B83",
-        "label": "讃",
-        "size": 34
-    },
-    {
         "code": "U+5806",
         "label": "堆",
         "size": 2
@@ -5353,11 +5743,6 @@
         "code": "U+53E9",
         "label": "叩",
         "size": 8
-    },
-    {
-        "code": "U+9640",
-        "label": "陀",
-        "size": 32
     },
     {
         "code": "U+67DA",
@@ -5387,7 +5772,7 @@
     {
         "code": "U+9704",
         "label": "霄",
-        "size": 2
+        "size": 3
     },
     {
         "code": "U+9EEF",
@@ -5412,7 +5797,7 @@
     {
         "code": "U+8938",
         "label": "褸",
-        "size": 1
+        "size": 5
     },
     {
         "code": "U+8AC7",
@@ -5487,7 +5872,7 @@
     {
         "code": "U+8D6B",
         "label": "赫",
-        "size": 1
+        "size": 5
     },
     {
         "code": "U+5D11",
@@ -5557,7 +5942,7 @@
     {
         "code": "U+9A62",
         "label": "驢",
-        "size": 2
+        "size": 13
     },
     {
         "code": "U+9781",
@@ -5577,7 +5962,7 @@
     {
         "code": "U+9076",
         "label": "遶",
-        "size": 2
+        "size": 11
     },
     {
         "code": "U+8056",
@@ -5635,14 +6020,9 @@
         "size": 14
     },
     {
-        "code": "U+88F9",
-        "label": "裹",
-        "size": 11
-    },
-    {
         "code": "U+7E94",
         "label": "纔",
-        "size": 18
+        "size": 25
     },
     {
         "code": "U+5883",
@@ -5672,7 +6052,7 @@
     {
         "code": "U+6B47",
         "label": "歇",
-        "size": 2
+        "size": 3
     },
     {
         "code": "U+9132",
@@ -5687,7 +6067,7 @@
     {
         "code": "U+6500",
         "label": "攀",
-        "size": 1
+        "size": 11
     },
     {
         "code": "U+9169",
@@ -5732,7 +6112,7 @@
     {
         "code": "U+8AA6",
         "label": "誦",
-        "size": 15
+        "size": 32
     },
     {
         "code": "U+8CAA",
@@ -5742,7 +6122,7 @@
     {
         "code": "U+72D7",
         "label": "狗",
-        "size": 13
+        "size": 25
     },
     {
         "code": "U+54C0",
@@ -5772,7 +6152,7 @@
     {
         "code": "U+71D5",
         "label": "燕",
-        "size": 12
+        "size": 17
     },
     {
         "code": "U+6602",
@@ -5817,12 +6197,7 @@
     {
         "code": "U+99DF",
         "label": "駟",
-        "size": 2
-    },
-    {
-        "code": "U+9BDB",
-        "label": "鯛",
-        "size": 129
+        "size": 4
     },
     {
         "code": "U+6055",
@@ -5892,7 +6267,7 @@
     {
         "code": "U+72CE",
         "label": "狎",
-        "size": 8
+        "size": 11
     },
     {
         "code": "U+7CD2",
@@ -5997,7 +6372,7 @@
     {
         "code": "U+8271",
         "label": "艱",
-        "size": 2
+        "size": 7
     },
     {
         "code": "U+53F0",
@@ -6012,12 +6387,12 @@
     {
         "code": "U+7FF3",
         "label": "翳",
-        "size": 4
+        "size": 6
     },
     {
         "code": "U+7A00",
         "label": "稀",
-        "size": 22
+        "size": 23
     },
     {
         "code": "U+7FA8",
@@ -6047,7 +6422,7 @@
     {
         "code": "U+6467",
         "label": "摧",
-        "size": 2
+        "size": 16
     },
     {
         "code": "U+687F",
@@ -6087,7 +6462,7 @@
     {
         "code": "U+8A85",
         "label": "誅",
-        "size": 8
+        "size": 19
     },
     {
         "code": "U+30C6",
@@ -6097,7 +6472,7 @@
     {
         "code": "U+7707",
         "label": "眇",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+8562",
@@ -6105,14 +6480,9 @@
         "size": 2
     },
     {
-        "code": "U+8499",
-        "label": "蒙",
-        "size": 57
-    },
-    {
         "code": "U+8766",
         "label": "蝦",
-        "size": 4
+        "size": 11
     },
     {
         "code": "U+514B",
@@ -6147,7 +6517,7 @@
     {
         "code": "U+7940",
         "label": "祀",
-        "size": 2
+        "size": 10
     },
     {
         "code": "U+5CA8",
@@ -6163,11 +6533,6 @@
         "code": "U+7F4C",
         "label": "罌",
         "size": 2
-    },
-    {
-        "code": "U+7CB3",
-        "label": "粳",
-        "size": 19
     },
     {
         "code": "U+309D",
@@ -6212,7 +6577,7 @@
     {
         "code": "U+7409",
         "label": "琉",
-        "size": 29
+        "size": 30
     },
     {
         "code": "U+501A",
@@ -6430,11 +6795,6 @@
         "size": 1
     },
     {
-        "code": "U+978D",
-        "label": "鞍",
-        "size": 14
-    },
-    {
         "code": "U+621F",
         "label": "戟",
         "size": 3
@@ -6465,11 +6825,6 @@
         "size": 1
     },
     {
-        "code": "U+85A9",
-        "label": "薩",
-        "size": 102
-    },
-    {
         "code": "U+7433",
         "label": "琳",
         "size": 6
@@ -6477,7 +6832,7 @@
     {
         "code": "U+805A",
         "label": "聚",
-        "size": 8
+        "size": 40
     },
     {
         "code": "U+53DF",
@@ -6507,7 +6862,7 @@
     {
         "code": "U+8FE6",
         "label": "迦",
-        "size": 12
+        "size": 36
     },
     {
         "code": "U+5F9C",
@@ -6522,7 +6877,7 @@
     {
         "code": "U+6BAF",
         "label": "殯",
-        "size": 1
+        "size": 7
     },
     {
         "code": "U+6850",
@@ -6572,7 +6927,7 @@
     {
         "code": "U+8AF1",
         "label": "諱",
-        "size": 10
+        "size": 11
     },
     {
         "code": "U+5B70",
@@ -6602,7 +6957,7 @@
     {
         "code": "U+96C9",
         "label": "雉",
-        "size": 24
+        "size": 32
     },
     {
         "code": "U+6753",
@@ -6647,7 +7002,7 @@
     {
         "code": "U+80E4",
         "label": "胤",
-        "size": 32
+        "size": 39
     },
     {
         "code": "U+737A",
@@ -6657,7 +7012,7 @@
     {
         "code": "U+84EC",
         "label": "蓬",
-        "size": 18
+        "size": 19
     },
     {
         "code": "U+6556",
@@ -6672,7 +7027,7 @@
     {
         "code": "U+68B5",
         "label": "梵",
-        "size": 4
+        "size": 35
     },
     {
         "code": "U+68EE",
@@ -6697,12 +7052,12 @@
     {
         "code": "U+7729",
         "label": "眩",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+7ACA",
         "label": "竊",
-        "size": 5
+        "size": 20
     },
     {
         "code": "U+8CA7",
@@ -6737,12 +7092,12 @@
     {
         "code": "U+81FB",
         "label": "臻",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+8000",
         "label": "耀",
-        "size": 2
+        "size": 12
     },
     {
         "code": "U+3057",
@@ -6772,7 +7127,7 @@
     {
         "code": "U+6DF9",
         "label": "淹",
-        "size": 2
+        "size": 6
     },
     {
         "code": "U+7E26",
@@ -6792,7 +7147,7 @@
     {
         "code": "U+8E47",
         "label": "蹇",
-        "size": 1
+        "size": 3
     },
     {
         "code": "U+5E3D",
@@ -6812,17 +7167,17 @@
     {
         "code": "U+723E",
         "label": "爾",
-        "size": 19
+        "size": 79
     },
     {
         "code": "U+85A8",
         "label": "薨",
-        "size": 8
+        "size": 13
     },
     {
         "code": "U+81A0",
         "label": "膠",
-        "size": 1
+        "size": 4
     },
     {
         "code": "U+6F78",
@@ -6867,7 +7222,7 @@
     {
         "code": "U+852D",
         "label": "蔭",
-        "size": 28
+        "size": 31
     },
     {
         "code": "U+54AC",
@@ -6877,7 +7232,7 @@
     {
         "code": "U+7B50",
         "label": "筐",
-        "size": 2
+        "size": 3
     },
     {
         "code": "U+594F",
@@ -6907,7 +7262,7 @@
     {
         "code": "U+8A91",
         "label": "誑",
-        "size": 2
+        "size": 7
     },
     {
         "code": "U+30D2",
@@ -6945,11 +7300,6 @@
         "size": 5
     },
     {
-        "code": "U+9EB9",
-        "label": "麹",
-        "size": 7
-    },
-    {
         "code": "U+4F38",
         "label": "伸",
         "size": 9
@@ -6963,11 +7313,6 @@
         "code": "U+627F",
         "label": "承",
         "size": 378
-    },
-    {
-        "code": "U+9DF9",
-        "label": "鷹",
-        "size": 47
     },
     {
         "code": "U+9A0E",
@@ -6992,7 +7337,7 @@
     {
         "code": "U+7DB8",
         "label": "綸",
-        "size": 23
+        "size": 24
     },
     {
         "code": "U+306D",
@@ -7027,7 +7372,7 @@
     {
         "code": "U+85C9",
         "label": "藉",
-        "size": 15
+        "size": 16
     },
     {
         "code": "U+77AC",
@@ -7038,11 +7383,6 @@
         "code": "U+5244",
         "label": "剄",
         "size": 1
-    },
-    {
-        "code": "U+83C5",
-        "label": "菅",
-        "size": 33
     },
     {
         "code": "U+8469",
@@ -7097,12 +7437,12 @@
     {
         "code": "U+9A55",
         "label": "驕",
-        "size": 8
+        "size": 22
     },
     {
         "code": "U+9041",
         "label": "遁",
-        "size": 19
+        "size": 22
     },
     {
         "code": "U+964D",
@@ -7152,7 +7492,7 @@
     {
         "code": "U+6D69",
         "label": "浩",
-        "size": 6
+        "size": 7
     },
     {
         "code": "U+4E8D",
@@ -7167,7 +7507,7 @@
     {
         "code": "U+9CF3",
         "label": "鳳",
-        "size": 4
+        "size": 10
     },
     {
         "code": "U+971C",
@@ -7177,7 +7517,7 @@
     {
         "code": "U+96BC",
         "label": "隼",
-        "size": 17
+        "size": 22
     },
     {
         "code": "U+60D1",
@@ -7197,7 +7537,7 @@
     {
         "code": "U+6D32",
         "label": "洲",
-        "size": 25
+        "size": 36
     },
     {
         "code": "U+6B3E",
@@ -7257,7 +7597,7 @@
     {
         "code": "U+8A3B",
         "label": "註",
-        "size": 2
+        "size": 4
     },
     {
         "code": "U+7BA1",
@@ -7282,7 +7622,7 @@
     {
         "code": "U+85DC",
         "label": "藜",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+5055",
@@ -7322,7 +7662,7 @@
     {
         "code": "U+91AF",
         "label": "醯",
-        "size": 2
+        "size": 3
     },
     {
         "code": "U+95A7",
@@ -7337,7 +7677,7 @@
     {
         "code": "U+818F",
         "label": "膏",
-        "size": 9
+        "size": 11
     },
     {
         "code": "U+520A",
@@ -7387,12 +7727,12 @@
     {
         "code": "U+6B5F",
         "label": "歟",
-        "size": 578
+        "size": 588
     },
     {
         "code": "U+9ECD",
         "label": "黍",
-        "size": 11
+        "size": 14
     },
     {
         "code": "U+5960",
@@ -7447,7 +7787,7 @@
     {
         "code": "U+7334",
         "label": "猴",
-        "size": 37
+        "size": 41
     },
     {
         "code": "\\U00022999",
@@ -7457,17 +7797,17 @@
     {
         "code": "U+7ADF",
         "label": "竟",
-        "size": 18
+        "size": 56
     },
     {
         "code": "U+8F4D",
         "label": "轍",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+8941",
         "label": "襁",
-        "size": 2
+        "size": 7
     },
     {
         "code": "U+30FD",
@@ -7482,12 +7822,12 @@
     {
         "code": "U+6518",
         "label": "攘",
-        "size": 1
+        "size": 3
     },
     {
         "code": "U+9C2D",
         "label": "鰭",
-        "size": 8
+        "size": 13
     },
     {
         "code": "U+6BBB",
@@ -7512,7 +7852,7 @@
     {
         "code": "U+65A7",
         "label": "斧",
-        "size": 5
+        "size": 8
     },
     {
         "code": "U+63AB",
@@ -7532,7 +7872,7 @@
     {
         "code": "U+7678",
         "label": "癸",
-        "size": 30
+        "size": 38
     },
     {
         "code": "U+83EA",
@@ -7552,7 +7892,7 @@
     {
         "code": "U+7C6C",
         "label": "籬",
-        "size": 1
+        "size": 7
     },
     {
         "code": "U+5BDB",
@@ -7610,11 +7950,6 @@
         "size": 8
     },
     {
-        "code": "U+936C",
-        "label": "鍬",
-        "size": 13
-    },
-    {
         "code": "U+6109",
         "label": "愉",
         "size": 2
@@ -7652,16 +7987,11 @@
     {
         "code": "U+8EAF",
         "label": "躯",
-        "size": 5
+        "size": 7
     },
     {
         "code": "U+84BB",
         "label": "蒻",
-        "size": 2
-    },
-    {
-        "code": "U+8540",
-        "label": "蕀",
         "size": 2
     },
     {
@@ -7717,7 +8047,7 @@
     {
         "code": "U+675E",
         "label": "杞",
-        "size": 4
+        "size": 5
     },
     {
         "code": "U+60A9",
@@ -7732,7 +8062,7 @@
     {
         "code": "U+6DF5",
         "label": "淵",
-        "size": 14
+        "size": 27
     },
     {
         "code": "U+9F90",
@@ -7747,12 +8077,12 @@
     {
         "code": "U+947F",
         "label": "鑿",
-        "size": 6
+        "size": 8
     },
     {
         "code": "U+63E9",
         "label": "揩",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+9077",
@@ -7763,11 +8093,6 @@
         "code": "U+83A8",
         "label": "莨",
         "size": 5
-    },
-    {
-        "code": "U+8FB0",
-        "label": "辰",
-        "size": 79
     },
     {
         "code": "U+5BC2",
@@ -7795,11 +8120,6 @@
         "size": 3
     },
     {
-        "code": "U+800C",
-        "label": "而",
-        "size": 657
-    },
-    {
         "code": "U+5076",
         "label": "偶",
         "size": 10
@@ -7820,14 +8140,9 @@
         "size": 5
     },
     {
-        "code": "U+8404",
-        "label": "萄",
-        "size": 1
-    },
-    {
         "code": "U+87FB",
         "label": "蟻",
-        "size": 10
+        "size": 11
     },
     {
         "code": "U+6249",
@@ -7912,7 +8227,7 @@
     {
         "code": "U+68D8",
         "label": "棘",
-        "size": 3
+        "size": 9
     },
     {
         "code": "U+9942",
@@ -7972,7 +8287,7 @@
     {
         "code": "U+7F54",
         "label": "罔",
-        "size": 1
+        "size": 4
     },
     {
         "code": "U+3281",
@@ -7982,17 +8297,17 @@
     {
         "code": "U+70B3",
         "label": "炳",
-        "size": 2
+        "size": 6
     },
     {
         "code": "U+8521",
         "label": "蔡",
-        "size": 8
+        "size": 9
     },
     {
         "code": "U+8129",
         "label": "脩",
-        "size": 16
+        "size": 66
     },
     {
         "code": "U+76BF",
@@ -8012,7 +8327,7 @@
     {
         "code": "U+7FEB",
         "label": "翫",
-        "size": 20
+        "size": 23
     },
     {
         "code": "U+7C14",
@@ -8062,7 +8377,7 @@
     {
         "code": "U+8036",
         "label": "耶",
-        "size": 10
+        "size": 49
     },
     {
         "code": "U+53B3",
@@ -8077,7 +8392,7 @@
     {
         "code": "U+81CD",
         "label": "臍",
-        "size": 5
+        "size": 9
     },
     {
         "code": "U+8E2A",
@@ -8097,17 +8412,17 @@
     {
         "code": "U+7E4B",
         "label": "繋",
-        "size": 11
+        "size": 42
     },
     {
         "code": "U+7DB4",
         "label": "綴",
-        "size": 4
+        "size": 5
     },
     {
         "code": "U+9957",
         "label": "饗",
-        "size": 23
+        "size": 29
     },
     {
         "code": "U+6CC5",
@@ -8172,7 +8487,7 @@
     {
         "code": "U+72A2",
         "label": "犢",
-        "size": 5
+        "size": 11
     },
     {
         "code": "U+5146",
@@ -8187,7 +8502,7 @@
     {
         "code": "U+8338",
         "label": "茸",
-        "size": 130
+        "size": 133
     },
     {
         "code": "U+6575",
@@ -8222,12 +8537,12 @@
     {
         "code": "U+63C6",
         "label": "揆",
-        "size": 5
+        "size": 6
     },
     {
         "code": "U+93A7",
         "label": "鎧",
-        "size": 14
+        "size": 15
     },
     {
         "code": "U+6DDA",
@@ -8237,17 +8552,17 @@
     {
         "code": "U+99B3",
         "label": "馳",
-        "size": 80
+        "size": 87
     },
     {
         "code": "U+8F9F",
         "label": "辟",
-        "size": 9
+        "size": 25
     },
     {
         "code": "U+7A0D",
         "label": "稍",
-        "size": 2
+        "size": 7
     },
     {
         "code": "U+5C1A",
@@ -8262,7 +8577,7 @@
     {
         "code": "U+8E64",
         "label": "蹤",
-        "size": 3
+        "size": 4
     },
     {
         "code": "U+8868",
@@ -8292,12 +8607,12 @@
     {
         "code": "U+81D8",
         "label": "臘",
-        "size": 7
+        "size": 9
     },
     {
         "code": "U+85D0",
         "label": "藐",
-        "size": 2
+        "size": 24
     },
     {
         "code": "U+55AA",
@@ -8312,12 +8627,12 @@
     {
         "code": "U+7246",
         "label": "牆",
-        "size": 3
+        "size": 16
     },
     {
         "code": "U+8FC4",
         "label": "迄",
-        "size": 229
+        "size": 230
     },
     {
         "code": "U+5C41",
@@ -8335,14 +8650,9 @@
         "size": 11
     },
     {
-        "code": "U+7BAD",
-        "label": "箭",
-        "size": 28
-    },
-    {
         "code": "U+7E5E",
         "label": "繞",
-        "size": 2
+        "size": 22
     },
     {
         "code": "U+6E7E",
@@ -8387,7 +8697,7 @@
     {
         "code": "U+7CDF",
         "label": "糟",
-        "size": 16
+        "size": 17
     },
     {
         "code": "U+792C",
@@ -8407,7 +8717,7 @@
     {
         "code": "U+74CF",
         "label": "瓏",
-        "size": 1
+        "size": 6
     },
     {
         "code": "U+50DC",
@@ -8447,7 +8757,7 @@
     {
         "code": "U+8106",
         "label": "脆",
-        "size": 1
+        "size": 3
     },
     {
         "code": "U+5378",
@@ -8472,7 +8782,7 @@
     {
         "code": "U+83BD",
         "label": "莽",
-        "size": 3
+        "size": 4
     },
     {
         "code": "U+742B",
@@ -8487,7 +8797,7 @@
     {
         "code": "U+7A37",
         "label": "稷",
-        "size": 4
+        "size": 11
     },
     {
         "code": "U+8C5A",
@@ -8502,17 +8812,17 @@
     {
         "code": "U+8852",
         "label": "衒",
-        "size": 4
+        "size": 5
     },
     {
         "code": "U+6E1F",
         "label": "渟",
-        "size": 2
+        "size": 9
     },
     {
         "code": "U+6FE4",
         "label": "濤",
-        "size": 6
+        "size": 14
     },
     {
         "code": "U+6BEC",
@@ -8537,12 +8847,12 @@
     {
         "code": "U+67F4",
         "label": "柴",
-        "size": 34
+        "size": 40
     },
     {
         "code": "U+660F",
         "label": "昏",
-        "size": 20
+        "size": 25
     },
     {
         "code": "U+95CA",
@@ -8555,11 +8865,6 @@
         "size": 26
     },
     {
-        "code": "U+9BD6",
-        "label": "鯖",
-        "size": 9
-    },
-    {
         "code": "U+99D2",
         "label": "駒",
         "size": 30
@@ -8567,12 +8872,12 @@
     {
         "code": "U+6C40",
         "label": "汀",
-        "size": 9
+        "size": 13
     },
     {
         "code": "U+6BB7",
         "label": "殷",
-        "size": 1
+        "size": 6
     },
     {
         "code": "U+5F84",
@@ -8597,7 +8902,7 @@
     {
         "code": "U+758B",
         "label": "疋",
-        "size": 81
+        "size": 82
     },
     {
         "code": "U+7387",
@@ -8607,7 +8912,7 @@
     {
         "code": "U+7078",
         "label": "灸",
-        "size": 19
+        "size": 20
     },
     {
         "code": "U+85BA",
@@ -8657,12 +8962,12 @@
     {
         "code": "U+7BC7",
         "label": "篇",
-        "size": 27
+        "size": 29
     },
     {
         "code": "U+9E75",
         "label": "鹵",
-        "size": 2
+        "size": 3
     },
     {
         "code": "U+6DEB",
@@ -8732,12 +9037,12 @@
     {
         "code": "U+8AB9",
         "label": "誹",
-        "size": 4
+        "size": 11
     },
     {
         "code": "U+66E0",
         "label": "曠",
-        "size": 2
+        "size": 14
     },
     {
         "code": "U+4F10",
@@ -8752,7 +9057,7 @@
     {
         "code": "U+68A7",
         "label": "梧",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+614C",
@@ -8762,12 +9067,12 @@
     {
         "code": "U+912D",
         "label": "鄭",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+92D2",
         "label": "鋒",
-        "size": 1
+        "size": 5
     },
     {
         "code": "U+5484",
@@ -8777,7 +9082,7 @@
     {
         "code": "U+716C",
         "label": "煬",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+5680",
@@ -8837,7 +9142,7 @@
     {
         "code": "U+65C1",
         "label": "旁",
-        "size": 25
+        "size": 31
     },
     {
         "code": "U+945B",
@@ -8872,7 +9177,7 @@
     {
         "code": "U+8073",
         "label": "聳",
-        "size": 6
+        "size": 9
     },
     {
         "code": "U+761E",
@@ -8932,12 +9237,12 @@
     {
         "code": "U+8DCB",
         "label": "跋",
-        "size": 4
+        "size": 12
     },
     {
         "code": "U+6B86",
         "label": "殆",
-        "size": 6
+        "size": 18
     },
     {
         "code": "U+6982",
@@ -8977,7 +9282,7 @@
     {
         "code": "U+693D",
         "label": "椽",
-        "size": 12
+        "size": 13
     },
     {
         "code": "U+62D2",
@@ -9067,7 +9372,7 @@
     {
         "code": "U+7FE0",
         "label": "翠",
-        "size": 8
+        "size": 9
     },
     {
         "code": "U+3031",
@@ -9092,7 +9397,7 @@
     {
         "code": "U+71FC",
         "label": "燼",
-        "size": 3
+        "size": 8
     },
     {
         "code": "U+75F4",
@@ -9112,12 +9417,12 @@
     {
         "code": "U+69CC",
         "label": "槌",
-        "size": 14
+        "size": 19
     },
     {
         "code": "U+99AD",
         "label": "馭",
-        "size": 4
+        "size": 10
     },
     {
         "code": "U+6FC0",
@@ -9142,7 +9447,7 @@
     {
         "code": "U+803D",
         "label": "耽",
-        "size": 4
+        "size": 7
     },
     {
         "code": "U+5243",
@@ -9187,7 +9492,7 @@
     {
         "code": "U+8892",
         "label": "袒",
-        "size": 3
+        "size": 9
     },
     {
         "code": "U+7CFB",
@@ -9197,7 +9502,7 @@
     {
         "code": "U+9949",
         "label": "饉",
-        "size": 2
+        "size": 8
     },
     {
         "code": "U+62C7",
@@ -9262,7 +9567,7 @@
     {
         "code": "U+8ACD",
         "label": "諍",
-        "size": 3
+        "size": 17
     },
     {
         "code": "U+74B0",
@@ -9280,24 +9585,14 @@
         "size": 5
     },
     {
-        "code": "U+9B93",
-        "label": "鮓",
-        "size": 21
-    },
-    {
         "code": "U+978B",
         "label": "鞋",
-        "size": 5
+        "size": 8
     },
     {
         "code": "U+601D",
         "label": "思",
         "size": 1251
-    },
-    {
-        "code": "U+958F",
-        "label": "閏",
-        "size": 18
     },
     {
         "code": "U+85AF",
@@ -9327,7 +9622,7 @@
     {
         "code": "U+8258",
         "label": "艘",
-        "size": 11
+        "size": 14
     },
     {
         "code": "U+7435",
@@ -9337,7 +9632,7 @@
     {
         "code": "U+8A48",
         "label": "詈",
-        "size": 1
+        "size": 3
     },
     {
         "code": "U+7E21",
@@ -9382,7 +9677,7 @@
     {
         "code": "U+7262",
         "label": "牢",
-        "size": 22
+        "size": 35
     },
     {
         "code": "U+766A",
@@ -9412,12 +9707,12 @@
     {
         "code": "U+9837",
         "label": "頷",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+6FA1",
         "label": "澡",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+60F9",
@@ -9442,7 +9737,7 @@
     {
         "code": "U+6912",
         "label": "椒",
-        "size": 100
+        "size": 104
     },
     {
         "code": "U+8F5F",
@@ -9485,11 +9780,6 @@
         "size": 5
     },
     {
-        "code": "U+831C",
-        "label": "茜",
-        "size": 2
-    },
-    {
         "code": "U+5366",
         "label": "卦",
         "size": 9
@@ -9505,14 +9795,9 @@
         "size": 2
     },
     {
-        "code": "U+88F3",
-        "label": "裳",
-        "size": 18
-    },
-    {
         "code": "U+8AF7",
         "label": "諷",
-        "size": 19
+        "size": 21
     },
     {
         "code": "U+6F45",
@@ -9552,7 +9837,7 @@
     {
         "code": "U+99D5",
         "label": "駕",
-        "size": 25
+        "size": 31
     },
     {
         "code": "U+9BD1",
@@ -9572,12 +9857,12 @@
     {
         "code": "U+95CD",
         "label": "闍",
-        "size": 17
+        "size": 22
     },
     {
         "code": "U+63A0",
         "label": "掠",
-        "size": 6
+        "size": 7
     },
     {
         "code": "U+61A4",
@@ -9597,7 +9882,7 @@
     {
         "code": "U+81E5",
         "label": "臥",
-        "size": 64
+        "size": 85
     },
     {
         "code": "U+786F",
@@ -9622,7 +9907,7 @@
     {
         "code": "U+7DC7",
         "label": "緇",
-        "size": 2
+        "size": 3
     },
     {
         "code": "U+5BD0",
@@ -9672,12 +9957,12 @@
     {
         "code": "U+6BEB",
         "label": "毫",
-        "size": 5
+        "size": 8
     },
     {
         "code": "U+96D6",
         "label": "雖",
-        "size": 273
+        "size": 320
     },
     {
         "code": "U+7C83",
@@ -9697,7 +9982,7 @@
     {
         "code": "U+8305",
         "label": "茅",
-        "size": 8
+        "size": 13
     },
     {
         "code": "U+5284",
@@ -9717,12 +10002,12 @@
     {
         "code": "U+82A5",
         "label": "芥",
-        "size": 15
+        "size": 18
     },
     {
         "code": "U+7737",
         "label": "眷",
-        "size": 5
+        "size": 31
     },
     {
         "code": "U+52DF",
@@ -9742,7 +10027,7 @@
     {
         "code": "U+792B",
         "label": "礫",
-        "size": 25
+        "size": 27
     },
     {
         "code": "U+8F46",
@@ -9752,7 +10037,7 @@
     {
         "code": "U+78D0",
         "label": "磐",
-        "size": 2
+        "size": 11
     },
     {
         "code": "U+9E9D",
@@ -9787,7 +10072,7 @@
     {
         "code": "U+71BE",
         "label": "熾",
-        "size": 2
+        "size": 12
     },
     {
         "code": "U+6065",
@@ -9817,7 +10102,7 @@
     {
         "code": "U+99B4",
         "label": "馴",
-        "size": 49
+        "size": 50
     },
     {
         "code": "U+4FC2",
@@ -9840,11 +10125,6 @@
         "size": 2
     },
     {
-        "code": "U+91A4",
-        "label": "醤",
-        "size": 158
-    },
-    {
         "code": "U+307D",
         "label": "ぽ",
         "size": 32
@@ -9852,7 +10132,7 @@
     {
         "code": "U+77E9",
         "label": "矩",
-        "size": 1
+        "size": 12
     },
     {
         "code": "U+71E5",
@@ -9947,12 +10227,7 @@
     {
         "code": "U+6F66",
         "label": "潦",
-        "size": 1
-    },
-    {
-        "code": "U+92E4",
-        "label": "鋤",
-        "size": 5
+        "size": 4
     },
     {
         "code": "U+6572",
@@ -10012,7 +10287,7 @@
     {
         "code": "U+829F",
         "label": "芟",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+6070",
@@ -10022,7 +10297,7 @@
     {
         "code": "U+95E2",
         "label": "闢",
-        "size": 6
+        "size": 10
     },
     {
         "code": "U+9419",
@@ -10032,7 +10307,7 @@
     {
         "code": "U+6583",
         "label": "斃",
-        "size": 4
+        "size": 8
     },
     {
         "code": "U+6478",
@@ -10057,7 +10332,7 @@
     {
         "code": "U+9DF2",
         "label": "鷲",
-        "size": 25
+        "size": 31
     },
     {
         "code": "U+5C53",
@@ -10072,7 +10347,7 @@
     {
         "code": "U+8821",
         "label": "蠡",
-        "size": 1
+        "size": 4
     },
     {
         "code": "U+3066",
@@ -10087,7 +10362,7 @@
     {
         "code": "U+826E",
         "label": "艮",
-        "size": 8
+        "size": 9
     },
     {
         "code": "U+7403",
@@ -10097,7 +10372,7 @@
     {
         "code": "U+8599",
         "label": "薙",
-        "size": 1
+        "size": 5
     },
     {
         "code": "U+7BE4",
@@ -10162,12 +10437,12 @@
     {
         "code": "U+6A80",
         "label": "檀",
-        "size": 15
+        "size": 39
     },
     {
         "code": "U+9B1A",
         "label": "鬚",
-        "size": 1
+        "size": 6
     },
     {
         "code": "U+6763",
@@ -10187,7 +10462,7 @@
     {
         "code": "U+96F9",
         "label": "雹",
-        "size": 4
+        "size": 9
     },
     {
         "code": "U+555C",
@@ -10247,7 +10522,7 @@
     {
         "code": "U+751C",
         "label": "甜",
-        "size": 3
+        "size": 8
     },
     {
         "code": "U+9759",
@@ -10267,12 +10542,12 @@
     {
         "code": "U+6ADB",
         "label": "櫛",
-        "size": 21
+        "size": 25
     },
     {
         "code": "U+9B41",
         "label": "魁",
-        "size": 2
+        "size": 3
     },
     {
         "code": "U+9945",
@@ -10295,14 +10570,9 @@
         "size": 1
     },
     {
-        "code": "U+8607",
-        "label": "蘇",
-        "size": 30
-    },
-    {
         "code": "U+8DE8",
         "label": "跨",
-        "size": 3
+        "size": 4
     },
     {
         "code": "U+7981",
@@ -10347,7 +10617,7 @@
     {
         "code": "U+8C48",
         "label": "豈",
-        "size": 11
+        "size": 38
     },
     {
         "code": "U+8FB7",
@@ -10417,7 +10687,7 @@
     {
         "code": "U+655D",
         "label": "敝",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+9D2C",
@@ -10447,7 +10717,7 @@
     {
         "code": "U+84BC",
         "label": "蒼",
-        "size": 4
+        "size": 12
     },
     {
         "code": "U+80B4",
@@ -10492,7 +10762,7 @@
     {
         "code": "U+72D0",
         "label": "狐",
-        "size": 54
+        "size": 61
     },
     {
         "code": "U+3052",
@@ -10502,7 +10772,7 @@
     {
         "code": "U+834A",
         "label": "荊",
-        "size": 10
+        "size": 12
     },
     {
         "code": "U+38F2",
@@ -10522,7 +10792,7 @@
     {
         "code": "U+8AA1",
         "label": "誡",
-        "size": 4
+        "size": 8
     },
     {
         "code": "U+30E2",
@@ -10627,7 +10897,7 @@
     {
         "code": "U+9786",
         "label": "鞆",
-        "size": 5
+        "size": 9
     },
     {
         "code": "U+6C08",
@@ -10642,7 +10912,7 @@
     {
         "code": "U+6DF3",
         "label": "淳",
-        "size": 22
+        "size": 28
     },
     {
         "code": "U+5E37",
@@ -10687,7 +10957,7 @@
     {
         "code": "U+7A7F",
         "label": "穿",
-        "size": 13
+        "size": 20
     },
     {
         "code": "U+8FED",
@@ -10727,7 +10997,7 @@
     {
         "code": "U+7AFA",
         "label": "竺",
-        "size": 4
+        "size": 5
     },
     {
         "code": "U+5D16",
@@ -10802,7 +11072,7 @@
     {
         "code": "U+9EE8",
         "label": "黨",
-        "size": 16
+        "size": 30
     },
     {
         "code": "U+9F13",
@@ -10822,7 +11092,7 @@
     {
         "code": "U+6566",
         "label": "敦",
-        "size": 15
+        "size": 18
     },
     {
         "code": "U+616E",
@@ -10897,7 +11167,7 @@
     {
         "code": "U+8667",
         "label": "虧",
-        "size": 1
+        "size": 4
     },
     {
         "code": "U+79E1",
@@ -10927,7 +11197,7 @@
     {
         "code": "U+69C1",
         "label": "槁",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+25EF",
@@ -10967,7 +11237,7 @@
     {
         "code": "U+6582",
         "label": "斂",
-        "size": 1
+        "size": 3
     },
     {
         "code": "U+9C08",
@@ -10997,7 +11267,7 @@
     {
         "code": "U+7459",
         "label": "瑙",
-        "size": 2
+        "size": 6
     },
     {
         "code": "U+8438",
@@ -11022,7 +11292,7 @@
     {
         "code": "U+9951",
         "label": "饑",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+58F0",
@@ -11042,7 +11312,7 @@
     {
         "code": "U+8569",
         "label": "蕩",
-        "size": 1
+        "size": 4
     },
     {
         "code": "U+809A",
@@ -11075,14 +11345,9 @@
         "size": 24
     },
     {
-        "code": "U+82C5",
-        "label": "苅",
-        "size": 5
-    },
-    {
         "code": "U+7D43",
         "label": "絃",
-        "size": 5
+        "size": 6
     },
     {
         "code": "U+3761",
@@ -11097,7 +11362,7 @@
     {
         "code": "U+7B4F",
         "label": "筏",
-        "size": 1
+        "size": 8
     },
     {
         "code": "U+6B6F",
@@ -11107,7 +11372,7 @@
     {
         "code": "U+696B",
         "label": "楫",
-        "size": 2
+        "size": 7
     },
     {
         "code": "U+30AC",
@@ -11117,7 +11382,7 @@
     {
         "code": "U+6E9C",
         "label": "溜",
-        "size": 29
+        "size": 30
     },
     {
         "code": "U+6488",
@@ -11132,7 +11397,7 @@
     {
         "code": "U+9716",
         "label": "霖",
-        "size": 7
+        "size": 10
     },
     {
         "code": "U+6284",
@@ -11162,12 +11427,12 @@
     {
         "code": "U+65CC",
         "label": "旌",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+721B",
         "label": "爛",
-        "size": 3
+        "size": 14
     },
     {
         "code": "U+73E0",
@@ -11217,7 +11482,7 @@
     {
         "code": "U+7648",
         "label": "癈",
-        "size": 2
+        "size": 10
     },
     {
         "code": "U+53A0",
@@ -11237,7 +11502,7 @@
     {
         "code": "U+6668",
         "label": "晨",
-        "size": 4
+        "size": 11
     },
     {
         "code": "U+9005",
@@ -11282,7 +11547,7 @@
     {
         "code": "U+8B4F",
         "label": "譏",
-        "size": 2
+        "size": 8
     },
     {
         "code": "U+7D22",
@@ -11302,7 +11567,7 @@
     {
         "code": "U+9B6F",
         "label": "魯",
-        "size": 6
+        "size": 15
     },
     {
         "code": "U+611A",
@@ -11335,11 +11600,6 @@
         "size": 4
     },
     {
-        "code": "U+8304",
-        "label": "茄",
-        "size": 36
-    },
-    {
         "code": "U+5FD9",
         "label": "忙",
         "size": 25
@@ -11362,12 +11622,12 @@
     {
         "code": "U+9A2B",
         "label": "騫",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+95CC",
         "label": "闌",
-        "size": 4
+        "size": 8
     },
     {
         "code": "U+6652",
@@ -11482,7 +11742,7 @@
     {
         "code": "U+64AB",
         "label": "撫",
-        "size": 16
+        "size": 18
     },
     {
         "code": "U+6307",
@@ -11492,7 +11752,7 @@
     {
         "code": "U+6D1B",
         "label": "洛",
-        "size": 84
+        "size": 92
     },
     {
         "code": "U+9D7A",
@@ -11537,12 +11797,12 @@
     {
         "code": "U+752B",
         "label": "甫",
-        "size": 5
+        "size": 6
     },
     {
         "code": "U+874E",
         "label": "蝎",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+854A",
@@ -11552,17 +11812,12 @@
     {
         "code": "U+7E7B",
         "label": "繻",
-        "size": 10
+        "size": 11
     },
     {
         "code": "U+3051",
         "label": "け",
         "size": 9566
-    },
-    {
-        "code": "U+8202",
-        "label": "舂",
-        "size": 7
     },
     {
         "code": "U+FA1F",
@@ -11582,7 +11837,7 @@
     {
         "code": "U+95D5",
         "label": "闕",
-        "size": 32
+        "size": 52
     },
     {
         "code": "U+9BC9",
@@ -11592,17 +11847,12 @@
     {
         "code": "U+6E5B",
         "label": "湛",
-        "size": 5
+        "size": 9
     },
     {
         "code": "1",
         "label": "1",
         "size": 2
-    },
-    {
-        "code": "U+9B92",
-        "label": "鮒",
-        "size": 46
     },
     {
         "code": "U+9A69",
@@ -11612,7 +11862,7 @@
     {
         "code": "U+907D",
         "label": "遽",
-        "size": 3
+        "size": 7
     },
     {
         "code": "U+9475",
@@ -11652,7 +11902,7 @@
     {
         "code": "U+8DBE",
         "label": "趾",
-        "size": 3
+        "size": 4
     },
     {
         "code": "U+6162",
@@ -11678,11 +11928,6 @@
         "code": "U+7B56",
         "label": "策",
         "size": 26
-    },
-    {
-        "code": "U+8F3F",
-        "label": "輿",
-        "size": 37
     },
     {
         "code": "U+308F",
@@ -11742,7 +11987,7 @@
     {
         "code": "U+8B6C",
         "label": "譬",
-        "size": 25
+        "size": 55
     },
     {
         "code": "U+5B16",
@@ -11777,7 +12022,7 @@
     {
         "code": "U+980C",
         "label": "頌",
-        "size": 2
+        "size": 20
     },
     {
         "code": "U+91E7",
@@ -11818,11 +12063,6 @@
         "code": "U+7E41",
         "label": "繁",
         "size": 57
-    },
-    {
-        "code": "U+7DBE",
-        "label": "綾",
-        "size": 29
     },
     {
         "code": "U+306B",
@@ -11872,7 +12112,7 @@
     {
         "code": "U+964B",
         "label": "陋",
-        "size": 4
+        "size": 6
     },
     {
         "code": "U+4FDA",
@@ -11882,12 +12122,7 @@
     {
         "code": "U+69CD",
         "label": "槍",
-        "size": 2
-    },
-    {
-        "code": "U+9BA8",
-        "label": "鮨",
-        "size": 4
+        "size": 7
     },
     {
         "code": "U+6FC1",
@@ -12005,11 +12240,6 @@
         "size": 5
     },
     {
-        "code": "U+7CEF",
-        "label": "糯",
-        "size": 10
-    },
-    {
         "code": "U+724C",
         "label": "牌",
         "size": 13
@@ -12022,7 +12252,7 @@
     {
         "code": "U+77BF",
         "label": "瞿",
-        "size": 4
+        "size": 7
     },
     {
         "code": "U+307E",
@@ -12087,7 +12317,7 @@
     {
         "code": "U+8862",
         "label": "衢",
-        "size": 1
+        "size": 9
     },
     {
         "code": "U+5BE7",
@@ -12107,7 +12337,7 @@
     {
         "code": "U+847A",
         "label": "葺",
-        "size": 11
+        "size": 21
     },
     {
         "code": "U+53F7",
@@ -12167,7 +12397,7 @@
     {
         "code": "U+8700",
         "label": "蜀",
-        "size": 8
+        "size": 10
     },
     {
         "code": "U+30DA",
@@ -12255,14 +12485,9 @@
         "size": 2
     },
     {
-        "code": "U+963F",
-        "label": "阿",
-        "size": 140
-    },
-    {
         "code": "U+6842",
         "label": "桂",
-        "size": 20
+        "size": 23
     },
     {
         "code": "U+4FAE",
@@ -12322,7 +12547,7 @@
     {
         "code": "U+6DEA",
         "label": "淪",
-        "size": 3
+        "size": 6
     },
     {
         "code": "U+9397",
@@ -12380,11 +12605,6 @@
         "size": 58
     },
     {
-        "code": "U+80E1",
-        "label": "胡",
-        "size": 131
-    },
-    {
         "code": "U+3067",
         "label": "で",
         "size": 2235
@@ -12405,14 +12625,9 @@
         "size": 4
     },
     {
-        "code": "U+84B2",
-        "label": "蒲",
-        "size": 47
-    },
-    {
         "code": "U+8549",
         "label": "蕉",
-        "size": 8
+        "size": 9
     },
     {
         "code": "U+86B6",
@@ -12437,7 +12652,7 @@
     {
         "code": "U+976D",
         "label": "靭",
-        "size": 6
+        "size": 9
     },
     {
         "code": "U+62FF",
@@ -12502,7 +12717,7 @@
     {
         "code": "U+7E23",
         "label": "縣",
-        "size": 3
+        "size": 14
     },
     {
         "code": "U+5834",
@@ -12550,11 +12765,6 @@
         "size": 9
     },
     {
-        "code": "U+9B91",
-        "label": "鮑",
-        "size": 13
-    },
-    {
         "code": "U+9A6A",
         "label": "驪",
         "size": 6
@@ -12562,7 +12772,7 @@
     {
         "code": "U+82DF",
         "label": "苟",
-        "size": 4
+        "size": 7
     },
     {
         "code": "U+515A",
@@ -12652,12 +12862,12 @@
     {
         "code": "U+994B",
         "label": "饋",
-        "size": 3
+        "size": 5
     },
     {
         "code": "U+9B4F",
         "label": "魏",
-        "size": 5
+        "size": 8
     },
     {
         "code": "U+6EDD",
@@ -12682,7 +12892,7 @@
     {
         "code": "U+7D02",
         "label": "紂",
-        "size": 2
+        "size": 3
     },
     {
         "code": "U+5305",
@@ -12692,7 +12902,7 @@
     {
         "code": "U+711A",
         "label": "焚",
-        "size": 104
+        "size": 114
     },
     {
         "code": "U+54F2",
@@ -12707,7 +12917,7 @@
     {
         "code": "U+7FB9",
         "label": "羹",
-        "size": 70
+        "size": 77
     },
     {
         "code": "U+7DBD",
@@ -12812,7 +13022,7 @@
     {
         "code": "U+689F",
         "label": "梟",
-        "size": 7
+        "size": 8
     },
     {
         "code": "U+96E2",
@@ -12858,11 +13068,6 @@
         "code": "U+8B21",
         "label": "謡",
         "size": 10
-    },
-    {
-        "code": "U+8925",
-        "label": "褥",
-        "size": 2
     },
     {
         "code": "U+8ADA",
@@ -12948,11 +13153,6 @@
         "code": "U+6190",
         "label": "憐",
         "size": 29
-    },
-    {
-        "code": "U+9C12",
-        "label": "鰒",
-        "size": 1
     },
     {
         "code": "U+6D88",
@@ -13047,7 +13247,7 @@
     {
         "code": "U+65C3",
         "label": "旃",
-        "size": 4
+        "size": 14
     },
     {
         "code": "U+9051",
@@ -13142,17 +13342,17 @@
     {
         "code": "U+932B",
         "label": "錫",
-        "size": 10
+        "size": 14
     },
     {
         "code": "U+98C4",
         "label": "飄",
-        "size": 1
+        "size": 4
     },
     {
         "code": "U+6F09",
         "label": "漉",
-        "size": 62
+        "size": 63
     },
     {
         "code": "U+6AFA",
@@ -13212,7 +13412,7 @@
     {
         "code": "U+8944",
         "label": "襄",
-        "size": 2
+        "size": 5
     },
     {
         "code": "U+8010",
@@ -13307,7 +13507,7 @@
     {
         "code": "U+7422",
         "label": "琢",
-        "size": 8
+        "size": 9
     },
     {
         "code": "U+58DC",
@@ -13342,7 +13542,7 @@
     {
         "code": "U+9761",
         "label": "靡",
-        "size": 10
+        "size": 23
     },
     {
         "code": "U+4EAB",
@@ -13365,11 +13565,6 @@
         "size": 30
     },
     {
-        "code": "U+96C1",
-        "label": "雁",
-        "size": 48
-    },
-    {
         "code": "U+757F",
         "label": "畿",
         "size": 4
@@ -13378,11 +13573,6 @@
         "code": "U+7C94",
         "label": "粔",
         "size": 2
-    },
-    {
-        "code": "U+8B02",
-        "label": "謂",
-        "size": 74
     },
     {
         "code": "U+88FD",
@@ -13417,7 +13607,7 @@
     {
         "code": "U+7FD4",
         "label": "翔",
-        "size": 9
+        "size": 12
     },
     {
         "code": "U+4FEF",
@@ -13457,7 +13647,7 @@
     {
         "code": "U+8DEA",
         "label": "跪",
-        "size": 38
+        "size": 50
     },
     {
         "code": "U+8A1D",
@@ -13562,7 +13752,7 @@
     {
         "code": "U+76BA",
         "label": "皺",
-        "size": 2
+        "size": 3
     },
     {
         "code": "U+50AD",
@@ -13617,12 +13807,12 @@
     {
         "code": "U+9B18",
         "label": "鬘",
-        "size": 1
+        "size": 12
     },
     {
         "code": "U+95BB",
         "label": "閻",
-        "size": 3
+        "size": 24
     },
     {
         "code": "U+9BA7",
@@ -13672,22 +13862,22 @@
     {
         "code": "U+7009",
         "label": "瀉",
-        "size": 2
+        "size": 5
     },
     {
         "code": "U+745A",
         "label": "瑚",
-        "size": 2
+        "size": 3
     },
     {
         "code": "U+87C4",
         "label": "蟄",
-        "size": 12
+        "size": 13
     },
     {
         "code": "U+863F",
         "label": "蘿",
-        "size": 5
+        "size": 7
     },
     {
         "code": "U+5E55",
@@ -13697,7 +13887,7 @@
     {
         "code": "U+79B9",
         "label": "禹",
-        "size": 1
+        "size": 7
     },
     {
         "code": "U+5C51",
@@ -13752,7 +13942,7 @@
     {
         "code": "U+72FC",
         "label": "狼",
-        "size": 165
+        "size": 171
     },
     {
         "code": "U+52E7",
@@ -13772,7 +13962,7 @@
     {
         "code": "U+7CE0",
         "label": "糠",
-        "size": 30
+        "size": 31
     },
     {
         "code": "U+8A8D",
@@ -13807,12 +13997,12 @@
     {
         "code": "U+6F3F",
         "label": "漿",
-        "size": 2
+        "size": 3
     },
     {
         "code": "U+9952",
         "label": "饒",
-        "size": 1
+        "size": 28
     },
     {
         "code": "U+652B",
@@ -13822,7 +14012,7 @@
     {
         "code": "U+9119",
         "label": "鄙",
-        "size": 9
+        "size": 14
     },
     {
         "code": "U+6A97",
@@ -13837,7 +14027,7 @@
     {
         "code": "U+9909",
         "label": "餉",
-        "size": 2
+        "size": 4
     },
     {
         "code": "U+58A8",
@@ -13847,7 +14037,7 @@
     {
         "code": "U+88D2",
         "label": "裒",
-        "size": 1
+        "size": 4
     },
     {
         "code": "U+7948",
@@ -13932,7 +14122,7 @@
     {
         "code": "U+6E20",
         "label": "渠",
-        "size": 13
+        "size": 33
     },
     {
         "code": "U+99ED",
@@ -13957,7 +14147,7 @@
     {
         "code": "U+8026",
         "label": "耦",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+505C",
@@ -14002,12 +14192,12 @@
     {
         "code": "U+68F2",
         "label": "棲",
-        "size": 8
+        "size": 9
     },
     {
         "code": "U+9E9F",
         "label": "麟",
-        "size": 2
+        "size": 4
     },
     {
         "code": "U+305E",
@@ -14037,12 +14227,12 @@
     {
         "code": "U+74CA",
         "label": "瓊",
-        "size": 4
+        "size": 13
     },
     {
         "code": "U+7099",
         "label": "炙",
-        "size": 14
+        "size": 18
     },
     {
         "code": "U+80F8",
@@ -14062,7 +14252,7 @@
     {
         "code": "U+8B17",
         "label": "謗",
-        "size": 4
+        "size": 17
     },
     {
         "code": "U+8CE0",
@@ -14077,7 +14267,7 @@
     {
         "code": "U+9D3B",
         "label": "鴻",
-        "size": 6
+        "size": 10
     },
     {
         "code": "U+6CA1",
@@ -14087,7 +14277,7 @@
     {
         "code": "U+674E",
         "label": "李",
-        "size": 7
+        "size": 9
     },
     {
         "code": "U+6142",
@@ -14102,12 +14292,12 @@
     {
         "code": "U+6FE1",
         "label": "濡",
-        "size": 16
+        "size": 19
     },
     {
         "code": "U+6E1A",
         "label": "渚",
-        "size": 1
+        "size": 5
     },
     {
         "code": "U+4FFA",
@@ -14202,7 +14392,7 @@
     {
         "code": "U+903C",
         "label": "逼",
-        "size": 1
+        "size": 20
     },
     {
         "code": "U+93C3",
@@ -14242,7 +14432,7 @@
     {
         "code": "U+778B",
         "label": "瞋",
-        "size": 3
+        "size": 18
     },
     {
         "code": "U+5263",
@@ -14267,7 +14457,7 @@
     {
         "code": "U+6DBF",
         "label": "涿",
-        "size": 2
+        "size": 3
     },
     {
         "code": "U+9BD2",
@@ -14307,7 +14497,7 @@
     {
         "code": "U+640F",
         "label": "搏",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+9262",
@@ -14387,7 +14577,7 @@
     {
         "code": "U+64B0",
         "label": "撰",
-        "size": 44
+        "size": 49
     },
     {
         "code": "U+66B4",
@@ -14402,12 +14592,12 @@
     {
         "code": "U+96D5",
         "label": "雕",
-        "size": 4
+        "size": 6
     },
     {
         "code": "U+6714",
         "label": "朔",
-        "size": 31
+        "size": 39
     },
     {
         "code": "U+9082",
@@ -14442,7 +14632,7 @@
     {
         "code": "U+8755",
         "label": "蝕",
-        "size": 9
+        "size": 13
     },
     {
         "code": "U+80A2",
@@ -14467,12 +14657,12 @@
     {
         "code": "U+9817",
         "label": "頗",
-        "size": 30
+        "size": 49
     },
     {
         "code": "U+6D85",
         "label": "涅",
-        "size": 2
+        "size": 32
     },
     {
         "code": "U+9BE8",
@@ -14492,7 +14682,7 @@
     {
         "code": "U+75B5",
         "label": "疵",
-        "size": 36
+        "size": 37
     },
     {
         "code": "U+5A49",
@@ -14577,7 +14767,7 @@
     {
         "code": "U+6775",
         "label": "杵",
-        "size": 10
+        "size": 17
     },
     {
         "code": "U+9EFF",
@@ -14592,7 +14782,7 @@
     {
         "code": "U+8B2C",
         "label": "謬",
-        "size": 3
+        "size": 7
     },
     {
         "code": "U+7AB6",
@@ -14607,7 +14797,7 @@
     {
         "code": "U+7B4D",
         "label": "筍",
-        "size": 19
+        "size": 20
     },
     {
         "code": "U+8734",
@@ -14687,7 +14877,7 @@
     {
         "code": "U+7AED",
         "label": "竭",
-        "size": 10
+        "size": 17
     },
     {
         "code": "U+7912",
@@ -14760,11 +14950,6 @@
         "size": 1
     },
     {
-        "code": "U+85C1",
-        "label": "藁",
-        "size": 28
-    },
-    {
         "code": "U+8822",
         "label": "蠢",
         "size": 1
@@ -14797,12 +14982,12 @@
     {
         "code": "U+6DCB",
         "label": "淋",
-        "size": 30
+        "size": 31
     },
     {
         "code": "U+69C3",
         "label": "槃",
-        "size": 4
+        "size": 40
     },
     {
         "code": "U+6838",
@@ -14812,7 +14997,7 @@
     {
         "code": "U+7A1C",
         "label": "稜",
-        "size": 2
+        "size": 10
     },
     {
         "code": "U+79E3",
@@ -14842,7 +15027,7 @@
     {
         "code": "U+70B7",
         "label": "炷",
-        "size": 3
+        "size": 4
     },
     {
         "code": "U+50AC",
@@ -14892,7 +15077,7 @@
     {
         "code": "U+6B23",
         "label": "欣",
-        "size": 2
+        "size": 25
     },
     {
         "code": "U+4ECB",
@@ -14957,7 +15142,7 @@
     {
         "code": "U+9838",
         "label": "頸",
-        "size": 14
+        "size": 20
     },
     {
         "code": "U+7B86",
@@ -15022,7 +15207,7 @@
     {
         "code": "U+7C2A",
         "label": "簪",
-        "size": 3
+        "size": 4
     },
     {
         "code": "U+4FEE",
@@ -15052,12 +15237,7 @@
     {
         "code": "U+64A5",
         "label": "撥",
-        "size": 11
-    },
-    {
-        "code": "U+96C0",
-        "label": "雀",
-        "size": 45
+        "size": 17
     },
     {
         "code": "U+7372",
@@ -15222,7 +15402,7 @@
     {
         "code": "U+7E37",
         "label": "縷",
-        "size": 4
+        "size": 5
     },
     {
         "code": "U+7A3F",
@@ -15252,7 +15432,7 @@
     {
         "code": "U+804A",
         "label": "聊",
-        "size": 69
+        "size": 71
     },
     {
         "code": "U+5030",
@@ -15277,7 +15457,7 @@
     {
         "code": "U+6840",
         "label": "桀",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+9C29",
@@ -15328,11 +15508,6 @@
         "code": "U+7D2C",
         "label": "紬",
         "size": 13
-    },
-    {
-        "code": "U+8D16",
-        "label": "贖",
-        "size": 10
     },
     {
         "code": "U+8CED",
@@ -15422,7 +15597,7 @@
     {
         "code": "U+6666",
         "label": "晦",
-        "size": 90
+        "size": 92
     },
     {
         "code": "U+626E",
@@ -15432,7 +15607,7 @@
     {
         "code": "U+9403",
         "label": "鐃",
-        "size": 1
+        "size": 3
     },
     {
         "code": "U+6191",
@@ -15447,7 +15622,7 @@
     {
         "code": "U+6C72",
         "label": "汲",
-        "size": 38
+        "size": 46
     },
     {
         "code": "U+71B1",
@@ -15490,11 +15665,6 @@
         "size": 3
     },
     {
-        "code": "U+849C",
-        "label": "蒜",
-        "size": 5
-    },
-    {
         "code": "U+934B",
         "label": "鍋",
         "size": 176
@@ -15517,7 +15687,7 @@
     {
         "code": "U+9AFB",
         "label": "髻",
-        "size": 2
+        "size": 8
     },
     {
         "code": "U+6C96",
@@ -15537,7 +15707,7 @@
     {
         "code": "U+9310",
         "label": "錐",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+52B1",
@@ -15577,7 +15747,7 @@
     {
         "code": "U+7ABA",
         "label": "窺",
-        "size": 9
+        "size": 12
     },
     {
         "code": "U+88DF",
@@ -15607,7 +15777,7 @@
     {
         "code": "U+6E38",
         "label": "游",
-        "size": 3
+        "size": 9
     },
     {
         "code": "U+9855",
@@ -15687,7 +15857,7 @@
     {
         "code": "U+901E",
         "label": "逞",
-        "size": 5
+        "size": 6
     },
     {
         "code": "U+9C06",
@@ -15757,7 +15927,7 @@
     {
         "code": "U+82DE",
         "label": "苞",
-        "size": 16
+        "size": 17
     },
     {
         "code": "U+54A8",
@@ -15777,7 +15947,7 @@
     {
         "code": "U+7950",
         "label": "祐",
-        "size": 16
+        "size": 19
     },
     {
         "code": "U+5CB8",
@@ -15807,7 +15977,7 @@
     {
         "code": "U+6493",
         "label": "撓",
-        "size": 3
+        "size": 5
     },
     {
         "code": "U+5835",
@@ -15862,7 +16032,7 @@
     {
         "code": "U+67E9",
         "label": "柩",
-        "size": 2
+        "size": 6
     },
     {
         "code": "U+65ED",
@@ -15892,7 +16062,7 @@
     {
         "code": "U+6A0A",
         "label": "樊",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+9A6B",
@@ -15917,7 +16087,7 @@
     {
         "code": "U+6C5D",
         "label": "汝",
-        "size": 153
+        "size": 188
     },
     {
         "code": "U+61BE",
@@ -15942,7 +16112,7 @@
     {
         "code": "U+840C",
         "label": "萌",
-        "size": 8
+        "size": 12
     },
     {
         "code": "U+8004",
@@ -16017,12 +16187,12 @@
     {
         "code": "U+64F2",
         "label": "擲",
-        "size": 1
+        "size": 10
     },
     {
         "code": "U+694A",
         "label": "楊",
-        "size": 26
+        "size": 33
     },
     {
         "code": "U+4EA6",
@@ -16032,7 +16202,7 @@
     {
         "code": "U+6B4E",
         "label": "歎",
-        "size": 99
+        "size": 133
     },
     {
         "code": "U+7891",
@@ -16052,7 +16222,7 @@
     {
         "code": "U+811B",
         "label": "脛",
-        "size": 3
+        "size": 7
     },
     {
         "code": "U+509A",
@@ -16077,7 +16247,7 @@
     {
         "code": "U+8543",
         "label": "蕃",
-        "size": 4
+        "size": 9
     },
     {
         "code": "U+732E",
@@ -16092,7 +16262,7 @@
     {
         "code": "U+814B",
         "label": "腋",
-        "size": 13
+        "size": 17
     },
     {
         "code": "U+30E7",
@@ -16117,7 +16287,7 @@
     {
         "code": "U+8EAC",
         "label": "躬",
-        "size": 2
+        "size": 19
     },
     {
         "code": "U+793A",
@@ -16180,11 +16350,6 @@
         "size": 2
     },
     {
-        "code": "U+9D28",
-        "label": "鴨",
-        "size": 62
-    },
-    {
         "code": "U+8D08",
         "label": "贈",
         "size": 20
@@ -16227,17 +16392,12 @@
     {
         "code": "U+89BF",
         "label": "覿",
-        "size": 1
+        "size": 3
     },
     {
         "code": "U+7FD2",
         "label": "習",
         "size": 106
-    },
-    {
-        "code": "U+83AB",
-        "label": "莫",
-        "size": 9
     },
     {
         "code": "U+522A",
@@ -16247,7 +16407,7 @@
     {
         "code": "U+73CA",
         "label": "珊",
-        "size": 2
+        "size": 6
     },
     {
         "code": "U+6015",
@@ -16302,7 +16462,7 @@
     {
         "code": "U+8A1B",
         "label": "訛",
-        "size": 4
+        "size": 5
     },
     {
         "code": "U+5B9A",
@@ -16347,7 +16507,7 @@
     {
         "code": "U+76E7",
         "label": "盧",
-        "size": 6
+        "size": 25
     },
     {
         "code": "U+84D9",
@@ -16382,7 +16542,7 @@
     {
         "code": "U+9CE9",
         "label": "鳩",
-        "size": 43
+        "size": 51
     },
     {
         "code": "U+6C88",
@@ -16427,7 +16587,7 @@
     {
         "code": "U+67D8",
         "label": "柘",
-        "size": 7
+        "size": 8
     },
     {
         "code": "U+53EB",
@@ -16440,11 +16600,6 @@
         "size": 14
     },
     {
-        "code": "U+8466",
-        "label": "葦",
-        "size": 5
-    },
-    {
         "code": "U+5DF7",
         "label": "巷",
         "size": 22
@@ -16452,27 +16607,12 @@
     {
         "code": "U+8E72",
         "label": "蹲",
-        "size": 2
-    },
-    {
-        "code": "U+7BE0",
-        "label": "篠",
-        "size": 5
+        "size": 4
     },
     {
         "code": "U+59FF",
         "label": "姿",
         "size": 84
-    },
-    {
-        "code": "U+7DEC",
-        "label": "緬",
-        "size": 7
-    },
-    {
-        "code": "U+887E",
-        "label": "衾",
-        "size": 6
     },
     {
         "code": "U+7A40",
@@ -16567,7 +16707,7 @@
     {
         "code": "U+750D",
         "label": "甍",
-        "size": 1
+        "size": 6
     },
     {
         "code": "U+76F2",
@@ -16583,11 +16723,6 @@
         "code": "U+4ED9",
         "label": "仙",
         "size": 74
-    },
-    {
-        "code": "U+9D5C",
-        "label": "鵜",
-        "size": 21
     },
     {
         "code": "U+98AF",
@@ -16637,7 +16772,7 @@
     {
         "code": "U+88D4",
         "label": "裔",
-        "size": 2
+        "size": 8
     },
     {
         "code": "U+7D46",
@@ -16737,7 +16872,7 @@
     {
         "code": "U+83DF",
         "label": "菟",
-        "size": 22
+        "size": 35
     },
     {
         "code": "U+75B2",
@@ -16792,7 +16927,7 @@
     {
         "code": "U+76C8",
         "label": "盈",
-        "size": 1
+        "size": 14
     },
     {
         "code": "U+5B30",
@@ -16837,7 +16972,7 @@
     {
         "code": "U+7768",
         "label": "睨",
-        "size": 6
+        "size": 12
     },
     {
         "code": "U+82FA",
@@ -16852,7 +16987,7 @@
     {
         "code": "U+68AF",
         "label": "梯",
-        "size": 2
+        "size": 4
     },
     {
         "code": "U+9871",
@@ -16947,7 +17082,7 @@
     {
         "code": "U+6DB8",
         "label": "涸",
-        "size": 1
+        "size": 6
     },
     {
         "code": "U+99D1",
@@ -16985,11 +17120,6 @@
         "size": 82
     },
     {
-        "code": "U+9F20",
-        "label": "鼠",
-        "size": 99
-    },
-    {
         "code": "U+9730",
         "label": "霰",
         "size": 9
@@ -17022,7 +17152,7 @@
     {
         "code": "U+8514",
         "label": "蔔",
-        "size": 3
+        "size": 4
     },
     {
         "code": "U+717D",
@@ -17052,7 +17182,7 @@
     {
         "code": "U+8AA8",
         "label": "誨",
-        "size": 2
+        "size": 15
     },
     {
         "code": "U+30EB",
@@ -17095,11 +17225,6 @@
         "size": 51
     },
     {
-        "code": "U+91D8",
-        "label": "釘",
-        "size": 10
-    },
-    {
         "code": "U+942B",
         "label": "鐫",
         "size": 1
@@ -17132,7 +17257,7 @@
     {
         "code": "U+746A",
         "label": "瑪",
-        "size": 2
+        "size": 3
     },
     {
         "code": "U+7591",
@@ -17187,7 +17312,7 @@
     {
         "code": "U+8E44",
         "label": "蹄",
-        "size": 6
+        "size": 7
     },
     {
         "code": "U+9C60",
@@ -17215,14 +17340,9 @@
         "size": 10
     },
     {
-        "code": "U+9470",
-        "label": "鑰",
-        "size": 3
-    },
-    {
         "code": "U+7957",
         "label": "祗",
-        "size": 48
+        "size": 52
     },
     {
         "code": "U+5EBB",
@@ -17247,7 +17367,7 @@
     {
         "code": "U+80DD",
         "label": "胝",
-        "size": 2
+        "size": 7
     },
     {
         "code": "U+754F",
@@ -17315,11 +17435,6 @@
         "size": 30
     },
     {
-        "code": "U+8086",
-        "label": "肆",
-        "size": 11
-    },
-    {
         "code": "U+56F0",
         "label": "困",
         "size": 17
@@ -17367,7 +17482,7 @@
     {
         "code": "U+81C2",
         "label": "臂",
-        "size": 4
+        "size": 23
     },
     {
         "code": "U+5247",
@@ -17455,11 +17570,6 @@
         "size": 3
     },
     {
-        "code": "U+9BAD",
-        "label": "鮭",
-        "size": 32
-    },
-    {
         "code": "U+6DC0",
         "label": "淀",
         "size": 27
@@ -17498,11 +17608,6 @@
         "code": "U+5410",
         "label": "吐",
         "size": 32
-    },
-    {
-        "code": "U+8591",
-        "label": "薑",
-        "size": 1
     },
     {
         "code": "U+75F0",
@@ -17557,7 +17662,7 @@
     {
         "code": "U+88D8",
         "label": "裘",
-        "size": 2
+        "size": 3
     },
     {
         "code": "\\U0002000B",
@@ -17617,7 +17722,7 @@
     {
         "code": "U+7109",
         "label": "焉",
-        "size": 20
+        "size": 43
     },
     {
         "code": "U+8D70",
@@ -17642,7 +17747,7 @@
     {
         "code": "U+6B3D",
         "label": "欽",
-        "size": 4
+        "size": 7
     },
     {
         "code": "U+6939",
@@ -17692,7 +17797,7 @@
     {
         "code": "U+73B2",
         "label": "玲",
-        "size": 1
+        "size": 6
     },
     {
         "code": "U+5056",
@@ -17717,12 +17822,12 @@
     {
         "code": "U+8DCF",
         "label": "跏",
-        "size": 1
+        "size": 9
     },
     {
         "code": "U+8E30",
         "label": "踰",
-        "size": 5
+        "size": 12
     },
     {
         "code": "U+5C4E",
@@ -17732,7 +17837,7 @@
     {
         "code": "U+79A6",
         "label": "禦",
-        "size": 6
+        "size": 15
     },
     {
         "code": "U+8A63",
@@ -17747,7 +17852,7 @@
     {
         "code": "U+71ED",
         "label": "燭",
-        "size": 60
+        "size": 62
     },
     {
         "code": "\\U0002437D",
@@ -17772,7 +17877,7 @@
     {
         "code": "U+63C9",
         "label": "揉",
-        "size": 8
+        "size": 9
     },
     {
         "code": "U+95A4",
@@ -17782,7 +17887,7 @@
     {
         "code": "U+97A0",
         "label": "鞠",
-        "size": 12
+        "size": 17
     },
     {
         "code": "U+4FCA",
@@ -17822,7 +17927,7 @@
     {
         "code": "U+86FE",
         "label": "蛾",
-        "size": 13
+        "size": 16
     },
     {
         "code": "U+736C",
@@ -17842,7 +17947,7 @@
     {
         "code": "U+7E8F",
         "label": "纏",
-        "size": 10
+        "size": 26
     },
     {
         "code": "U+8B1D",
@@ -17862,7 +17967,7 @@
     {
         "code": "U+6CAB",
         "label": "沫",
-        "size": 8
+        "size": 9
     },
     {
         "code": "U+62EC",
@@ -17922,7 +18027,7 @@
     {
         "code": "U+82AD",
         "label": "芭",
-        "size": 3
+        "size": 4
     },
     {
         "code": "U+84A1",
@@ -17947,17 +18052,17 @@
     {
         "code": "U+8212",
         "label": "舒",
-        "size": 1
+        "size": 11
     },
     {
         "code": "U+83E9",
         "label": "菩",
-        "size": 47
+        "size": 89
     },
     {
         "code": "U+99DD",
         "label": "駝",
-        "size": 1
+        "size": 4
     },
     {
         "code": "U+6FEB",
@@ -17983,11 +18088,6 @@
         "code": "U+7228",
         "label": "爨",
         "size": 1
-    },
-    {
-        "code": "U+87BA",
-        "label": "螺",
-        "size": 20
     },
     {
         "code": "U+563B",
@@ -18022,7 +18122,7 @@
     {
         "code": "U+8C55",
         "label": "豕",
-        "size": 3
+        "size": 4
     },
     {
         "code": "U+6A19",
@@ -18067,7 +18167,7 @@
     {
         "code": "U+7A62",
         "label": "穢",
-        "size": 35
+        "size": 54
     },
     {
         "code": "U+8FF0",
@@ -18097,17 +18197,12 @@
     {
         "code": "U+63A9",
         "label": "掩",
-        "size": 2
+        "size": 9
     },
     {
         "code": "U+6056",
         "label": "恖",
         "size": 1
-    },
-    {
-        "code": "U+9C2F",
-        "label": "鰯",
-        "size": 9
     },
     {
         "code": "U+3071",
@@ -18117,7 +18212,7 @@
     {
         "code": "U+6E4A",
         "label": "湊",
-        "size": 17
+        "size": 19
     },
     {
         "code": "U+62ED",
@@ -18162,7 +18257,7 @@
     {
         "code": "U+82AC",
         "label": "芬",
-        "size": 1
+        "size": 7
     },
     {
         "code": "U+7336",
@@ -18172,7 +18267,7 @@
     {
         "code": "U+86A4",
         "label": "蚤",
-        "size": 9
+        "size": 10
     },
     {
         "code": "U+56DE",
@@ -18202,7 +18297,7 @@
     {
         "code": "U+8F14",
         "label": "輔",
-        "size": 98
+        "size": 111
     },
     {
         "code": "U+5C91",
@@ -18277,7 +18372,7 @@
     {
         "code": "U+7FF0",
         "label": "翰",
-        "size": 1
+        "size": 3
     },
     {
         "code": "U+5A18",
@@ -18310,11 +18405,6 @@
         "size": 2
     },
     {
-        "code": "U+9846",
-        "label": "顆",
-        "size": 9
-    },
-    {
         "code": "U+9BB9",
         "label": "鮹",
         "size": 9
@@ -18327,7 +18417,7 @@
     {
         "code": "U+659F",
         "label": "斟",
-        "size": 1
+        "size": 3
     },
     {
         "code": "U+6268",
@@ -18347,7 +18437,7 @@
     {
         "code": "U+77BB",
         "label": "瞻",
-        "size": 8
+        "size": 30
     },
     {
         "code": "U+5BB8",
@@ -18372,7 +18462,7 @@
     {
         "code": "U+8C8A",
         "label": "貊",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+5CF0",
@@ -18387,22 +18477,12 @@
     {
         "code": "U+8882",
         "label": "袂",
-        "size": 12
-    },
-    {
-        "code": "U+7D10",
-        "label": "紐",
-        "size": 9
+        "size": 13
     },
     {
         "code": "U+4ED4",
         "label": "仔",
         "size": 1
-    },
-    {
-        "code": "U+9149",
-        "label": "酉",
-        "size": 63
     },
     {
         "code": "U+6173",
@@ -18412,7 +18492,7 @@
     {
         "code": "U+971E",
         "label": "霞",
-        "size": 16
+        "size": 18
     },
     {
         "code": "U+6377",
@@ -18437,7 +18517,7 @@
     {
         "code": "U+6C90",
         "label": "沐",
-        "size": 18
+        "size": 22
     },
     {
         "code": "\\U00025FFB",
@@ -18447,7 +18527,7 @@
     {
         "code": "U+9F0E",
         "label": "鼎",
-        "size": 7
+        "size": 10
     },
     {
         "code": "U+8CD1",
@@ -18463,11 +18543,6 @@
         "code": "U+5B5C",
         "label": "孜",
         "size": 1
-    },
-    {
-        "code": "U+88D9",
-        "label": "裙",
-        "size": 4
     },
     {
         "code": "U+8336",
@@ -18497,7 +18572,7 @@
     {
         "code": "U+6E3E",
         "label": "渾",
-        "size": 4
+        "size": 5
     },
     {
         "code": "U+7BED",
@@ -18507,7 +18582,7 @@
     {
         "code": "U+866F",
         "label": "虯",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+5019",
@@ -18587,12 +18662,12 @@
     {
         "code": "U+7515",
         "label": "甕",
-        "size": 1
+        "size": 7
     },
     {
         "code": "U+8087",
         "label": "肇",
-        "size": 4
+        "size": 5
     },
     {
         "code": "U+5302",
@@ -18677,7 +18752,7 @@
     {
         "code": "U+9EE0",
         "label": "黠",
-        "size": 3
+        "size": 5
     },
     {
         "code": "U+542B",
@@ -18727,7 +18802,7 @@
     {
         "code": "U+67EF",
         "label": "柯",
-        "size": 3
+        "size": 8
     },
     {
         "code": "U+9675",
@@ -18737,7 +18812,7 @@
     {
         "code": "U+9022",
         "label": "逢",
-        "size": 62
+        "size": 74
     },
     {
         "code": "U+67B4",
@@ -18762,7 +18837,7 @@
     {
         "code": "U+6853",
         "label": "桓",
-        "size": 4
+        "size": 11
     },
     {
         "code": "U+3055",
@@ -18777,7 +18852,7 @@
     {
         "code": "U+8E1E",
         "label": "踞",
-        "size": 2
+        "size": 5
     },
     {
         "code": "U+8DE1",
@@ -18825,11 +18900,6 @@
         "size": 94
     },
     {
-        "code": "U+82B9",
-        "label": "芹",
-        "size": 12
-    },
-    {
         "code": "U+854E",
         "label": "蕎",
         "size": 19
@@ -18842,17 +18912,12 @@
     {
         "code": "U+670B",
         "label": "朋",
-        "size": 7
+        "size": 16
     },
     {
         "code": "U+66F0",
         "label": "曰",
-        "size": 68
-    },
-    {
-        "code": "U+9E81",
-        "label": "麁",
-        "size": 23
+        "size": 107
     },
     {
         "code": "U+9B29",
@@ -18867,11 +18932,6 @@
     {
         "code": "U+66AB",
         "label": "暫",
-        "size": 91
-    },
-    {
-        "code": "U+84EE",
-        "label": "蓮",
         "size": 91
     },
     {
@@ -18893,11 +18953,6 @@
         "code": "U+7F60",
         "label": "罠",
         "size": 1
-    },
-    {
-        "code": "U+7C9F",
-        "label": "粟",
-        "size": 52
     },
     {
         "code": "U+30B1",
@@ -18927,7 +18982,7 @@
     {
         "code": "U+7B95",
         "label": "箕",
-        "size": 8
+        "size": 16
     },
     {
         "code": "U+5E7D",
@@ -18942,7 +18997,7 @@
     {
         "code": "U+9BD4",
         "label": "鯔",
-        "size": 1
+        "size": 5
     },
     {
         "code": "U+99D0",
@@ -19057,7 +19112,7 @@
     {
         "code": "U+6EA2",
         "label": "溢",
-        "size": 2
+        "size": 17
     },
     {
         "code": "U+690E",
@@ -19070,19 +19125,9 @@
         "size": 16
     },
     {
-        "code": "U+9688",
-        "label": "隈",
-        "size": 53
-    },
-    {
         "code": "U+8557",
         "label": "蕗",
         "size": 11
-    },
-    {
-        "code": "U+88B4",
-        "label": "袴",
-        "size": 43
     },
     {
         "code": "U+30F3",
@@ -19122,7 +19167,7 @@
     {
         "code": "U+8831",
         "label": "蠱",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+5BB4",
@@ -19137,7 +19182,7 @@
     {
         "code": "U+81DA",
         "label": "臚",
-        "size": 2
+        "size": 3
     },
     {
         "code": "U+51A0",
@@ -19147,7 +19192,7 @@
     {
         "code": "U+862D",
         "label": "蘭",
-        "size": 20
+        "size": 31
     },
     {
         "code": "U+8429",
@@ -19157,7 +19202,7 @@
     {
         "code": "U+8385",
         "label": "莅",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+827E",
@@ -19187,7 +19232,7 @@
     {
         "code": "U+8D99",
         "label": "趙",
-        "size": 7
+        "size": 9
     },
     {
         "code": "U+5DE3",
@@ -19212,12 +19257,12 @@
     {
         "code": "U+97AD",
         "label": "鞭",
-        "size": 8
+        "size": 13
     },
     {
         "code": "U+696F",
         "label": "楯",
-        "size": 7
+        "size": 18
     },
     {
         "code": "U+9CFD",
@@ -19227,7 +19272,7 @@
     {
         "code": "U+6894",
         "label": "梔",
-        "size": 10
+        "size": 15
     },
     {
         "code": "U+9D06",
@@ -19242,7 +19287,7 @@
     {
         "code": "U+6773",
         "label": "杳",
-        "size": 3
+        "size": 4
     },
     {
         "code": "U+637B",
@@ -19322,7 +19367,7 @@
     {
         "code": "U+856D",
         "label": "蕭",
-        "size": 5
+        "size": 8
     },
     {
         "code": "U+8165",
@@ -19347,7 +19392,7 @@
     {
         "code": "U+9D5D",
         "label": "鵝",
-        "size": 11
+        "size": 12
     },
     {
         "code": "U+6F38",
@@ -19377,7 +19422,7 @@
     {
         "code": "U+7FB2",
         "label": "羲",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+3063",
@@ -19397,7 +19442,7 @@
     {
         "code": "U+843C",
         "label": "萼",
-        "size": 1
+        "size": 4
     },
     {
         "code": "U+5446",
@@ -19420,11 +19465,6 @@
         "size": 62
     },
     {
-        "code": "U+99FF",
-        "label": "駿",
-        "size": 37
-    },
-    {
         "code": "U+9C0C",
         "label": "鰌",
         "size": 5
@@ -19437,7 +19477,7 @@
     {
         "code": "U+9C57",
         "label": "鱗",
-        "size": 21
+        "size": 23
     },
     {
         "code": "U+6A3A",
@@ -19452,7 +19492,7 @@
     {
         "code": "U+95BC",
         "label": "閼",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+924B",
@@ -19467,12 +19507,7 @@
     {
         "code": "U+91B4",
         "label": "醴",
-        "size": 5
-    },
-    {
-        "code": "U+93B0",
-        "label": "鎰",
-        "size": 2
+        "size": 7
     },
     {
         "code": "U+53EA",
@@ -19487,7 +19522,7 @@
     {
         "code": "U+859C",
         "label": "薜",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+71F5",
@@ -19542,17 +19577,17 @@
     {
         "code": "U+795A",
         "label": "祚",
-        "size": 3
+        "size": 7
     },
     {
         "code": "U+8CC8",
         "label": "賈",
-        "size": 1
+        "size": 7
     },
     {
         "code": "U+6881",
         "label": "梁",
-        "size": 18
+        "size": 30
     },
     {
         "code": "U+9B1F",
@@ -19612,7 +19647,7 @@
     {
         "code": "U+9B44",
         "label": "魄",
-        "size": 2
+        "size": 4
     },
     {
         "code": "U+30BA",
@@ -19657,7 +19692,7 @@
     {
         "code": "U+93D1",
         "label": "鏑",
-        "size": 2
+        "size": 6
     },
     {
         "code": "U+5074",
@@ -19702,7 +19737,7 @@
     {
         "code": "U+7F88",
         "label": "羈",
-        "size": 2
+        "size": 3
     },
     {
         "code": "U+5B9B",
@@ -19717,7 +19752,7 @@
     {
         "code": "U+7A20",
         "label": "稠",
-        "size": 9
+        "size": 17
     },
     {
         "code": "U+8E49",
@@ -19747,12 +19782,12 @@
     {
         "code": "U+7230",
         "label": "爰",
-        "size": 276
+        "size": 277
     },
     {
         "code": "U+947D",
         "label": "鑽",
-        "size": 1
+        "size": 3
     },
     {
         "code": "U+9075",
@@ -19852,7 +19887,7 @@
     {
         "code": "U+7960",
         "label": "祠",
-        "size": 6
+        "size": 8
     },
     {
         "code": "U+7A9F",
@@ -19892,7 +19927,7 @@
     {
         "code": "U+8AA5",
         "label": "誥",
-        "size": 5
+        "size": 11
     },
     {
         "code": "U+8CA9",
@@ -19907,22 +19942,17 @@
     {
         "code": "U+9D72",
         "label": "鵲",
-        "size": 1
+        "size": 2
     },
     {
         "code": "U+68E0",
         "label": "棠",
-        "size": 3
-    },
-    {
-        "code": "U+9091",
-        "label": "邑",
-        "size": 4
+        "size": 5
     },
     {
         "code": "U+66FC",
         "label": "曼",
-        "size": 1
+        "size": 19
     },
     {
         "code": "U+60F0",
@@ -19965,6 +19995,11 @@
         "size": 4
     },
     {
+        "code": "U+8A5B",
+        "label": "詛",
+        "size": 5
+    },
+    {
         "code": "U+63AA",
         "label": "措",
         "size": 3
@@ -19978,6 +20013,16 @@
         "code": "U+5AB1",
         "label": "媱",
         "size": 1
+    },
+    {
+        "code": "U+67B7",
+        "label": "枷",
+        "size": 2
+    },
+    {
+        "code": "U+7280",
+        "label": "犀",
+        "size": 4
     },
     {
         "code": "U+56C9",
@@ -20070,6 +20115,16 @@
         "size": 10
     },
     {
+        "code": "U+72C4",
+        "label": "狄",
+        "size": 3
+    },
+    {
+        "code": "U+937E",
+        "label": "鍾",
+        "size": 7
+    },
+    {
         "code": "U+90F5",
         "label": "郵",
         "size": 1
@@ -20083,6 +20138,11 @@
         "code": "U+516E",
         "label": "兮",
         "size": 2
+    },
+    {
+        "code": "U+9214",
+        "label": "鈔",
+        "size": 1
     },
     {
         "code": "U+50DA",
@@ -20110,6 +20170,16 @@
         "size": 4
     },
     {
+        "code": "U+837C",
+        "label": "荼",
+        "size": 4
+    },
+    {
+        "code": "U+7455",
+        "label": "瑕",
+        "size": 3
+    },
+    {
         "code": "U+8877",
         "label": "衷",
         "size": 1
@@ -20120,9 +20190,29 @@
         "size": 8
     },
     {
+        "code": "U+90C1",
+        "label": "郁",
+        "size": 5
+    },
+    {
         "code": "U+5F27",
         "label": "弧",
         "size": 1
+    },
+    {
+        "code": "U+838E",
+        "label": "莎",
+        "size": 2
+    },
+    {
+        "code": "U+7762",
+        "label": "睢",
+        "size": 1
+    },
+    {
+        "code": "U+7328",
+        "label": "猨",
+        "size": 3
     },
     {
         "code": "U+5F70",
@@ -20160,9 +20250,19 @@
         "size": 12
     },
     {
+        "code": "U+7627",
+        "label": "瘧",
+        "size": 1
+    },
+    {
         "code": "U+5598",
         "label": "喘",
         "size": 3
+    },
+    {
+        "code": "U+83D4",
+        "label": "菔",
+        "size": 1
     },
     {
         "code": "U+96F6",
@@ -20170,9 +20270,19 @@
         "size": 1
     },
     {
+        "code": "U+7669",
+        "label": "癩",
+        "size": 2
+    },
+    {
         "code": "U+5E62",
         "label": "幢",
         "size": 17
+    },
+    {
+        "code": "U+8E48",
+        "label": "蹈",
+        "size": 13
     },
     {
         "code": "U+5F17",
@@ -20193,6 +20303,11 @@
         "code": "U+524B",
         "label": "剋",
         "size": 102
+    },
+    {
+        "code": "U+8F9C",
+        "label": "辜",
+        "size": 5
     },
     {
         "code": "U+623E",
@@ -20235,9 +20350,19 @@
         "size": 1
     },
     {
+        "code": "U+7919",
+        "label": "礙",
+        "size": 40
+    },
+    {
         "code": "U+965B",
         "label": "陛",
         "size": 7
+    },
+    {
+        "code": "U+9ECE",
+        "label": "黎",
+        "size": 6
     },
     {
         "code": "U+906D",
@@ -20270,6 +20395,11 @@
         "size": 2
     },
     {
+        "code": "U+8EA1",
+        "label": "躡",
+        "size": 7
+    },
+    {
         "code": "U+52C3",
         "label": "勃",
         "size": 3
@@ -20288,6 +20418,11 @@
         "code": "U+902E",
         "label": "逮",
         "size": 11
+    },
+    {
+        "code": "U+936E",
+        "label": "鍮",
+        "size": 1
     },
     {
         "code": "U+304BU+3057U+304F",
@@ -20700,11 +20835,6 @@
         "size": 1
     },
     {
-        "code": "U+8006",
-        "label": "耆",
-        "size": 4
-    },
-    {
         "code": "U+85EA",
         "label": "藪",
         "size": 1
@@ -20763,11 +20893,6 @@
         "code": "U+91CB",
         "label": "釋",
         "size": 1
-    },
-    {
-        "code": "U+90C1",
-        "label": "郁",
-        "size": 4
     },
     {
         "code": "U+5F7CU+FF08U+76AEU+FF09",
@@ -21045,11 +21170,6 @@
         "size": 6
     },
     {
-        "code": "U+8E48",
-        "label": "蹈",
-        "size": 1
-    },
-    {
         "code": "U+5152",
         "label": "兒",
         "size": 1
@@ -21103,11 +21223,6 @@
         "code": "U+61C9",
         "label": "應",
         "size": 1
-    },
-    {
-        "code": "U+8D04",
-        "label": "贄",
-        "size": 3
     },
     {
         "code": "U+55AE",

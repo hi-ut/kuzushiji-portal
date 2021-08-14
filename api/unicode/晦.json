@@ -1440,6 +1440,40 @@
         "unicode": "6666"
     },
     {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0235",
+        "identifer": "30-235",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0235.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0235.tiff/full/full/0/default.jpg",
+        "title": "晦",
+        "unicode": "E699A6"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0185",
+        "identifer": "31-185",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0185.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0185.tiff/full/full/0/default.jpg",
+        "title": "晦",
+        "unicode": "E699A6"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34006871",

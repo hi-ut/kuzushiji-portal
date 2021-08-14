@@ -178,5 +178,39 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+818F/U+818F_200015843_00081_1_X1180_Y1370.jpg/full/full/0/default.jpg",
         "unicode": "818F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae1277",
+        "identifer": "19-1277",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae1277.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae1277.tiff/full/full/0/default.jpg",
+        "title": "膏",
+        "unicode": "E8868F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0381",
+        "identifer": "56-381",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0381.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0381.tiff/full/full/0/default.jpg",
+        "title": "膏",
+        "unicode": "E8868F"
     }
 ]

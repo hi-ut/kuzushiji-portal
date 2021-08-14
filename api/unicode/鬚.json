@@ -18,5 +18,90 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200004148/characters/U+9B1A/U+9B1A_200004148_00052_2_X0821_Y1996.jpg/full/full/0/default.jpg",
         "unicode": "9B1A"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jhk0685",
+        "identifer": "29-685",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/29jhk/jhk0685.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1126年",
+            "value": "神足變化經(開元寺版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/29jhk/jhk0685.tiff/full/full/0/default.jpg",
+        "title": "鬚",
+        "unicode": "E9AC9A"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0650",
+        "identifer": "30-650",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0650.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0650.tiff/full/full/0/default.jpg",
+        "title": "鬚",
+        "unicode": "E9AC9A"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ksk0552",
+        "identifer": "48-552",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/48ksk/ksk0552.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "13C",
+            "value": "華嚴經卷六(高麗再彫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/48ksk/ksk0552.tiff/full/full/0/default.jpg",
+        "title": "鬚",
+        "unicode": "E9AC9A"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0215",
+        "identifer": "71-215",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0215.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0215.tiff/full/full/0/default.jpg",
+        "title": "鬚",
+        "unicode": "E9AC9A"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0272",
+        "identifer": "74-272",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0272.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0272.tiff/full/full/0/default.jpg",
+        "title": "鬚",
+        "unicode": "E9AC9A"
     }
 ]

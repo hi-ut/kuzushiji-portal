@@ -18,5 +18,39 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+7FF0/U+7FF0_200014740_00019_1_X0128_Y1202.jpg/full/full/0/default.jpg",
         "unicode": "7FF0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae1249",
+        "identifer": "19-1249",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae1249.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae1249.tiff/full/full/0/default.jpg",
+        "title": "翰",
+        "unicode": "E7BFB0"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0372",
+        "identifer": "56-372",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0372.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0372.tiff/full/full/0/default.jpg",
+        "title": "翰",
+        "unicode": "E7BFB0"
     }
 ]

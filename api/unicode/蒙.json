@@ -1,5 +1,23 @@
 [
     {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AFFJD29000243",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFF/6AFFJD29/6AFFJD290002431/6AFFJD290002431-6/list/6AFFJD290002431-6-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFF/6AFFJD29/6AFFJD290002431/6AFFJD290002431-6/6AFFJD290002431-6.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFFJD29000243",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFFJD290002431-C1.tiff/172,1222,272,345/full/0/default.jpg",
+        "title": "蒙",
+        "unicode": "UTF-8"
+    },
+    {
         "character": "蒙",
         "creator": "国文学研究資料館",
         "delegate": true,
@@ -278,6 +296,193 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+8499/U+8499_200021660_00005_2_X0320_Y3558.jpg/full/full/0/default.jpg",
         "unicode": "8499"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyd1304",
+        "identifer": "14-1304",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/14kyd/kyd1304.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "初唐",
+            "value": "漢書楊雄傳(上野本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/14kyd/kyd1304.tiff/full/full/0/default.jpg",
+        "title": "蒙",
+        "unicode": "E89299"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0332",
+        "identifer": "18-332",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0332.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0332.tiff/full/full/0/default.jpg",
+        "title": "蒙",
+        "unicode": "E89299"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae1314",
+        "identifer": "19-1314",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae1314.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae1314.tiff/full/full/0/default.jpg",
+        "title": "蒙",
+        "unicode": "E89299"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod1353",
+        "identifer": "30-1353",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod1353.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod1353.tiff/full/full/0/default.jpg",
+        "title": "蒙",
+        "unicode": "E89299"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok1014",
+        "identifer": "31-1014",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok1014.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok1014.tiff/full/full/0/default.jpg",
+        "title": "蒙",
+        "unicode": "E89299"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ksk0098",
+        "identifer": "48-98",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/48ksk/ksk0098.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "13C",
+            "value": "華嚴經卷六(高麗再彫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/48ksk/ksk0098.tiff/full/full/0/default.jpg",
+        "title": "蒙",
+        "unicode": "E89299"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wan0107",
+        "identifer": "49-107",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/49wan/wan0107.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "華嚴經卷三十八(趙氏藏本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/49wan/wan0107.tiff/full/full/0/default.jpg",
+        "title": "蒙",
+        "unicode": "E89299"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd1179",
+        "identifer": "56-1179",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd1179.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd1179.tiff/full/full/0/default.jpg",
+        "title": "蒙",
+        "unicode": "E89299"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzs0680",
+        "identifer": "60-680",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/60tzs/tzs0680.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C",
+            "value": "佛説大教王經卷一(東禪寺版日本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/60tzs/tzs0680.tiff/full/full/0/default.jpg",
+        "title": "蒙",
+        "unicode": "E89299"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kss0556",
+        "identifer": "64-556",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/64kss/kss0556.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1221年",
+            "value": "華嚴信種義(明惠自筆)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/64kss/kss0556.tiff/full/full/0/default.jpg",
+        "title": "蒙",
+        "unicode": "E89299"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ykk0702",
+        "identifer": "68-702",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/68ykk/ykk0702.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1412年",
+            "value": "藥師功徳經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/68ykk/ykk0702.tiff/full/full/0/default.jpg",
+        "title": "蒙",
+        "unicode": "E89299"
     },
     {
         "creator": "東京大学史料編纂所@ja",

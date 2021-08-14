@@ -58,5 +58,107 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+6E38/U+6E38_200021660_00092_1_X0267_Y3511.jpg/full/full/0/default.jpg",
         "unicode": "6E38"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar1025",
+        "identifer": "18-1025",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar1025.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar1025.tiff/full/full/0/default.jpg",
+        "title": "游",
+        "unicode": "E6B8B8"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0182",
+        "identifer": "19-182",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0182.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0182.tiff/full/full/0/default.jpg",
+        "title": "游",
+        "unicode": "E6B8B8"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0290",
+        "identifer": "30-290",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0290.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0290.tiff/full/full/0/default.jpg",
+        "title": "游",
+        "unicode": "E6B8B8"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0227",
+        "identifer": "31-227",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0227.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0227.tiff/full/full/0/default.jpg",
+        "title": "游",
+        "unicode": "E6B8B8"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ksk0075",
+        "identifer": "48-75",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/48ksk/ksk0075.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "13C",
+            "value": "華嚴經卷六(高麗再彫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/48ksk/ksk0075.tiff/full/full/0/default.jpg",
+        "title": "游",
+        "unicode": "E6B8B8"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzs0595",
+        "identifer": "60-595",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/60tzs/tzs0595.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C",
+            "value": "佛説大教王經卷一(東禪寺版日本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/60tzs/tzs0595.tiff/full/full/0/default.jpg",
+        "title": "游",
+        "unicode": "E6B8B8"
     }
 ]

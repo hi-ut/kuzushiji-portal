@@ -1,5 +1,41 @@
 [
     {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AFIUO47000124",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFIUO47/6AFIUO470001241/6AFIUO470001241-10/list/6AFIUO470001241-10-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFIUO47/6AFIUO470001241/6AFIUO470001241-10/6AFIUO470001241-10.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFIUO47000124",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFIUO470001241-C1.tiff/113,1824,273,277/full/0/default.jpg",
+        "title": "薑",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AFITB11000393",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITB11/6AFITB110003931/6AFITB110003931-6/list/6AFITB110003931-6-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITB11/6AFITB110003931/6AFITB110003931-6/6AFITB110003931-6.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFITB11000393",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFITB110003931-C1.tiff/25,2478,378,486/full/0/default.jpg",
+        "title": "薑",
+        "unicode": "UTF-8"
+    },
+    {
         "character": "薑",
         "creator": "国文学研究資料館",
         "delegate": true,

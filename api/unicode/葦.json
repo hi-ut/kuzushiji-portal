@@ -1,5 +1,95 @@
 [
     {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AFITG11000184",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITG11/6AFITG110001841/6AFITG110001841-4/list/6AFITG110001841-4-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITG11/6AFITG110001841/6AFITG110001841-4/6AFITG110001841-4.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFITG11000184",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFITG110001841-C1.tiff/96,1064,675,678/full/0/default.jpg",
+        "title": "葦",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AFITG11000184",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITG11/6AFITG110001841/6AFITG110001841-7/list/6AFITG110001841-7-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITG11/6AFITG110001841/6AFITG110001841-7/6AFITG110001841-7.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFITG11000184",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFITG110001841-C1.tiff/0,1837,771,678/full/0/default.jpg",
+        "title": "葦",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AACJN27000111",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AAC/6AACJN27/6AACJN270001111/6AACJN270001111-7/list/6AACJN270001111-7-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AAC/6AACJN27/6AACJN270001111/6AACJN270001111-7/6AACJN270001111-7.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AACJN27000111",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AACJN270001111-C1.tiff/332,1188,314,326/full/0/default.jpg",
+        "title": "葦",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6ALGCJ65000008",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6ALG/6ALGCJ65/6ALGCJ650000082/6ALGCJ650000082-34/list/6ALGCJ650000082-34-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6ALG/6ALGCJ65/6ALGCJ650000082/6ALGCJ650000082-34/6ALGCJ650000082-34.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6ALGCJ65000008",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6ALGCJ650000082-C1.tiff/530,3995,354,444/full/0/default.jpg",
+        "title": "葦",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AAICJ66000051",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AAI/6AAICJ66/6AAICJ660000511/6AAICJ660000511-4/list/6AAICJ660000511-4-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AAI/6AAICJ66/6AAICJ660000511/6AAICJ660000511-4/6AAICJ660000511-4.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AAICJ66000051",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AAICJ660000511-C1.tiff/78,549,549,628/full/0/default.jpg",
+        "title": "葦",
+        "unicode": "UTF-8"
+    },
+    {
         "character": "葦",
         "creator": "国文学研究資料館",
         "delegate": true,
@@ -78,6 +168,125 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+8466/U+8466_200021660_00008_1_X1911_Y1351.jpg/full/full/0/default.jpg",
         "unicode": "8466"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0477",
+        "identifer": "30-477",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0477.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0477.tiff/full/full/0/default.jpg",
+        "title": "葦",
+        "unicode": "E891A6"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ini0896",
+        "identifer": "38-896",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/38ini/ini0896.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1236年",
+            "value": "卷二(鴨脚本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/38ini/ini0896.tiff/full/full/0/default.jpg",
+        "title": "葦",
+        "unicode": "E891A6"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkk0832",
+        "identifer": "39-832",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/39nkk/nkk0832.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1286年",
+            "value": "卷二(兼方本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/39nkk/nkk0832.tiff/full/full/0/default.jpg",
+        "title": "葦",
+        "unicode": "E891A6"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcc0987",
+        "identifer": "41-987",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/41kcc/kcc0987.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1599年",
+            "value": "卷二(慶長勅版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/41kcc/kcc0987.tiff/full/full/0/default.jpg",
+        "title": "葦",
+        "unicode": "E891A6"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcj0966",
+        "identifer": "42-966",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/42kcj/kcj0966.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1610年",
+            "value": "卷二(慶長十五年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/42kcj/kcj0966.tiff/full/full/0/default.jpg",
+        "title": "葦",
+        "unicode": "E891A6"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kbk0939",
+        "identifer": "43-939",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/43kbk/kbk0939.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/43kbk/kbk0939.tiff/full/full/0/default.jpg",
+        "title": "葦",
+        "unicode": "E891A6"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0199",
+        "identifer": "74-199",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0199.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0199.tiff/full/full/0/default.jpg",
+        "title": "葦",
+        "unicode": "E891A6"
     },
     {
         "creator": "東京大学史料編纂所@ja",

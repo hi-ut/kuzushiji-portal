@@ -38,5 +38,107 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+9AFB/U+9AFB_200014740_00052_2_X0184_Y2262.jpg/full/full/0/default.jpg",
         "unicode": "9AFB"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0257",
+        "identifer": "13-257",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0257.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0257.tiff/full/full/0/default.jpg",
+        "title": "髻",
+        "unicode": "E9ABBB"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nak0925",
+        "identifer": "28-925",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/28nak/nak0925.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1146年",
+            "value": "華嚴孔目(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/28nak/nak0925.tiff/full/full/0/default.jpg",
+        "title": "髻",
+        "unicode": "E9ABBB"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sik0122",
+        "identifer": "44-122",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/44sik/sik0122.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "754～755年",
+            "value": "花嚴經卷八(新羅本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/44sik/sik0122.tiff/full/full/0/default.jpg",
+        "title": "髻",
+        "unicode": "E9ABBB"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ksk0553",
+        "identifer": "48-553",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/48ksk/ksk0553.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "13C",
+            "value": "華嚴經卷六(高麗再彫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/48ksk/ksk0553.tiff/full/full/0/default.jpg",
+        "title": "髻",
+        "unicode": "E9ABBB"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ykk0314",
+        "identifer": "68-314",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/68ykk/ykk0314.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1412年",
+            "value": "藥師功徳經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/68ykk/ykk0314.tiff/full/full/0/default.jpg",
+        "title": "髻",
+        "unicode": "E9ABBB"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0634",
+        "identifer": "71-634",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0634.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0634.tiff/full/full/0/default.jpg",
+        "title": "髻",
+        "unicode": "E9ABBB"
     }
 ]

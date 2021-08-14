@@ -18,5 +18,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+6840/U+6840_200021660_00091_2_X1332_Y1169.jpg/full/full/0/default.jpg",
         "unicode": "6840"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar0994",
+        "identifer": "18-994",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar0994.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar0994.tiff/full/full/0/default.jpg",
+        "title": "桀",
+        "unicode": "E6A180"
     }
 ]

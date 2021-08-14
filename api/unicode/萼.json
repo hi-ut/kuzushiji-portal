@@ -18,5 +18,56 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200019865/characters/U+843C/U+843C_200019865_00012_1_X1387_Y1536.jpg/full/full/0/default.jpg",
         "unicode": "843C"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0321",
+        "identifer": "34-321",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0321.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0321.tiff/full/full/0/default.jpg",
+        "title": "萼",
+        "unicode": "E890BC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0323",
+        "identifer": "36-323",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0323.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0323.tiff/full/full/0/default.jpg",
+        "title": "萼",
+        "unicode": "E890BC"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240321",
+        "identifer": "3724-321",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240321.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240321.tiff/full/full/0/default.jpg",
+        "title": "萼",
+        "unicode": "E890BC"
     }
 ]

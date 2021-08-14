@@ -18,5 +18,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021712/characters/U+9D72/U+9D72_200021712_00053_2_X1741_Y2299.jpg/full/full/0/default.jpg",
         "unicode": "9D72"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sys0186",
+        "identifer": "22-186",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/22sys/sys0186.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "857年",
+            "value": "瑜伽師地論卷三十(S5309)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/22sys/sys0186.tiff/full/full/0/default.jpg",
+        "title": "鵲",
+        "unicode": "E9B5B2"
     }
 ]

@@ -318,5 +318,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021712/characters/U+82DE/U+82DE_200021712_00077_1_X1082_Y1909.jpg/full/full/0/default.jpg",
         "unicode": "82DE"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "skk0105",
+        "identifer": "46-105",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/46skk/skk0105.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "華嚴經卷二十(晉本高麗古版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/46skk/skk0105.tiff/full/full/0/default.jpg",
+        "title": "苞",
+        "unicode": "E88B9E"
     }
 ]

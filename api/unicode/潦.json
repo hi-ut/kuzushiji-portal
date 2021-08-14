@@ -18,5 +18,56 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+6F66/U+6F66_200014740_00029_2_X1266_Y1835.jpg/full/full/0/default.jpg",
         "unicode": "6F66"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0230",
+        "identifer": "34-230",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0230.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0230.tiff/full/full/0/default.jpg",
+        "title": "潦",
+        "unicode": "E6BDA6"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0228",
+        "identifer": "36-228",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0228.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0228.tiff/full/full/0/default.jpg",
+        "title": "潦",
+        "unicode": "E6BDA6"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240225",
+        "identifer": "3724-225",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240225.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240225.tiff/full/full/0/default.jpg",
+        "title": "潦",
+        "unicode": "E6BDA6"
     }
 ]

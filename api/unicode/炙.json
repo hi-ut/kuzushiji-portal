@@ -278,5 +278,73 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021925/characters/U+7099/U+7099_200021925_00015_1_X2364_Y0937.jpg/full/full/0/default.jpg",
         "unicode": "7099"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "dng0159",
+        "identifer": "3-159",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/03dng/dng0159.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "506年",
+            "value": "大般涅槃經卷十一(S81)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/03dng/dng0159.tiff/full/full/0/default.jpg",
+        "title": "炙",
+        "unicode": "E78299"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "drt0376a",
+        "identifer": "6-376a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/06drt/drt0376a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "589年",
+            "value": "大樓炭經卷三(P2413)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/06drt/drt0376a.tiff/full/full/0/default.jpg",
+        "title": "炙",
+        "unicode": "E78299"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "drt0376b",
+        "identifer": "6-376b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/06drt/drt0376b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "589年",
+            "value": "大樓炭經卷三(P2413)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/06drt/drt0376b.tiff/full/full/0/default.jpg",
+        "title": "炙",
+        "unicode": "E78299"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "yhk0172",
+        "identifer": "16-172",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/16yhk/yhk0172.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "712年",
+            "value": "瑜伽法鏡經(S2423)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/16yhk/yhk0172.tiff/full/full/0/default.jpg",
+        "title": "炙",
+        "unicode": "E78299"
     }
 ]

@@ -58,5 +58,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003967/characters/U+82AD/U+82AD_200003967_00031_1_X0311_Y2326.jpg/full/full/0/default.jpg",
         "unicode": "82AD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nak0152",
+        "identifer": "28-152",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/28nak/nak0152.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1146年",
+            "value": "華嚴孔目(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/28nak/nak0152.tiff/full/full/0/default.jpg",
+        "title": "芭",
+        "unicode": "E88AAD"
     }
 ]

@@ -78,5 +78,56 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003076/characters/U+77BF/U+77BF_200003076_00150_2_X0257_Y1878.jpg/full/full/0/default.jpg",
         "unicode": "77BF"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0596",
+        "identifer": "13-596",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0596.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0596.tiff/full/full/0/default.jpg",
+        "title": "瞿",
+        "unicode": "E79EBF"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nak0122",
+        "identifer": "28-122",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/28nak/nak0122.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1146年",
+            "value": "華嚴孔目(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/28nak/nak0122.tiff/full/full/0/default.jpg",
+        "title": "瞿",
+        "unicode": "E79EBF"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0508",
+        "identifer": "71-508",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0508.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0508.tiff/full/full/0/default.jpg",
+        "title": "瞿",
+        "unicode": "E79EBF"
     }
 ]

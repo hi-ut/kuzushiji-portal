@@ -578,5 +578,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021644/characters/U+7409/U+7409_200021644_00034_1_X0450_Y0944.jpg/full/full/0/default.jpg",
         "unicode": "7409"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0614",
+        "identifer": "74-614",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0614.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0614.tiff/full/full/0/default.jpg",
+        "title": "琉",
+        "unicode": "E79089"
     }
 ]

@@ -58,5 +58,90 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+67EF/U+67EF_200015843_00081_1_X1731_Y2595.jpg/full/full/0/default.jpg",
         "unicode": "67EF"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod1119",
+        "identifer": "30-1119",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod1119.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod1119.tiff/full/full/0/default.jpg",
+        "title": "柯",
+        "unicode": "E69FAF"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink0746",
+        "identifer": "33-746",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink0746.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink0746.tiff/full/full/0/default.jpg",
+        "title": "柯",
+        "unicode": "E69FAF"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0739",
+        "identifer": "34-739",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0739.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0739.tiff/full/full/0/default.jpg",
+        "title": "柯",
+        "unicode": "E69FAF"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0756",
+        "identifer": "36-756",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0756.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0756.tiff/full/full/0/default.jpg",
+        "title": "柯",
+        "unicode": "E69FAF"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240738",
+        "identifer": "3724-738",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240738.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240738.tiff/full/full/0/default.jpg",
+        "title": "柯",
+        "unicode": "E69FAF"
     }
 ]

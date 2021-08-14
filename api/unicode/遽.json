@@ -58,5 +58,73 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+907D/U+907D_200014740_00091_2_X0211_Y2110.jpg/full/full/0/default.jpg",
         "unicode": "907D"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod1594a",
+        "identifer": "30-1594a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod1594a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod1594a.tiff/full/full/0/default.jpg",
+        "title": "遽",
+        "unicode": "E981BD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod1594b",
+        "identifer": "30-1594b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod1594b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod1594b.tiff/full/full/0/default.jpg",
+        "title": "遽",
+        "unicode": "E981BD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok1111",
+        "identifer": "31-1111",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok1111.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok1111.tiff/full/full/0/default.jpg",
+        "title": "遽",
+        "unicode": "E981BD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wke0230",
+        "identifer": "73-230",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/73wke/wke0230.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/73wke/wke0230.tiff/full/full/0/default.jpg",
+        "title": "遽",
+        "unicode": "E981BD"
     }
 ]

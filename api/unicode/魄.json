@@ -38,5 +38,39 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+9B44/U+9B44_200014740_00025_1_X0105_Y1581.jpg/full/full/0/default.jpg",
         "unicode": "9B44"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyd0829",
+        "identifer": "14-829",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/14kyd/kyd0829.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "初唐",
+            "value": "漢書楊雄傳(上野本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/14kyd/kyd0829.tiff/full/full/0/default.jpg",
+        "title": "魄",
+        "unicode": "E9AD84"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0652",
+        "identifer": "30-652",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0652.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0652.tiff/full/full/0/default.jpg",
+        "title": "魄",
+        "unicode": "E9AD84"
     }
 ]

@@ -18,5 +18,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021925/characters/U+9310/U+9310_200021925_00009_2_X2187_Y1475.jpg/full/full/0/default.jpg",
         "unicode": "9310"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0359",
+        "identifer": "26-359",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0359.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0359.tiff/full/full/0/default.jpg",
+        "title": "錐",
+        "unicode": "E98C90"
     }
 ]

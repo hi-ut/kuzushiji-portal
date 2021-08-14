@@ -198,5 +198,226 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+9761/U+9761_200014740_00091_1_X0294_Y2371.jpg/full/full/0/default.jpg",
         "unicode": "9761"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyd1439",
+        "identifer": "14-1439",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/14kyd/kyd1439.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "初唐",
+            "value": "漢書楊雄傳(上野本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/14kyd/kyd1439.tiff/full/full/0/default.jpg",
+        "title": "靡",
+        "unicode": "E99DA1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sok0445",
+        "identifer": "15-445",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/15sok/sok0445.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "則天期",
+            "value": "花嚴經卷八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/15sok/sok0445.tiff/full/full/0/default.jpg",
+        "title": "靡",
+        "unicode": "E99DA1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0350",
+        "identifer": "19-350",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0350.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0350.tiff/full/full/0/default.jpg",
+        "title": "靡",
+        "unicode": "E99DA1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod1542",
+        "identifer": "30-1542",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod1542.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod1542.tiff/full/full/0/default.jpg",
+        "title": "靡",
+        "unicode": "E99DA1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink0404",
+        "identifer": "33-404",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink0404.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink0404.tiff/full/full/0/default.jpg",
+        "title": "靡",
+        "unicode": "E99DA1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0399",
+        "identifer": "36-399",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0399.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0399.tiff/full/full/0/default.jpg",
+        "title": "靡",
+        "unicode": "E99DA1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240396",
+        "identifer": "3724-396",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240396.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240396.tiff/full/full/0/default.jpg",
+        "title": "靡",
+        "unicode": "E99DA1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sik0503",
+        "identifer": "44-503",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/44sik/sik0503.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "754～755年",
+            "value": "花嚴經卷八(新羅本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/44sik/sik0503.tiff/full/full/0/default.jpg",
+        "title": "靡",
+        "unicode": "E99DA1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ksk0540",
+        "identifer": "48-540",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/48ksk/ksk0540.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "13C",
+            "value": "華嚴經卷六(高麗再彫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/48ksk/ksk0540.tiff/full/full/0/default.jpg",
+        "title": "靡",
+        "unicode": "E99DA1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wan0588",
+        "identifer": "49-588",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/49wan/wan0588.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "華嚴經卷三十八(趙氏藏本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/49wan/wan0588.tiff/full/full/0/default.jpg",
+        "title": "靡",
+        "unicode": "E99DA1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0526",
+        "identifer": "56-526",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0526.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0526.tiff/full/full/0/default.jpg",
+        "title": "靡",
+        "unicode": "E99DA1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wke0253",
+        "identifer": "73-253",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/73wke/wke0253.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/73wke/wke0253.tiff/full/full/0/default.jpg",
+        "title": "靡",
+        "unicode": "E99DA1"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0805",
+        "identifer": "74-805",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0805.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0805.tiff/full/full/0/default.jpg",
+        "title": "靡",
+        "unicode": "E99DA1"
     }
 ]

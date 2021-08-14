@@ -160,6 +160,40 @@
         "unicode": "821C"
     },
     {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar1217",
+        "identifer": "18-1217",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar1217.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar1217.tiff/full/full/0/default.jpg",
+        "title": "舜",
+        "unicode": "E8889C"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae1301",
+        "identifer": "19-1301",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae1301.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae1301.tiff/full/full/0/default.jpg",
+        "title": "舜",
+        "unicode": "E8889C"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34020806",

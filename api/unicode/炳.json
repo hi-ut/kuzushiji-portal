@@ -38,5 +38,73 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+70B3/U+70B3_200021660_00072_1_X0935_Y3248.jpg/full/full/0/default.jpg",
         "unicode": "70B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0194",
+        "identifer": "19-194",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0194.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0194.tiff/full/full/0/default.jpg",
+        "title": "炳",
+        "unicode": "E782B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sik0069",
+        "identifer": "44-69",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/44sik/sik0069.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "754～755年",
+            "value": "花嚴經卷八(新羅本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/44sik/sik0069.tiff/full/full/0/default.jpg",
+        "title": "炳",
+        "unicode": "E782B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kmi0117",
+        "identifer": "55-117",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/55kmi/kmi0117.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "738年",
+            "value": "弥勒上生經(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/55kmi/kmi0117.tiff/full/full/0/default.jpg",
+        "title": "炳",
+        "unicode": "E782B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0137",
+        "identifer": "72-137",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0137.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0137.tiff/full/full/0/default.jpg",
+        "title": "炳",
+        "unicode": "E782B3"
     }
 ]

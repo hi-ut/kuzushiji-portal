@@ -1,5 +1,77 @@
 [
     {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AFFJD35000101",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFF/6AFFJD35/6AFFJD350001011/6AFFJD350001011-13/list/6AFFJD350001011-13-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFF/6AFFJD35/6AFFJD350001011/6AFFJD350001011-13/6AFFJD350001011-13.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFFJD35000101",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFFJD350001011-C1.tiff/144,3151,721,430/full/0/default.jpg",
+        "title": "螺",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AFITG11000143",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITG11/6AFITG110001431/6AFITG110001431-10/list/6AFITG110001431-10-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITG11/6AFITG110001431/6AFITG110001431-10/6AFITG110001431-10.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFITG11000143",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFITG110001431-C1.tiff/0,2769,434,433/full/0/default.jpg",
+        "title": "螺",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AACVS15000028",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AAC/6AACVS15/6AACVS150000281/6AACVS150000281-10/list/6AACVS150000281-10-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AAC/6AACVS15/6AACVS150000281/6AACVS150000281-10/6AACVS150000281-10.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AACVS15000028",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AACVS150000281-C1.tiff/120,1393,157,162/full/0/default.jpg",
+        "title": "螺",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AFIUO13000109",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFIUO13/6AFIUO130001091/6AFIUO130001091-13/list/6AFIUO130001091-13-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFIUO13/6AFIUO130001091/6AFIUO130001091-13/6AFIUO130001091-13.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFIUO13000109",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFIUO130001091-C1.tiff/130,1618,220,232/full/0/default.jpg",
+        "title": "螺",
+        "unicode": "UTF-8"
+    },
+    {
         "character": "螺",
         "creator": "国文学研究資料館",
         "delegate": true,
@@ -298,6 +370,74 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021851/characters/U+87BA/U+87BA_200021851_00029_1_X0562_Y2553.jpg/full/full/0/default.jpg",
         "unicode": "87BA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "fhs0160",
+        "identifer": "12-160",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/12fhs/fhs0160.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷六(P2195)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/12fhs/fhs0160.tiff/full/full/0/default.jpg",
+        "title": "螺",
+        "unicode": "E89EBA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyu0545",
+        "identifer": "47-545",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/47kyu/kyu0545.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "11C",
+            "value": "瑜伽師地論卷五(高麗初彫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/47kyu/kyu0545.tiff/full/full/0/default.jpg",
+        "title": "螺",
+        "unicode": "E89EBA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0193",
+        "identifer": "72-193",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0193.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0193.tiff/full/full/0/default.jpg",
+        "title": "螺",
+        "unicode": "E89EBA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0716",
+        "identifer": "74-716",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0716.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0716.tiff/full/full/0/default.jpg",
+        "title": "螺",
+        "unicode": "E89EBA"
     },
     {
         "creator": "東京大学史料編纂所@ja",

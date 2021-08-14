@@ -58,5 +58,124 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200019865/characters/U+6D95/U+6D95_200019865_00125_1_X1328_Y1682.jpg/full/full/0/default.jpg",
         "unicode": "6D95"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "drt0078",
+        "identifer": "6-78",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/06drt/drt0078.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "589年",
+            "value": "大樓炭經卷三(P2413)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/06drt/drt0078.tiff/full/full/0/default.jpg",
+        "title": "涕",
+        "unicode": "E6B695"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khm0085",
+        "identifer": "11-85",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/11khm/khm0085.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷三(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/11khm/khm0085.tiff/full/full/0/default.jpg",
+        "title": "涕",
+        "unicode": "E6B695"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyd0375",
+        "identifer": "14-375",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/14kyd/kyd0375.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "初唐",
+            "value": "漢書楊雄傳(上野本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/14kyd/kyd0375.tiff/full/full/0/default.jpg",
+        "title": "涕",
+        "unicode": "E6B695"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae1075",
+        "identifer": "19-1075",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae1075.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae1075.tiff/full/full/0/default.jpg",
+        "title": "涕",
+        "unicode": "E6B695"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sys0092",
+        "identifer": "22-92",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/22sys/sys0092.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "857年",
+            "value": "瑜伽師地論卷三十(S5309)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/22sys/sys0092.tiff/full/full/0/default.jpg",
+        "title": "涕",
+        "unicode": "E6B695"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kkh0080",
+        "identifer": "27-80",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/27kkh/kkh0080.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "北宋期？",
+            "value": "金剛般若經(京都国立博物館本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/27kkh/kkh0080.tiff/full/full/0/default.jpg",
+        "title": "涕",
+        "unicode": "E6B695"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0215",
+        "identifer": "31-215",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0215.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0215.tiff/full/full/0/default.jpg",
+        "title": "涕",
+        "unicode": "E6B695"
     }
 ]

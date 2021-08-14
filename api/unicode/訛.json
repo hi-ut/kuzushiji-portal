@@ -78,5 +78,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+8A1B/U+8A1B_200014740_00042_1_X1100_Y2278.jpg/full/full/0/default.jpg",
         "unicode": "8A1B"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0532",
+        "identifer": "30-532",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0532.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0532.tiff/full/full/0/default.jpg",
+        "title": "訛",
+        "unicode": "E8A89B"
     }
 ]

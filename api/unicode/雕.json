@@ -78,5 +78,39 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+96D5/U+96D5_200014740_00012_1_X1425_Y2058.jpg/full/full/0/default.jpg",
         "unicode": "96D5"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sys0185",
+        "identifer": "22-185",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/22sys/sys0185.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "857年",
+            "value": "瑜伽師地論卷三十(S5309)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/22sys/sys0185.tiff/full/full/0/default.jpg",
+        "title": "雕",
+        "unicode": "E99B95"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0252",
+        "identifer": "74-252",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0252.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0252.tiff/full/full/0/default.jpg",
+        "title": "雕",
+        "unicode": "E99B95"
     }
 ]

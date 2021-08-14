@@ -1,5 +1,59 @@
 [
     {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AACHM27000087",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AAC/6AACHM27/6AACHM270000871/6AACHM270000871-4/list/6AACHM270000871-4-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AAC/6AACHM27/6AACHM270000871/6AACHM270000871-4/6AACHM270000871-4.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AACHM27000087",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AACHM270000871-C1.tiff/64,879,330,336/full/0/default.jpg",
+        "title": "邑",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AACHM27000098",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AAC/6AACHM27/6AACHM270000981/6AACHM270000981-4/list/6AACHM270000981-4-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AAC/6AACHM27/6AACHM270000981/6AACHM270000981-4/6AACHM270000981-4.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AACHM27000098",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AACHM270000981-C1.tiff/100,760,260,248/full/0/default.jpg",
+        "title": "邑",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AACJL27000155",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AAC/6AACJL27/6AACJL270001551/6AACJL270001551-1/list/6AACJL270001551-1-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AAC/6AACJL27/6AACJL270001551/6AACJL270001551-1/6AACJL270001551-1.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AACJL27000155",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AACJL270001551-C1.tiff/80,0,643,643/full/0/default.jpg",
+        "title": "邑",
+        "unicode": "UTF-8"
+    },
+    {
         "character": "邑",
         "creator": "国文学研究資料館",
         "delegate": true,
@@ -78,5 +132,260 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+9091/U+9091_200021660_00093_2_X0581_Y2400.jpg/full/full/0/default.jpg",
         "unicode": "9091"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "dng0283",
+        "identifer": "3-283",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/03dng/dng0283.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "506年",
+            "value": "大般涅槃經卷十一(S81)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/03dng/dng0283.tiff/full/full/0/default.jpg",
+        "title": "邑",
+        "unicode": "E98291"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "drt0138",
+        "identifer": "6-138",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/06drt/drt0138.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "589年",
+            "value": "大樓炭經卷三(P2413)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/06drt/drt0138.tiff/full/full/0/default.jpg",
+        "title": "邑",
+        "unicode": "E98291"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyd1394",
+        "identifer": "14-1394",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/14kyd/kyd1394.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "初唐",
+            "value": "漢書楊雄傳(上野本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/14kyd/kyd1394.tiff/full/full/0/default.jpg",
+        "title": "邑",
+        "unicode": "E98291"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "yhk0304",
+        "identifer": "16-304",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/16yhk/yhk0304.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "712年",
+            "value": "瑜伽法鏡經(S2423)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/16yhk/yhk0304.tiff/full/full/0/default.jpg",
+        "title": "邑",
+        "unicode": "E98291"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar1360",
+        "identifer": "18-1360",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar1360.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar1360.tiff/full/full/0/default.jpg",
+        "title": "邑",
+        "unicode": "E98291"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae1480",
+        "identifer": "19-1480",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae1480.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae1480.tiff/full/full/0/default.jpg",
+        "title": "邑",
+        "unicode": "E98291"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "jhk0646",
+        "identifer": "29-646",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/29jhk/jhk0646.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1126年",
+            "value": "神足變化經(開元寺版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/29jhk/jhk0646.tiff/full/full/0/default.jpg",
+        "title": "邑",
+        "unicode": "E98291"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod1492",
+        "identifer": "30-1492",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod1492.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod1492.tiff/full/full/0/default.jpg",
+        "title": "邑",
+        "unicode": "E98291"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok1112",
+        "identifer": "31-1112",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok1112.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok1112.tiff/full/full/0/default.jpg",
+        "title": "邑",
+        "unicode": "E98291"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "skk0118",
+        "identifer": "46-118",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/46skk/skk0118.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "華嚴經卷二十(晉本高麗古版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/46skk/skk0118.tiff/full/full/0/default.jpg",
+        "title": "邑",
+        "unicode": "E98291"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd1266",
+        "identifer": "56-1266",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd1266.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd1266.tiff/full/full/0/default.jpg",
+        "title": "邑",
+        "unicode": "E98291"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ykk0283",
+        "identifer": "68-283",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/68ykk/ykk0283.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1412年",
+            "value": "藥師功徳經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/68ykk/ykk0283.tiff/full/full/0/default.jpg",
+        "title": "邑",
+        "unicode": "E98291"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0199",
+        "identifer": "71-199",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0199.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0199.tiff/full/full/0/default.jpg",
+        "title": "邑",
+        "unicode": "E98291"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0816",
+        "identifer": "72-816",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0816.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0816.tiff/full/full/0/default.jpg",
+        "title": "邑",
+        "unicode": "E98291"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wke0231",
+        "identifer": "73-231",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/73wke/wke0231.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/73wke/wke0231.tiff/full/full/0/default.jpg",
+        "title": "邑",
+        "unicode": "E98291"
     }
 ]

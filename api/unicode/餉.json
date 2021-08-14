@@ -38,5 +38,39 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+9909/U+9909_200014740_00046_2_X1401_Y0408.jpg/full/full/0/default.jpg",
         "unicode": "9909"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0671a",
+        "identifer": "71-671a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0671a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0671a.tiff/full/full/0/default.jpg",
+        "title": "餉",
+        "unicode": "E9A489"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sab0671b",
+        "identifer": "71-671b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/71sab/sab0671b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "8C初",
+            "value": "阿毘達磨大毘婆沙論卷百七十八(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/71sab/sab0671b.tiff/full/full/0/default.jpg",
+        "title": "餉",
+        "unicode": "E9A489"
     }
 ]

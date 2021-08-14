@@ -18,5 +18,39 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200003967/characters/U+9403/U+9403_200003967_00034_2_X1289_Y0843.jpg/full/full/0/default.jpg",
         "unicode": "9403"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sik0487",
+        "identifer": "44-487",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/44sik/sik0487.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "754～755年",
+            "value": "花嚴經卷八(新羅本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/44sik/sik0487.tiff/full/full/0/default.jpg",
+        "title": "鐃",
+        "unicode": "E99083"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0245",
+        "identifer": "74-245",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0245.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0245.tiff/full/full/0/default.jpg",
+        "title": "鐃",
+        "unicode": "E99083"
     }
 ]

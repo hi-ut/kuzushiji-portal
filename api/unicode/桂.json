@@ -360,6 +360,57 @@
         "unicode": "6842"
     },
     {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink0749",
+        "identifer": "33-749",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink0749.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink0749.tiff/full/full/0/default.jpg",
+        "title": "桂",
+        "unicode": "E6A182"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0196",
+        "identifer": "34-196",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0196.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0196.tiff/full/full/0/default.jpg",
+        "title": "桂",
+        "unicode": "E6A182"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240192",
+        "identifer": "3724-192",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240192.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240192.tiff/full/full/0/default.jpg",
+        "title": "桂",
+        "unicode": "E6A182"
+    },
+    {
         "creator": "東京大学史料編纂所@ja",
         "delegate": "0",
         "id": "34090363",

@@ -78,5 +78,107 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021925/characters/U+9CF3/U+9CF3_200021925_00004_1_X1147_Y1676.jpg/full/full/0/default.jpg",
         "unicode": "9CF3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyd1465a",
+        "identifer": "14-1465a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/14kyd/kyd1465a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "初唐",
+            "value": "漢書楊雄傳(上野本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/14kyd/kyd1465a.tiff/full/full/0/default.jpg",
+        "title": "鳳",
+        "unicode": "E9B3B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar1423",
+        "identifer": "18-1423",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar1423.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar1423.tiff/full/full/0/default.jpg",
+        "title": "鳳",
+        "unicode": "E9B3B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0656",
+        "identifer": "30-656",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0656.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0656.tiff/full/full/0/default.jpg",
+        "title": "鳳",
+        "unicode": "E9B3B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok1211a",
+        "identifer": "31-1211a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok1211a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok1211a.tiff/full/full/0/default.jpg",
+        "title": "鳳",
+        "unicode": "E9B3B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok1211b",
+        "identifer": "31-1211b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok1211b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok1211b.tiff/full/full/0/default.jpg",
+        "title": "鳳",
+        "unicode": "E9B3B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "zkd0546",
+        "identifer": "56-546",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/56zkd/zkd0546.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年",
+            "value": "續高僧傳(五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/56zkd/zkd0546.tiff/full/full/0/default.jpg",
+        "title": "鳳",
+        "unicode": "E9B3B3"
     }
 ]

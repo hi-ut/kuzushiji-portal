@@ -118,5 +118,158 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+9B6F/U+9B6F_200021660_00024_1_X1727_Y0687.jpg/full/full/0/default.jpg",
         "unicode": "9B6F"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kak0254",
+        "identifer": "17-254",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/17kak/kak0254.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經孝經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/17kak/kak0254.tiff/full/full/0/default.jpg",
+        "title": "魯",
+        "unicode": "E9ADAF"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar1418",
+        "identifer": "18-1418",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar1418.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar1418.tiff/full/full/0/default.jpg",
+        "title": "魯",
+        "unicode": "E9ADAF"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0395",
+        "identifer": "26-395",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0395.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0395.tiff/full/full/0/default.jpg",
+        "title": "魯",
+        "unicode": "E9ADAF"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0654",
+        "identifer": "30-654",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0654.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0654.tiff/full/full/0/default.jpg",
+        "title": "魯",
+        "unicode": "E9ADAF"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok1182",
+        "identifer": "31-1182",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok1182.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok1182.tiff/full/full/0/default.jpg",
+        "title": "魯",
+        "unicode": "E9ADAF"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink1039",
+        "identifer": "33-1039",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink1039.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink1039.tiff/full/full/0/default.jpg",
+        "title": "魯",
+        "unicode": "E9ADAF"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto1036",
+        "identifer": "34-1036",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto1036.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto1036.tiff/full/full/0/default.jpg",
+        "title": "魯",
+        "unicode": "E9ADAF"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm1056",
+        "identifer": "36-1056",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm1056.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm1056.tiff/full/full/0/default.jpg",
+        "title": "魯",
+        "unicode": "E9ADAF"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k241015",
+        "identifer": "3724-1015",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k241015.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k241015.tiff/full/full/0/default.jpg",
+        "title": "魯",
+        "unicode": "E9ADAF"
     }
 ]

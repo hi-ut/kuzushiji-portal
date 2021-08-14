@@ -218,5 +218,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021802/characters/U+72F8/U+72F8_200021802_00051_2_X2308_Y0765.jpg/full/full/0/default.jpg",
         "unicode": "72F8"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0207",
+        "identifer": "26-207",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0207.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0207.tiff/full/full/0/default.jpg",
+        "title": "狸",
+        "unicode": "E78BB8"
     }
 ]

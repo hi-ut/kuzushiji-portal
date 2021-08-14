@@ -18,5 +18,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021869/characters/U+63E9/U+63E9_200021869_00010_1_X1162_Y2012.jpg/full/full/0/default.jpg",
         "unicode": "63E9"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "okd0057",
+        "identifer": "50-57",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/50okd/okd0057.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "686年",
+            "value": "金剛場陀羅尼經(小川本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/50okd/okd0057.tiff/full/full/0/default.jpg",
+        "title": "揩",
+        "unicode": "E68FA9"
     }
 ]

@@ -38,5 +38,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200015843/characters/U+76BA/U+76BA_200015843_00042_1_X0352_Y2430.jpg/full/full/0/default.jpg",
         "unicode": "76BA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0225",
+        "identifer": "26-225",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0225.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0225.tiff/full/full/0/default.jpg",
+        "title": "皺",
+        "unicode": "E79ABA"
     }
 ]

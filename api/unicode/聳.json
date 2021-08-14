@@ -118,5 +118,56 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+8073/U+8073_200014740_00052_1_X1278_Y0942.jpg/full/full/0/default.jpg",
         "unicode": "8073"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0275",
+        "identifer": "26-275",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0275.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0275.tiff/full/full/0/default.jpg",
+        "title": "聳",
+        "unicode": "E881B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hod0453",
+        "identifer": "30-453",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/30hod/hod0453.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "法藏和尚傳(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/30hod/hod0453.tiff/full/full/0/default.jpg",
+        "title": "聳",
+        "unicode": "E881B3"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sik0091",
+        "identifer": "44-91",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/44sik/sik0091.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "754～755年",
+            "value": "花嚴經卷八(新羅本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/44sik/sik0091.tiff/full/full/0/default.jpg",
+        "title": "聳",
+        "unicode": "E881B3"
     }
 ]

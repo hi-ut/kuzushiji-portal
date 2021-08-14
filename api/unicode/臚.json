@@ -38,5 +38,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200010454/characters/U+81DA/U+81DA_200010454_00026_1_X1456_Y1293.jpg/full/full/0/default.jpg",
         "unicode": "81DA"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0310",
+        "identifer": "31-310",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0310.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0310.tiff/full/full/0/default.jpg",
+        "title": "臚",
+        "unicode": "E8879A"
     }
 ]

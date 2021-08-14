@@ -38,5 +38,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+7D02/U+7D02_200021660_00091_2_X1339_Y1371.jpg/full/full/0/default.jpg",
         "unicode": "7D02"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0252",
+        "identifer": "19-252",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0252.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0252.tiff/full/full/0/default.jpg",
+        "title": "紂",
+        "unicode": "E7B482"
     }
 ]

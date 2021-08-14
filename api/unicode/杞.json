@@ -78,5 +78,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021853/characters/U+675E/U+675E_200021853_00005_2_X0568_Y0960.jpg/full/full/0/default.jpg",
         "unicode": "675E"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0155",
+        "identifer": "19-155",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0155.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0155.tiff/full/full/0/default.jpg",
+        "title": "杞",
+        "unicode": "E69D9E"
     }
 ]

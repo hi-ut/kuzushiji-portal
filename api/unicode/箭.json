@@ -1,5 +1,41 @@
 [
     {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "0",
+        "id": "6AFITB11000642",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITB11/6AFITB110006421/6AFITB110006421-13/list/6AFITB110006421-13-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFITB11/6AFITB110006421/6AFITB110006421-13/6AFITB110006421-13.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFITB11000642",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFITB110006421-C1.tiff/9,2179,369,377/full/0/default.jpg",
+        "title": "箭",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AADJE27000102",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AAD/6AADJE27/6AADJE270001021/6AADJE270001021-35/list/6AADJE270001021-35-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AAD/6AADJE27/6AADJE270001021/6AADJE270001021-35/6AADJE270001021-35.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AADJE27000102",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AADJE270001021-C1.tiff/80,3932,161,241/full/0/default.jpg",
+        "title": "箭",
+        "unicode": "UTF-8"
+    },
+    {
         "character": "箭",
         "creator": "国文学研究資料館",
         "delegate": true,
@@ -298,6 +334,295 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014685/characters/U+7BAD/U+7BAD_200014685_00029_2_X1521_Y0369.jpg/full/full/0/default.jpg",
         "unicode": "7BAD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "fhs0136",
+        "identifer": "12-136",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/12fhs/fhs0136.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷六(P2195)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/12fhs/fhs0136.tiff/full/full/0/default.jpg",
+        "title": "箭",
+        "unicode": "E7AEAD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "yhk0782",
+        "identifer": "16-782",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/16yhk/yhk0782.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "712年",
+            "value": "瑜伽法鏡經(S2423)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/16yhk/yhk0782.tiff/full/full/0/default.jpg",
+        "title": "箭",
+        "unicode": "E7AEAD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hos0802",
+        "identifer": "26-802",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/26hos/hos0802.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C初",
+            "value": "齊民要術卷五(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/26hos/hos0802.tiff/full/full/0/default.jpg",
+        "title": "箭",
+        "unicode": "E7AEAD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nak0132",
+        "identifer": "28-132",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/28nak/nak0132.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1146年",
+            "value": "華嚴孔目(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/28nak/nak0132.tiff/full/full/0/default.jpg",
+        "title": "箭",
+        "unicode": "E7AEAD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink0865",
+        "identifer": "33-865",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink0865.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink0865.tiff/full/full/0/default.jpg",
+        "title": "箭",
+        "unicode": "E7AEAD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0852",
+        "identifer": "34-852",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0852.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0852.tiff/full/full/0/default.jpg",
+        "title": "箭",
+        "unicode": "E7AEAD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0881",
+        "identifer": "36-881",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0881.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0881.tiff/full/full/0/default.jpg",
+        "title": "箭",
+        "unicode": "E7AEAD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240854",
+        "identifer": "3724-854",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240854.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240854.tiff/full/full/0/default.jpg",
+        "title": "箭",
+        "unicode": "E7AEAD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ini0233",
+        "identifer": "38-233",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/38ini/ini0233.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1236年",
+            "value": "卷二(鴨脚本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/38ini/ini0233.tiff/full/full/0/default.jpg",
+        "title": "箭",
+        "unicode": "E7AEAD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkk0179",
+        "identifer": "39-179",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/39nkk/nkk0179.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1286年",
+            "value": "卷二(兼方本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/39nkk/nkk0179.tiff/full/full/0/default.jpg",
+        "title": "箭",
+        "unicode": "E7AEAD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcc0235",
+        "identifer": "41-235",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/41kcc/kcc0235.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1599年",
+            "value": "卷二(慶長勅版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/41kcc/kcc0235.tiff/full/full/0/default.jpg",
+        "title": "箭",
+        "unicode": "E7AEAD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kcj0236",
+        "identifer": "42-236",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/42kcj/kcj0236.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1610年",
+            "value": "卷二(慶長十五年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/42kcj/kcj0236.tiff/full/full/0/default.jpg",
+        "title": "箭",
+        "unicode": "E7AEAD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kbk0233",
+        "identifer": "43-233",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/43kbk/kbk0233.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/43kbk/kbk0233.tiff/full/full/0/default.jpg",
+        "title": "箭",
+        "unicode": "E7AEAD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wan0093",
+        "identifer": "49-93",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/49wan/wan0093.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "華嚴經卷三十八(趙氏藏本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/49wan/wan0093.tiff/full/full/0/default.jpg",
+        "title": "箭",
+        "unicode": "E7AEAD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "doh0437",
+        "identifer": "57-437",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/57doh/doh0437.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "815年",
+            "value": "金剛大教王經卷一(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/57doh/doh0437.tiff/full/full/0/default.jpg",
+        "title": "箭",
+        "unicode": "E7AEAD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "tzs0231",
+        "identifer": "60-231",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/60tzs/tzs0231.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "12C",
+            "value": "佛説大教王經卷一(東禪寺版日本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/60tzs/tzs0231.tiff/full/full/0/default.jpg",
+        "title": "箭",
+        "unicode": "E7AEAD"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wke0166",
+        "identifer": "73-166",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/73wke/wke0166.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/73wke/wke0166.tiff/full/full/0/default.jpg",
+        "title": "箭",
+        "unicode": "E7AEAD"
     },
     {
         "creator": "東京大学史料編纂所@ja",

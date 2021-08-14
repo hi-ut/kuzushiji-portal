@@ -38,5 +38,345 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200014740/characters/U+7E5E/U+7E5E_200014740_00069_1_X1014_Y1043.jpg/full/full/0/default.jpg",
         "unicode": "7E5E"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kgk0177",
+        "identifer": "7-177",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/07kgk/kgk0177.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "610年",
+            "value": "賢劫經卷二(正倉院本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/07kgk/kgk0177.tiff/full/full/0/default.jpg",
+        "title": "繞",
+        "unicode": "E7B99E"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khi0137",
+        "identifer": "10-137",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/10khi/khi0137.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "671年",
+            "value": "妙法蓮華經卷五(今西本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/10khi/khi0137.tiff/full/full/0/default.jpg",
+        "title": "繞",
+        "unicode": "E7B99E"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khm0481",
+        "identifer": "11-481",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/11khm/khm0481.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷三(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/11khm/khm0481.tiff/full/full/0/default.jpg",
+        "title": "繞",
+        "unicode": "E7B99E"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "fhs0510",
+        "identifer": "12-510",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/12fhs/fhs0510.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷六(P2195)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/12fhs/fhs0510.tiff/full/full/0/default.jpg",
+        "title": "繞",
+        "unicode": "E7B99E"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0622",
+        "identifer": "13-622",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0622.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0622.tiff/full/full/0/default.jpg",
+        "title": "繞",
+        "unicode": "E7B99E"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kyd0546",
+        "identifer": "14-546",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/14kyd/kyd0546.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "初唐",
+            "value": "漢書楊雄傳(上野本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/14kyd/kyd0546.tiff/full/full/0/default.jpg",
+        "title": "繞",
+        "unicode": "E7B99E"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sok0370a",
+        "identifer": "15-370a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/15sok/sok0370a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "則天期",
+            "value": "花嚴經卷八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/15sok/sok0370a.tiff/full/full/0/default.jpg",
+        "title": "繞",
+        "unicode": "E7B99E"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sok0370b",
+        "identifer": "15-370b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/15sok/sok0370b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "則天期",
+            "value": "花嚴經卷八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/15sok/sok0370b.tiff/full/full/0/default.jpg",
+        "title": "繞",
+        "unicode": "E7B99E"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "yhk0220",
+        "identifer": "16-220",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/16yhk/yhk0220.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "712年",
+            "value": "瑜伽法鏡經(S2423)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/16yhk/yhk0220.tiff/full/full/0/default.jpg",
+        "title": "繞",
+        "unicode": "E7B99E"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kkh0104",
+        "identifer": "27-104",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/27kkh/kkh0104.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "北宋期？",
+            "value": "金剛般若經(京都国立博物館本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/27kkh/kkh0104.tiff/full/full/0/default.jpg",
+        "title": "繞",
+        "unicode": "E7B99E"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "ink0310",
+        "identifer": "33-310",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/33ink/ink0310.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "10C",
+            "value": "卷二十四(岩崎本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/33ink/ink0310.tiff/full/full/0/default.jpg",
+        "title": "繞",
+        "unicode": "E7B99E"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nto0306",
+        "identifer": "34-306",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/34nto/nto0306.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1142年頃",
+            "value": "卷二十四(圖書寮本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/34nto/nto0306.tiff/full/full/0/default.jpg",
+        "title": "繞",
+        "unicode": "E7B99E"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nkm0303",
+        "identifer": "36-303",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/36nkm/nkm0303.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1540年",
+            "value": "卷二十四(兼右本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/36nkm/nkm0303.tiff/full/full/0/default.jpg",
+        "title": "繞",
+        "unicode": "E7B99E"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "k240302",
+        "identifer": "3724-302",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/37k24/k240302.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1669年",
+            "value": "卷二十四(寛文九年版)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/37k24/k240302.tiff/full/full/0/default.jpg",
+        "title": "繞",
+        "unicode": "E7B99E"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sik0415a",
+        "identifer": "44-415a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/44sik/sik0415a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "754～755年",
+            "value": "花嚴經卷八(新羅本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/44sik/sik0415a.tiff/full/full/0/default.jpg",
+        "title": "繞",
+        "unicode": "E7B99E"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sik0415b",
+        "identifer": "44-415b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/44sik/sik0415b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "754～755年",
+            "value": "花嚴經卷八(新羅本寫本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/44sik/sik0415b.tiff/full/full/0/default.jpg",
+        "title": "繞",
+        "unicode": "E7B99E"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0711a",
+        "identifer": "72-711a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0711a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0711a.tiff/full/full/0/default.jpg",
+        "title": "繞",
+        "unicode": "E7B99E"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0711b",
+        "identifer": "72-711b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0711b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0711b.tiff/full/full/0/default.jpg",
+        "title": "繞",
+        "unicode": "E7B99E"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wke0669",
+        "identifer": "73-669",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/73wke/wke0669.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十八(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/73wke/wke0669.tiff/full/full/0/default.jpg",
+        "title": "繞",
+        "unicode": "E7B99E"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0178",
+        "identifer": "74-178",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0178.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0178.tiff/full/full/0/default.jpg",
+        "title": "繞",
+        "unicode": "E7B99E"
     }
 ]

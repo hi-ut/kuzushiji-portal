@@ -158,5 +158,243 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021660/characters/U+9A55/U+9A55_200021660_00077_1_X1046_Y2369.jpg/full/full/0/default.jpg",
         "unicode": "9A55"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "khi0387",
+        "identifer": "10-387",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/10khi/khi0387.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "671年",
+            "value": "妙法蓮華經卷五(今西本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/10khi/khi0387.tiff/full/full/0/default.jpg",
+        "title": "驕",
+        "unicode": "E9A995"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "fhs0202",
+        "identifer": "12-202",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/12fhs/fhs0202.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "675年",
+            "value": "妙法蓮華經卷六(P2195)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/12fhs/fhs0202.tiff/full/full/0/default.jpg",
+        "title": "驕",
+        "unicode": "E9A995"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0776a",
+        "identifer": "13-776a",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0776a.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0776a.tiff/full/full/0/default.jpg",
+        "title": "驕",
+        "unicode": "E9A995"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "hok0776b",
+        "identifer": "13-776b",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/13hok/hok0776b.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "7C末",
+            "value": "妙法蓮華經卷八(S2577)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/13hok/hok0776b.tiff/full/full/0/default.jpg",
+        "title": "驕",
+        "unicode": "E9A995"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kak0478",
+        "identifer": "17-478",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/17kak/kak0478.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經孝經"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/17kak/kak0478.tiff/full/full/0/default.jpg",
+        "title": "驕",
+        "unicode": "E9A995"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kar1412",
+        "identifer": "18-1412",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/18kar/kar1412.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經論語"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/18kar/kar1412.tiff/full/full/0/default.jpg",
+        "title": "驕",
+        "unicode": "E9A995"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kae0362",
+        "identifer": "19-362",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/19kae/kae0362.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "837年",
+            "value": "開成石經周易"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/19kae/kae0362.tiff/full/full/0/default.jpg",
+        "title": "驕",
+        "unicode": "E9A995"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sys0179",
+        "identifer": "22-179",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/22sys/sys0179.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "857年",
+            "value": "瑜伽師地論卷三十(S5309)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/22sys/sys0179.tiff/full/full/0/default.jpg",
+        "title": "驕",
+        "unicode": "E9A995"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "gok0439",
+        "identifer": "31-439",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/31gok/gok0439.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1198年",
+            "value": "後漢書光武帝紀"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/31gok/gok0439.tiff/full/full/0/default.jpg",
+        "title": "驕",
+        "unicode": "E9A995"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "kmi0067",
+        "identifer": "55-67",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/55kmi/kmi0067.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "738年",
+            "value": "弥勒上生經(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/55kmi/kmi0067.tiff/full/full/0/default.jpg",
+        "title": "驕",
+        "unicode": "E9A995"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "wks0870",
+        "identifer": "72-870",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/72wks/wks0870.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "9-10C",
+            "value": "花嚴經卷六十七(守屋本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/72wks/wks0870.tiff/full/full/0/default.jpg",
+        "title": "驕",
+        "unicode": "E9A995"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "smk0819",
+        "identifer": "74-819",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/74smk/smk0819.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1149年",
+            "value": "妙法蓮華經卷一(ロシア東方研究所)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/74smk/smk0819.tiff/full/full/0/default.jpg",
+        "title": "驕",
+        "unicode": "E9A995"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sgs0098",
+        "identifer": "77-98",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/77sgs/sgs0098.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年頃",
+            "value": "四分律卷第十六(正倉院五月一日經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/77sgs/sgs0098.tiff/full/full/0/default.jpg",
+        "title": "驕",
+        "unicode": "E9A995"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "sts0096",
+        "identifer": "78-96",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/78sts/sts0096.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "740年頃",
+            "value": "四分律卷第二十(正倉院唐經)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/78sts/sts0096.tiff/full/full/0/default.jpg",
+        "title": "驕",
+        "unicode": "E9A995"
     }
 ]

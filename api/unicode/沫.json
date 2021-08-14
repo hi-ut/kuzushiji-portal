@@ -158,5 +158,22 @@
         "subject": "日本古典籍くずし字データ",
         "thumbnail_url": "https://lab.nijl.ac.jp/jikei/iiif/200021712/characters/U+6CAB/U+6CAB_200021712_00059_2_X0690_Y2116.jpg/full/full/0/default.jpg",
         "unicode": "6CAB"
+    },
+    {
+        "creator": "漢字字体規範史データッセット保存会@ja",
+        "delegate": "1",
+        "id": "nak0625",
+        "identifer": "28-625",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest_hng/28nak/nak0625.json",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": "1146年",
+            "value": "華嚴孔目(高山寺本)"
+        },
+        "subject": "漢字字体規範史データッセット@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/hng/28nak/nak0625.tiff/full/full/0/default.jpg",
+        "title": "沫",
+        "unicode": "E6B2AB"
     }
 ]

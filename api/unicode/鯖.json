@@ -1,5 +1,41 @@
 [
     {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AABUS48000414",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AAB/6AABUS48/6AABUS480004141/6AABUS480004141-12/list/6AABUS480004141-12-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AAB/6AABUS48/6AABUS480004141/6AABUS480004141-12/6AABUS480004141-12.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AABUS48000414",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AABUS480004141-C1.tiff/36,1357,212,194/full/0/default.jpg",
+        "title": "鯖",
+        "unicode": "UTF-8"
+    },
+    {
+        "creator": "奈良文化財研究所@ja",
+        "delegate": "1",
+        "id": "6AFIUO47000141",
+        "identifer": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFIUO47/6AFIUO470001411/6AFIUO470001411-35/list/6AFIUO470001411-35-C1ano.json",
+        "manifest_url": "https://mojiportal.nabunken.go.jp/manifest/6AFI/6AFIUO47/6AFIUO470001411/6AFIUO470001411-35/6AFIUO470001411-35.json",
+        "mokkanko_url": "https://mokkanko.nabunken.go.jp/ja/6AFIUO47000141",
+        "rights": "",
+        "rights_url": "",
+        "source": {
+            "date": null,
+            "value": null
+        },
+        "subject": "史的文字データベース@ja",
+        "thumbnail_url": "https://mojiportal.nabunken.go.jp/iiif/6AFIUO470001411-C1.tiff/537,836,194,184/full/0/default.jpg",
+        "title": "鯖",
+        "unicode": "UTF-8"
+    },
+    {
         "character": "鯖",
         "creator": "国文学研究資料館",
         "delegate": true,
