@@ -14,7 +14,7 @@
 
       <Static :size="items.length" :total="total" />
 
-      <h4 class="mt-10">文字種リスト</h4>
+      <!-- <h4 class="mt-10">文字種リスト</h4> -->
 
       <v-text-field
         class="my-10"
@@ -30,20 +30,33 @@
         :clearable="true"
       ></v-text-field>
 
-      <div class="text-right">
-        <v-btn
-          v-for="(option, key) in layouts"
-          :key="key"
-          icon
-          @click="layout_ = option.value"
-          ><v-icon :color="layout_ === option.value ? 'primary' : ''">{{
-            option.icon
-          }}</v-icon></v-btn
-        >
-      </div>
+       <v-row>
+        <v-col cols="12" md="3">
+          <v-select
+          dense
+          single-line
+          hide-details
+            v-model="sort"
+            :items="sortItems"
+            outlined
+            rounded
+          ></v-select>
+        </v-col>
+        <v-col  cols="12" md="9" class="text-right">
+          <v-btn
+            v-for="(option, key) in layouts"
+            :key="key"
+            icon
+            @click="layout_ = option.value"
+            ><v-icon :color="layout_ === option.value ? 'primary' : ''">{{
+              option.icon
+            }}</v-icon></v-btn
+          >
+        </v-col>
+      </v-row>
 
       <template v-if="layout_ === 'grid'">
-        <List :items="items2" />
+        <List :items="items2" :sort="sort" />
       </template>
       <template v-else>
         <Table :items="items2" />
@@ -105,6 +118,18 @@ export default class about extends Vue {
     },
   ]
 
+  sortItems: any = [
+    {
+      "text": "出現回数",
+      "value": "size"
+    },{
+      "text": "コード",
+      "value": "code"
+    }
+  ]
+
+  sort: string = "size"
+
   baseUrl: any = process.env.BASE_URL
 
   total: number = 0
@@ -115,7 +140,7 @@ export default class about extends Vue {
     this.total = ana.total
 
     const res = await axios.get(this.baseUrl + '/data/list.json')
-    const data = res.data
+    const data = res.data    
 
     data.sort(function (a: any, b: any) {
       if (a.size < b.size) return 1
@@ -136,6 +161,24 @@ export default class about extends Vue {
   get items2(){
     const search = this.search
     const items = this.items
+
+    const key = this.sort
+
+    if(key === "size"){
+      items.sort(function (a: any, b: any) {
+        if (a.size < b.size) return 1
+        if (a.size > b.size) return -1
+        return 0
+      })
+    } else {
+      items.sort(function (a: any, b: any) {
+        if (a.sort < b.sort) return -1
+        if (a.sort > b.sort) return 1
+        return 0
+      })
+    }
+    
+
     if(!search){
       return items
     }

@@ -27,8 +27,10 @@
       </div>
 
       <v-row class="mb-10">
-        <v-col></v-col>
-        <v-col>
+        <v-col cols="12" md="3">
+          
+        </v-col>
+        <v-col cols="12" md="6">
           <v-simple-table>
             <template v-slot:default>
               <thead>
@@ -127,6 +129,30 @@
       </v-card>
 
       <br />
+
+      <h3 class="mt-5 mb-10 text-center">{{ "関連機関／関連データベース・データセット" }}</h3>
+
+      <div class="text-center mt-10">
+        <p id="other_institute_link py-10">
+          <a class="ma-2" href="https://www.nabunken.go.jp/" target="_blank"><img src="https://mojiportal.nabunken.go.jp/img/nabunken_bana.png" width="" height="60" alt=""></a>
+          <a class="ma-2" href="http://www.hi.u-tokyo.ac.jp/index-j.html" target="_blank"><img src="https://mojiportal.nabunken.go.jp/img/hi_u_tokyo_bana.png" width="" height="60" alt=""></a>
+          <a class="ma-2" href="https://www.nijl.ac.jp/" target="_blank"><img src="https://mojiportal.nabunken.go.jp/img/nijl_nama.png" width="" height="60" alt=""></a>
+          <a class="ma-2" href="https://www.ninjal.ac.jp/" target="_blank"><img src="https://mojiportal.nabunken.go.jp/img/ninjal_bana.png" width="" height="60" alt=""></a>
+          <a class="ma-2" href="http://www.zinbun.kyoto-u.ac.jp/" target="_blank"><img src="https://mojiportal.nabunken.go.jp/img/zinbun_kyoto-u_nama.png" width="" height="60" alt=""></a>
+          <a class="ma-2" href="http://www.hng-data.org/" target="_blank"><img src="https://mojiportal.nabunken.go.jp/img/hng_bana.png" width="" height="60" alt=""></a>
+          <a class="ma-2" href="http://www2.ihp.sinica.edu.tw/" target="_blank"><img src="https://mojiportal.nabunken.go.jp/img/ihp_bana.png" width="" height="60" alt=""></a>
+          <a class="ma-2" href="https://ascdc.sinica.edu.tw/" target="_blank"><img src="https://mojiportal.nabunken.go.jp/img/ascdc_bana.png" width="" height="60" alt=""></a>
+        </p>
+
+        <p id="other_db_link" class="my-10 py-10">
+          <a class="ma-2" href="https://mokkanko.nabunken.go.jp/ja/" target="_blank"><img src="https://mojiportal.nabunken.go.jp/img/mokkanko_banner.png" width="" height="67" alt="木簡庫"></a>
+          <a class="ma-2" href="http://wwwap.hi.u-tokyo.ac.jp/ships/db.html" target="_blank"><img src="https://mojiportal.nabunken.go.jp/img/hi-u-tokyo_banner.png" width="" height="67" alt="東京大学史料編纂所データベース"></a>
+          <a class="ma-2" href="https://lab.nijl.ac.jp/jikei/" target="_blank"><img src="https://mojiportal.nabunken.go.jp/img/nijl_jikei_banner.png" width="" height="67" alt="国文研字形検索β"></a>
+          <a class="ma-2" href="https://search.hng-data.org/" target="_blank"><img src="https://mojiportal.nabunken.go.jp/img/hng_tanji_banner.png" width="" height="67" alt="HNG単字検索"></a>
+          <a class="ma-2" href="https://wcd-ihp.ascdc.sinica.edu.tw/woodslip" target="_blank"><img src="https://mojiportal.nabunken.go.jp/img/ihp_woodslip_banner.png" width="" height="67" alt="簡牘字典 史語所藏居延漢簡資料庫"></a>
+        </p>
+      </div>
+
     </v-container>
   </div>
 </template>
@@ -146,6 +172,8 @@ export default class about extends Vue {
   items: any[] = []
   size: number = 0
   total: number = 0
+
+
 
   menu: any = [
     /*

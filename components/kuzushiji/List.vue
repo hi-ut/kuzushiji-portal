@@ -30,7 +30,7 @@
       </v-row>
       -->
       <v-row dense>
-        <v-col v-for="(item2, key2) in items.slice(perPage * (page - 1), perPage * page)" :key="key2" cols="4" sm="1">
+        <v-col v-for="(item2, key2) in items.slice(perPage * (page - 1), perPage * page)" :key="key2" cols="4" md="1">
           <v-card outlined>
             <div class="pa-2">
               <small>{{ item2.code }}</small>
@@ -49,7 +49,7 @@
               </h3>
               <div class="text-right">
                 <h4>{{ item2.size.toLocaleString() }} <small>件</small></h4>
-                <small>{{ item2.index }}位</small>
+                <small v-if="sort === 'size'">{{ item2.index }}位</small>
               </div>
             </div>
           </v-card>
@@ -76,6 +76,9 @@ export default class ShareButtons extends Vue {
 
   @Prop({ required: true })
   items!: any[]
+
+  @Prop({ required: true })
+  sort!: string
 
   /*
   set items2(data) {
